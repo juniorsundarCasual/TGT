@@ -1,0 +1,11 @@
+{
+  "name": "TGT",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/juniorsundar/TGT.got",
+  "author": "juniorsundar",
+  "license": "MIT",
+  "dependencies": {
+    "@dendronhq/dendron-cli": "*"
+  }
+}
