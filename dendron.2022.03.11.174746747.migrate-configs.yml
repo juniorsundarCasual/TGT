@@ -64,7 +64,6 @@ workspace:
     enableEditorDecorations: true
     maxPreviewsCached: 10
     maxNoteLength: 204800
-    dendronVersion: 0.85.0
 preview:
     enableFMTitle: true
     enableNoteTitleForLink: true
@@ -86,7 +85,7 @@ publishing:
     writeStubs: false
     siteRootDir: docs
     assetsPrefix: /TGT
-    siteUrl: 'https://juniorsundar.github.io'
+    siteUrl: https://juniorsundar.github.io
     seo:
         title: Dendron
         description: Personal Knowledge Space
