@@ -1,8 +1,8 @@
 ---
 id: wy1opbmf99bfiiryk34bomz
-title: Chapter 155
+title: Chapter 155 - Conversations with the Other Guy
 desc: ''
-updated: 1647194055637
+updated: 1647198489278
 created: 1647157898532
 ---
 
@@ -18,13 +18,13 @@ Guy remained stoic at the barrage of criticisms.
 
 'I'm trying-'
 
-'You're surviving, when you could be thriving. This is the kind of person you are, weak-willed, submissive, comprimising.'
+'You're surviving, when you could be thriving. This is the kind of person you are, weak-willed, submissive, compromising.'
 
 'I am not like that,' Guy tried to rebuke weakly.
 
 'Aren't you? Look back at your life. Not just this one, but the one before,' the other Guy urged. 'For all you've done, have you achieved anything substantial?'
 
-'I have!' Guy responded. 'Our work has positively affected so many people accross the world.'
+'I have!' Guy responded. 'Our work has positively affected so many people across the world.'
 
 'You tried to curb the flow of the river with a dam, when you could have rerouted it entirely,' the other Guy commented. 'You were the son of one the most powerful families in the entire world. You had the capacity to lobby for substantial change at a global scale. However, you were unwilling to square up against parties that opposed your agenda to bring about this positive change. You were unwilling to put your foot down and demand for a revolution. You compromised, Guy!'
 
@@ -34,7 +34,7 @@ Guy remained stoic at the barrage of criticisms.
 
 'You're saying that I should have been more imposing?' Guy retorted. 'Enforce my so-called "revolutionary" and "right" views to the culturally diverse places I visited? How different would I be from the colonists of the past who did the same and devastated the indigenous and blooming societies? It isn't right to foist my own values upon a society that nurtures another of values.'
 
-'Those that cannot adapt to change, must succumb,' the other Guy highlighted with a disdainful sneer. 'That is one of the Absolute Truths of the world, that has sustained through millenium. It is what caused the extinction of dinosaurs, and pushed humans from one of the weakest to the most dominant species on the planet. These people that you talk about cling to the old ways mired in falsehoods and lies, wasn't it your responsibility as the enlightened to disperse this treacherous fog?!'
+'Those that cannot adapt to change, must succumb,' the other Guy highlighted with a disdainful sneer. 'That is one of the Absolute Truths of the world, that has sustained through millennium. It is what caused the extinction of dinosaurs, and pushed humans from one of the weakest to the most dominant species on the planet. These people that you talk about cling to the old ways mired in falsehoods and lies, wasn't it your responsibility as the enlightened to disperse this treacherous fog?!'
 
 'At the cost of losing their heritage and traditions?' Guy retaliation. 'I don't think so.'
 
@@ -52,7 +52,69 @@ The other Guy walked over to the family of three, frozen in grayscale, and nudge
 
 'Take a look at yourself!' The other Guy scolded.
 
-'But the man was punished by the full extent of the law.' Guy flinched lightly as he finished that statement. The other Guy had unearthed a memory that he had suppressed a long time back.
+'But the man was punished by the full extent of the law.' Guy flinched lightly as he finished that statement. The other Guy had unearthed a memory that he had forcefully suppressed a long time back. Although he had promised Grace to protect the girls and their mother, ultimately he had failed to uphold it. Multiple factors contributed to this failure, most if not all had to do with the remoteness of the village and scarcity of proper law enforcement channels, that let the abusive husband and father slip through the cracks.
+
+At that moment, Guy felt completely useless and weak. His conscience attacked him constantly, and to remedy it Guy had thrown himself into charity work like a possessed individual. But all that distraction could not revert a loss of life.
+
+'You see! You recognise the kind of failure you are,' the other Guy mocked.
+
+'What could I have done differently?' Guy said in defeat.
+
+'Grow a spine!' the other Guy egged. 'Flex your influence. Implement changes on a global scale. If people don't succumb, then bear down on them with the full extent of your power.'
+
+'That's... immoral,' Guy muttered while shaking his head.
+
+'Lies, deceit, treachery, bribery, racketeering, felony, homicide and so on, if performed in pursuit of the Truth, the Absolute Truth, do not count as immoral as they are ultimately for the betterment of the world,' the other Guy recited piously.
+
+'What?!'
+
+'If you want the world to bend, you cannot coax it. You must grab it by the ends and force it to bend,' the other Guy expounded. 'It is acceptable to lie if the goal is to enlighten the ignorant masses to the Truth. Should certain interlopers resist against the Absolute Truth, it is morally acceptable to purge them, after all we cannot let a few rotten apples spoil the bunch.'
+
+'You're a monster!'
+
+'Compare me with a man who killed his daughters and sent his wife to her death with his own hands, and THEN felt absolutely no remorse over those actions. Who's worse?'
+
+'Nonetheless, I couldn't have done any of what you said back on Earth,' Guy shook his head immediately. 'I couldn't have killed that man, not could I have let Grace do it. It is illegal and against basic human rights.'
+
+'Ah,' the other Guy exclaimed. 'But that was back on Earth. Those rules don't apply here, do they?'
+
+'What are you saying?'
+
+'This world is primitive and backwards. Its people, blind to the Absolute Truth of the World. You've carefully holed yourself up in this small corner, safe from the madness that lurks in the distance. Are you feeling good right now?' The other Guy mocked.
+
+'I-'
+
+'This world is a hundred times worse than Earth. Class dichotomies, martial segregation, death, destruction, false rituals and superstitions, famines, droughts and disease. This world is in dire need of enlightenment, you know it, I know it. Do you feel comfortable sitting here in a bed of flowers, while others - children - are suffering the unspeakable horrors of society?'
+
+'No, but-'
+
+'We must spread the Absolute Truth! We need to push ourselves, grow stronger, and save this world from itself. We have the tools - The Church. We must use it to its maximum capacity to break through cultivation realms. We must grow out flock!'
+
+'Shut up,' Guy muttered.
+
+'The only way to raise this world from its stagnant state is by raising the suppressed masses and revealing the Truths of the world to them. We need to espouse free thinkers, inventors and artists. We need to eradicate all the lies that poison the mind of the common folk. We must exert our influence until the world is reborn, stronger, and more adaptive that it ever was before.'
+
+'Shut. Up!' Guy repeated.
+
+'We aren't shackled by poorly implemented laws and regulations. If we have the power, we can cleanse those that fail to adapt to the rapidly changing world, because that would be the right thing to do.'
+
+'SHUT UP!' Guy bellowed. 'You're a maniac! A fanatic of the highest order! Do you not see the inhumanity in your proposition? You're encouraging mass genocide of those that fail to accept your truth-'
+
+'Not MY Truth, THE Truth. The Absolute Truth,' the other Guy interjected with gritting teeth. 'And of course! I've justified why such measures are completely within moral limits.'
+
+'But you said the Truth is never guaranteed to remain static. That is Science!'
+
+'That is correct and incorrect. The Truth isn't a word, or phrase, or a scripture. It is a frame of mind. To be able to freely debate, evaluate and modulate one's belief based off of proper reasoning and thoroughly supported processes and data. THAT is The Absolute Truth. After all, no single fact can remain true all the time in perpetuity, thus everything must be permitted in search of verifying what is the truth at any given point in time.'
+
+The other Guy paused before accentuating, 'Don't lose track of our goal. Our aim is the same: to create a goal where no person has to worry about losing their loved ones for reasons apart from natural causes. Neither of us wants to see another baby or child dying a premature death.'
+
+'I-I don't share that goal in this life,' Guy said with a frown. 'I spent a good portion of my previous life in that pursuit. This life will be different. I hope to spend more of it on personal life.'
+
+'You aren't that kind of a man, Guy,' the other Guy rebutted. 'Look at what all you have done for your wards in the orphanage. You didn't have to go out of your way to help anyone. You were free to pursue your desires to your heart's content. You and I both know just how much money you have saved up on your bank. Yet you've stayed back.'
+
+'That is acceptable! It is only a few students, right? I have yet to experience so many things! If I do it at a global scale again, I will succumb to life-threatening illness like in my previous life. After all, this world and my previous one are essentially the same. I can't afford to truncate my life short once again.'
+
+'You believe that?' The other Guy scoffed. 'You are more naive than you think...'
 
 ____
 
