@@ -2,7 +2,7 @@
 id: wy1opbmf99bfiiryk34bomz
 title: Chapter 155
 desc: ''
-updated: 1647179762908
+updated: 1647194055637
 created: 1647157898532
 ---
 
@@ -52,9 +52,7 @@ The other Guy walked over to the family of three, frozen in grayscale, and nudge
 
 'Take a look at yourself!' The other Guy scolded.
 
-'But the man was punished by the full extent of the law.'
-
-'The law is reactionary. Although it implements '
+'But the man was punished by the full extent of the law.' Guy flinched lightly as he finished that statement. The other Guy had unearthed a memory that he had suppressed a long time back.
 
 ____
 
