@@ -1,6 +1,6 @@
 ---
 id: mekZ5hdL20o9ZNUySLMRB
-title: Chapter 56 - Apprentice Tournament (Part One)
+title: Chapter 056 - Apprentice Tournament (Part One)
 desc: ''
 updated: 1643623160909
 created: 1643569424289

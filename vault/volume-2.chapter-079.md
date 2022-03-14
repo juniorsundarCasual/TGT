@@ -1,6 +1,6 @@
 ---
 id: X7S7vmBdRxpsXASEYSXm3
-title: Chapter 79 - Small Flame in the Darkness
+title: Chapter 079 - Small Flame in the Darkness
 desc: ''
 updated: 1643656533690
 created: 1643651996213

@@ -1,6 +1,6 @@
 ---
 id: 0bCqwx1PvbUniNK0li0Nz
-title: Chapter 70 - Another Training Montage
+title: Chapter 070 - Another Training Montage
 desc: ''
 updated: 1643626528462
 created: 1643569464777

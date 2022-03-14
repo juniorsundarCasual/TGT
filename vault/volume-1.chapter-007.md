@@ -1,6 +1,6 @@
 ---
 id: 6NvLfyedVItSP2eUM1zQ1
-title: Chapter 7 - Kerfuffle in the Library
+title: Chapter 007 - Kerfuffle in the Library
 desc: ''
 updated: 1643571971851
 created: 1643481820340

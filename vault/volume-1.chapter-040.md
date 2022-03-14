@@ -1,6 +1,6 @@
 ---
 id: 37hD0M2dmXCHXmBi29sjz
-title: Chapter 40 - Profitable Opportunity
+title: Chapter 040 - Profitable Opportunity
 desc: ''
 updated: 1643622411216
 created: 1643569258185

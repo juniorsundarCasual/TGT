@@ -1,6 +1,6 @@
 ---
 id: PwQJRflr06RNcr6arnfDC
-title: Chapter 19 - Science in Magic
+title: Chapter 019 - Science in Magic
 desc: ''
 updated: 1643572116107
 created: 1643568818838

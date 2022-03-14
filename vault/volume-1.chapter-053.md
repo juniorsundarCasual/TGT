@@ -1,6 +1,6 @@
 ---
 id: zfQucGGuOYPY9EmcAemOJ
-title: Chapter 53 - Mana Economy
+title: Chapter 053 - Mana Economy
 desc: ''
 updated: 1643623078864
 created: 1643569400260

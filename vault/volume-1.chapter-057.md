@@ -1,6 +1,6 @@
 ---
 id: xGYpzYgOaoBq0gbaBdIhp
-title: Chapter 57 - Apprentice Tournament (Part Two)
+title: Chapter 057 - Apprentice Tournament (Part Two)
 desc: ''
 updated: 1643623243619
 created: 1643569426379

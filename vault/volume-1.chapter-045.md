@@ -1,6 +1,6 @@
 ---
 id: HVqzXZDujSd7xYTYKOa8a
-title: Chapter 45 - That's a Steel
+title: Chapter 045 - That's a Steel
 desc: ''
 updated: 1643622601372
 created: 1643569270235

@@ -1,6 +1,6 @@
 ---
 id: 63fiIjUJFKSOR7GZqzAAF
-title: Chapter 73 - Paradigm Shift
+title: Chapter 073 - Paradigm Shift
 desc: ''
 updated: 1643626604929
 created: 1643569484041

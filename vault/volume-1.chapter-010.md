@@ -1,6 +1,6 @@
 ---
 id: vI3z3g6HxX5pgldIPPEpL
-title: Chapter 10 - Wei Zao the Genius
+title: Chapter 010 - Wei Zao the Genius
 desc: ''
 updated: 1643571874924
 created: 1643481830109

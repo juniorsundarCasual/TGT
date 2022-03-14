@@ -1,6 +1,6 @@
 ---
 id: 4thOPS6iT1xwVGcO52rVB
-title: Chapter 38 - Karmin Zola
+title: Chapter 038 - Karmin Zola
 desc: ''
 updated: 1643622347484
 created: 1643569247689

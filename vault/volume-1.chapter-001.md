@@ -1,8 +1,8 @@
 ---
 id: gS3WdX4rjjgpJgZFJcnV3
-title: Chapter 1 - A Life Cut Short
+title: Chapter 001 - A Life Cut Short
 desc: ''
-updated: 1647260302311
+updated: 1643571917062
 created: 1643480694306
 ---
 

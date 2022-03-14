@@ -1,6 +1,6 @@
 ---
 id: TdDI7tNtBHBohS0Xuqk6E
-title: Chapter 92 - Interesting Tales
+title: Chapter 092 - Interesting Tales
 desc: ''
 updated: 1643656920917
 created: 1643653007154

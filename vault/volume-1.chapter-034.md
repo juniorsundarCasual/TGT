@@ -1,6 +1,6 @@
 ---
 id: 3ZQnVTgjkm4FN6Cr04MiG
-title: Chapter 34 - Researching for a Solution
+title: Chapter 034 - Researching for a Solution
 desc: ''
 updated: 1643622003255
 created: 1643569238051

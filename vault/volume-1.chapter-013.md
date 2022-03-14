@@ -1,6 +1,6 @@
 ---
 id: XGoedwF0XP8MJhcrlUIFv
-title: Chapter 13 - A New Solution
+title: Chapter 013 - A New Solution
 desc: ''
 updated: 1643571847349
 created: 1643568415216

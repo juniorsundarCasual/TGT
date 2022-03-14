@@ -1,6 +1,6 @@
 ---
 id: ElttRp8hJIPnewSMJUS1k
-title: Chapter 6 - Library Etiquette
+title: Chapter 006 - Library Etiquette
 desc: ''
 updated: 1643571962555
 created: 1643481817935

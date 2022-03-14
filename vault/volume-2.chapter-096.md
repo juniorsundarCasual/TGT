@@ -1,6 +1,6 @@
 ---
 id: R8Qvpi58K6esp1Ojm9mc9
-title: Chapter 96 - Learning by Teaching
+title: Chapter 096 - Learning by Teaching
 desc: ''
 updated: 1643657017413
 created: 1643653697831

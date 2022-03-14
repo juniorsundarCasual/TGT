@@ -1,6 +1,6 @@
 ---
 id: NCGs2UZ3JxDjFycMAbuNV
-title: Chapter 76 - Nightmares
+title: Chapter 076 - Nightmares
 desc: ''
 updated: 1643656493375
 created: 1643651886480

@@ -1,6 +1,6 @@
 ---
 id: fOTLleTsWt2ZGbdtzPcgM
-title: Chapter 31 - Lowering the Skill Floor
+title: Chapter 031 - Lowering the Skill Floor
 desc: ''
 updated: 1643621821756
 created: 1643569229828

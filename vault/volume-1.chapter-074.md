@@ -1,6 +1,6 @@
 ---
 id: smGG2GnLM6dQNGA2MwFaY
-title: Chapter 74 - I See Dead Stars
+title: Chapter 074 - I See Dead Stars
 desc: ''
 updated: 1643626625498
 created: 1643569485881

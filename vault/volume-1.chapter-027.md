@@ -1,6 +1,6 @@
 ---
 id: 9hC1Nrn60xLIlJdXQT6Yc
-title: Chapter 27 - Cultivation of Self
+title: Chapter 027 - Cultivation of Self
 desc: ''
 updated: 1643611884837
 created: 1643569191115

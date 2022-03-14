@@ -1,6 +1,6 @@
 ---
 id: EvllboEbMSTsdAqoPM4Ir
-title: Chapter 69 - Kano Reva
+title: Chapter 069 - Kano Reva
 desc: ''
 updated: 1643626503605
 created: 1643569458915

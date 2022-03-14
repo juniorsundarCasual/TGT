@@ -1,6 +1,6 @@
 ---
 id: HvDfKLBSY33TVqkOeVEhL
-title: Chapter 33 - Age of Isolation
+title: Chapter 033 - Age of Isolation
 desc: ''
 updated: 1643621942330
 created: 1643569235802

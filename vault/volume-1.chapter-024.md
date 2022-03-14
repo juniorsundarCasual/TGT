@@ -1,6 +1,6 @@
 ---
 id: zGfqNHaa5aXcgkT0cOkJ2
-title: Chapter 24 - Interlude: Meeting and Old Friend
+title: Chapter 024 - Interlude: Meeting and Old Friend
 desc: ''
 updated: 1643611479365
 created: 1643569180315

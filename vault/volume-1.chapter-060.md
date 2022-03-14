@@ -1,6 +1,6 @@
 ---
 id: 3RiRBOJRDQ3vcOxpn2B6Z
-title: Chapter 60 - Change of Scenery
+title: Chapter 060 - Change of Scenery
 desc: ''
 updated: 1643623446545
 created: 1643569438449

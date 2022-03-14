@@ -1,6 +1,6 @@
 ---
 id: 3wT5Z8wB6R9tJpIcwHIcW
-title: Chapter 71 - Making Friends
+title: Chapter 071 - Making Friends
 desc: ''
 updated: 1643626558015
 created: 1643569467618

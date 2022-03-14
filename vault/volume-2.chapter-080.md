@@ -1,6 +1,6 @@
 ---
 id: vPgdWOfEZU9pJZqbORJ9F
-title: Chapter 80 - True Competition
+title: Chapter 080 - True Competition
 desc: ''
 updated: 1643656565439
 created: 1643652005982

@@ -1,6 +1,6 @@
 ---
 id: LJPFXDaEK1emAhKUm1Z1v
-title: Chapter 59 - Defeat
+title: Chapter 059 - Defeat
 desc: ''
 updated: 1643623407181
 created: 1643569431905

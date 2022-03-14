@@ -1,6 +1,6 @@
 ---
 id: 2w6UnSYUhb5wTI0Qf3qvn
-title: Chapter 47 - Making a Steel Weapon
+title: Chapter 047 - Making a Steel Weapon
 desc: ''
 updated: 1643622687669
 created: 1643569301632

@@ -1,6 +1,6 @@
 ---
 id: TrNjAwSpxqRVk73cuZAA8
-title: Chapter 23 - Ancient Art of Thigh-Grabbing
+title: Chapter 023 - Ancient Art of Thigh-Grabbing
 desc: ''
 updated: 1643611331025
 created: 1643569173314

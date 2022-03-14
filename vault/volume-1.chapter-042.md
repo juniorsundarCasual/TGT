@@ -1,6 +1,6 @@
 ---
 id: 8yHlwQ8Fgv7SezJAn2fRq
-title: Chapter 42 - Guide to Avoid Getting Face-Slapped
+title: Chapter 042 - Guide to Avoid Getting Face-Slapped
 desc: ''
 updated: 1643622488715
 created: 1643569263418

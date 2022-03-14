@@ -1,6 +1,6 @@
 ---
 id: abZuubVxzSmXlehhWb3VZ
-title: Chapter 21 - Wei Zao vs. the First Arrogant Young Master
+title: Chapter 021 - Wei Zao vs. the First Arrogant Young Master
 desc: ''
 updated: 1643572340078
 created: 1643569165413

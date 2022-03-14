@@ -1,6 +1,6 @@
 ---
 id: SgDA9bSAounsjNFcl8IUD
-title: Chapter 20 - My Face-Slapping Sense is Tingling!
+title: Chapter 020 - My Face-Slapping Sense is Tingling!
 desc: ''
 updated: 1643572152187
 created: 1643569159997

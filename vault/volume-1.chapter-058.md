@@ -1,6 +1,6 @@
 ---
 id: J84rpIfKwF1mmpPZXX528
-title: Chapter 58 - Apprentice Tournament (Part Three)
+title: Chapter 058 - Apprentice Tournament (Part Three)
 desc: ''
 updated: 1643623338980
 created: 1643569428716

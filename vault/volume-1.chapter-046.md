@@ -1,6 +1,6 @@
 ---
 id: ebHqSEeFsIfZFMM9PjYFQ
-title: Chapter 46 - Blast It!
+title: Chapter 046 - Blast It!
 desc: ''
 updated: 1643622653530
 created: 1643569272154
