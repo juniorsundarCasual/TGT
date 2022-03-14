@@ -2,7 +2,7 @@
 id: wy1opbmf99bfiiryk34bomz
 title: Chapter 155 - Conversations with the Other Guy
 desc: ''
-updated: 1647198489278
+updated: 1647236122787
 created: 1647157898532
 ---
 
@@ -90,11 +90,11 @@ At that moment, Guy felt completely useless and weak. His conscience attacked hi
 
 'We must spread the Absolute Truth! We need to push ourselves, grow stronger, and save this world from itself. We have the tools - The Church. We must use it to its maximum capacity to break through cultivation realms. We must grow out flock!'
 
-'Shut up,' Guy muttered.
+As the other Guy started orating with crescendoing vigour and fervour, an encroaching, parasitic sentiment slithered into Guy's mind. It started as a gnawing sensation, slowly decaying parts of his consciousness.
 
 'The only way to raise this world from its stagnant state is by raising the suppressed masses and revealing the Truths of the world to them. We need to espouse free thinkers, inventors and artists. We need to eradicate all the lies that poison the mind of the common folk. We must exert our influence until the world is reborn, stronger, and more adaptive that it ever was before.'
 
-'Shut. Up!' Guy repeated.
+The parasite branched out exponentially, attempting to consume every mote of his consciousness, cleansing it and turning it into a corrupted sentience
 
 'We aren't shackled by poorly implemented laws and regulations. If we have the power, we can cleanse those that fail to adapt to the rapidly changing world, because that would be the right thing to do.'
 
@@ -106,15 +106,25 @@ At that moment, Guy felt completely useless and weak. His conscience attacked hi
 
 'That is correct and incorrect. The Truth isn't a word, or phrase, or a scripture. It is a frame of mind. To be able to freely debate, evaluate and modulate one's belief based off of proper reasoning and thoroughly supported processes and data. THAT is The Absolute Truth. After all, no single fact can remain true all the time in perpetuity, thus everything must be permitted in search of verifying what is the truth at any given point in time.'
 
-The other Guy paused before accentuating, 'Don't lose track of our goal. Our aim is the same: to create a goal where no person has to worry about losing their loved ones for reasons apart from natural causes. Neither of us wants to see another baby or child dying a premature death.'
+The other Guy paused before accentuating, 'Don't lose track of our goal. Our aim is the same: to create a goal where no person has to worry about losing their loved ones for reasons apart from natural causes. Neither of us wants to see another baby or child dying a premature death. This vessel has such potential, yet it is wasted on a man such as yourself.'
 
-'I-I don't share that goal in this life,' Guy said with a frown. 'I spent a good portion of my previous life in that pursuit. This life will be different. I hope to spend more of it on personal life.'
+The parasite which had encroached into a large portion of Guy's consciousness activated all at one, stabbing into his sense of self. Guy crumbled under the multi-faceted attack and grasped his in pain.
 
-'You aren't that kind of a man, Guy,' the other Guy rebutted. 'Look at what all you have done for your wards in the orphanage. You didn't have to go out of your way to help anyone. You were free to pursue your desires to your heart's content. You and I both know just how much money you have saved up on your bank. Yet you've stayed back.'
+'Get out of my head!'
 
-'That is acceptable! It is only a few students, right? I have yet to experience so many things! If I do it at a global scale again, I will succumb to life-threatening illness like in my previous life. After all, this world and my previous one are essentially the same. I can't afford to truncate my life short once again.'
+'You should just give up. You failed in your first life, let me handle this one. I can accomplish so much more with your body.'
 
-'You believe that?' The other Guy scoffed. 'You are more naive than you think...'
+Guy grunted while clutching the sides of his face. He plunged his nails into his skin and latched onto a hard metallic surface.
+
+'GET! OUT!'
+
+Guy tugged frantically. He was slowly losing his consciousness and sense of self. Thoughts of bloody crusades to spread the Absolute Truth and saving the ignorant masses from the dangers of ignorance started sprouting in his mind.
+
+'STOP!'
+
+'Give up.'
+
+Guy's consciousness started to fade slowly. His sentience was dissipating. His hard-earned second life was on the verge of cessation.
 
 ____
 
