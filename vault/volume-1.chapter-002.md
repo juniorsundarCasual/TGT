@@ -1,8 +1,8 @@
 ---
 id: rHf5tTsbRTosNGrzbR8ki
-title: Chapter 002 - What kind of a System is this?
+title: Chapter 2 - What kind of a System is this?
 desc: ''
-updated: 1643571927667
+updated: 1647260311643
 created: 1643480782566
 ---
 

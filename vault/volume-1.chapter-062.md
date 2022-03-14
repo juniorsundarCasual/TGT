@@ -1,6 +1,6 @@
 ---
 id: lBvrSwcrAlLgK4NDwo9hg
-title: Chapter 062 - Travelling Soothsayer
+title: Chapter 62 - Travelling Soothsayer
 desc: ''
 updated: 1643623504985
 created: 1643569444211

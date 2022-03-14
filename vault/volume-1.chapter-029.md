@@ -1,6 +1,6 @@
 ---
 id: Awzwm7bcHhA5JMFe4qUX6
-title: Chapter 029 - of Lizard People, Aliens, Doomsday, and Whatnot
+title: Chapter 29 - of Lizard People, Aliens, Doomsday, and Whatnot
 desc: ''
 updated: 1643611940019
 created: 1643569201011

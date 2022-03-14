@@ -1,6 +1,6 @@
 ---
 id: MrakEum8IRD0jFvTqFaVX
-title: Chapter 018 - First Disciple
+title: Chapter 18 - First Disciple
 desc: ''
 updated: 1643572085948
 created: 1643568814021

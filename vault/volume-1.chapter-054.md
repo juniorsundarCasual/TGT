@@ -1,6 +1,6 @@
 ---
 id: vJUfFzfpbcspFlqOyk8dU
-title: Chapter 054 - Training Montage
+title: Chapter 54 - Training Montage
 desc: ''
 updated: 1643623100802
 created: 1643569418985

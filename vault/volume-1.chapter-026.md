@@ -1,6 +1,6 @@
 ---
 id: hIwDAOXZYCfihxhsKwjzK
-title: Chapter 026 - Inductive Fallacy
+title: Chapter 26 - Inductive Fallacy
 desc: ''
 updated: 1643611608427
 created: 1643569187357

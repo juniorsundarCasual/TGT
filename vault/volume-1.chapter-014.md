@@ -1,6 +1,6 @@
 ---
 id: mIndx5mdVMVtshezhI3zL
-title: Chapter 014 - Giving Up
+title: Chapter 14 - Giving Up
 desc: ''
 updated: 1643571829541
 created: 1643568792226

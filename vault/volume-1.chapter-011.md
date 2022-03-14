@@ -1,6 +1,6 @@
 ---
 id: f04aWQHLrWcwjp353sJQD
-title: Chapter 011 - Wei Zao the 1-star Alchemist
+title: Chapter 11 - Wei Zao the 1-star Alchemist
 desc: ''
 updated: 1643571878941
 created: 1643481836333

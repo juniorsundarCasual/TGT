@@ -1,6 +1,6 @@
 ---
 id: 2u06ZVSUk1TIUSxNgTLjB
-title: Chapter 028 - House of Cards
+title: Chapter 28 - House of Cards
 desc: ''
 updated: 1643611899283
 created: 1643569197019

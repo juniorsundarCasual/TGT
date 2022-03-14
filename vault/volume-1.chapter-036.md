@@ -1,6 +1,6 @@
 ---
 id: kXNLJnc2cErA68HcEYQX3
-title: Chapter 036 - Inscribing Mana Gems
+title: Chapter 36 - Inscribing Mana Gems
 desc: ''
 updated: 1643622179487
 created: 1643569243547

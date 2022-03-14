@@ -1,6 +1,6 @@
 ---
 id: QMEaQXgNgPUbAcElwm2Rx
-title: Chapter 095 - Meaningful Purpose
+title: Chapter 95 - Meaningful Purpose
 desc: ''
 updated: 1643656997134
 created: 1643653687367

@@ -1,8 +1,8 @@
 ---
 id: qZGIWN9jf8FDRS9Ha97VW
-title: Chapter 003 - Guy's Goal in Life
+title: Chapter 3 - Guy's Goal in Life
 desc: ''
-updated: 1644842647110
+updated: 1647260316902
 created: 1643481808556
 ---
 

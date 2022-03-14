@@ -1,6 +1,6 @@
 ---
 id: nmUVsokSqNTRu9pPUD0Bj
-title: Chapter 048 - Coincidental Source of Income
+title: Chapter 48 - Coincidental Source of Income
 desc: ''
 updated: 1643622740780
 created: 1643569306100

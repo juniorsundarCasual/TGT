@@ -1,6 +1,6 @@
 ---
 id: s1v1u81GPbDP71iOFskTc
-title: Chapter 008 - Wei Zao the Transmigrator
+title: Chapter 8 - Wei Zao the Transmigrator
 desc: ''
 updated: 1643571903006
 created: 1643481823631

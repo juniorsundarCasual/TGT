@@ -1,6 +1,6 @@
 ---
 id: nH74g5uBcvQyHStgNz7Ax
-title: Chapter 086 - Staring Into the Abyss
+title: Chapter 86 - Staring Into the Abyss
 desc: ''
 updated: 1643656737990
 created: 1643652546758

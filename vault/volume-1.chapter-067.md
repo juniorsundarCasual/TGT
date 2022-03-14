@@ -1,6 +1,6 @@
 ---
 id: h7Nn1c5nWjflgxhowWHio
-title: Chapter 067 - Inevitabilities
+title: Chapter 67 - Inevitabilities
 desc: ''
 updated: 1643626438595
 created: 1643569454617

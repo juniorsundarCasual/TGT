@@ -1,6 +1,6 @@
 ---
 id: JkZVhXRuKcuozwYC7ZyOb
-title: Chapter 039 - Tasting the Limelight
+title: Chapter 39 - Tasting the Limelight
 desc: ''
 updated: 1643622373955
 created: 1643569252909

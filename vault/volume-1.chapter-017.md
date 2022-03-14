@@ -1,6 +1,6 @@
 ---
 id: RMpU3WqbyumcTycgwpX0f
-title: Chapter 017 - Scrutiny
+title: Chapter 17 - Scrutiny
 desc: ''
 updated: 1643572058614
 created: 1643568807756

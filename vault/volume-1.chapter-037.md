@@ -1,6 +1,6 @@
 ---
 id: yPnMYAFNts1YNybcRnceO
-title: Chapter 037 - Smithing and Enchanting Guild
+title: Chapter 37 - Smithing and Enchanting Guild
 desc: ''
 updated: 1643622241684
 created: 1643569245761

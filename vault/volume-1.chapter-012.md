@@ -1,6 +1,6 @@
 ---
 id: dEUhtO17djbk4i8FwUutI
-title: Chapter 012 - Teacher's Vow
+title: Chapter 12 - Teacher's Vow
 desc: ''
 updated: 1643571859331
 created: 1643567516869

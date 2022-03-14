@@ -1,6 +1,6 @@
 ---
 id: FpDtHwccaznzDrcko3q5T
-title: Chapter 022 - Wei Zao the OP MC
+title: Chapter 22 - Wei Zao the OP MC
 desc: ''
 updated: 1643611230294
 created: 1643569169978

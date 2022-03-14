@@ -1,6 +1,6 @@
 ---
 id: dVVZYZjX0Om0FDbi5gtio
-title: Chapter 066 - To Be Special
+title: Chapter 66 - To Be Special
 desc: ''
 updated: 1643626417186
 created: 1643569452555

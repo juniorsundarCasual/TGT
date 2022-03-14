@@ -1,6 +1,6 @@
 ---
 id: cdxRZhRrekexmIyrOm5nY
-title: Chapter 041 - The Burning Forge
+title: Chapter 41 - The Burning Forge
 desc: ''
 updated: 1643622456641
 created: 1643569261194

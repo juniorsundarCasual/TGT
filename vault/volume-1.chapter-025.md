@@ -1,6 +1,6 @@
 ---
 id: m0BgAgnUKU5Cb85vLVTLy
-title: Chapter 025 - Critical Thinking
+title: Chapter 25 - Critical Thinking
 desc: ''
 updated: 1643611526159
 created: 1643569183730

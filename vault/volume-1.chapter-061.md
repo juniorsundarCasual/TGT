@@ -1,6 +1,6 @@
 ---
 id: gxR5WFXiOQ6hFYHZWIKMu
-title: Chapter 061 - Interlude: A Child's Eyes
+title: Chapter 61 - Interlude: A Child's Eyes
 desc: ''
 updated: 1643623476003
 created: 1643569442259

@@ -1,6 +1,6 @@
 ---
 id: ZXgLcnljdxCVe7uPRbhEd
-title: Chapter 043 - Practice Makes Perfect
+title: Chapter 43 - Practice Makes Perfect
 desc: ''
 updated: 1643622524500
 created: 1643569265228

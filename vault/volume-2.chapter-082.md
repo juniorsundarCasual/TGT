@@ -1,6 +1,6 @@
 ---
 id: YmlRySAILnJP8yojEzFCh
-title: Chapter 082 - Fast Friends
+title: Chapter 82 - Fast Friends
 desc: ''
 updated: 1643656609413
 created: 1643652028253

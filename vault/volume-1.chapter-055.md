@@ -1,6 +1,6 @@
 ---
 id: UF0gvwHHI1J5WPXIQdTRh
-title: Chapter 055 - The Night Before
+title: Chapter 55 - The Night Before
 desc: ''
 updated: 1643623127876
 created: 1643569422179

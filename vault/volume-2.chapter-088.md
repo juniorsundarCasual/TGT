@@ -1,6 +1,6 @@
 ---
 id: cRq9Z7N76MFsHcOxBGOiR
-title: Chapter 088 - Spirit and Will
+title: Chapter 88 - Spirit and Will
 desc: ''
 updated: 1643656794903
 created: 1643652579988

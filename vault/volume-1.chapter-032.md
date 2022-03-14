@@ -1,6 +1,6 @@
 ---
 id: xsmmsYIWww0tNZ59JCrCM
-title: Chapter 032 - Enchanting
+title: Chapter 32 - Enchanting
 desc: ''
 updated: 1643621861671
 created: 1643569233147

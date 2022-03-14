@@ -1,6 +1,6 @@
 ---
 id: TwOHEYKq4tVIxYkho5gXR
-title: Chapter 072 - Do Not Try This at Home
+title: Chapter 72 - Do Not Try This at Home
 desc: ''
 updated: 1643626581769
 created: 1643569469539

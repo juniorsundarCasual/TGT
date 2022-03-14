@@ -1,6 +1,6 @@
 ---
 id: KEXjBYEGR5B0UW9n82dcm
-title: Chapter 016 - Bane of Students: Maths
+title: Chapter 16 - Bane of Students: Maths
 desc: ''
 updated: 1643572001533
 created: 1643568801388
