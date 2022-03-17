@@ -34,23 +34,93 @@ The high-gravity phenomenon formed in his mind gradually. Deprived of every othe
 
 When someone recollects a memory, the information is firmly tethered to key points captured by their senses. But in this case, Markus' memory reached to realms bordering on extrasensory. He figured that it may be a quirk of his Master's special |Soul Imprint|. But this was good, he could now flex his mana senses to filter through different sensory data. Markus lacked the ability to abstract information in his mind like Marie, thus he could only brute force through the inputs in hopes of stumbling upon an answer.
 
-A week passed like that. Markus' mana senses would isolate a sensory bandwidth, apply it to the memory of the black hole and observe for any relevant inputs. Most of the time, he was unsuccessful. Once or twice, he managed to capture something faintly, but Markus did not pursue it further as his goal wasn't to follow a pointless tangent. Whatever he was looking for wouldn't be faint. It would blare at him!
+A week passed like that. Markus' mana senses would isolate a sensory bandwidth, apply it to the memory of the black hole and observe for any relevant inputs. Most of the time, he was unsuccessful. Once or twice, he managed to capture something faintly, but Markus did not pursue it further as his goal wasn't to follow a pointless tangent. Whatever he was looking for wouldn't be faint, it would blare at him!
 
 'This isn't it,' Markus repeated. 'Next one.'
 
-Markus makes a breakthrough
+Markus concentrated on his mana sense. Although he'd spent a week, he had barely scratched the surface of what his mana sense could capture. It was a frustrating process, but Markus took it in stride.
 
-Figures out that everything is related.
+'What's this?' Suddenly, Markus was bombarded with a rush of data through his mana sense. 'Was it a lucky break?'
 
-Gravity affects space and time.
+With faint optimism, Markus tuned out all background noise and focused on his current bandwidth. As the surrounding static dissipated, he was confronted by a convoluted mess of data in an unintelligible raw form. Markus hypothesised that this may be what he'd been searching for. Now the only problem that remained was to decipher it, assimilate it, and apply it.
 
-Space and time is a net.
+Sensing has a lot to do with how people percieve what is observed, and how they connect it to their reality. Just like how Marie viewed the waves of fate as literal signal waves, Markus pondered over how he could transpose this gibberish to something substantial and interpretable.
 
-Markus starts seeing this. Inspired by how Marie observed the world.
+'Gravity,' Markus thought to himself. 'What does it mean?' He repeated.
 
-In his enlightened state, he grasps at the strings and manages to float in midair before falling down in exhaustion (he is nude.)
+'How does gravity affect the world?'
 
-His ability is different from how Gaige did it. But it feels more targeted.
+'How can I visualise gravity?'
+
+Markus traced back everything he'd learned up till now and started collating everything pertaining to the theory of gravitation.
+
+'Gravity is a type of force. It is observed within a field that exists naturally around masses. Large masses have stronger fields, thus exert greater higher gravitational forces. But how do entities in a gravitational field know that they are in a field?' Markus proposed. To that, he recollected an overlooked explanation his Master proposed.
+
+"Field based forces are hard to conceptualise. But an apt analogy is to consider an infinitely stretched roll of cloth. On this cloth, you place a mass of some kind. What do you think will happen to the cloth?" His Master asked. "The cloth would dip where the mass is placed. Now, if you were to place a much, much smaller mass next to this larger mass in any close location. What will happen? This smaller mass will roll along the dip which is centred at the larger mass."
+
+After further discussion, Markus learned that this "cloth" could be referred to as spacetime. Or the representation of three-dimensional space as the singular dimension of time, in an abstract four-dimensional manifold. It took some mental gymnastics to wrangle this understanding, since naturally, humans aren't able to visualise it. Humans live in a three-dimensional world, while the fourth dimension of time flows through us. To observe in four dimensions, we will need to have knowledge of all states of a system at ALL points in time, all at one instance. Therefore, Markus simplified this 4D manifold into snapshots, where each snapshot in 3D space represents the state of the system in time.
+
+Incrementally, Markus started to apply this visualisation to the data his mana senses were capturing. He didn't have the same capacity to abstract like Marie, so he had to repeatedly conceptualise, deconstruct and reinforece the representation. As he did so, in his mind, a vague meshgrid started to materialise.
+
+The meshgrid extended infinitely in all three dimensions. Markus followed the faintly drawn line demarcating the meshgrid as it approached the black hole. Right as it approached its proximity, Markus observed the most absurd interaction where the meshgrid literally warped in place. The warping was not only spatial, but temporal as well. As in, with every new snapshot, there were discontinuities in the mesh which indicated that the region wasn't being updated at the same rate as the rest of the mesh. This tearing became more egregious the further Markus approached the black hole.
+
+'This is it!' Markus exclaimed internally. Almost instantaneously, Markus released the holds on his bodily function, letting the mana flow freely through his channels. As he did so, a massive influx of mana activated from the surroundings towards his core. A whilwind of mana formed above his body, which was regaining its functions, and rushed in through his mana channels. His nascent, gaseous, core started to settle and adorn a liquid state while dark steam of waste ejected through his pores.
+
+Markus was partially unaware of this, because he was preoccupied in applying his new technique. He activated the meshgrid through his mana sense and overlaid it on his regular vision. Unlike in front of the black hole, there weren't any warping regions this time. The grid was fairly consistent, barring a small dip centered on him.
+
+An imperceptible explosion of insights occured in Markus' mind as everything started to fall into place. His eyes widened and sparkled as he entered an inspired state at the zenith of his breakthrough. With a familiar motion, Markus reached forward with both hands and grabbed the abstract meshgrid in his eyes and pushed outwards.
+
+As he did so, a sudden sense of weightlessness assaulted him. It was completely unlike what he felt when under the influence of Gaige's spell or the black hole. It was as if every fibre of his body had suddenly lost a percentage of its mass. Markus' body accelerated off the ground as the momentary difference if force acting on him and by him resulted in a net force upwards.
+
+"Woah!" Markus exclaimed in surprise. The minor distraction dissipated his inspired state. By this time, his advancement had settled as well. However, because of the momentary lapse, Markus' levitation was destabilised, causing him to fall face-first into the ground.
+
+He tried to control his fall with his arms, but they refused to budge. Evidently, his week of hibernation without sustenance had caused his muscles to atrophy lightly.
+
+"Ah!" Markus exclaimed. "Help!" He called out weakly. He cleared his aching throat and cried out again, "Help!"
+
+Helpless, Markus decided to try out mana transmission through his increased mana sensory range and caught his Junior Sister nearby. "Jean! Please, help me."
+
+Through his amplified sense, he could hear hurried footsteps approaching him.
+
+"Senior Brother?" Jean's flat voice called faintly. "Did you call?"
+
+"I need help," Markus uttered.
+
+Jean tried pushing the door open, only to face resistance. "Umm, it's locked."
+
+"Just burst through. I will fix it later."
+
+"Matron Reva will get mad," Jean warned.
+
+"It's fine, I will take the blame."
+
+"Do you promise?"
+
+"Yes, yes. Please, help."
+
+With an apprehensive push, Jean forced open the door.
+
+"Senior Brother!" Jean exclaimed as she hurriedly closed her eyes. Markus observed a crimson shade blooming across her face. The girl turned around abruptly and ran away.
+
+"Jean!" Markus screamed. "Where are you going?"
+
+At that moment, Dora happened to pass by and peeked in.
+
+"Ewww!" The little girl exclaimed. "Big Brother, why are you naked?"
+
+She then grasped her nose in disgust before adding, "And you stink!"
+
+The girl giggled loudly and ran away, leaving Markus splayed on the floor with his bare bottom exposed.
+
+"Help me..." Markus whined, as tears of shame descended his cheeks.
+
+"You naughty boy!" Matron Reva's voice bellowed from the distance. "I oughta spank you! How could you traumatise your sisters like that?"
+
+"Help me..." Markus whimpered, as the despair of having to experience Matron Reva's corporal punishment dawned on him.
+
+"Hehehehe," a sly chuckled echoed in his ears. "This oughta be good," Marie mocked from outside his room.
+
+"Help me..." Markus sighed. "Please..."
 
 ____
 
