@@ -2,17 +2,17 @@
 id: OEq5uS0BrJXBLjy3kW59R
 title: Chapter 148 - Emergency
 desc: ''
-updated: 1645950117140
+updated: 1647594821413
 created: 1645191171452
 ---
 
 Jean retrieved a notebook from her satchel and started going through a data table at an opened page.
 
-"This batch will contain an equal mixture of Carathian Poppy and Enduring Lotus seed oil," she indicated as she poured in a phial from the stand into the milky solution in the couldron.
+"This batch will contain an equal mixture of Carathian Poppy and Enduring Lotus seed oil," she indicated as she poured in a phial from its stand into the milky solution in the cauldron.
 
 "That's a lot of vitality!" Al commented. "Are you sure that's safe for mortals?"
 
-Jean nodded and highlighted, "We've measured the concentration well. It will ultimately get diluted once infused into soap bars. Furthermore, it is administered cutaneously in extremely small dosages over an extended period of time. It is perfectly safe."
+Jean nodded and highlighted, "We've measured the concentration well. It will ultimately get diluted once infused into soap bars. Furthermore, it is administered cutaneously in extremely small dosages over an extended period. It is perfectly safe."
 
 Al murmured in affirmation and observed as Jean poured out the last batch of soap. He then turned to Guy and asked with a mirthful chuckle.
 
@@ -44,7 +44,7 @@ Jean exhaled lightly through her nose and said, "Sure. When we get there, you wi
 
 "Teacher Larks! Young Mistress Rasmus! Dora!" A faint voice echoed towards the group, filled with heart-wrenching urgency and exhaustion.
 
-"Teacher Larks!" As the voice approached them, the group observed the hobbling figure of a middle-aged man approach them. His face was warped with panic and concern, and looked as though it had aged decades just within a short time frame.
+"Teacher Larks!" As the voice approached them, the group observed the hobbling figure of a middle-aged man approaching them. His face was warped with panic and concern and looked as though it had aged decades just within a short time frame.
 
 "Uncle Lane!" Dora called out in surprise.
 
@@ -58,11 +58,11 @@ Jean's usually unperturbed face showed a trace of concern. "What is the matter, 
 
 "Giving birth?" Jean completed anxiously, to which the man nodded.
 
-"It's early," the girl muttered. "Let's go!" She declared and sped out without a second thought, followed by Dora.
+"It's early," the girl muttered. "Let's go!" She declared and sped out without a second thought, followed a few seconds later by Dora.
 
-The man wore a pained expression as he began to hobble back. Climbing up the many steps up to the orphanage had drained him by quite a bit, adding on the emotional turmoil of possibly losing his wife did not help either. Just as he was about to take his first step, a hand reached around and grabbed him. It pulled one hand of his upwards and draped it over a shoulder, while another hand reached to his other side and latched on firmly.
+The man wore a pained expression as he began to hobble back. Climbing up the many steps up to the orphanage had drained him significantly, adding on the emotional turmoil of possibly losing his wife did not help either. Just as he was about to take his first step, a hand reached around and grabbed him. It pulled one hand of his upwards and draped it over a shoulder, while another hand reached to his other side and latched on firmly.
 
-"T-Teacher Jeeves," the man exclaimed in shock, and fear.
+"T-Teacher Jeeves," the man exclaimed in shock and fear.
 
 "Hold on tightly, and do not let go," Al instructed casually.
 
@@ -78,19 +78,19 @@ ____
 
 Muffled moans and pained screams echoed from within a sizeable house at the village. The commotion had inevitably attracted a large crowd, mostly consisting of women, who knew just by the tone of the screams that someone inside was going through an arduous birthing process.
 
-"Chiani's really struggling. Where did Kannan run off to after leaving his wife all alone?" One of the elderly woman observing the scene commented with an irate tone.
+"Chiani's really struggling. Where did Kannan run off to after leaving his wife all alone?" One of the elderly women observing the scene commented with an irate tone.
 
 "The midwife is inside," another pointed out. "Kannan went to fetch Teacher Larks, Young Mistress Rasmus and little Dora."
 
 The first woman clicked her tongue dismissively and commented, "What use are they? One is just a Teacher, another is a spoiled little Young Mistress, and the third is a little girl."
 
-"You can't say that, Grandma," Durkas standing next to her interjected while shaking his head. "Don't you remember? Young Mistress Rasmus was the one who healed father when he fractured his arm a few months back. We all know that the Young Mistress is working to become a healer."
+"You can't say that Grandma," Durkas standing next to her interjected while shaking his head. "Don't you remember? Young Mistress Rasmus was the one who healed Father when he fractured his arm a few months back. We all know that the Young Mistress is working to become a healer."
 
 "Still!" The elderly woman reinforced. "What would a young girl and little child know about childbirth? What would a man know about childbirth?!"
 
 "Great master Nara instructed Kannan to do it," Durkas clarified.
 
-"Really? Well what's taking him so long? Quick, Durkas, you're younger and faster, go an fetch them!" the elderly woman instructed hurriedly. "If great master Nara said so, it must be important, we cannot afford to delay."
+"Really? Well, what's taking them so long? Quick, Durkas, you're younger and faster, go and fetch them. Kannan's probably winded midway through the steps!" the elderly woman instructed hurriedly. "If great master Nara said so, it must be important, we cannot afford to delay."
 
 Right at that moment, Jean rushed in. Without slowing down, she leapt over the surrounding thatched wall in one bound.
 
@@ -104,7 +104,7 @@ As soon as Al released the screaming man he collapsed to the ground. With unstab
 
 "I-It's oka- BLAAAARGHH!" Al approached the nauseated man and gently massaged his back with an unpractised motion.
 
-By this time, Guy had arrived as well. He threw a cursory glance at the two men before following his student, albeit through the fence gate, into the house.
+By this time, Guy had arrived as well. He threw a cursory glance at the two men before following his student, normally through the fence gate, into the house.
 
 Guy followed the sound of the woman's screams and quickly arrived outside the room where the delivery was taking place. He knocked loudly and called out his presence, before entering.
 
@@ -116,7 +116,7 @@ The midwife who had shifted from her prominent position was a much older woman a
 
 "What are you doing?" The woman demanded. "We need to get the baby out, otherwise both the mother and the baby's lives are forfeit!"
 
-"If we do it your way, we will be killing the mother!" Jean challenged with uncharacteristic vigour. Her forceful declaration had unwittingly caused the release of a mana wave which intimidated the non-magical midwife.
+"If we do it your way, we will be killing the mother!" Jean challenged with uncharacteristic vigour. Her forceful declaration had unwittingly caused the release of a mana wave that intimidated the non-magical midwife.
 
 Unwilling to concede, the midwife held her ground shakily and said, "That is the only way! Would you rather kill the baby, then?"
 
@@ -124,13 +124,13 @@ Unwilling to concede, the midwife held her ground shakily and said, "That is the
 
 "Jean," Guy interjected while pulling the shaken Dora next to him before their argument devolved into a circular mess. "What are you planning to do?"
 
-Beside him, Dora silently cowered behind his back. She had initially rushed over excitedly in pursuit of an adventure, but she had grossly overestimated her mental constitution. Upon witnessing the struggle Auntie Lane was going through, the little girl silently vowed to never have a child in this lifetime.
+Dora silently cowered behind his back. She had initially rushed over excitedly in pursuit of an adventure, but she had grossly overestimated her mental constitution. Upon witnessing the struggle Auntie Lane was going through, the little girl silently vowed to never have a child in this lifetime.
 
 "Teacher Larks, Auntie Lane's foetus is entangled in the umbilical cord," Jean quickly explained.
 
 "And?"
 
-"Well, the midwife suggests two options that require either sacrificing the foetus or the mother for the sake of the other," Jean said. "But... I believe there is a way to save the both of them!"
+"Well, the midwife suggests two options that require either sacrificing the foetus or the mother for the sake of the other," Jean said. "But... I believe there is a way to save both of them!"
 
 Guy tilted his head sideways and asked. "How is that?"
 
@@ -138,9 +138,7 @@ Guy tilted his head sideways and asked. "How is that?"
 
 "That will just kill the mother," the midwife pointed out smugly. "That's what I said first."
 
-"We extract the child and then close the womb back together," Jean finished firmly.
-
-'You're planning to perform a C-Section?' Guy wondered incredulously.
+"We extract the child and then close the womb back together," Jean finished firmly. "Just like my mother theorised."
 
 ____
 
