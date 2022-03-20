@@ -6,7 +6,7 @@ updated: 1647454706751
 created: 1647157931463
 ---
 
-'Not this either,' Markus pondered with his eyes closed. He was currently sitting in a cross-legged posture in his room. He'd entered seclusion a week back, and had effectively shut himself off from all outside communication. Markus could feel tha the was at the cusp of a breakthrough. It was so close he could grab it, but it was yet to enter his reach. To bridge this gap, Markus considered a long-standing tradition amongst cultivators nearing advancement: Closed-Door Cultivation.
+'Not this either,' Markus pondered with his eyes closed. He was currently sitting in a cross-legged posture in his room. He'd entered seclusion two weeks back, and had effectively shut himself off from all outside communication. Markus could feel tha the was at the cusp of a breakthrough. It was so close he could grab it, but it was yet to enter his reach. To bridge this gap, Markus considered a long-standing tradition amongst cultivators nearing advancement: Closed-Door Cultivation.
 
 Usually, the phrase closed-door is a placeholder implying isolation from all forms of intrusions and disturbances. It means to espouse an optimal environment for a cultivator to piece together scattered insights to develop new, more robust ones and as a result achieve a breakthrough in their cultivation. It didn't necessitate foregoing nourishment as it was often counterproductive to the assimilation process.
 
@@ -34,11 +34,11 @@ The high-gravity phenomenon formed in his mind gradually. Deprived of every othe
 
 When someone recollects a memory, the information is firmly tethered to key points captured by their senses. But in this case, Markus' memory reached to realms bordering on extrasensory. He figured that it may be a quirk of his Master's special |Soul Imprint|. But this was good, he could now flex his mana senses to filter through different sensory data. Markus lacked the ability to abstract information in his mind like Marie, thus he could only brute force through the inputs in hopes of stumbling upon an answer.
 
-A week passed like that. Markus' mana senses would isolate a sensory bandwidth, apply it to the memory of the black hole and observe for any relevant inputs. Most of the time, he was unsuccessful. Once or twice, he managed to capture something faintly, but Markus did not pursue it further as his goal wasn't to follow a pointless tangent. Whatever he was looking for wouldn't be faint, it would blare at him!
+Two weeks passed like that. Markus' mana senses would isolate a sensory bandwidth, apply it to the memory of the black hole and observe for any relevant inputs. Most of the time, he was unsuccessful. Once or twice, he managed to capture something faintly, but Markus did not pursue it further as his goal wasn't to follow a pointless tangent. Whatever he was looking for wouldn't be faint, it would blare at him!
 
 'This isn't it,' Markus repeated. 'Next one.'
 
-Markus concentrated on his mana sense. Although he'd spent a week, he had barely scratched the surface of what his mana sense could capture. It was a frustrating process, but Markus took it in stride.
+Markus concentrated on his mana sense. Although he'd spent two whole weeks, he had barely scratched the surface of what his mana sense could capture. It was a frustrating process, but Markus took it in stride.
 
 'What's this?' Suddenly, Markus was bombarded with a rush of data through his mana sense. 'Was it a lucky break?'
 
@@ -74,7 +74,7 @@ As he did so, a sudden sense of weightlessness assaulted him. It was completely 
 
 "Woah!" Markus exclaimed in surprise. The minor distraction dissipated his inspired state. By this time, his advancement had settled as well. However, because of the momentary lapse, Markus' levitation was destabilised, causing him to fall face-first into the ground.
 
-He tried to control his fall with his arms, but they refused to budge. Evidently, his week of hibernation without sustenance had caused his muscles to atrophy lightly.
+He tried to control his fall with his arms, but they refused to budge. Evidently, his weeks of hibernation without sustenance had caused his muscles to atrophy lightly.
 
 "Ah!" Markus exclaimed. "Help!" He called out weakly. He cleared his aching throat and cried out again, "Help!"
 
