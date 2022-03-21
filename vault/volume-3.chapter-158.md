@@ -2,7 +2,7 @@
 id: cb1b7wk0odk2ebo6a9so9cp
 title: Chapter 158
 desc: ''
-updated: 1647803677654
+updated: 1647866361760
 created: 1647595165989
 ---
 
@@ -74,7 +74,25 @@ To that, Jean did not have a response. Al took her silence has affirmation and c
 
 "But I don't think I qualify as a genius. I... It was a long and difficult journey," Markus commented with a wry smile.
 
-"Genius is an umbrella term, Markus. In fact, I "
+"But what matters is that you've succeeded. You started from literally nothing, just remember that! There are people born with a lot more who've achieved barely a fraction of what you have at your age. You should be proud of that," Al highlighted.
+
+"It was all thanks to Master Larks," Markus responded humbly.
+
+"That is also true," Al agreed. "If it hadn't been for him, Jean here would never have the opportunity to pursue her dream."
+
+"Seeing as how you've advanced, there is hope for Jean yet," Al added. "Now that I've sensed it closely, the two of you seem to have vastly different cultivation methods."
+
+"What do you mean, Uncle Jeeves?" Jean inquired.
+
+"Well, although I haven't performed an |Extrospect| to gauge your cultivation closely, I can still sense it at the surface level. It's possible for me especially since the gulf between our cultivations is so vast," Al started. "That said, when I compare what I sense when observing your cultivation from what I experienced with Markus, it is evident that they are not related in any way."
+
+"How is that possible?" Jean exclaimed.
+
+"We both learned under Master Larks. We should have similarities in our cultivation," Markus affirmed with a measured nod.
+
+"I don't see it," Al shook his head. "I hoped that if you succeeded, you could help Jean in her cultivation as well. But it appears as though things have taken an unfortunate turn."
+
+Markus scratched his chin in contemplation before proposing, "Teacher Jeeves, can you please expand on what that? How do our cultivations feel different?"
 
 ____
 
