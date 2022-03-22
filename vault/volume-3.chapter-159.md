@@ -1,8 +1,8 @@
 ---
 id: 9r3j69tzedmjm8cku3otnfr
-title: Chapter 159
+title: Chapter 159 - Second Plunge
 desc: ''
-updated: 1647954397627
+updated: 1647975503115
 created: 1647595171894
 ---
 
@@ -62,7 +62,47 @@ Markus and Jean tilted their heads synchronously, displaying blatant confusion.
 
 "It's all for science," Jean shrugged. "Besides, I treat you as family, Uncle Jeeves. It's not offensive."
 
-Al cycled through plausible excuses in his end, but 
+Al cycled through plausible excuses in his end, but to no avail. Truthfully, he was a little scared. It just hurt his ego too much to admit that out loud. The last time he ventured into Markus' core, he nearly died. He had convinced himself back then that it was purely a result of his negligence and lack of caution that caused it. However, frequently during meditation, he would be reminded of the sheer terror he felt when facing that monstrosity inside the boy's core.
+
+Being reminded of it once again, Al's eyes drifted carelessly over Markus' abdomen. A bone-chilling feeling of fear crept up Al's spine. 'Now that he's stepped into Foundation Establishment, how would his core have changed?' Al immediately shook that alarming thought and exhale loudly.
+
+"Al right, let's get on with it then," he acquiesced grudgingly. "I'm not as capable as your Teacher Larks, so be warned."
+
+Al reached towards Jean's abdomen and carefully rested his palm on her skin. He gradually started to calm his thoughts to enter an unperturbed state of meditation. He then proceeded to channel his mana through his palms, and started to navigate through the girl's spiritual barriers. Again, because her intrusion was consented, there was no opposition when he passed through them. He quickly found the girl's nascent core and proceeded to settle his blurry senses.
+
+It was a slow process, but once his vision cleared Al was presented with a completely bright visual. Compared to the dark room in Markus' core, Jean's core space was unbearably bright. The floor was an iridescent white which blended perfectly into the walls, which were also emitting a spotless blanket of white into the room.
+
+"This is the exact opposite," Al commented. "The two are totally unrelated in every sense of the way..."
+
+This should have been enough of a hint for Al, and at this point he should have simply exited the core space. But curiousity is a pervasive human quality. Al's eyes drifted towards a small puddle at the centre of the room. The mass of water could have been easily missed if not for the minor ripples that formed on its surface when Al walked around.
+
+A small part of Al's subconscious wanted to peek into Jean's cultivation. The moment this thought took for, Al's cultivation started to whir with excitement. This was because his cultivation was largely reliant on him learning new things and amassing new knowledge - exploring the unknown. Although Al had nearly died inside Markus' core, something good did come out of it in the form of a substantial leap in his cultivation.
+
+At this point, an archaic proverb manifested in Al's consciousness: "Every crisis has both its dangers and its opportunities."
+
+Droves of mages flock towards inheritance grounds, unearthed sites with abundant resources, treacherous zones filled with horrific beasts and elixirs, and so on knowing full well just how dangerous these places could be. These mages know full well that they may not make it out alive. But they still choose to compete because they recognise that in facing danger, they are often presented with great opportunities to grow and break through.
+
+Apprehensively, Al approached the small pond in the ground and prostrated himself. He could not enter through completely, so once again he was forced to only shove his head in.
+
+The moment his face pierced through the strangely pleasant and warm surface of the liquid pond, which was once again in stark contrast to the chilling cold experienced when interacting with Markus', Al was shown a strange vision.
+
+It was a dimly lit tunnel. It wasn't mechanically built, but appeared alive and undulating. The walls twitched periodically, as a loud and rhythmic bellow echoed through with a muffle book with a strangely familiar beat.
+
+BOOP BOOP...
+
+BOOP BOOP...
+
+BOOP BOOP...
+
+"That sounds like... a heartbeat?"
+
+Al narrowed his eyes to sharpen his vision, and observed the dim tunnel more carefully. With every beat, odd doughnut shaped red units pumped past him.
+
+"What are these... things?" Al muttered as he reached forward, grabbed one of these doughnuts and squeezed them. The unit in his hand was extremely fragile. Maybe it was because Al applied excessive pressure, but the moment he pressed it, it burst magnificently.
+
+Al frowned and reached for another one. This time he applied lesser pressure and carefully inspected it, taking note of every detail he could glean from it.
+
+As he was doing so, Al failed to notice a small army of spherical, blueish-white blobs with miniscule protrusions jutting out of them approaching him with sinister purpose.
 
 ____
 
