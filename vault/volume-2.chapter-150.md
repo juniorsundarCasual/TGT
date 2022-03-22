@@ -2,7 +2,7 @@
 id: gC1BrFqc284VFhvM0FBbz
 title: Chapter 150 - The Other Guy
 desc: ''
-updated: 1645963732905
+updated: 1647970048156
 created: 1645785338363
 ---
 
@@ -12,21 +12,21 @@ created: 1645785338363
 
 "Be that as it may, these are TWO lives we are talking about here," Guy redirected. "It's not right."
 
-"I know that!" Jean exclaimed all the while sporting an unperturbed face. "The burden weighs heavily on me, Teacher Larks. I know that if I intervene and fail, I will be responsible for the death of a person. However, if I don't intervene and let her die I will feel much worse BECAUSE I knew that I could have done something that may have a chance, albeit minimal, of saving both her and her child."
+"I know that!" Jean exclaimed all the while sporting an unperturbed face. "The burden weighs heavily on me, Teacher Larks. I know that if I intervene and fail, I will be responsible for the death of a person. However, if I don't intervene and let her die I will feel much worse BECAUSE I knew that I could have done something that may have had a chance, albeit minimal, of saving both her and her child."
 
-"I won't let you attempt something that hasn't been verified," Guy retorted. "This would be nothing short of callous immoral."
+"I won't let you attempt something that hasn't been verified," Guy retorted.
 
 "That's the thing," Jean interjected as she reached into her satchel. "My mother had been working on this procedure for a while."
 
-Jean retrieved a pristine journal and flipped through it to. "She was developing a practice that could reduce the casualty rate of women going through childbirth. Not just mortals, but mages as well!"
+Jean retrieved a pristine journal and flipped through it to a specific section. "She was developing a practice that could reduce the casualty rate of women going through childbirth. Not just mortals, but mages as well!"
 
-Guy held the book and quickly scanned through its contents. Jean continued by saying, "Although she didn't get far enough, she did manage to cement a fairly functional procedures for mortals. In this entry, she describes her insights and successes, and details every step down to the minutiae."
+Guy held the book and quickly scanned through its contents. Jean continued by saying, "Although she didn't get far enough, she did manage to cement fairly functional procedures for mortals. In this entry, she describes her insights and successes, and details every step down to the minutiae."
 
 As Guy read through the journal entry, his heart wavered. Although much of what was described in the book was only theoretical, its reasoning was verifiable through modern medicine and surgical practices. Well, this was only to the extent of Guy's expertise in the field, which was surface level at best. Through his time stuck behind the sterile hospital walls in his past life, Guy had augmented his base knowledge of medicine. This wasn't to say that any patient confined in a hospital for a long time could become an expert medical practitioner, but they would inevitably learn a fair bit about what is considered the norm in a hospital as well as the standard safe practices that prevailed within.
 
-Guy wasn't a doctor, but he knew enough to deem whether something was safe by modern standards or not. And the procedure described within Jean's mother's journal was as close as it could get given the limitations of this world. She had covered multiple bases in her description and proposed possible failure points, albeit only through deductive reasoning, which Guy could confirm were valid points. Sure, certain propositions sounded farfetched, such as the preference of cauterising the surgery over stitching. Guy figured her belief in the superiority of the former over the latter may have to do with her overlooking the causes of infections and sepsis.
+Guy wasn't a doctor, but he was knowledgeable enough to deem whether something was safe by modern standards or not. And the procedure described within Jean's mother's journal was as close as it could get given the limitations of this world. She had covered multiple bases in her description and proposed possible failure points, albeit only through deductive reasoning, which Guy could confirm were valid in some ways. Sure, certain propositions sounded farfetched, such as the preference of cauterising the surgery over stitching it. Guy figured her belief in the superiority of the former over the latter may have to do with her overlooking the causes of infections and sepsis.
 
-"This looks fine, but the fact remains that you haven't practised this before," Guy pointed out. "Everything is fine on paper, but when it comes down to it, how confident are you?"
+"This looks adequate, but the fact remains that you haven't practised this before," Guy pointed out. "Everything is fine on paper, but when it comes down to applying it, how confident are you?"
 
 Jean's firmness wavered. Although it wasn't visible, Guy could feel her momentum deflating. "I... I'm not confident."
 
@@ -38,11 +38,11 @@ Right as the name exited her mouth, the region in front of her flickered and a p
 
 "You've worked with my mother before. Can you perform this procedure explained here?" Jean asked while handing the journal to Josie.
 
-"I'm sorry," Josie quickly denied. "This slave was only a companion - an assistant - while Madam performed, therefore she does not know how. Apart from that, this slave specialises in alchemy."
+"I'm sorry," Josie quickly denied. "This slave was only a companion - an assistant - while Madam performed. Therefore she does not know how to replicate Madam's methods. Apart from that, this slave specialises in alchemy."
 
 Jean's face scrunched up in distress. She approached Chiani with faltering steps and grasped the woman's hand tight.
 
-"Little girl," the midwife scoffed, but was quickly opposed with a firm and forceful stare from Josie. "*cough* Young mistress, I think we should proceed with my suggestion now."
+"Little girl," the midwife scoffed but was quickly countered with a firm and forceful stare from Josie. "*cough* Young mistress, I think we should proceed with my suggestion now."
 
 ""NO!"" Marie and Kannan burst through the doors, sheer panic laced in their voices. "You can't kill my wife!" Kannan vehemently rejected with a frantic stutter. His eyes had reddened veins bulging out, possibly through a surge of anger, frustration and sorrow. He rushed forwards and physically dragged the midwife out of the room, "GET OUT!"
 
@@ -64,11 +64,11 @@ Jean's face scrunched up in distress. She approached Chiani with faltering steps
 
 Guy was stuck between a rock and a hard place. Either he lets the woman die while saving the child, hurting the woman's husband AND affecting his student mentally, or he lets Jean go through the procedure, causing the potential death of both the mother and the child AND affecting his student mentally. There was a clear winning play here which was to go safe. The first path had the least deaths, it was the obvious choice...
 
-Back in Earth, while he was confined to his bed, Guy would often surf through the offerings on television. During his mindless zapping spree, Guy one day stumbled upon a news segment that discussed, "Top investments after winning the lottery."
+Back on Earth, while he was confined to his bed, Guy would often surf through the offerings on television. During his mindless zapping spree, Guy one day stumbled upon a news segment that discussed, "Top investments after winning the lottery."
 
-What an unusual segment it was. It was like discussing, "Places to visit with your wings," or "top 10 planets to colonise after terraforming."
+What an unusual segment it was. It was like discussing, "Places to visit with your wings," or "top 10 planets to colonise with your terraforming ship."
 
-At that time, Guy scoffed at how the news industry had devolved into the fantasy realm. According to studies, the odds of winning a lottery's jackpot hovers somewhere below 0.000001 percent. Yet, human were still willing to believe and hold on to the faint hope of winning it.
+At that time, Guy scoffed at how the news industry had delved into the realms of fantasy. According to studies, the odds of winning a lottery jackpot hovers somewhere below 0.000001 per cent. Yet, humans were still willing to believe and hold on to the faint hope of winning it. How crazy was that?
 
 Ironically, he was standing at a similar crossroads right now. He could take the smart choice, but a small part of him wanted to take the risky path that had a bleak chance of success. But by definition, hope implied possibility. At a cursory glance, the conditions didn't appear favourable. No one would believe that a girl barely stepping into adulthood would be able to excise a foetus safely.
 
@@ -80,13 +80,13 @@ Guy had currently receded into the RoK. In his hands lay the metallic mask which
 
 'I don't have a choice here,' Guy responded with a bitter smile.
 
-(Everyone has a choice,) Mast retorted. (You could just turn a blind-eye to everything.)
+(Everyone has a choice,) Mast retorted. (You could just turn a blind eye to everything.)
 
 'There lies the problem, doesn't it?' Guy commented. 'If I know for a fact that the "other guy" can help my student make a breakthrough, which could boost her performance in attempting the surgery, how can I sit still?'
 
 (Isn't the answer obvious? You aren't obligated to do anything, Guy,) Mast reasoned.
 
-'I disagree. If I hold the power in my hands to help someone else and potentially save lives, I am morally obliged to help them,' Guy said with a chuckle. Unwittingly, he had quoted a rather worn-out line originating from a famous comic series back on Earth.
+'I disagree. If I hold the power in my hands to help someone else and potentially save lives, I am morally obliged to help them,' Guy said with a bitter chuckle. Unwittingly, he had quoted a rather worn-out line originating from a famous comic series back on Earth.
 
 (Even at the cost of hurting yourself?)
 
@@ -106,7 +106,7 @@ Guy took a deep breath and opened his eyes, to grace the splendour of his Church
 
 'For too long has The Church been used to spread unrealistic and uninspired lies, desecrating the sanctity of the True World!' Guy sneered. 'Blasphemy!' He spat.
 
-'I will show you!' Guy declared. 'I will reveal to you, my children and you - the false Prophet - The Church's real power!'
+'I will show you!' Guy declared. 'I will reveal to you all - my children and you, the false Prophet - The Church's real power!'
 
 'Open your eyes, and let The Truth enlighten you!' Guy orated with a crescendo.
 
