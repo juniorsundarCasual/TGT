@@ -2,11 +2,11 @@
 id: tsqcbgfj9f3j1ois977gqo3
 title: Chapter 153 - Baggage
 desc: ''
-updated: 1647002523649
+updated: 1647969709516
 created: 1646333839474
 ---
 
-"Everyone apart from Josie and the midwife here, please leave the room immediately!" Jean commanded authoritatively.
+"Everyone apart from Josie, please leave the room immediately!" Jean commanded authoritatively. "Oh! And please call the midwife in again."
 
 "Umm, Young miss," Josie interrupted. "Teacher Larks is in a crucial state at the moment."
 
@@ -51,7 +51,8 @@ Dora lowered her head and twisted her feet in distress, "Umm..."
 "Please," Jean interjected. "Take this outside. We cannot afford to be distracted here."
 
 Marie nodded and led Dora and the patient's husband outside.
-"Where are you going?" Jean called out to the midwife who was sneaking out amidst the others crowd.
+
+"Where are you going?" Jean called out to the midwife who was trying her hardest to make herself scarce.
 
 "I-" The midwife stuttered. "This one believes she isn't needed here, right?" She reasoned while sweating bullets. Things had moved beyond her realm of understanding.
 
