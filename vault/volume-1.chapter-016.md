@@ -1,9 +1,9 @@
 ---
-id: KEXjBYEGR5B0UW9n82dcm
-title: Chapter 016 - Bane of Students: Maths
+id: 5sxwl5rw0nlcp8tdi3iy0kf
+title: Chapter 016 - Bane of Students... Maths
 desc: ''
-updated: 1643572001533
-created: 1643568801388
+updated: 1648145193068
+created: 1648145193068
 ---
 
 Guy felt that he had come too far to give up now. The amount of progress he made in one hour blew the last three weeks out of the water.
