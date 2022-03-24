@@ -48,7 +48,29 @@ Guy smiled bitterly at Al's animated exclamation. He wasn't sure if there was ev
 
 "Markus' has to do with looking outside, into the world. While Jean's has more to do with looking inside, biologically," Al summarised. "Apart from that, I wasn't able to determine any connection to known cultivation methods. For all intents and purposes, their cultivation method is completely new and perfectly suited to them."
 
-"That's unbelieveable!" Jean exclaimed. As an heiress to a prominent Clan, she was knowledgeable about the difficulty of the feat Al had described. According to her Uncle Jeeves, her cultivation was customised to her specifically. This meant that the method was made while centred around her
+"That's unbelieveable!" Jean exclaimed. As an heiress to a prominent Clan, she was knowledgeable about the difficulty of the feat Al had described. 
+
+According to her Uncle Jeeves, her cultivation method was customised to her specifically. This in and of itself was a monumental achievement that could only be achieved by mages at the peak of magic, the frontrunners, the veritable geniuses with godlike powers. One must have an immutable and irrefutable extent of knowledge into a field of magic as well as a high level of familiarity with a subject to be able to device a cultivation method for them. While the latter condition could be met fairly easily, the former was often times a near impossible feat to achieve by a mage within one lifetime. Yet, Teacher Larks had done exactly this. At least that's what it appeared to be on paper. Jean was fairly certain that Teacher Larks' inheritance may also have played a key role here as it is a culmination of a peak-level mage's entire lifetime. Maybe there were key knowledge fragments in it that might have assisted Jean in some way. But the fact remained that even her Senior Brother had a Specialised grade cultivation method which happened to have a nature contrasting her own. She had never heard of a mage being able to create two different, conflicting, Specialised cultivation methods. This suggested that the inheritance must've been from an unbelievably powerful mage - one with a vast repository of knowledge and experience in their repertoire.
+
+Finally, the cherry on the cake that threw Jean for a loop was the fact that this entire time, Jean had been cultivating without even being aware of it! This achievement was a testament to Teacher Larks' skills in pedagogy. How great of a Teacher can one be if they are able to induce an advancement in their students without them being aware of it until an opportune moment presents itself?
+
+The two aforementioned conditions are incredible on their own. But combining these two independent, and equally improbable events produced this unicorn of an achievement. Although Jean's face didn't show it, she was immensely grateful to Teacher Larks for everything he'd done for her to date.
+
+Till this year, Jean never held any hope of materialising her dream to become a healer. She had begrudgingly come to terms with her inadequacy. However, Teacher Larks had swept through her drab outlook with a beautiful and vibrant coat of paint, changing her life completely. Not only was she given a second chance to pursue her dreams, she was also given a new hope and goal to pursue. She was shown new possibilities and frontiers to reach for!
+
+A congested feeling welled up in Jean's chest. It felt warm and melancholy at the same time. Jean tried to expel it from her body by vocalising her hearfelt thoughts, but she just couldn't do it. At this juncture, the voices in her head - that had been pleasantly silent for the entire day - burst through immediately dissipating the warmth. Thus, Jean shrunk back into her seat and began suppressing the voices through a light meditation.
+
+"By the way," Al said. "What happened back there? You left the place at the village so abruptly, and that too with a checked out expression. Was there something on your mind that was troubling you?"
+
+Guy sucked on his teeth as he pondered on how to approach the topic.
+
+"Well... As I was helping Jean through her bottleneck, I was... how do I put it... shown a revelation of sorts. This revelation made me rethink my beliefs and actions till this point," Guy explained.
+
+"That is common when using |Introspect|. A sentient being's soul is highly treacherous," Al responded. "It is commonly believed that the sentient will and the spiritual soul, although part of the same entity, are constantly fighting to gain control. For a mortal, it is the will that holds the reins, however as a mage advances and attempts to reach immortality, they need to slowly let the soul hold on to the reins as well, until the will and the soul become one. At the early stages, when we let the soul take grasp at the reins to cultivate spirituality, the rogue soul will do everything within its power to take full control and swallow the will. It is a brutal feeling for initiates, and one can easily lose themselves in this process. But it is also a revealing experience as it presents an unfiltered view of our true selves."
+
+Guy nodded affirmatively with a contemplative expression. "As you said, it was a valuable learning experience for me. So, after spending some time to digest the observations, I have decided to take a drastic step forward."
+
+Guy paused for dramatic effect, and then declared, "I am planning to take on more students, specifically to teach magic and cultivation!"
 
 ____
 
