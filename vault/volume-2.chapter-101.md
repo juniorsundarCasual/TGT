@@ -1,9 +1,9 @@
 ---
-id: L4twqVpyqNLPGrlTOBvvm
-title: Chapter 101 - Interlude: A Brewing Storm (Part Two)
+id: gb0zs9edb4ioqavt94qkxxt
+title: Chapter 101 - (Interlude) A Brewing Storm (Part Two)
 desc: ''
-updated: 1643657139564
-created: 1643656095165
+updated: 1648144879186
+created: 1648144879186
 ---
 
 The two levitating individuals smirked and laughed at the kneeling man. In response, the man dabbed his lips with the sleeves of his dark green jacket and stood up straight.

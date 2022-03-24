@@ -1,9 +1,9 @@
 ---
-id: x4x01xmp49gx3ja9g6yoj0j
-title: Chapter 157 - Interlude: Markus' Breakthrough
+id: q8yq4fbccw95fozc0xf44d9
+title: Chapter 157 - (Interlude) Markus' Breakthrough
 desc: ''
-updated: 1647454706751
-created: 1647157931463
+updated: 1648144743953
+created: 1648144743954
 ---
 
 'Not this either,' Markus pondered with his eyes closed. He was currently sitting in a cross-legged posture in his room. He'd entered seclusion two weeks back, and had effectively shut himself off from all outside communication. Markus could feel tha the was at the cusp of a breakthrough. It was so close he could grab it, but it was yet to enter his reach. To bridge this gap, Markus considered a long-standing tradition amongst cultivators nearing advancement: Closed-Door Cultivation.

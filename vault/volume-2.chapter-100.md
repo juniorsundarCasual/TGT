@@ -1,9 +1,9 @@
 ---
-id: 58FrVmu57CHHVWIcSHIGV
-title: Chapter 100 - Interlude: A Brewing Storm (Part One)
+id: nchwfnbotw2rcsib1xn1qas
+title: Chapter 100 - (Interlude) A Brewing Storm (Part One)
 desc: ''
-updated: 1643657111013
-created: 1643653979294
+updated: 1648144826363
+created: 1648144826363
 ---
 
 "Be careful!" The woman exclaimed with a helpless expression. She walked with a slight hunch, which wasn't helped by the fact that a massive basket was slumped over her shoulders, resting against her spine. Although she was only in her late twenties, her appearance was haggard and resembled someone who was well beyond. Her face contained many wrinkles and blemishes, possibly a result of poor skincare and overwork.

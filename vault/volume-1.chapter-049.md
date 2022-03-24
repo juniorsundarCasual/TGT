@@ -1,9 +1,9 @@
 ---
-id: aIjPKuc2idRuIMkl17P8u
-title: Chapter 049 - Interlude: Shady Dealings
+id: bfd79j7lw7nza2be2s6dg0g
+title: Chapter 049 - (Interlude) Shady Dealings
 desc: ''
-updated: 1643622776689
-created: 1643569308571
+updated: 1648145049569
+created: 1648145049569
 ---
 
 A series of flat and uniform knocks interrupted the tranquil atmosphere in Goro Lynn's office. He had hoped that today would be a special day for him, free of work. Nonetheless, as the Guild Manager of Radiant City's Smithing and Enchanting Guild he could never truly escape from his responsibilities. 

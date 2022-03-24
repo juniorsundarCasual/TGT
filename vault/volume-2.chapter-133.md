@@ -1,9 +1,13 @@
 ---
-id: qQR9uSaaHtGNEngUAeIaZ
-title: Chapter 133 - Interlude: Overcoming Roadblocks
+id: jjhn0etrry3ft2zgwx2laf1
+title: Chapter 133 - (Interlude) Overcoming Roadblocks
 desc: ''
-updated: 1644513608741
-created: 1643655732341
+updated: 1648144657562
+created: 1648144657562
+status: ''
+due: ''
+priority: ''
+owner: ''
 ---
 
 When someone skirts through life without a single speedbump, it is often the case that they assume they will never hit one in the future. Most individuals experiencing such an unhindered life tend to grow arrogant and proud. Those born with such a gift by circumstance tend to wear this pride and arrogance externally, others awarded such a gift through chance or luck hide it deep within while covering it up with a facade of nonchalance and humility. However, one fact remains constant amongst these two breeds of individuals, when one day they collide against an immovable wall of impediment, the hubris coursing through their veins bursts magnificently, cracking through the veneer wrapping their fragile ego.

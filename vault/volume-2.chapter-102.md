@@ -1,9 +1,9 @@
 ---
-id: aX5CEmwTqIY5MQpr0tkcI
-title: Chapter 102 - Interlude: A Brewing Storm (Part Three)
+id: 2frg75lgm4e7ynxms9b1crz
+title: Chapter 102 - (Interlude) A Brewing Storm (Part Three)
 desc: ''
-updated: 1643657163484
-created: 1643656099789
+updated: 1648144959251
+created: 1648144959251
 ---
 
 The Plague Emperor snapped his fingers, and the body and the head of the shorter mage expanded drastically. Like an overfilled barrel, the mage exploded, sending bits and pieces of rotting flesh and gore everywhere. The dark blood spread out even further, reaching close to where the boy was hiding.

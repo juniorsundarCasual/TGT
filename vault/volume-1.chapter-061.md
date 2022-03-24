@@ -1,9 +1,9 @@
 ---
-id: gxR5WFXiOQ6hFYHZWIKMu
-title: Chapter 061 - Interlude: A Child's Eyes
+id: fi62ytakinrtycda34luw1u
+title: Chapter 061 - (Interlude) A Child's Eye
 desc: ''
-updated: 1643623476003
-created: 1643569442259
+updated: 1648145009467
+created: 1648145009467
 ---
 
 "I'm sorry, Marie. But I can't tutor them anymore!"

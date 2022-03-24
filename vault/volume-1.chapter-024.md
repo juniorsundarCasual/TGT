@@ -1,9 +1,9 @@
 ---
-id: zGfqNHaa5aXcgkT0cOkJ2
-title: Chapter 024 - Interlude: Meeting and Old Friend
+id: 1qrteuunikf7ddv4s9oyfe7
+title: Chapter 024 - (Interlude) Meeting an Old Friend
 desc: ''
-updated: 1643611479365
-created: 1643569180315
+updated: 1648145081626
+created: 1648145081626
 ---
 
 Kaist Maika tapped his fingers on his office desk as he read through the form in his hand. Even though he was over 100 years old, his appearance evoked a youthfulness of a middle-aged man. If not for his eyes that betrayed the inevitable vicissitudes of life, one could easily mistake him for a 30-year-old.

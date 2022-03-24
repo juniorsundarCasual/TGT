@@ -1,9 +1,9 @@
 ---
-id: wrxwgdaxkre6qxikjvh4rua
-title: Chapter 146 - Interlude: Realisation
+id: 6x4vugtfgu9j72t817v1ilv
+title: Chapter 146 - (Interlude) Realisation
 desc: ''
-updated: 1647593803276
-created: 1647593765521
+updated: 1648144543397
+created: 1648144543397
 ---
 
 "Congratulations!" Krish offered.
