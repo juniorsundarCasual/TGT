@@ -14,7 +14,7 @@ When Marie returned to the orphanage, she was immediately attacked by Grace and 
 
 "So you're just going to let her go through with this?" Grace exclaimed. "She was out for two days! TWO. DAYS." She added while forcefully jutting out two fingers in front of Guy's face.
 
-"But she's back now, look!" Grace gently turned Grace around and spoke in a low voice into her ears. "Let me handle it. If we force her to cease, it will only make her want to do it more. You know how teenagers are?"
+"But she's back now, look!" Guy gently turned Grace around and spoke in a low voice into her ears. "Let me handle it. If we force her to cease, it will only make her want to do it more. You know how teenagers are?"
 
 "We have to be strategic in our approach. Although we cannot stop her, I will ensure that she maintains caution in her actions. Alright?"
 
