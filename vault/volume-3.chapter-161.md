@@ -114,9 +114,11 @@ But Guy immediately shook all those rogue thoughts, and centred his mind. As he 
 
 "I cannot live my life the way I have till now," Guy concluded. "I want my life to have meaning! I want to make a difference."
 
-Guy recognised that things needed to change. He wasn't planning to intentionally confront Mast, since that entity hadn't done anything to hurt Guy (that was he was aware of). Mast must have a bottom line, but Guy hadn't infringed on it just yet. Presumably, Guy's current trajectory wouldn't infringe on it either, otherwise Mast would have interfered.
+Guy recognised that things needed to change. He wasn't planning to intentionally confront Mast, since that entity hadn't done anything to hurt Guy (that was he was aware of). Furthermore, Guy was also grateful for being offered a second chance even if it was conditional in some ways.
 
-Nonetheless, Guy was feeling confrontational. He wanted to see just how far he could push Mast's buttons.
+Mast must have a bottom line, but Guy hadn't infringed on it just yet. Presumably, Guy's current trajectory wouldn't infringe on it either, otherwise Mast would have interfered. Nonetheless, Guy was feeling confrontational about the betrayal. He wanted to see just how far he could push Mast's buttons, as a sign of protest.
+
+Guy's shift in trajectory would have dual purposes. The first was to make a meaningful contribution to the world and make a lasting difference. The second was more selfish, and it was to piss Mast off!!
 
 
 ____
