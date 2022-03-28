@@ -118,8 +118,11 @@ Guy recognised that things needed to change. He wasn't planning to intentionally
 
 Mast must have a bottom line, but Guy hadn't infringed on it just yet. Presumably, Guy's current trajectory wouldn't infringe on it either, otherwise Mast would have interfered. Nonetheless, Guy was feeling confrontational about the betrayal. He wanted to see just how far he could push Mast's buttons, as a sign of protest.
 
-Guy's shift in trajectory would have dual purposes. The first was to make a meaningful contribution to the world and make a lasting difference. The second was more selfish, and it was to piss Mast off!!
+Guy's shift in trajectory would have dual purposes. The first was to make a meaningful contribution to the world and make a lasting difference. The second was more selfish, and it was to simply piss Mast off!
 
+"I realise that I need to make changes," Guy muttered while scratching his chin. "But where do I begin?"
+
+Guy had a good idea of the big picture, but the intermediate steps to achieve that goal were a mystery to him. After careful thought, he figured that it would be best to inquire a more learned party, preferably one with more experience in this world. Amongst those that he was acquainted with in this world that fit that bill, a single name stood out prominently. With that decided, Guy let got on his feet and trudged along to the immaculate tent set up near the orphanage, which was the temporary home of Al Jeeves.
 
 ____
 
