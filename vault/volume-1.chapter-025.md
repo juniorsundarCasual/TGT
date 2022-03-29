@@ -26,7 +26,7 @@ However, Markus was here at the field for an important reason. For the past few 
 
 While he was excited at first, Markus quickly realised one key problem. He had to memorise all the spell constructs so that he could cast them at a moment's notice. He didn't have the luxury to pull out the sheet displaying the spell construct in the middle of a confrontation.
 
-And so Markus decided to squat at the practising field with all the spells his master developed for him and cycled through a set every day until he internalised him properly.
+And so Markus decided to squat at the practising field with all the spells his master developed for him and cycled through a set every day until he internalised them properly.
 
 Unfortunately, the memorising marathon had been interfering with his other studies. Especially the additional work Master Larks provided in the form of a workbook. He had managed to complete one or two experiments and read through one theoretical section in the book. But for the past few days, his progress had stagnated.
 
