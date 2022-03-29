@@ -20,11 +20,45 @@ Guy paused to formulate a proper line of reasoning and then continued. "I've tak
 
 "Master!" Markus exclaimed in surprise. "Y-You knew?"
 
-"I assumed," Guy said with a cheeky smile. "You aren't one to give up so easily. So if you've stepped out of your seculsion, it could only mean that you've advanced successfully. Otherwise, I fear I would have had to drag you out of your room by force while you struggled at the last inch of your life after exhausting yourself completely."
+"I assumed," Guy said with a cheeky smile. "You aren't one to give up so easily. So if you've stepped out of your seclusion, it could only mean that you've advanced successfully. Otherwise, I fear I would have had to drag you out of your room by force while you struggled at the last inch of your life after exhausting yourself completely."
 
 Markus scratched the back of his head sheepishly.
 
-"Of the two and a half, two did not have a cultivation method," Guy resumed. "It meant that they wouldn't be able to advance in the path of magic, yet here they are, standing at the edge of the cliff ready to leap into magehood."
+"Of the two and a half, two did not have a cultivation method," Guy resumed. "It meant that they wouldn't be able to advance in the path of magic, yet here they are, standing at the edge of the cliff ready to leap into true magehood. Although the sample size isn't sufficient to draw a wider conclusion, it is enough to establish a hypothesis: We have the ability to help those without the fortune to cultivate, to do so."
+
+"If I remember correctly," Al interjected. "You were against spreading this knowledge because it would eventually lead to a proliferation of violence and conflicts."
+
+"That's the worst case scenario," Guy reasoned. "Take a look at what Jean's accomplished! My earlier stance was dependent on a false assumption that magic's primary purpose was to bolster martial might. However, Jean has proven that magic has potential to be applied in so many more fields that can benefit others. Furthermore, she alone isn't enough. Imagine if there were many more mages like Jean, with the knowledge and ability to practice medical magic of equal efficacy. How great would that be?"
+
+"You seem hard set on this," Al commented.
+
+"It has to be done. I have a gift - a special power that brings with it an immense collection of knowledge, most of which I can't apply. However, my students have managed to make use of it and have achieved great accomplishments. It is a waste to hoard all of this knowledge when it could be disseminated and used for more fruitful purposes," Guy responded.
+
+"It is the first time I'm seeing a mage so eager to share their gains from an inheritance," Al muttered. For any mage, an inheritance, regardless of its source, was an immensely valuable treasure. This was because if used correctly, especially if it is compatible with the mage, an inheritance can accelerate the cultivation of a mage by a large margin in a short period of time. Inheritances are essentially solidified versions of the cultivation of a mage from the Tesseract Transformation realm. This realm is regarded as the absolute peak a mage can achieve in their lifetime, so it isn't farfetched to assume that their cultivation is as refined, optimised and potent as it could be. Now imagine if another mage gains access to this highly potent solidified cultivation, and have the ability to siphon from it and bolster their own. No mage wishes to share such fortuitous and cheat-like advantages with another who could potentially rise and become their competitor.
+
+Even within renowned clans, large organisations, and sects that have deep backings, sharing of an inheritance artefact with another member was a very rare occurrence. For example, although Goran was the current Clan Leader of the Rasmus Clan, he hadn't come into contact with the clan's inheritance artefact. In some ways, this was also a way to maintain checks and balances between these powerful entities. If word were to be leaked of the movement of an inheritance artefact within an organisation, it was akin to the arming of a nuclear missile. Opposing clans, organisations or sects would retaliate with a similar move, leading to a tense cold-war which could blow over at the lightest provocation.
+
+"I am envious of your open-mindedness," Al evoked while nodding his head appreciatively. "No mage would be so charitable to publicly share their inheritance with others."
+
+"Errr..."
+
+"However, I suggest that you avoid hinting at or even bringing up the fact that you have an inheritance," Al warned.
+
+"Errr..."
+
+"Words travel quickly, especially if they contain such enticing keywords," Al added. "Before you know it, mages will be swarming to this place to get a piece of the action. Once they're done, this village won't even exist on the face of the planet."
+
+"Erm... *cough* Right! What inheritance artefact?" Guy chimed in while sporting a conflicted smile.
+
+"That's the attitude," Al winked back.
+
+"But Master," Markus interjected at this point. "While I am fully behind you on your decision to spread your teachings, I hate to point out a glaring issue."
+
+All eyes on the room turned towards the boy, who was now feeling extremely discomfited. "I don't think we have the certification or official qualification to teach."
+
+Al smacked his forehead audible while hissing. "That's right!"
+
+"What's wrong?" Guy asked with visible confusion.
 
 
 
