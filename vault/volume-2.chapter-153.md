@@ -12,7 +12,7 @@ created: 1646333839474
 
 Jean followed Josie's extended finger and saw her Teacher seated in a meditative state in a cross-legged pose. "Is Teacher having a breakthrough?"
 
-"It is progressing in a steady by unwavering pace. Teacher Larks appears close to breaking into the External Stage, and at this rate it will eventually be achieved," Josie corrected. "And I believe that it isn't just Teacher Larks' cultivation, but also his spirituality that is undergoing a breakthrough. This slave believes that it is risky to interrupt during this process."
+"It is progressing at a steady but unwavering pace. Teacher Larks appears close to breaking into the External Stage, and at this rate, it will eventually be achieved," Josie corrected. "And I believe that it isn't just Teacher Larks' cultivation, but also his spirituality that is undergoing a form of breakthrough. This slave believes that it is risky to interrupt during this process."
 
 Jean pursed her lips and nodded contemplatively. "Nonetheless, everyone else must evacuate."
 
@@ -36,15 +36,15 @@ Jean scratched her forehead in frustration. "That is suboptimal..."
 
 Dora lowered her head and twisted her feet in distress, "Umm..."
 
-"Leave it," Jean sighed, noticing the girl's discomfort. "Thank you for this, it's perfect. The Sleep Pollen of an Insect Queen contains a toxin that targets the nerves extending from the inhaler's spine. As long as we can control the dosage, it should offer the perfect sedative effect for out patient without adversely affecting the foetus, right Josie?"
+"Leave it," Jean sighed, noticing the girl's discomfort. "Thank you for this, it's perfect. The Sleep Pollen of an Insect Queen contains a toxin that targets the nerves extending from the inhaler's spine. As long as we can control the dosage, it should offer the perfect sedative effect for our patient without adversely affecting the foetus, right Josie?"
 
-"That is corrent, Young miss," Josie affirm.
+"That is correct, Young miss," Josie affirmed.
 
-"Be that as it may, we will get back to this conversation afterward, Dora," Jean warned sternly.
+"Be that as it may, we will get back to this conversation afterwards, Dora," Jean warned sternly.
 
 "What's wrong?" Marie chimed in with a frown.
 
-"An Insect Queen in an extremely deadly beast. Although it isn't as physically monstrous as most other species, its strength is derived through its sentience and perceptivity that matches - if not exceeds - most adult humans. I won't exhaust you with the details, but a single Insect Queen, if allowed to grow and accumulate sufficient pollen, can eradicate an entire city without alerting a single soul," Jean explained. "This pollen could put Dora into an endless sleep if she had ingested even a pinch."
+"An Insect Queen in an extremely deadly beast. Although it isn't as physically monstrous as most other species, its strength is derived through its sentience and perceptivity that matches - if not exceeds - most adult humans. I won't exhaust you with the details, but a single Insect Queen, if allowed to grow and accumulate sufficient pollen, can eradicate an entire city without raising a single alert," Jean explained. "This pollen could put Dora into an endless sleep if she had ingested even a pinch."
 
 "Dora!" Marie screamed.
 
@@ -60,13 +60,13 @@ At that moment she recollected a key idiom her mother used to preach when she wa
 
 'The longer I stay here, the higher my chances of dying,' she thought to herself. 'That emotionless girl is a rich Young Mistress, and the woman throwing murderous glares my way is probably her assigned protector. I managed to survive my first sleight thanks to the girl, I don't think a second one will fly here.'
 
-"Of course you are needed here," the girl said flatly. "You are more experienced in assisting childbirth than either of us."
+"Of course, you are needed here," the girl said flatly. "You are more experienced in assisting childbirth than either of us."
 
 "But I don't have any knowledge about what the Young Mistress is preparing to perform," the midwife pleaded. "This one feels that she will only be a hindrance."
 
 "The Young miss asked you to stay," Josie reinforced.
 
-"This one is staying," the midwife nodded obediently and receded a bit further back cautiously.
+"This one is staying," the midwife nodded obediently and assumed a position close to the pregnant woman cautiously.
 
 "First things first, we need to sanitise all work surfaces and tools," Jean instructed. "Do as I say, Josie."
 
@@ -80,7 +80,7 @@ Grace growled audibly at the now barely sober man who was massaging his crotch w
 
 The man coughed and responded by saying, \``That's my daughter. I'm allowed to talk to her however I want.\``
 
-Grace leapt towards the man with gusto, but was immediately held back by Guy.
+Grace leapt towards the man with gusto but was immediately held back by Guy.
 
 "Grace, not now," Guy said with a frown.
 
@@ -90,7 +90,7 @@ Grace leapt towards the man with gusto, but was immediately held back by Guy.
 
 Grace clenched her fist and grit her teeth, all the while pulling the girl closer into an embrace.
 
-"Men like him don't deserve to live," Grace declared. "They treat those that they consider beneath them as animals. They project their inadequacy onto them and unleash their pent-up frustration without reason."
+"People like him don't deserve to live," Grace declared. "They treat those that they consider beneath them as animals. They project their inadequacy onto them and unleash their pent-up frustration without reason."
 
 "It's disgusting!" She spat out. "The worst part is that the victims are so badly affected both physically and mentally that they lose all ability to stand up against the offenders."
 
@@ -98,17 +98,17 @@ Grace clenched her fist and grit her teeth, all the while pulling the girl close
 
 Grace sighed loudly and uttered, "Did you know that my father died because he choked on a peanut?"
 
-"Every night, after work, he would come home with three bottles of beer and a packet of roasted peanuts that a street vendor sold near his place of work. As he drank, he would pop the peanuts into his mouth with practised precision," Grace continued. "Crunch! Crunch! It was like a dreaded countdown timer for my mother and I, because we knew that when those peanuts ran out, his idle hands would seek something else."
+"Every night, after work, he would come home with a 6 pack of beer and a packet of roasted peanuts that a street vendor sold near his place of work. As he drank, he would pop the peanuts into his mouth with practised precision," Grace continued. "Crunch! Crunch! Each nut consumed was like the ticking of a morbid clock - a dreaded countdown timer for my mother and me. Because we knew that when those peanuts ran out, his idle hands would seek something else."
 
-"I was his go-to target to release his frustrations. He hated that I was smarter than him, more accomplished than him. The man barely graduated high-school, hearing that his daughter had potential beyond him, he couldn't take it. He would accuse my mother of cheating on him and fooling him into raising a bastard. Of course, those accusations were accompanied by a battery of fresh beatings to highlight the point. Every day he would approach me with red eyes and slurred speech, spouting insults. My mother would redirect his anger, take on the brunt of the attack. Day after day."
+"I was his go-to target to release his frustrations. He hated that I was smarter than him - more accomplished than him. The man barely graduated high school, hearing that his daughter had potential beyond him, he couldn't take it. He would accuse my mother of cheating on him and fooling him into raising a bastard. Of course, those accusations were accompanied by a battery of fresh beatings to highlight the point. Every day he would approach me with red eyes and slurred speech, spouting insults. My mother would redirect his anger, take on the brunt of the attack. Day after day."
 
-"Until one day, my father missed. The peanut he tossed into his mouth, flew too far. It lodged itself perfectly in his wind pipe," Grace paused as she stared blankly at Guy. "My mother and I, we watched as the life faded from his eyes. At the very last moment, for the first time, my father showed genuine fear. He pleaded for us to save him."
+"Until one day, my father missed. The peanut he tossed into his mouth, flew too far. It lodged itself perfectly in his windpipe," Grace paused as she stared blankly at Guy. "My mother and I watched as the life faded from his eyes. As his face flushed a deadly red shade while struggling to catch even a mote of precious oxygen. As he clawed into his neck in an attempt to dislodge the rogue nut through his skin. At the very last moment, for the first time, my father showed genuine fear. He pleaded for us to save him."
 
 "I could have saved him, Guy," Grace muttered with a wavering tone. "But I didn't. I didn't want to."
 
 "It's okay," Guy comforted her while pulling her closer by her shoulders.
 
-"No it isn't, Guy!" Grace exclaimed. "My mother passed away a few months later - she killed herself. Couldn't handle the guilt. But I didn't feel anything, Guy. I didn't feel regret - no guilt. I didn't feel relief. I didn't feel anything!"
+"No, it isn't, Guy!" Grace exclaimed. "My mother passed away a few months later - she killed herself. Couldn't handle the guilt. But I didn't feel anything, Guy. I didn't feel regret - no guilt. I didn't feel relief. I didn't feel anything!"
 
 "It's okay," Guy repeated.
 
@@ -118,20 +118,20 @@ Grace sighed loudly and uttered, "Did you know that my father died because he ch
 
 "We will help her," Guy affirmed. "She won't have to suffer Grace. I will make sure of it."
 
-At that moment, Dr. Yagi stepped out of the tent and removed his mask.
+At that moment, Dr Yagi stepped out of the tent and removed his mask.
 
-"The procedure was successful, and the foetus was born without complications. The mother has regained consciousness, and is recovering slowly. However we are still treating the other physical traumas aiiling her," the man explained. "She is currently with the newborn girl."
+"The procedure was successful, and the foetus was born without complications. The mother has regained consciousness and is recovering slowly. However we are still treating the other physical traumas ailing her," the man explained. "She is currently with the newborn girl."
 
 "Girl?" Mahima's father blurted out, seemingly catching the key phrase in the doctor's explanation. He clicked his tongue and said, \``Another money sink. That woman can't even birth a boy? Useless!
 \``
 
-Grace rushed forward and threw the man into the ground over her shoulders.
+Grace rushed forward and threw the man to the ground over her shoulders.
 
 "Grace, NO!" Guy quickly intervened and pulled her away before she could descend upon the prone man.
 
-"Dr. Yagi, please call the authorities," Guy instructed.
+"Dr Yagi, please call the authorities," Guy instructed.
 
-"I've done that already. But the closest law enforcement office is quite a distance away. It will take some time," Dr. Yagi affirmed before re-entering the tent.
+"I've done that already. But the closest law enforcement office is quite a distance away. It will take time," Dr Yagi affirmed before re-entering the tent.
 
 "Let's go check on the baby girl," Guy urged Grace and ushered her into the tent.
 
