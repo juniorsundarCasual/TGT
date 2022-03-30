@@ -60,6 +60,27 @@ Al smacked his forehead audible while hissing. "That's right!"
 
 "What's wrong?" Guy asked with visible confusion.
 
+"Although I recognise your ability to be a Teacher of magic, because you haven't gone through the proper qualification channels - by that I mean Academies of Magic - you technically do not have the certification to teach magic to others. If someone were to find out that you're conducting these lessons on magic, you could get into a lot of trouble with the authorities and the union of Academies and Teachers as a whole," Al explained.
+
+"Have I been doing something illegal all this time?" Guy exclaimed.
+
+"Your nurturing of a Disciple isn't illegal," Al corrected. "It is a personal relationship and a tradition that has existed since ancient history. However, again technically, teaching Jean when you aren't even a Teaching Apprentice is illegal and actionable to the highest extent of both national and international laws."
+
+Guy started to sweat bullets while eyeing the stoic girl. 'This girl is a walking lawsuit waiting to happen,' he said internally.
+
+"Please rest assured, Teacher Larks," the girl immediately responded, as though she'd read the lingering fear in Guy's eyes. "I am anything but grateful. May the world curse me with the most gruesome and painful death should I betray your confidence!"
+
+Guy sighed in relief inaudibly before reverting to the obvious question, "So there really isn't anything we can do, huh?"
+
+At this moment, Guy regreted his blase attitude when he entered this world. If only he had tried harder, been more proactive at that time, he could have held his position back at the Academy. Then again, as he pondered on it further, a lot of good things had happened BECAUSE of that. He met Markus and his siblings, he befriended Al, and he found Grace. None of that would have been possible if not for his loss.
+
+"Actually," Al muttered out loud. "There may be a second pathway for you, albeit one that might be a bit tougher and could open you up to some unwelcome confrontration."
+
+Guy cocked his ears in attention and focused on Al. "Although you need a license to teach magic officially, there are exceptions in place that can allow you to bypass that restriction."
+
+"How would that be?"
+
+"How do you think large"
 
 
 ____
