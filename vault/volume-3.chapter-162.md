@@ -1,6 +1,6 @@
 ---
 id: ik786ibsa2is822fq14n5zo
-title: Chapter 162
+title: Chapter 162 - Radical Idea
 desc: ''
 updated: 1648149619590
 created: 1648149619590
@@ -72,16 +72,21 @@ Guy started to sweat bullets while eyeing the stoic girl. 'This girl is a walkin
 
 Guy sighed in relief inaudibly before reverting to the obvious question, "So there really isn't anything we can do, huh?"
 
-At this moment, Guy regreted his blase attitude when he entered this world. If only he had tried harder, been more proactive at that time, he could have held his position back at the Academy. Then again, as he pondered on it further, a lot of good things had happened BECAUSE of that. He met Markus and his siblings, he befriended Al, and he found Grace. None of that would have been possible if not for his loss.
+At this moment, Guy regretted his blasé attitude when he entered this world. If only he had tried harder, been more proactive at that time, he could have held his position back at the Academy. Then again, as he pondered on it further, a lot of good things had happened BECAUSE of that. He met Markus and his siblings, he befriended Al, and he found Grace. None of that would have been possible if not for his loss.
 
-"Actually," Al muttered out loud. "There may be a second pathway for you, albeit one that might be a bit tougher and could open you up to some unwelcome confrontration."
+"Actually," Al muttered out loud. "There may be a second pathway for you, albeit one that might be a bit tougher and could open you up to some unwelcome confrontation."
 
-Guy cocked his ears in attention and focused on Al. "Although you need a license to teach magic officially, there are exceptions in place that can allow you to bypass that restriction."
+Guy cocked his ears in attention and focused on Al. "Although you need a licence to teach magic officially, there are exceptions in place that can allow you to bypass that restriction."
 
 "How would that be?"
 
-"How do you think large"
+"How do you think large organisations can accumulate so many specialised mages and warriors in their ranks?" Al hinted. "How is it that renowned clans and sects have the liberty to cultivate their own batch of mages with unique cultivation methods that cannot be found outside?"
 
+Guy narrowed his gaze and contemplated along this line of reasoning. After a quick half-second, the solution formed in his mind.
+
+"No way!" Guy exclaimed. "You aren't saying that we-"
+
+"That's right! We can create a Sect," Al affirmed while completing Guy's sentence.
 
 ____
 
