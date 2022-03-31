@@ -78,7 +78,7 @@ He tried to control his fall with his arms, but they refused to budge. Evidently
 
 "Ah!" Markus exclaimed. "Help!" He called out weakly. He cleared his aching throat and cried out again, "Help!"
 
-Helpless, Markus decided to try out mana transmission through his increased mana sensory range and caught his Junior Sister nearby. "Jean! Please, help me."
+Helpless, Markus decided to try out Mana Transmission through his increased mana sensory range and caught his Junior Sister nearby. "Jean! Please, help me."
 
 Through his amplified sense, he could hear hurried footsteps approaching him.
 
