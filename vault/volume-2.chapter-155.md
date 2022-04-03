@@ -14,7 +14,7 @@ Guy remained stoic at the barrage of criticisms.
 
 'I've assisted my students-' Guy pointed out, however, he was immediately interrupted by his counterpart.
 
-'Have you?!' The other Guy jabbed. 'You were handed a supercomputer capable of mapping stars, yet you use it to perform trivial arithmetics. You've barely scratched the surface; there is so much more to the extent of The Church's power. Does it satisfy you to wander near the periphery?'
+'Have you?!' The other Guy jabbed. 'You were handed a supercomputer capable of mapping stars, yet you use it to perform trivial arithmetic. You've barely scratched the surface; there is so much more to the extent of The Church's power. Does it satisfy you to wander near the periphery?'
 
 'I'm trying-'
 
@@ -38,7 +38,7 @@ Guy remained stoic at the barrage of criticisms.
 
 'At the cost of losing their heritage and traditions?' Guy retaliated. 'I don't think so.'
 
-The other Guy walked over to the family of three, frozen in grayscale, and nudged his chin towards them, 'What about them? You promised that you would save them, didn't you? You promised to help them live a better life. What of it? Aren't they also victims of the so-called "traditions" you're so desperately trying to preserve?'
+The other Guy walked over to the family of three, frozen in greyscale, and nudged his chin towards them, 'What about them? You promised that you would save them, didn't you? You promised to help them live a better life. What of it? Aren't they also victims of the so-called "traditions" you're so desperately trying to preserve?'
 
 'They...'
 
