@@ -86,7 +86,7 @@ Guy smiled bitterly before probing with a question, "You must have already consu
 
 To which Goran nodded while pursing his lips. Guy exhaled loudly and continued.
 
-"Pardon my frankness, but what gives you the confidence that I can achieve something that even those greater and more renowned that I have failed to do?"
+"Pardon my frankness, but what gives you the confidence that I can achieve something that even those greater and more renowned than I have failed to do?"
 
 Goran laughed out loud, his tone washed with self-deprecation. "I want to say that it's a gut feeling of mine. But that would be an insult to you. You are a skilled teacher. I can see it- I can feel it! Truthfully though, I am left with no other option. You are my final hope, Teacher Larks," Goran replied. He then patted Jean's shoulder and urged her forward.
 
