@@ -110,7 +110,7 @@ Guy did not want to bring this up in front of the class and discourage the girl,
 
 Once the session was finished, the group of kids filed out while continuing their earlier conversations.
 
-Kano also rose from his heat and closed his book, leaving a dry leaf on the last page he was at to act as a bookmark.
+Kano also rose from his seat and closed his book, leaving a dry leaf on the last page he was at to act as a bookmark.
 
 Dora also stood up with a dejected frown on her face. However, before she could leave Guy called out to her, "Dora! Can you please stay back for a moment?"
 
