@@ -84,6 +84,8 @@ The group entered a depressed state after hearing that. Their momentum was quenc
 
 At that moment, a familiar voice echoed within the minds of everyone present in the room. It was through a Mana Transmission!
 
+'I believe I can assist in this matter.'
+
 ____
 
 **Next**
