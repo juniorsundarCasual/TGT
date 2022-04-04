@@ -1,6 +1,6 @@
 ---
 id: tu4d6nwvmt1avp52o1awzcm
-title: Chapter 164
+title: Chapter 164 - Al, meet Krish
 desc: ''
 updated: 1649011935537
 created: 1649011935537
@@ -30,7 +30,85 @@ The life-draining taps and soul-grinding shuffle came to a halt right outside Al
 
 "Can I come in?" The voice sounded familiar. Al had heard it before, outside the home of the pregnant woman!
 
-"Y-Yes," Al stuttered apprehensively.
+"Y-Yes," Al stuttered apprehensively with a wavering tone.
+
+The door pivoted open, revealing the figure of an elderly man, leaning on a walking stick about his height and sporting a washed out cloak.
+
+Al's eyes were glued on the individual as they entered. Guy rose from his seat and apologised, "Unfortunately, there isn't a chair here. Are you fine sitting on the ground?"
+
+"GUY!" Al interjected immediately. He coughed to draw in the old man's attention and said, "I-I have a chair in my storage disk, please give me a second. I apologise profusely for this sleight."
+
+"It's fine," the man said while waving his hand. With an audible groan, the man used his stick as support and descended into the padded ground. During this, Al caught a glimpse of a horribly dessicated leg peaking out from under the man's cloak. Al had never seen anything so grisly in his entire life. It was as though the flesh and muscle had been thoroughly consumed from within by a ravenous parasite, leaving just the bone in place. There were awkward dips and holes on the flesh, as though rot had taken hold.
+
+"Are you interested in knowing the cause?" The man's voice dragged Al out of his trance. Al realised that he had been staring at the disabled leg for a while now.
+
+"Ah!" Al exclaimed. "I-I apologise! I wasn't expecting-"
+
+Al was about to prostrate completely, when suddenly a force grabbed him by his shoulders and stopped him in place, "Don't fret. It is a common reaction. It's jarring to see a mage sporting a limp voluntarily." 
+
+Al wiped the cold sweat gushing out of his forehead in relief and gulped audibly. "I... Would... Hmm..."
+
+The man understood the purpose within Al's repeated attempts to formulate a question and said, "My name is Krish Nara. As you have rightfully determined, I am in the Tesseract Transformation realm. But don't worry, I haven't killed another human being in over seventy years. Wait, that's not right."
+
+Krish turned to Guy and asked, "Does it count as killing if I condemned an entire sect to extinction which may have resulted in the deaths of the Sect Leader, Elders and a large portion of the Sect's members?"
+
+Guy nodded with widened eyes.
+
+"In that case, I haven't killed another human being in the last fifty years. And I don't intend to kill anyone for the time being either. Generally, such actions tend to incur a lot of negative social credits in the mage community, and in those situations the sins of the Master reflects on the Disciple," Krish continued.
+
+"Stop intimidating him," Guy sighed. "Look at how shaken he is!"
+
+"You should count your lucky stars, Guy!" Krish warned jokingly. "I'm only keeping you alive because of your value with my dearest Disciple."
+
+Guy sneered back with mock laughter. "Marie has rubbed off on you poorly, Mage Nara. Your wit was never this acerbic before."
+
+"What do you know? We've only been acquainted for a little more that a year," Krish retorted. "Unsurprisingly, my Disciple and I have a lot in common. Which is rather unfortunate since it is a monumental task to get anything past her contrarian mental barriers."
+
+"It's ironic that in these cases, the instructor finds greater success in bending personally that forcing the pupil to compromise," Guy chimed back.
+
+"That is true," Krish affirmed. "I never thought that in my thousand years, I would have to metaphorically bow in front of a girl a hundredth my age. But hey! It works!"
+
+"Anyways, let's get back to the topic at hand. I believe I can be of some assistance with your Sect problem," Krish offered.
+
+"In what way?"
+
+"Well, Teacher Jeeves here-"
+
+"Please just call me Al," Al quickly corrected.
+
+Krish clicked his tongue in annoyance and growled back, "Don't interrupt me!"
+
+Al retreated with a whimper.
+
+"Damn it, now I've lost my train of thought..."
+
+"I-I believe you were talking about the sect-" Al said with a low voice.
+
+"Didn't I say not to interrupt me?" Krish shot back with anger in his voice.
+
+"You're enjoying this, aren't you?" Guy sighed.
+
+Krish burst into uproarious laughter, "That's my revenge for staring at my leg. But on a more serious note, don't be so formal in this setting. I don't have the patience to process extra words of nonsensical drivel. Keep it direct!"
+
+While Al nodded hurriedly in affirmation, Krish resumed, "I can help you in your plan to create your Sect. I have a few connections that can expedite the process and possibly offer you some advantages. On top of that, as Teacher Jeeves pointed out, I can also act as your insurance. Once they know that Tesseract Transformation realm mage is affiliated with your Sect, they will think twice before pulling something untoward."
+
+Guy hummed in contemplation.
+
+"Why?" He then asked. "Why would you do this for me?"
+
+"Consider it a favour," Krish responded. "For all the assistance you've offered in my journey to raise a Disciple."
+
+Guy furrowed his brows and said, "I'm not wholly convinced. From what I've heard from Marie, you're quite detached from the goings on in the world. Why would you go out of your way to assist me?"
+
+"There are reasons..." Krish expressed, wearing a strained expression. "Does it matter?"
+
+"If it were before, I wouldn't have asked," Guy responded. "But now, I'm not sure if I like the feeling of being used. So I'd really appreciate it if we put all of our cards on the table."
+
+Krish smiled ominously and said, "That's the right attitude."
+
+"That's true. I always wondered whether you were being mature or excessively naive in taking things in stride without questioning the motives of people around you," Al chimed in with an affirmative nod. "Not that I think that Mage Nara has any malicious ulterior motives-"
+
+"Just give it a break, man," Krish blurted out exasperatedly. "Alright. My reason for sponsoring you here are twofold."
 
 ____
 
