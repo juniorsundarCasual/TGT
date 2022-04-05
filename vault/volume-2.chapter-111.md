@@ -98,7 +98,7 @@ Jean's face turned crimson as she replied with a low mutter, "S-sex cells..."
 
 "That is also correct! Sex cells, or gametes, are special because they only contain half of the total required chromosomes to sustain Mitosis. Two gametes merge together through a process known as fertilisation to produce a whole cell or zygote, that can undergo Mitosis. And that is how children are born!"
 
-"Today, we will these two types of cell division more closely!"
+"Today, we will observe these two types of cell division more closely!"
 
 ____
 
