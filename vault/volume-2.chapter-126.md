@@ -30,7 +30,7 @@ Myron wore a proud smirk and glanced at Goran. Goran realised that Myron had tak
 
 "It is an honour to m-m-meet you, Artist L-L-Lang," the boy said in a low voice. In response, the boy simply received a curt hum from the man. It was then that Kano realised that the earlier hostility was directed at him! The resentment was so telegraphed that even Goran picked up on this minor interaction and immediately moved forward to shift the topic.
 
-"I apologise for cutting this meeting short. We were planning to peruse the works in the exhibition, so we shall be taking out leave," Goran said and bade Artist Lang a hurried farewell. They had arrived right just a few hours before the exhibition opened. Being a VVIP, Goran had the privilege of appreciating the artworks peacefully before the common riffraff.
+"I apologise for cutting this meeting short. We were planning to peruse the works in the exhibition, so we shall be taking our leave," Goran said and bade Artist Lang a hurried farewell. They had arrived right just a few hours before the exhibition opened. Being a VVIP, Goran had the privilege of appreciating the artworks peacefully before the common riffraff.
 
 "Why don't we join the Clan Leader and the little artist, Artist Lang?" Myron said in a feigned suggestive tone. He didn't wait for the recipient's affirmation and immediately started to follow Goran.
 
