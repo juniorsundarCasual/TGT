@@ -2,7 +2,7 @@
 id: eztzx2mjkgil5zvliclj9ca
 title: Chapter 165
 desc: ''
-updated: 1649011939375
+updated: 1649259947695
 created: 1649011939375
 ---
 
@@ -60,7 +60,19 @@ Al gulped audibly as a morbid silence took grasp of the ambience, "A Sect which 
 
 "That wasn't part of my plan," Krish denied immediately while alternating his gaze between Guy and his students. "In a minor fit of anger, I may have made a mistake in the curse. By the way, the 'Golden-Eyed Seer' is a very mild alias. I assumed it would be more bloody given the level of carnage."
 
-"The cooperative of Teachers and the Alliance of Sects wanted to go with the 'Evil-Eyed Demon of Misfortune', but they feared retribution!" Al exhorted. "If the person could "
+"The cooperative of Teachers and the Alliance of Sects wanted to go with the 'Evil-Eyed Demon of Misfortune', but they feared retribution!" Al exhorted. "If a person could eradicate a sizeable entity such as the Sunspot Sect so ruthlessly without having to once show their face, who would want to get on their bad side by affronting them with such a diminutive alias?"
+
+"Did you really have to go that far?" Guy asked.
+
+"Of course," Krish answered without hesitation. "Although it left a bad taste in my mouth seeing how far my curse travelled, it was necessary to avoid future conflicts. Mages are anything but forgiving individuals - myself included. If I hadn't eliminated the sect both root and stem, it would have inevitably led to another conflict down the line with a descendent. Now that I have a Disciple, it could have affected Marie as well. This is partly why I avoid mage infested regions nowadays. Everyone is just so sensitive. One slip of the tongue and you can end up with an enemy for life. It is easy to rack up negative social credit which is impossible to clear no matter how hard I try."
+
+Krish exhaled loudly to release his aggression. "Sorry about that rant..."
+
+"I can empathise with Mage Nara on that matter," Al affirmed.
+
+"Now that you've said it," Guy interjected. "If you're so averse to interfering with mage congregations, why are you so eager to support me in my venture? I'm pretty sure that you will have to make an appearance in public and shake a few hands. Aren't you worried about your past catching up to you?"
+
+"Given what I've seen in your fate, all those petty conflicts are trivial!" Krish evoked.
 
 ____
 
