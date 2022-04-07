@@ -2,7 +2,7 @@
 id: IEL37n77aoErycDSv64qj
 title: Chapter 004 - (Un)Fair
 desc: ''
-updated: 1643571945852
+updated: 1649348536351
 created: 1643481812422
 ---
 
@@ -94,7 +94,7 @@ Looking at the sorry state of the kid, Guy felt a little bad. And that’s when 
 
 Guy turned towards Jo, who was enthusiastically walking towards the grovelling Gaige with a spring in his step. 
 
-‘Something’s weird… Hey Mast, do you get a feeling that Jo is acting a little weird?’ Jo spoke inwardly.
+‘Something’s weird… Hey Mast, do you get a feeling that Jo is acting a little weird?’ Guy spoke inwardly.
 
 (Hmm. Let me see.) Mast said and then disappeared from his head.
 
