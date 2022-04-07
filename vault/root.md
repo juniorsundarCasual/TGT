@@ -2,7 +2,7 @@
 id: qbtgkpXE56GehWIIYUPlK
 title: The Good Teacher
 desc: ''
-updated: 1644298070345
+updated: 1649355529957
 created: 1643479838816
 ---
 
@@ -23,6 +23,7 @@ In this new world, Guy rediscovered his life's true calling! Ride along on Guy's
 
 * [[miscellaneous]]
 * [[volume-1]] [COMPLETED][FREE]
+* [[volume-2]] [COMPLETED][LOCKED]
 * [[volume-2]] [ONGOING][LOCKED]
 
 **Discord**:
