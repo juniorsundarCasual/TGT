@@ -1,8 +1,8 @@
 ---
 id: 8z0mpun1q93ss3umkjqu20j
-title: Chapter 166
+title: Chapter 166 - Grim Future
 desc: ''
-updated: 1649353607639
+updated: 1649684993227
 created: 1649011941944
 ---
 
@@ -82,7 +82,7 @@ Markus gulped audibly and held a firm gaze targeted at Krish. The boy was intimi
 
 "Mage Nara," the boy uttered. "I-I believe that your divination is incorrect."
 
-"It has to be faulty," Jean said in conjunction, while using a hand to support her shivering Senier Brother from the back.
+"It has to be faulty," Jean said in conjunction, while using a hand to support her shivering Senio6r Brother from the back.
 
 ____
 

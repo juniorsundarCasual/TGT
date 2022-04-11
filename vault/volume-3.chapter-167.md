@@ -2,7 +2,7 @@
 id: gvi17h6yxs1ytrula91x80m
 title: Chapter 167
 desc: ''
-updated: 1649674315127
+updated: 1649700480004
 created: 1649353619755
 ---
 
@@ -26,13 +26,109 @@ Guy bit his lips in distress while repeatedly chanting, 'That's not going to hap
 
 "I had a similar conclusion," Guy affirmed. "It's not something I have done before, after all. I would love to learn more about it, though."
 
-"There aren't books on sect management, I am afraid," Krish shrugged.
+"Do you have any knowledge about sect management - the way sects work in general?" Krish probed.
+
+Guy shook his head in response, evoking a long exhale from both the experienced mages in the room.
+
+"It isn't easy," Al muttered. "There aren't any books or journals about it either that you could use for reference. It's not like people just go around blurting out the inner workings of sects."
 
 "What about observation?" Guy blurted out. "Do you guys think it might be possible to observe a functioning sect?"
 
 "That's a risky option," Krish cautioned. "Sects aren't like Academies, in that secrecy and sovereignty are of utmost importance. You can't just waltz in, especially with such a flimsy reason."
 
+"Although..." Al said while elongating the last syllable with a contemplative intonation. "Ah shit, I really don't want to do it though!" He muttered to himself.
 
+Right as Al escaped his brief aside, he noticed everyone staring down at him inquisitively. He responded with a sheepish grin an explained, "I might be able to pull a favour, but... the man who owes me that favour is an insufferable human being."
+
+"I don't want to put you in an uncomfortable position," Guy responded hastily.
+
+"No... No, it's fine. I probably will never cash in this favour in my lifetime, given that I will have to interact with that man in order to do it. Might as well use it up for this purpose," Al said with a twitching smile.
+
+"Anyways," Al followed up while shaking his head of all irksome thoughts. "We cannot make the journey through regular transportation. For one, it is too far away, and also disjointed from regular travel routes. Unless you can fly, the journey will be impossible, I'm afraid. Thus, I shall prepare the transportation accordingly."
+
+"Umm, where are we going exactly?" Guy inquired.
+
+"You said you wanted to see how a sect operated and learn. I'm taking you to one."
+
+"Just like that?"
+
+"Just like that."
+
+____
+
+Three days after the enlightening meeting between Al, Krish, Guy, and Guy's students, an alarming shriek accentuated with a low bass growl of a large feline thundered over Twilight Village. The villagers cowered in fear as a majestic aura descended upon them, battering down in waves with periodic pulses of forceful gusts of wind.
+
+"What is that?"
+
+"Is it a bird?"
+
+"Is it a lion?"
+
+"Why is it flying down here?!"
+
+"RUN!"
+
+The crowd entered a frenzy as they rushed to enter the "safe" confines of their mud and wood homes.
+
+"It's not coming to the village," a panicking kid pointed out. "It's going to the orphanage."
+
+The villagers stopped for a moment and observed the trajectory of the bestial shadow baked in the bright sunlight. As the kid said, it swerved away from the village and moved towards the orphanage a little ways up the mountain.
+
+"Should we go help?" The kid asked.
+
+"Do you want to die?" The kid's parent blurted out. He then coughed audible to catch his faux pas and said, "T-They will be fine. Did you forget? Mages live up there!"
+
+The man's words implied assurance, however his intonation was filled with uncertainty. In fact, the man had actually gained a clear look of the majestic beast flying above them. Through his travels to the town nearby, he had heard of a few adventurous mercenaries describe a similar creature which they had observed during their travels.
+
+"They will be fine..." The man repeated, more so to satisfy his inner anxiety than to calm his lad.
+
+In the story he had heard from the mercenaries, he learned of the most gruesome creatures to ever walk the face of Gaea. The mercenaries had told him that their group was actually a hundred strong, but only 10 managed to make it out alive, of which only five had all their limbs intact.
+
+The beast killed first, feasted after. Highly territorial - it chased the party for many kilometres out from its nest. Ruthless - it eviscerated and disemboweled those that it killed with its talon-forelegs and beak.
+
+The man shuddered at the utter carnage that mercenary described. The man was inclined to believe the mercenary as the group shook visibly as they recollected those event.
+
+"They will be fine... It will all be fine..." The man muttered repeatedly.
+
+____
+
+Up the mountain, at the orphanage, a similar reaction as the villagers was elicited from Grace, who reflexively hid behind Guy. In turn, Guy had to try his hardest to hold up a brave front, when in reality he too was extremely petrified at the sight of a beast he had only heard of through myths and legends in his past life.
+
+"Wow!" Dora exclaimed excitedly as she hopped over to the beast that had fully descended to the ground in front of the orphanage. Al leapt off its back and immediately reached to stop Dora from approaching any further.
+
+"Careful! He's a finicky little one," Al said.
+
+"Little?" Marie blurted out. "That's not little!"
+
+"Is that a-" Markus started.
+
+"-Griffin!" Guy finished.
+
+"Oh? You've heard of griffins before? Although, this one is still a juvenile chick. It will grow much larger," Al expounded.
+
+"He's not an 'it'!" Dora corrected. "He's a he!"
+
+Al bit his tongue apologetically before narrowing his eyes in confusion, "Wait! How did you know that?"
+
+"He told me," Dora answered innocently before ducking underneath Al's hands and rushing up to the large four-legged creature with a pair of wide wings.
+
+"Dora!" Grace exclaimed, but her voice was cut short when then creature dipped its neck and nudged Dora playfully with its hooked beak. Dora grasped the creature's golden-brown feathers around its neck and whispered into its ears while giggling intermittently.
+
+"That's odd," Al commented. "He's not really so pleasant around other people. Not after I yanked him away from his parents..."
+
+'Did he kidnap this thing?!' Guy cried out internally.
+
+"Anyways," Al immediately said after. "Guy, come! Get on!"
+
+"Excuse me?"
+
+"Get on! I'll help you hop on to Garrud's back. Make sure that you don't pluck his feathers, he does NOT like that."
+
+Guy laughed erratically while retreating backwards.
+
+"Where are you going? Quick, get on. We need to go!"
+
+""
 
 ____
 
