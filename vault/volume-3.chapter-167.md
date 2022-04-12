@@ -1,8 +1,8 @@
 ---
 id: gvi17h6yxs1ytrula91x80m
-title: Chapter 167
+title: Chapter 167 - Journey for Knowledge
 desc: ''
-updated: 1649700480004
+updated: 1649753360192
 created: 1649353619755
 ---
 
@@ -124,11 +124,11 @@ Al bit his tongue apologetically before narrowing his eyes in confusion, "Wait! 
 
 "Get on! I'll help you hop on to Garrud's back. Make sure that you don't pluck his feathers, he does NOT like that."
 
-Guy laughed erratically while retreating backwards.
+Guy eyes darted to the creatures extended talons, which were nearly the size of bison horns. The claws of its feline hindlegs weren't anything to scoff at either - every time it flexed and retracted them, they left a visible dent on the hard ground. The beast's eagle-eyes exuded an aura of inescapable danger. Yet, this ferocious beast had turned into a yearning kitten in front of Dora, who barely reached its shoulders.
 
-"Where are you going? Quick, get on. We need to go!"
+"Do we really have to travel using a Griffin?" Guy inquired meekly with an audible gulp.
 
-""
+"Unless you can fly," Al shrugged. "Now stop wasting time!"
 
 ____
 
