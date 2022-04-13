@@ -2,7 +2,7 @@
 id: 5z9ilswex39jdos9i369new
 title: Chapter 168 - Meet Garrud the Griffin
 desc: ''
-updated: 1649826227651
+updated: 1649872539176
 created: 1649353623562
 ---
 
@@ -30,14 +30,53 @@ As expected, the griffin's soul power expands exponentially once they enter Core
 
 "H-How did you find the egg?" Guy inquired while trying to control his chattering teeth. The sheer distance between their current altitude and the ground was agitating his acrophobia. Even his Disciple had increased the force with which he grabbed Guy's waist.
 
-"Total coincidence! You wouldn't even believe it," Al exhorted. "There was a contract posted for exterminating a pair of griffins up at Gold-Plated Hills quite a ways West from Twilight Village. Many heads congregated there to undertake this venture, the beat couple WERE in the Core Condensation Realm after all. On a side note, beasts at a cultivation realm are generally stronger than human mages at the same realm. It has to do with their superior physiques, bloodlines and one-track-minded cultivation methods. None of those distractions that humans suffer from, holding their cultivations back."
+"Total coincidence! You wouldn't even believe it," Al exhorted as he soared next to him. "There was a contract posted for exterminating a pair of griffins up at Gold-Plated Hills quite a ways West from Twilight Village. Many heads congregated there to undertake this venture, the beat couple WERE in the Core Condensation Realm after all. On a side note, beasts at a cultivation realm are generally stronger than human mages at the same realm. It has to do with their superior physiques, bloodlines and one-track-minded cultivation methods. None of those distractions that humans suffer from, holding their cultivations back."
 
-"So anyways, I wanted to try my luck out. I hadn't confronted griffins before"
+"So anyways, I wanted to try my luck out. I hadn't confronted griffins before; thought about testing my might against them. And would you believe my luck! The griffins had laid a wonderful gold coated egg!"
 
+"Unguarded?" Guy exclaimed in disbelief.
 
+"Not really," Al responded with a sly smile. "It just so happened that two mercenary groups led by a few mages had coordinated an attack against the nest at the same time. You may be aware that griffins are notorious for their capacity to hoard treasures. Their affinity to it sometimes even rivals dragons! The stronger the griffin, the more treasure hoarded in its nest. And if there were two, the hoard would be doubled. The mercenary groups distracted the two griffins, while I sneakily entered and swiped it."
 
+As Al finished the sentence, Garrud jolted with mild aggravation.
 
+"Oh drop it already!" Al spat at the irritated hybrid. "Your life amongst your parents would have been far worse. Do you think they would feed you all those expensive elixirs and natural treasures such as I did?"
 
+Garrud vibrated reluctantly in agreement.
+
+"He's a saucy little brat," Al commented. "A familiar bond does not automatically ensure allegience. The brat realised that he had been fleeced the moment he gained partial sentience, and he turned on me at that instance! You wouldn't believe how much I had to sink into him to get him to listen to me."
+
+"What surprised me, though," Al immediately redirected with a confused intonation, "is that he was so amicable with that girl. Garrud hates people, period. The last time I asked someone else to feed him, he nearly mauled the poor bloke to death. The girl didn't aggravate him, its peculiar."
+
+"Dora has a way with animals," Guy affirmed.
+
+"No kidding," Al muttered. "The weird thing was that I could hear her voice through my familiar bond. It was like a faint echo."
+
+"You know, the more I get to know the people at the orphanage, the more I've come to realise that it is a treasure trove filled with talented individuals," Al declared spontaneously.
+
+"Everyone's talented in one way or another," Guy chuckled. "You just have to look deeper and with a lens free of prejudice."
+
+"Hear, hear!"
+
+After that, Al increased his flight speed along with his familiar's.
+
+Although Guy had flown many times in his past life, it was always within the confines of a pressurised metal tube. Surprisingly, he felt safer atop the back of the flying beast that when travelling via aeroplane. Somehow, the feeling of the wind blowing through his hair and the paced heartbeats of the beast beneath him comforted his mind. While within an aeroplane, the precarious rumbling and jerking motion always instilled a subtle fear in his heart. He did not experience the same uneasiness atop Garrud.
+
+Guy did have some difficulty keeping his eyes open as they started to gain altitude. The dry, cold wind bit into his skin and dessicated his eye balls immediately. Through trial-and-error, he managed to form a robust screen of mana in front of him that helped separate the currents. He was just about to tell his Disciple when he noticed that Markus had already put up a similar sheild in front of his face.
+
+"We will be arriving at the sect soon," Al's voice reverberated in their minds. "Let me handle the talking. I will lobby for access to the sect's record library. Through it, you will gain access to the sect's history and front-end management data and finances - all under supervision. The favour should cover that much."
+
+Guy and Markus nodded affirmatively.
+
+"The man we are going to rendezvous with is extremely nosy. Try not to reveal too much about yourself. The more intrigued he feels, the more he will dig into your past," Al warned.
+
+Guy chuckled spontaneously at the irony of Al's description of the man. 'Sounds similar to a certain mage I know.'
+
+"Finally. Whatever happens, do not interfere with anything that happens in the sect," Al warned Guy and Markus. "I am a hundred percent sure that the bastard will set something up to provoke a confrontation."
+
+Al gritted his teeth in frustration as he suddenly recollected an interaction from his past with the 'bastard' in question.
+
+"That asshole's is probably still salty after his close defeat during out last bout," Al muttered to himself. "I have to be extra careful so that Guy and Markus aren't caught in the crossfire."
 
 ____
 
