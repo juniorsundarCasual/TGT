@@ -83,7 +83,7 @@ publishing:
     assetsPrefix: /TGT
     copyAssets: true
     siteHierarchies:
-        - root
+        - home
         - miscellaneous
         - volume-1
         - volume-2
@@ -100,8 +100,8 @@ publishing:
             - vault
     writeStubs: false
     seo:
-        title: Dendron
-        description: Personal knowledge space
+        title: The Good Teacher
+        description: Repository of chapters
     github:
         enableEditLink: true
         editLinkText: Edit this page on GitHub
