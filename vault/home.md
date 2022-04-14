@@ -2,12 +2,8 @@
 id: hsfwh1drgon77m1i871e0g7
 title: Introduction
 desc: ''
-updated: 1649916421490
+updated: 1649917641466
 created: 1649916401463
-status: ''
-due: ''
-priority: ''
-owner: ''
 ---
 
 ![Front_Cover](./assets/images/TGT_JUL2021.jpg)
