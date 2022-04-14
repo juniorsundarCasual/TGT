@@ -2,7 +2,7 @@
 id: 5z9ilswex39jdos9i369new
 title: Chapter 168 - Meet Garrud the Griffin
 desc: ''
-updated: 1649872539176
+updated: 1649948475420
 created: 1649353623562
 ---
 
@@ -74,9 +74,9 @@ Guy chuckled spontaneously at the irony of Al's description of the man. 'Sounds 
 
 "Finally. Whatever happens, do not interfere with anything that happens in the sect," Al warned Guy and Markus. "I am a hundred percent sure that the bastard will set something up to provoke a confrontation."
 
-Al gritted his teeth in frustration as he suddenly recollected an interaction from his past with the 'bastard' in question.
+Al gritted his teeth in frustration as he suddenly recollected the interaction from his past with the 'bastard' in question that led to him gaining the favour.
 
-"That asshole's is probably still salty after his close defeat during out last bout," Al muttered to himself. "I have to be extra careful so that Guy and Markus aren't caught in the crossfire."
+"It's because he LET me win that time," Al muttered to himself. "I have to be extra careful so that Guy and Markus aren't caught in whatever scheme he is cooking up."
 
 ____
 
