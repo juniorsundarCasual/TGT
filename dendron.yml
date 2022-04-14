@@ -84,6 +84,10 @@ publishing:
     copyAssets: true
     siteHierarchies:
         - root
+        - miscellaneous
+        - volume-1
+        - volume-2
+        - volume-3
     enableSiteLastModified: true
     siteRootDir: docs
     siteUrl: 'https://juniorsundar.github.io'
