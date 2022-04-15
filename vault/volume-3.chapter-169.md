@@ -2,7 +2,7 @@
 id: ifjj3njj30gce2fojr2315m
 title: Chapter 169
 desc: ''
-updated: 1649962012817
+updated: 1650034862717
 created: 1649353627466
 ---
 
@@ -56,7 +56,63 @@ Al fished out an embellished marble token the size of his palm which had beautif
 
 "Thanks to the mana concentration in the area, most of these formations can be sustained without mana crystals. Some of the more active defense formations do require additional mana, but those are only activated during dire scenarios," Al responded.
 
+Following another sharp ascent, Al and Garrud hovered in place before landing upon an open area. The design of the flat region reminded Guy of helipads from his past life - it appeared as though this was specifically designated as the landing zone for flying objects.
 
+"Al Jeeves!" A gruff voice bellowed from accross the landing space as he approached Al. "In the flesh."
+
+Al growled back in annoyance and greeted the man with a rough handshake, "Marek Glista."
+
+"You wouldn't believe how surprised I was when I received a message asking for assistance, from THE great Al Jeeves of all people?" The man dressed in all black said with a mocking tone.
+
+"Enough with the theatrics," Al shot back immediately while retrieving his palm from the uncomfortably long handshake. "Let's get this over with."
+
+"Ah, ah, ah!" Marek responded while shaking an extended finger side-to-side. "As a humble Elder of the Cloudstrider Sect, it is my duty to go through the proper rituals while welcoming guests."
+
+"Now who might these two gentlemen be?" Marek asked out loud without taking his attention off of Al.
+
+"This is Guy Larks. He is an Apprentice I am training, and this is Markus Reva, a Student I'm personally teaching," Al said offhandedly.
+
+Marek hummed and said, "The Student appears more talented than the Apprentice. And their physique is uninitiated to the martial path; they're weak."
+
+"Both of them reached this level within a span of two years. And you know that I don't gauge talent the same way you do."
+
+"Intellectuals then," Marek commented with a contemplative nod. I take it back. As expected of the great Mage, Al Jeeves. No talent can be hidden from those voracious eyes, thirsty for knowledge."
+
+"The same could be said for you," Al snorted back. "Your nose sniffs out martial talent like a Bloodletting Moth to, well, blood."
+
+"Is that a compliment?" Marek retorted with feigned surprise.
+
+"It's reciprocation," Al said with a sigh. "Let's move on."
+
+"I must say that I am a little curious. Your request is unusual," Marek pointed out with a sly grin. "What are you hiding from me, Al?"
+
+"That wasn't part of the agreement, Marek," Al denied immediately. "The condition from our duel was a favour with 'No Questions Asked'. Are you reneging on the deal?"
+
+Marek clicked his tongue and chided, "You always know to keep me on my toes."
+
+He then revealed a slight grin while tossing two marble tokens with an intricate symbol etched on them to Guy and Markus. As the tokens curved through the air and landed gently on their expecting palms, they could feel a trace of magic flowing through them.
+
+"Those shall give you unimpeded access to most locations within the sect, barring a few which shall be reminded to you by any guardians stationed near that area," Marek explained. "I remember that one of you requires access to historic records?"
+
+Guy nodded and raised his hands. Marek clicked his fingers, again without turning away from Al. Behind him, a cloaked mage materialised and greeted respectfully, "Elder Glista."
+
+"Lead the one with his arm up to the Archives."
+
+The cloaked figure turned and walked away without a word. It took a second, but Guy caught on to the implied message immediately and followed the figure in a brisk walk, with Markus in tow.
+
+Al turned to follow the duo but was immediately intercepted by Marek blocking his path, "Where are you going?"
+
+"Following them," Al answered with raised brows.
+
+"You don't have an all access token," Marek reminded.
+
+"What?"
+
+"You don't have access, Al," Marek repeated with a devious chuckle. "Do you realise how difficult it was to convince the Sect Master to issue the tokens 'No Questions Asked'?"
+
+Marek wore a fake pout and continued, "I could only manage to wrangle two."
+
+He then leaned forward and said, "It appears that you cannot leave my side today, Al."
 
 ____
 

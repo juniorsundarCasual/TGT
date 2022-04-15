@@ -2,7 +2,7 @@
 id: 5z9ilswex39jdos9i369new
 title: Chapter 168 - Meet Garrud the Griffin
 desc: ''
-updated: 1649948475420
+updated: 1650030198819
 created: 1649353623562
 ---
 
@@ -30,7 +30,7 @@ As expected, the griffin's soul power expands exponentially once they enter Core
 
 "H-How did you find the egg?" Guy inquired while trying to control his chattering teeth. The sheer distance between their current altitude and the ground was agitating his acrophobia. Even his Disciple had increased the force with which he grabbed Guy's waist.
 
-"Total coincidence! You wouldn't even believe it," Al exhorted as he soared next to him. "There was a contract posted for exterminating a pair of griffins up at Gold-Plated Hills quite a ways West from Twilight Village. Many heads congregated there to undertake this venture, the beat couple WERE in the Core Condensation Realm after all. On a side note, beasts at a cultivation realm are generally stronger than human mages at the same realm. It has to do with their superior physiques, bloodlines and one-track-minded cultivation methods. None of those distractions that humans suffer from, holding their cultivations back."
+"Total coincidence! You wouldn't even believe it," Al blurted out as he soared next to him. "There was a contract posted for exterminating a pair of griffins up at Gold-Plated Hills quite a ways West from Twilight Village. Many heads congregated there to undertake this venture, the beat couple WERE in the Core Condensation Realm after all. On a side note, beasts at a cultivation realm are generally stronger than human mages at the same realm. It has to do with their superior physiques, bloodlines and one-track-minded cultivation methods. None of those distractions that humans suffer from, holding their cultivations back."
 
 "So anyways, I wanted to try my luck out. I hadn't confronted griffins before; thought about testing my might against them. And would you believe my luck! The griffins had laid a wonderful gold coated egg!"
 
