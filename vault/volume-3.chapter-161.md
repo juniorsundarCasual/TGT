@@ -2,17 +2,19 @@
 id: o6svtzqawtz6s2y1dcv2m5g
 title: Chapter 161 - Unpleasant Revelations
 desc: ''
-updated: 1648149601263
+updated: 1650219542917
 created: 1648149601263
 ---
 
-"I need to hear the truth, Mast," Guy declared. After entering the RoK, he was now face to face with Mast's avatar. "The whole truth, about my death."
+A few hours before Guy rescued Al from getting dissolved inside his Student's core. A long-awaited confrontation took place inside the RoK.
+
+"I need to hear the truth, Mast," Guy declared. After entering the RoK, he now faced Mast's avatar, which also happened to resemble Guy's form from his past life. "The whole truth, about my death."
 
 (What's there to learn? I've told you everything,) Mast shrugged.
 
-"I don't believe that you have," Guy rebutted with a frown. "You have been lying to me. I want to hear the unadultered facts."
+"I don't believe that you have," Guy rebutted with a frown. "You have been lying to me. I want to hear the unadulterated facts."
 
-Mast tilted his head. He then waved his hand, causing a seat to materialise behind him. He lowered himself into the chair, and rested his chin on his closed fist.
+Mast tilted his head. He then waved his hand, causing a seat to materialise behind him. He lowered himself into the chair and rested his chin on his closed fist, which was supported by the table at the centre of the RoK.
 
 (Let's say that I have been deceptive with you, what reason do I have to reveal the truth to you?) He asked, breaking the charged pause lingering in the space.
 
@@ -20,11 +22,11 @@ Mast tilted his head. He then waved his hand, causing a seat to materialise behi
 
 (You are being uncharacteristically assertive,) Mast commented with a faintly mirthful tone.
 
-"That was my greatest flaw. I've come to realise that, albeit a bit too late," Guy muttered with a bitter smile. He then added, "I should have been more assertive in my past live."
+"That was my greatest flaw. I've come to realise that, albeit a bit too late," Guy muttered with a bitter smile. He then added, "I should have been more assertive in my past life."
 
-(If you had been assertive in your past life, you wouldn't have been able to extend your charitable work to such an extent. Often times, the harder one pushes the greater opposition they face. You were given freedom to spread your work BECAUSE you were perceived as harmless in the eyes of others,) Mast responded. People in power have agendas, it is an irrefutable and immutable fact. They are willing to entertain anyone as long as it doesn't conflict with their agenda. This was the reason why Guy was given free-reign into different countries to establish his charity. However, the moment Guy were to show even an inkling of opposition or confrontation, how "all-access ticket" would have been revoked. The beureaucracy Guy managed to skip earlier would have been re-implemented, possibly with increased stringency.
+(If you had been assertive in your past life, you wouldn't have been able to extend your charitable work to such an extent. Oftentimes, the harder one pushes, the greater opposition they face. You were given the freedom to spread your work BECAUSE you were perceived as harmless in the eyes of others,) Mast responded. People in power have agendas, it is an irrefutable and immutable fact. They are willing to entertain anyone as long as it doesn't conflict with their agenda. This was the reason why Guy was given unhindered access to different countries to establish his charity. However, if Guy showed even an inkling of opposition or confrontation, his "all-access ticket" would have been revoked. The bureaucracy Guy managed to skip earlier would have been re-implemented, possibly with increased stringency.
 
-"I have come to realise that sometimes, maintaining the status quo and introducing sustainable change may not be enough," Guy reaffirmed. Maybe he would have to jump through more hoops, but it would have left a lasting impact at least.
+"Sometimes, maintaining the status quo and introducing sustainable change may not be enough," Guy reaffirmed. Maybe he would have to jump through more hoops, but it would have left a lasting impact at least.
 
 (But it works. Given time, even the calmest of rivers can cut through mountains.)
 
@@ -32,7 +34,7 @@ Mast tilted his head. He then waved his hand, causing a seat to materialise behi
 
 All of a sudden, Mast lowered his seemingly relaxed state. He stood up from his chair, and as he did so his avatar dissipated immediately, taking the world around him with it. Guy was now alone in a vast black void. Incrementally, he started to lose his connection to his senses as well, until eventually, he had reverted to the state he was after his first demise.
 
-(You want to know whether your death was a part of my machinations?) Mast's voice boomed around teh void.
+(You want to know whether your death was a part of my machinations?) Mast's voice boomed around the void.
 
 (It was not,) Mast followed up immediately. (In fact. It was not a mistake either. My world is perfect - I have made sure of it.)
 
@@ -46,7 +48,7 @@ All of a sudden, Mast lowered his seemingly relaxed state. He stood up from his 
 
 "What?" Guy exclaimed in confusion at the apparent contradiction in Mast's statement.
 
-(Your death was coincidental, but me selecting you was not.)
+(Your death was coincidental, but my selecting you was not.)
 
 "Y-You chose me on purpose? Why?"
 
@@ -68,7 +70,7 @@ All of a sudden, Mast lowered his seemingly relaxed state. He stood up from his 
 
 (I believe it is pretty obvious,) Mast retorted. (I am your benefactor.)
 
-"Right..." Guy muttered with a drawl imbued with bitter acceptance. He recognised his immaturity and naïveté in thinking that he could, in some way, have a close relationship with an omnisicent and puedo-omnipotent being such as Mast.
+"Right..." Guy muttered with a drawl imbued with bitter acceptance. He recognised his immaturity and naïveté in thinking that he could, in some way, have a close relationship with an omniscient and pseudo-omnipotent being such as Mast.
 
 (You disagree? You should have died, but you did not,) Mast pointed out. (I gave you a second chance.)
 
@@ -90,39 +92,53 @@ All of a sudden, Mast lowered his seemingly relaxed state. He stood up from his 
 
 "Then what is my true purpose!" Guy demanded.
 
-(That is not for you to know,) Mast cut back. The void once again descended into a tense silence. The abruptness of that declaration immediatly impeded Guy's momentum.
+(That is not for you to know,) Mast cut back. The void once again descended into a tense silence. The abruptness of that declaration immediately impeded Guy's momentum.
 
 "What?" Guy blurted out.
 
 (Our conversation has gone for long enough,) Mast declared. At that moment, the void prevailing around Guy started to regain its light, and the all too familiar sight of the RoK once again came into the foreground.
 
-Guy started to panic, as he immediately realised that their conversation was about to be cut short without him having learned the key piece of information about his transmigration. In panic, Guy threatened, "I will end myself if you don't tell me!"
+Guy started to panic, as he immediately realised that their conversation was about to be cut short without him having learned the key piece of information about his transmigration. In haste, Guy threatened, "I will end myself if you don't tell me!"
 
 Through the muffled silence, Mast responded coldly, (No you won't, you have too much to lose.)
 
-And with that, Mast disappeared. Although Guy couldn't see it, he could feel that absence of Mast. Many thoughts lingered in Guy's mind.
+And with that, Mast disappeared. Although Guy couldn't see it, he could feel that absence of Mast.
 
-Guy felt fear. One could say that Mast was the one constant that carried over from Guy's past life. It was the anchor that connected him to his previous identity, and gave meaning to his previous existence. The recent confrontation with Mast completely shattered this belief. All of a sudden, Guy felt like he had become stranded in a completely foreign island by himself. The lifebuoy he assumed would keep him from drowning was a mere figment of his imagination. Fear was the obvious consequence. Even the most fearsome of animals succumb to it if the last modicum of familiarity is stipped off from their surroundings. 
+Many thoughts lingered in Guy's mind.
 
-Guy felt despair. From the beginning, he held a faint belief - an assumption - that Mast was on his side. Maybe it was due to the constant companionship offered by Mast's existence in the RoK, but Guy viewed Mast as close companion, someone he could rely on. However, the confrontation revealed that the facade of companionship was simply a one way mirror. Mast made it very clear that he didn't view Guy as anything more that a piece in a large jigsaw puzzle. It was a discomforting revelation, and one that evoked profound humiliation, which shook Guy to his core.
+Guy felt fear. One could say that Mast was the one constant that carried over from Guy's past life. It was the anchor that connected him to his previous identity and gave meaning to his previous existence. The recent confrontation with Mast completely shattered this belief. All of a sudden, Guy felt like he had become stranded on a completely foreign island by himself. The lifebuoy he assumed would keep him from drowning was a mere figment of his imagination. Fear was the obvious consequence. Even the most terrifying of animals succumb to it if the last modicum of familiarity is stripped off from their surroundings. 
 
-Guy felt infuriated. Every sentient being with a cognizance to the sense of self, that is beings capable of questioning their existence, have an inbuilt want to believe that they have self-governance - that they have control over their actions and decisions. They want the affirmation that they have control over their existence. Guy was indicated as such when he was offered a second iteration to his life. He was promised that he could live his new life the way he wanted to, and pursue his dreams. In fact, Mast made it a point to highlight this "freedom" during this confrontation. But Guy also understood that it was all a facade. There was a purpose to his presence here beyond what he was led to believe. Although Guy wasn't averse to believing that there was a certain level of predetermination in one's existence, what irked him immeasurably was the betrayal. Guy was enraged by the lies and deceit.
+Guy felt despair. From the beginning, he held a faint belief - an assumption - that Mast was on his side. Maybe it was due to the constant companionship offered by Mast's existence in the RoK, but Guy viewed Mast as a close companion and someone he could rely on. However, the confrontation revealed that the facade of companionship was simply a one-way mirror. Mast made it very clear that he didn't view Guy as anything more than a piece in a large jigsaw puzzle. It was a discomforting revelation and one that evoked profound humiliation, which shook Guy to his core.
+
+Guy felt infuriated. Every sentient being with cognizance of the sense of self, that is a being capable of questioning its existence, has an inbuilt want to believe that it has self-governance - that it has control over its actions and decisions. It wants the affirmation that it has control over its existence. Guy was indicated as such when he was offered a second iteration of his life. He was promised that he could live his new life the way he wanted to, and pursue his dreams. In fact, Mast made it a point to highlight this "freedom" during this confrontation. But Guy also understood that it was all a facade. There was a purpose to his presence here beyond what he was led to believe. Although Guy wasn't averse to believing that there was a certain level of predetermination in one's existence, what irked him immeasurably was the betrayal. Guy was enraged by the lies and the subterfuge that underlay his rebirth.
 
 "Would things have been better if Mast told me the whole truth from the very beginning? Would it have been better if my second chance was footnoted with a conditional clause?" Guy pondered. "Maybe it was for the better this way. After all, ignorance is bliss."
 
-But Guy immediately shook all those rogue thoughts, and centred his mind. As he thought back, Guy realised that although Mast hadn't clarified Guy's purpose, he did say that Guy should just be himself and continue living as he had before.
+But Guy immediately shook all those rogue thoughts and centred his mind. As he retraced his thought process, Guy realised that although Mast hadn't clarified Guy's purpose, he did say that Guy should just be himself and continue living as he had before.
 
 "I cannot live my life the way I have till now," Guy concluded. "I want my life to have meaning! I want to make a difference."
 
-Guy recognised that things needed to change. He wasn't planning to intentionally confront Mast, since that entity hadn't done anything to hurt Guy (that was he was aware of). Furthermore, Guy was also grateful for being offered a second chance even if it was conditional in some ways.
+This world was much worse than his previous one. At least society in his previous life was coated with a sense of peace, but this world was not. One couldn't predict if they would lose their life to a rogue sword or arrow, or even a virulent plague capable of devastating large swathes of territory. Poverty was rampant, widespread corruption and exploitation infested the civilisations, and the martial gap that separated the mortals from the mages had marginalised the powerless to a precarious lifestyle. 
 
-Mast must have a bottom line, but Guy hadn't infringed on it just yet. Presumably, Guy's current trajectory wouldn't infringe on it either, otherwise Mast would have interfered. Nonetheless, Guy was feeling confrontational about the betrayal. He wanted to see just how far he could push Mast's buttons, as a sign of protest.
+"People could live such prosperous lives here. But everyone is too absorbed with accumulating power to look back and help others." This world had become rotten! The other Guy was correct in asserting that this rot had to be excised.
 
-Guy's shift in trajectory would have dual purposes. The first was to make a meaningful contribution to the world and make a lasting difference. The second was more selfish, and it was to simply piss Mast off!
+And the world was unforgiving to both adults and children alike. The orphans in the orphanage Guy was living in were an excellent example of this. These kids were robbed of their childhood, forced to carry the weight of the world on their backs and unable to express their true selves to the world. And who knows what horrible experiences Grace had to live through that caused her to tremble at the sight of another mage?
+
+This was just a small sample in the large scheme of things. Guy could already fathom the lives of the other orphans around the world!
+
+"Things probably aren't any better out there." Guy felt that it was no longer an option to sit on the sidelines and watch the world move in front of him.
+
+Guy recognised that things needed to change. His current trajectory had to undergo a drastic shift. This change would serve dual purposes. Of course, the first was to make a meaningful contribution to the world and make a lasting difference. The second was more selfish, and it was to simply piss Mast off!
+
+He wasn't planning to intentionally confront Mast, since that entity hadn't done anything to hurt Guy (that was he was aware of). Furthermore, Guy was also grateful for being offered a second chance even if it was conditional in some ways. But the betrayal hurt.
+
+Mast must have a bottom line, but Guy hadn't infringed on it just yet. Presumably, Guy's previous trajectory wouldn't infringe on it either, otherwise, Mast would have interfered. Nonetheless, Guy was feeling confrontational. He wanted to see just how far he could push Mast's buttons, as a sign of silent protest.
 
 "I realise that I need to make changes," Guy muttered while scratching his chin. "But where do I begin?"
 
-Guy had a good idea of the big picture, but the intermediate steps to achieve that goal were a mystery to him. After careful thought, he figured that it would be best to inquire a more learned party, preferably one with more experience in this world. Amongst those that he was acquainted with in this world that fit that bill, a single name stood out prominently. With that decided, Guy let got on his feet and trudged along to the immaculate tent set up near the orphanage, which was the temporary home of Al Jeeves.
+Guy had a good idea of the big picture, but the intermediate steps to achieve that goal were a mystery to him. After careful thought, he figured that it would be best to inquire a more learned party, preferably one with more experience in this world. Amongst those persons that he was acquainted with that fit that bill, a single name stood out prominently.
+
+It was the man who had helped Guy get accustomed to his life here from the beginning. With a firm and resolute expression, Guy got on his feet and trudged along to the immaculate tent set up near the orphanage, which was the temporary home of Al Jeeves.
 
 ____
 
