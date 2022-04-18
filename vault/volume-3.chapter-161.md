@@ -2,7 +2,7 @@
 id: o6svtzqawtz6s2y1dcv2m5g
 title: Chapter 161 - Unpleasant Revelations
 desc: ''
-updated: 1650219542917
+updated: 1650259175526
 created: 1648149601263
 ---
 
@@ -106,7 +106,7 @@ And with that, Mast disappeared. Although Guy couldn't see it, he could feel tha
 
 Many thoughts lingered in Guy's mind.
 
-Guy felt fear. One could say that Mast was the one constant that carried over from Guy's past life. It was the anchor that connected him to his previous identity and gave meaning to his previous existence. The recent confrontation with Mast completely shattered this belief. All of a sudden, Guy felt like he had become stranded on a completely foreign island by himself. The lifebuoy he assumed would keep him from drowning was a mere figment of his imagination. Fear was the obvious consequence. Even the most terrifying of animals succumb to it if the last modicum of familiarity is stripped off from their surroundings. 
+Guy felt fear. One could say that Mast was the one constant that carried over from Guy's past life. It was the anchor that connected him to his previous identity and gave meaning to his previous existence. The recent confrontation with Mast completely shattered this belief. All of a sudden, Guy felt like he had become stranded on a completely foreign island by himself. The lifebuoy he assumed would keep him from drowning was a mere figment of his imagination. Fear was the obvious consequence. Even the most terrifying of animals succumb to it if the last modicum of familiarity is stripped off from their surroundings. 
 
 Guy felt despair. From the beginning, he held a faint belief - an assumption - that Mast was on his side. Maybe it was due to the constant companionship offered by Mast's existence in the RoK, but Guy viewed Mast as a close companion and someone he could rely on. However, the confrontation revealed that the facade of companionship was simply a one-way mirror. Mast made it very clear that he didn't view Guy as anything more than a piece in a large jigsaw puzzle. It was a discomforting revelation and one that evoked profound humiliation, which shook Guy to his core.
 
@@ -116,29 +116,7 @@ Guy felt infuriated. Every sentient being with cognizance of the sense of self, 
 
 But Guy immediately shook all those rogue thoughts and centred his mind. As he retraced his thought process, Guy realised that although Mast hadn't clarified Guy's purpose, he did say that Guy should just be himself and continue living as he had before.
 
-"I cannot live my life the way I have till now," Guy concluded. "I want my life to have meaning! I want to make a difference."
-
-This world was much worse than his previous one. At least society in his previous life was coated with a sense of peace, but this world was not. One couldn't predict if they would lose their life to a rogue sword or arrow, or even a virulent plague capable of devastating large swathes of territory. Poverty was rampant, widespread corruption and exploitation infested the civilisations, and the martial gap that separated the mortals from the mages had marginalised the powerless to a precarious lifestyle. 
-
-"People could live such prosperous lives here. But everyone is too absorbed with accumulating power to look back and help others." This world had become rotten! The other Guy was correct in asserting that this rot had to be excised.
-
-And the world was unforgiving to both adults and children alike. The orphans in the orphanage Guy was living in were an excellent example of this. These kids were robbed of their childhood, forced to carry the weight of the world on their backs and unable to express their true selves to the world. And who knows what horrible experiences Grace had to live through that caused her to tremble at the sight of another mage?
-
-This was just a small sample in the large scheme of things. Guy could already fathom the lives of the other orphans around the world!
-
-"Things probably aren't any better out there." Guy felt that it was no longer an option to sit on the sidelines and watch the world move in front of him.
-
-Guy recognised that things needed to change. His current trajectory had to undergo a drastic shift. This change would serve dual purposes. Of course, the first was to make a meaningful contribution to the world and make a lasting difference. The second was more selfish, and it was to simply piss Mast off!
-
-He wasn't planning to intentionally confront Mast, since that entity hadn't done anything to hurt Guy (that was he was aware of). Furthermore, Guy was also grateful for being offered a second chance even if it was conditional in some ways. But the betrayal hurt.
-
-Mast must have a bottom line, but Guy hadn't infringed on it just yet. Presumably, Guy's previous trajectory wouldn't infringe on it either, otherwise, Mast would have interfered. Nonetheless, Guy was feeling confrontational. He wanted to see just how far he could push Mast's buttons, as a sign of silent protest.
-
-"I realise that I need to make changes," Guy muttered while scratching his chin. "But where do I begin?"
-
-Guy had a good idea of the big picture, but the intermediate steps to achieve that goal were a mystery to him. After careful thought, he figured that it would be best to inquire a more learned party, preferably one with more experience in this world. Amongst those persons that he was acquainted with that fit that bill, a single name stood out prominently.
-
-It was the man who had helped Guy get accustomed to his life here from the beginning. With a firm and resolute expression, Guy got on his feet and trudged along to the immaculate tent set up near the orphanage, which was the temporary home of Al Jeeves.
+"That's the thing! I cannot live my life the way I have till now," Guy concluded. "I want my life to have meaning! I want to make a difference."
 
 ____
 
