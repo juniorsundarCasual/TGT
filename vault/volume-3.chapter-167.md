@@ -1,134 +1,88 @@
 ---
 id: gvi17h6yxs1ytrula91x80m
-title: Chapter 167 - Journey for Knowledge
+title: Chapter 167 - Grim Future
 desc: ''
-updated: 1649753360192
+updated: 1650259519472
 created: 1649353619755
 ---
 
-Krish hummed contemplatively while staring at the two kids animatedly denying his divination. This wasn't the first time someone denied his prophecies so vehemently right to his face. Over the years, Krish had come to realise the juxtaposition of the human mentality. Whenever Krish's divination reveal beneficial truths or facts, the recipients are quick to accept it - overjoyed even. However, the moment the divinations reveal proclamations that run contrary to the recipient's expectations, they immediately reject it.
+"Is it right to just reveal my fate like this?" Gue questioned with a tinge of worry in his voice. "From what I've heard, there can be great consequences if you action changes the course in any way."
 
-After a short pause that seemed to extend for a much longer time frame given the charged atmosphere that reigned in the room, Krish sighed audibly. Al took that as a sign of exasperation and immediately nudged Jean from the back, adding on a few expressive signals using his eyes and face to urge her to apologise immediately. For better of worse, Jean was unable to decipher those signals, and even if she could comprehend she wouldn't act on it since her Senior Brother was holding his ground unfalteringly.
+"Things that are supposed to happen will happen, remember?" Krish winked. "What I am about to tell you won't change anything. You won't voluntarily stop in your tracks - are you planning to not continue teaching?"
 
-"Do you think it could be an anomaly?" Guy spoke up. "I mean, you couldn't see my future until that short blip. You can't see that same future in the fates of my Disciple, students and others around me. It is only a singular and, as far as we know, isolated incident. Right?"
+Observing Guy's lack of words, "See! Since there isn't any adverse consequence, aren't you the least bit curious to know?"
 
-"Maybe you are right," Krish conceded. "Maybe you aren't. If I am being honest it is the first time for me as well, to experience something like this. But I can tell you for certain that whatever the Heavenly Eye sees is absolute. Make out of it what you will."
+"I guess so?" Guy muttered.
 
-Guy bit his lips in distress while repeatedly chanting, 'That's not going to happen,' internally. 'That cannot happen!'
+"I saw a great leap," Krish started. "If the way the current world is progressing can be described in terms of architecture, it would be like a plain with a slight incline upwards. But with your intervention, a long set of stairs is introduced that leads into the sky with a steep rise and no end in sight. Now this may sound to oabstract to fathom, but that's primarily because I myself cannot put it into words."
 
-"Let's put that aside for the time being!" Krish followed up to redirect the conversation. He knew that nothing good could come from preoccupying oneself over a future so distant. Having lived with such a power for such a long time, Krish could ascertain that what some considered a blessing was oftentimes a curse. Like how a thief must constantly look over their shoulders for signs of pursuers, a person informed of their future must constantly doublethink their next step in fear of their dread coming to fruition. Little do they know that their hesitation and overthought can accelerate things further.
+"Can't Mage Nara use a |Soul Imprint|?" Al inquired, with the thirst of knowledge plastered blatantly accross his face.
 
-"Since you path is now free of obstacles, what are you going to do next?" Krish asked Guy.
+"Not if you want both of us to die a horrible death," Krish blurted out. "Certain secrets of this world are meant to be kept as such for the safety of the masses, boy."
 
-"Next?" Guy faltered. "I don't know..."
+"Nonetheless. Returning to the architectural metaphor once again: one would assume that such an endless stair would collapse under its own weight and instability. However, this stair happened to have the strongest foundations! It was built on the fundamental truths of this world - unshakable against all adversities!"
 
-"That's understandable. The decision was only finalised now. Logistics and action plans take time and thorough analysis to take form," Al empathised. "But I must warn you to not it lightly. Creating a sect may be easy, but maintaining it is where the real challenge lies."
+"You've lost me there," Guy interjected while squinting his eyes. "What's that supposed to mean?"
 
-"I had a similar conclusion," Guy affirmed. "It's not something I have done before, after all. I would love to learn more about it, though."
+"Hmm..." Krish scratched his chin in rumination. "You see, if I make my divination even a little more descriptive, I will be interfering with the trajectory fate has set out for you. So I need to choose my words carefully, and that is also why I try to stick close to metaphors and analogies."
 
-"Do you have any knowledge about sect management - the way sects work in general?" Krish probed.
+"Let's put it this way then: You will leave an unimpeachable mark in this world. One that will last the test of time! The changes you will introduce will revolutionise the world from the mundane, to the complex," Krish orated slowly.
 
-Guy shook his head in response, evoking a long exhale from both the experienced mages in the room.
+The more Krish spoke, the brighter Guy's eyes got. The elation grew to a point where even his physical body couldn't contain it, causing him to vibrate with excitement. But then, the bubbling mood was burst by Krish's next set of words.
 
-"It isn't easy," Al muttered. "There aren't any books or journals about it either that you could use for reference. It's not like people just go around blurting out the inner workings of sects."
+"Sure there will be a lot of bloodshed, but in the grand scheme of things it will be all worth it."
 
-"What about observation?" Guy blurted out. "Do you guys think it might be possible to observe a functioning sect?"
+"Bloodshed?" Guy quickly retorted. "What do you mean by that?"
 
-"That's a risky option," Krish cautioned. "Sects aren't like Academies, in that secrecy and sovereignty are of utmost importance. You can't just waltz in, especially with such a flimsy reason."
+"Conflicts, deaths," Krish listed. "Genocide. Maybe a cultural purge. You know? The usual occurrences during any war of conquest."
 
-"Although..." Al said while elongating the last syllable with a contemplative intonation. "Ah shit, I really don't want to do it though!" He muttered to himself.
+Guy's back was immediately drenched in sweat - an involuntary action that even his superior physique couldn't prevent. It was the outcome of a fear that had been plaguing his mind. After the almost-hostile-takeover of his body by the parasitic entity embodying his split soul - the other Guy with a capitalised 'G' given that he was no longer a mindless being - Guy was constantly disturbed by a singular question.
 
-Right as Al escaped his brief aside, he noticed everyone staring down at him inquisitively. He responded with a sheepish grin an explained, "I might be able to pull a favour, but... the man who owes me that favour is an insufferable human being."
+'What if the other Guy took over completely?'
 
-"I don't want to put you in an uncomfortable position," Guy responded hastily.
+Would it have been a better outcome? Guy recognised that he could not achieve anything with his usual passivity. However, changing his personality would be difficult. Contrary to popular belief, flipping one's approach to life wasn't an easy task. While in most generic web novels, the transmigrated or regressed individual often affirms a new resolve to live life more adventurously. They would declare that they would ensure this new life would be more meaningful and impactful, and they would succeed in doing so. Yet the truth wasn't as easy as fiction set it out to be. People who die, unless they were still kids or teens at the time of their death, have most of their character quirks and personalities already cemented and ingrained into their bones. Even if their body is changed, their essence of being remains the same. And as the saying goes, it is impossible for a tiger to change its stripes. That is, unless the tiger actively seeks to paint new stripes and cover up old ones. Sticking true to that idiom, Guy found out that unless he actively convinced himself to play his cards differently and policed his every action carefully, he'd end up reverting to his old, non-confrontational personality.
 
-"No... No, it's fine. I probably will never cash in this favour in my lifetime, given that I will have to interact with that man in order to do it. Might as well use it up for this purpose," Al said with a twitching smile.
+To that end, Guy felt that since the other Guy was a completely different entity it could be a feasible way to change Guy's current trajectory. But this was only logical on paper. To concede control to the other Guy would be an imminent demise of Guy's original self. Although Guy wished to make a change in his lifestyle, he valued his life more. On top of that, Guy also had an inkling of just how destructive the other Guy could be.
 
-"Anyways," Al followed up while shaking his head of all irksome thoughts. "We cannot make the journey through regular transportation. For one, it is too far away, and also disjointed from regular travel routes. Unless you can fly, the journey will be impossible, I'm afraid. Thus, I shall prepare the transportation accordingly."
+This belief was further confirmed after Krish revealed what was within "Guy's" fate. Guy could infer that what Krish observed must have been the future of the other Guy, not his own. For some reason, in Krish's eye, Guy was a dead man. Maybe it was because Guy's transmigration wasn't registered as a valid action in this world's fabric of reality. His entry had affected those around him, and the world as a whole though. But, everytime Guy allowed the other Guy to take control, Krish could see a bloom of fate. This implied that the other Guy WAS a registered entity.
 
-"Umm, where are we going exactly?" Guy inquired.
+Guy wasn't sure if the future Krish saw when peeking into the other Guy's fate was a fixed outcome independent of whether the other Guy or the current Guy were in control of the body, OR if it was an event dependent on the other Guy being the sole controller of the body. Or maybe, Guy was destined to lose himself and concede full control to the other Guy, which was a bleak future to say the least. Since Guy did NOT want the future Krish divined to come through.
 
-"You said you wanted to see how a sect operated and learn. I'm taking you to one."
+Guy could make out that the other Guy was totally zealous and psychotic to a fatal degree through their short interaction. That man would go to extremes to achieve his goals - he wouldn't be averse to commiting genocide in order to spread his warped beliefs of the so-called Absolute Truth.
 
-"Just like that?"
+"Do you see this future when gazing into the fates of any others here?" Guy probed.
 
-"Just like that."
+"I actually haven't checked that far ahead," Krish confessed. "Interestingly, what I saw in your fate at that short moment began at a time point quite far off into the future. There was nothing visible in the immediate temporal vicinity. Doing so exhausted a lot my mana as well, since the cost of using my power increases exponentially the further I look. Why do you ask?"
 
-____
+"I hope that the future you observed doesn't come true," Guy said with a stern voice. "It is not what I want my name to be associated with."
 
-Three days after the enlightening meeting between Al, Krish, Guy, and Guy's students, an alarming shriek accentuated with a low bass growl of a large feline thundered over Twilight Village. The villagers cowered in fear as a majestic aura descended upon them, battering down in waves with periodic pulses of forceful gusts of wind.
+"Blood has to be shed and lives need to be culled to make any lasting difference," Krish sighed. "That is the sad truth of this world. People are naturally resistant to change, unless you force it down their throats."
 
-"What is that?"
+"Mage Nara does have a point there," Al chimed in. "If you were content with teaching such a small congregation of students, youe old approach would have been fine. However, with your current goal to make a lasting difference, it is no longer a feasible strategy to live a life with hands unstained by blood. You will eventually end up hitting a wall that will have to be demolished. At that point, will you hesitate? Do you think you will have the luxury to hesitate?"
 
-"Is it a bird?"
+Guy shrank in defeat. 'It is an eventuality, just like they've said. How will I fare at that point? Am I even ready?'
 
-"Is it a lion?"
+Having come from a modern world which was relatively peaceful, Guy was naturally against taking another life. He often wondered how other transmigrated individuals managed to change their personalities so easily to stomach bloodshed. 'Even if I try to rationalise things as self-defence and righteous, I would only be deluding myself to feel less guilty.'
 
-"Why is it flying down here?!"
+'Argh! There are so many things to consider!' Guy groaned internally. 'Should I just give up? Is it even worth it to take make such a drastic change in my life? I was happy the way I was before, right?'
 
-"RUN!"
+Just as Guy was about to enter a self-depracating spiral that eventually led to depression, Markus spoke up.
 
-The crowd entered a frenzy as they rushed to enter the "safe" confines of their mud and wood homes.
+"I apologise, but I disagree with Teacher Jeeves and Mage Nara," the boy said firmly. "While there is some truth to your statements which have obviously been derived from your vibrant experiences, I think my Master is different."
 
-"It's not coming to the village," a panicking kid pointed out. "It's going to the orphanage."
+As he paused, Jean shuffled forward and said, "I agree with Senior Brother. I apologise for my frankness, but until I met Teacher Larks I was always led to believe that I would never be able to cultivate or achieve anything substantial with my life."
 
-The villagers stopped for a moment and observed the trajectory of the bestial shadow baked in the bright sunlight. As the kid said, it swerved away from the village and moved towards the orphanage a little ways up the mountain.
+"I was led to believe the same thing. Teacher Jeeves may not be aware of the struggles I had to go through back at the Academy. The sheer helplessness I felt when everything I tried to push myself forward ended up either fizzling in front of me, or blowing up in my face," Markus volleyed.
 
-"Should we go help?" The kid asked.
+"My father had me meet a plethora of experts," Jean continued. "Uncle Jeeves, you recommended a few as well. How much were they able to accomplish? Compare that with what I achieved in just above a year thanks to Teacher Larks?"
 
-"Do you want to die?" The kid's parent blurted out. He then coughed audible to catch his faux pas and said, "T-They will be fine. Did you forget? Mages live up there!"
+"The way Teacher Jeeves and Mage Nara have traced are relics of the old world," Markus evoked with fervour. "That is the viewpoint cultivated by eras of suppression and segregation, and a society built on savagery disguised in a pleasant suit. Why would Master revert to the techniques of the past if he intends to change the world?"
 
-The man's words implied assurance, however his intonation was filled with uncertainty. In fact, the man had actually gained a clear look of the majestic beast flying above them. Through his travels to the town nearby, he had heard of a few adventurous mercenaries describe a similar creature which they had observed during their travels.
+Markus gulped audibly and held a firm gaze targeted at Krish. The boy was intimidated, but was trying his best to not reveal it outwardly.
 
-"They will be fine..." The man repeated, more so to satisfy his inner anxiety than to calm his lad.
+"Mage Nara," the boy uttered. "I-I believe that your divination is incorrect."
 
-In the story he had heard from the mercenaries, he learned of the most gruesome creatures to ever walk the face of Gaea. The mercenaries had told him that their group was actually a hundred strong, but only 10 managed to make it out alive, of which only five had all their limbs intact.
-
-The beast killed first, feasted after. Highly territorial - it chased the party for many kilometres out from its nest. Ruthless - it eviscerated and disemboweled those that it killed with its talon-forelegs and beak.
-
-The man shuddered at the utter carnage that mercenary described. The man was inclined to believe the mercenary as the group shook visibly as they recollected those event.
-
-"They will be fine... It will all be fine..." The man muttered repeatedly.
-
-____
-
-Up the mountain, at the orphanage, a similar reaction as the villagers was elicited from Grace, who reflexively hid behind Guy. In turn, Guy had to try his hardest to hold up a brave front, when in reality he too was extremely petrified at the sight of a beast he had only heard of through myths and legends in his past life.
-
-"Wow!" Dora exclaimed excitedly as she hopped over to the beast that had fully descended to the ground in front of the orphanage. Al leapt off its back and immediately reached to stop Dora from approaching any further.
-
-"Careful! He's a finicky little one," Al said.
-
-"Little?" Marie blurted out. "That's not little!"
-
-"Is that a-" Markus started.
-
-"-Griffin!" Guy finished.
-
-"Oh? You've heard of griffins before? Although, this one is still a juvenile chick. It will grow much larger," Al expounded.
-
-"He's not an 'it'!" Dora corrected. "He's a he!"
-
-Al bit his tongue apologetically before narrowing his eyes in confusion, "Wait! How did you know that?"
-
-"He told me," Dora answered innocently before ducking underneath Al's hands and rushing up to the large four-legged creature with a pair of wide wings.
-
-"Dora!" Grace exclaimed, but her voice was cut short when then creature dipped its neck and nudged Dora playfully with its hooked beak. Dora grasped the creature's golden-brown feathers around its neck and whispered into its ears while giggling intermittently.
-
-"That's odd," Al commented. "He's not really so pleasant around other people. Not after I yanked him away from his parents..."
-
-'Did he kidnap this thing?!' Guy cried out internally.
-
-"Anyways," Al immediately said after. "Guy, come! Get on!"
-
-"Excuse me?"
-
-"Get on! I'll help you hop on to Garrud's back. Make sure that you don't pluck his feathers, he does NOT like that."
-
-Guy eyes darted to the creatures extended talons, which were nearly the size of bison horns. The claws of its feline hindlegs weren't anything to scoff at either - every time it flexed and retracted them, they left a visible dent on the hard ground. The beast's eagle-eyes exuded an aura of inescapable danger. Yet, this ferocious beast had turned into a yearning kitten in front of Dora, who barely reached its shoulders.
-
-"Do we really have to travel using a Griffin?" Guy inquired meekly with an audible gulp.
-
-"Unless you can fly," Al shrugged. "Now stop wasting time!"
+"It has to be faulty," Jean said in conjunction, while using a hand to support her shivering Senio6r Brother from the back.
 
 ____
 

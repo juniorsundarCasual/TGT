@@ -1,82 +1,134 @@
 ---
 id: 5z9ilswex39jdos9i369new
-title: Chapter 168 - Meet Garrud the Griffin
+title: Chapter 168 - Journey for Knowledge
 desc: ''
-updated: 1650030198819
+updated: 1650259503553
 created: 1649353623562
 ---
 
-The Griffin named Garrud was Al's familiar. A familiar is a being of another species tied in a pseudo-master-slave relationship with a mage. The bond is at the soul level, and is hence an irreversible process, and is generally a mutually beneficial relationship. As the mage progresses in their cultivation, the familiar receives positive feedback in theirs which helps them advance, and vice-versa. However, due to the ingrained nature of this bond, should either party face a catastrophe of fatal proportions, the other will face an equal retribution through their soul connection.
+Krish hummed contemplatively while staring at the two kids animatedly denying his divination. This wasn't the first time someone denied his prophecies so vehemently right to his face. Over the years, Krish had come to realise the juxtaposition of the human mentality. Whenever Krish's divination reveal beneficial truths or facts, the recipients are quick to accept it - overjoyed even. However, the moment the divinations reveal proclamations that run contrary to the recipient's expectations, they immediately reject it.
 
-The art of forming this robust soul bond was introduced to mankind by the elves of the Fae Realm. The sentient elven race were unique in that they were born with very low mana capacity and weaker physiques. Compared to a human at the same cultivation realm, an elf might have less than half their mana capacity and somewhere between two-thirds to three-quarters of their strength. Although, compared to an average human, an average elf had far superior aesthetics and charms.
+After a short pause that seemed to extend for a much longer time frame given the charged atmosphere that reigned in the room, Krish sighed audibly. Al took that as a sign of exasperation and immediately nudged Jean from the back, adding on a few expressive signals using his eyes and face to urge her to apologise immediately. For better of worse, Jean was unable to decipher those signals, and even if she could comprehend she wouldn't act on it since her Senior Brother was holding his ground unfalteringly.
 
-Yet, how could such a weak race, on paper, survive in such a perilous environment of the Fae Realm and become the dominant species to walk those lands?
+"Do you think it could be an anomaly?" Guy spoke up. "I mean, you couldn't see my future until that short blip. You can't see that same future in the fates of my Disciple, students and others around me. It is only a singular and, as far as we know, isolated incident. Right?"
 
-This was because the strength of the Fae lied not in their raw martial prowess, but in their superior spiritual capacities. While humans could guage their mana capacities quantitatively, the same could not be said for their spiritual strengths. Till date, the spiritual aspect of cultivation, more specifically the soul, remains an elusive topic for most sentient races. That is, apart from the elves. The strength of a newborn elves' soul far exceeds that of a mortal human at the prime of their life.
+"Maybe you are right," Krish conceded. "Maybe you aren't. If I am being honest it is the first time for me as well, to experience something like this. But I can tell you for certain that whatever the Heavenly Eye sees is absolute. Make out of it what you will."
 
-Though many have tried to research this peculiarity, none have managed to derive a robust conclusion. Some believe that the elves' naturally long life expectancy, which is two and a half times that of a human, may have something to do with their high spiritual capacity. This, and the fact that it takes them double the time to mature biologically compared to humans. Others believe that inheritance and assimilation during fetal stages may have something to do with it. Elves have a very sparse birth and proliferation rate within their kind, which is further hampered by the fact that an elf mother gestates for nearly two years. Childbirth is elves is also much more perilous than in humans.
+Guy bit his lips in distress while repeatedly chanting, 'That's not going to happen,' internally. 'That cannot happen!'
 
-Nonetheless, the elves' large spiritual capacity enables them to form symbiotic relationship with beasts of other species through familiar bonds, and this is where their true strength lies. There have been records of an entire country being ravaged by a single elf in the Core Condensation realm and his horde of familiars - fighting elves is seldom a one-versus-one confrontation.
+"Let's put that aside for the time being!" Krish followed up to redirect the conversation. He knew that nothing good could come from preoccupying oneself over a future so distant. Having lived with such a power for such a long time, Krish could ascertain that what some considered a blessing was oftentimes a curse. Like how a thief must constantly look over their shoulders for signs of pursuers, a person informed of their future must constantly doublethink their next step in fear of their dread coming to fruition. Little do they know that their hesitation and overthought can accelerate things further.
 
-Ultimately, a rudimentary technique to form familiar bonds was shared with the humans years before the Age of Isolation, which has survived the test of time by being held firmly within the grasps of the Beast Taming Guild. The technique hasn't changed for millenium, not for the lack of trying. The field of soul strength and spirituality is just too complex for human beings and other sentient races to comprehend, thus rather than tampering with the existing method that works just fine, mages choose to stick to the status quo.
+"Since you path is now free of obstacles, what are you going to do next?" Krish asked Guy.
 
-In the current age, if anyone wanted to take in a familiar, they had to do it through the Beast Taming Guild AFTER achieving a minimum of 2-stars. Another opportunity is presented to take one a new familiar with each successive star achieved. It was needless to say that very few people held more than four stars, since each new familiar basically segmented the mage's soul proportionally to the beast's soul power.
+"Next?" Guy faltered. "I don't know..."
 
-Take Garrud for instance. A griffin is born with pseudo-sentience. Within months of hatching from its egg, the griffin's cultivation accelerates through the Mana Condensation realm to the Foundation Realm, at which point they reach adolescence. A griffin's DNA is encoded with a rudimentary cultivation method that elevates them to the Core Formation realm where they solidify full sentience.
+"That's understandable. The decision was only finalised now. Logistics and action plans take time and thorough analysis to take form," Al empathised. "But I must warn you to not it lightly. Creating a sect may be easy, but maintaining it is where the real challenge lies."
 
-As expected, the griffin's soul power expands exponentially once they enter Core Formation, at which point forming a familiar bond becomes extremely difficult unless the griffin acquiesces to it voluntarily; a mature griffin's soul power can rival that of a mage in the same cultivation realm. If there isn't a consensus from the familiar, a severe backlash can be incurred which will end up crippling the mage entirely.
+"I had a similar conclusion," Guy affirmed. "It's not something I have done before, after all. I would love to learn more about it, though."
 
-"I found Garrud as an egg," Al explained to Guy and Markus who were clutching onto the jerking body of the feathered and furred beast as it skimmed across the skies. "I formed a familiar bond with it the moment it hatched, otherwise it would have been impossible! Griffins are notoriously proud and highly territorial."
+"Do you have any knowledge about sect management - the way sects work in general?" Krish probed.
 
-"H-How did you find the egg?" Guy inquired while trying to control his chattering teeth. The sheer distance between their current altitude and the ground was agitating his acrophobia. Even his Disciple had increased the force with which he grabbed Guy's waist.
+Guy shook his head in response, evoking a long exhale from both the experienced mages in the room.
 
-"Total coincidence! You wouldn't even believe it," Al blurted out as he soared next to him. "There was a contract posted for exterminating a pair of griffins up at Gold-Plated Hills quite a ways West from Twilight Village. Many heads congregated there to undertake this venture, the beat couple WERE in the Core Condensation Realm after all. On a side note, beasts at a cultivation realm are generally stronger than human mages at the same realm. It has to do with their superior physiques, bloodlines and one-track-minded cultivation methods. None of those distractions that humans suffer from, holding their cultivations back."
+"It isn't easy," Al muttered. "There aren't any books or journals about it either that you could use for reference. It's not like people just go around blurting out the inner workings of sects."
 
-"So anyways, I wanted to try my luck out. I hadn't confronted griffins before; thought about testing my might against them. And would you believe my luck! The griffins had laid a wonderful gold coated egg!"
+"What about observation?" Guy blurted out. "Do you guys think it might be possible to observe a functioning sect?"
 
-"Unguarded?" Guy exclaimed in disbelief.
+"That's a risky option," Krish cautioned. "Sects aren't like Academies, in that secrecy and sovereignty are of utmost importance. You can't just waltz in, especially with such a flimsy reason."
 
-"Not really," Al responded with a sly smile. "It just so happened that two mercenary groups led by a few mages had coordinated an attack against the nest at the same time. You may be aware that griffins are notorious for their capacity to hoard treasures. Their affinity to it sometimes even rivals dragons! The stronger the griffin, the more treasure hoarded in its nest. And if there were two, the hoard would be doubled. The mercenary groups distracted the two griffins, while I sneakily entered and swiped it."
+"Although..." Al said while elongating the last syllable with a contemplative intonation. "Ah shit, I really don't want to do it though!" He muttered to himself.
 
-As Al finished the sentence, Garrud jolted with mild aggravation.
+Right as Al escaped his brief aside, he noticed everyone staring down at him inquisitively. He responded with a sheepish grin an explained, "I might be able to pull a favour, but... the man who owes me that favour is an insufferable human being."
 
-"Oh drop it already!" Al spat at the irritated hybrid. "Your life amongst your parents would have been far worse. Do you think they would feed you all those expensive elixirs and natural treasures such as I did?"
+"I don't want to put you in an uncomfortable position," Guy responded hastily.
 
-Garrud vibrated reluctantly in agreement.
+"No... No, it's fine. I probably will never cash in this favour in my lifetime, given that I will have to interact with that man in order to do it. Might as well use it up for this purpose," Al said with a twitching smile.
 
-"He's a saucy little brat," Al commented. "A familiar bond does not automatically ensure allegience. The brat realised that he had been fleeced the moment he gained partial sentience, and he turned on me at that instance! You wouldn't believe how much I had to sink into him to get him to listen to me."
+"Anyways," Al followed up while shaking his head of all irksome thoughts. "We cannot make the journey through regular transportation. For one, it is too far away, and also disjointed from regular travel routes. Unless you can fly, the journey will be impossible, I'm afraid. Thus, I shall prepare the transportation accordingly."
 
-"What surprised me, though," Al immediately redirected with a confused intonation, "is that he was so amicable with that girl. Garrud hates people, period. The last time I asked someone else to feed him, he nearly mauled the poor bloke to death. The girl didn't aggravate him, its peculiar."
+"Umm, where are we going exactly?" Guy inquired.
 
-"Dora has a way with animals," Guy affirmed.
+"You said you wanted to see how a sect operated and learn. I'm taking you to one."
 
-"No kidding," Al muttered. "The weird thing was that I could hear her voice through my familiar bond. It was like a faint echo."
+"Just like that?"
 
-"You know, the more I get to know the people at the orphanage, the more I've come to realise that it is a treasure trove filled with talented individuals," Al declared spontaneously.
+"Just like that."
 
-"Everyone's talented in one way or another," Guy chuckled. "You just have to look deeper and with a lens free of prejudice."
+____
 
-"Hear, hear!"
+Three days after the enlightening meeting between Al, Krish, Guy, and Guy's students, an alarming shriek accentuated with a low bass growl of a large feline thundered over Twilight Village. The villagers cowered in fear as a majestic aura descended upon them, battering down in waves with periodic pulses of forceful gusts of wind.
 
-After that, Al increased his flight speed along with his familiar's.
+"What is that?"
 
-Although Guy had flown many times in his past life, it was always within the confines of a pressurised metal tube. Surprisingly, he felt safer atop the back of the flying beast that when travelling via aeroplane. Somehow, the feeling of the wind blowing through his hair and the paced heartbeats of the beast beneath him comforted his mind. While within an aeroplane, the precarious rumbling and jerking motion always instilled a subtle fear in his heart. He did not experience the same uneasiness atop Garrud.
+"Is it a bird?"
 
-Guy did have some difficulty keeping his eyes open as they started to gain altitude. The dry, cold wind bit into his skin and dessicated his eye balls immediately. Through trial-and-error, he managed to form a robust screen of mana in front of him that helped separate the currents. He was just about to tell his Disciple when he noticed that Markus had already put up a similar sheild in front of his face.
+"Is it a lion?"
 
-"We will be arriving at the sect soon," Al's voice reverberated in their minds. "Let me handle the talking. I will lobby for access to the sect's record library. Through it, you will gain access to the sect's history and front-end management data and finances - all under supervision. The favour should cover that much."
+"Why is it flying down here?!"
 
-Guy and Markus nodded affirmatively.
+"RUN!"
 
-"The man we are going to rendezvous with is extremely nosy. Try not to reveal too much about yourself. The more intrigued he feels, the more he will dig into your past," Al warned.
+The crowd entered a frenzy as they rushed to enter the "safe" confines of their mud and wood homes.
 
-Guy chuckled spontaneously at the irony of Al's description of the man. 'Sounds similar to a certain mage I know.'
+"It's not coming to the village," a panicking kid pointed out. "It's going to the orphanage."
 
-"Finally. Whatever happens, do not interfere with anything that happens in the sect," Al warned Guy and Markus. "I am a hundred percent sure that the bastard will set something up to provoke a confrontation."
+The villagers stopped for a moment and observed the trajectory of the bestial shadow baked in the bright sunlight. As the kid said, it swerved away from the village and moved towards the orphanage a little ways up the mountain.
 
-Al gritted his teeth in frustration as he suddenly recollected the interaction from his past with the 'bastard' in question that led to him gaining the favour.
+"Should we go help?" The kid asked.
 
-"It's because he LET me win that time," Al muttered to himself. "I have to be extra careful so that Guy and Markus aren't caught in whatever scheme he is cooking up."
+"Do you want to die?" The kid's parent blurted out. He then coughed audible to catch his faux pas and said, "T-They will be fine. Did you forget? Mages live up there!"
+
+The man's words implied assurance, however his intonation was filled with uncertainty. In fact, the man had actually gained a clear look of the majestic beast flying above them. Through his travels to the town nearby, he had heard of a few adventurous mercenaries describe a similar creature which they had observed during their travels.
+
+"They will be fine..." The man repeated, more so to satisfy his inner anxiety than to calm his lad.
+
+In the story he had heard from the mercenaries, he learned of the most gruesome creatures to ever walk the face of Gaea. The mercenaries had told him that their group was actually a hundred strong, but only 10 managed to make it out alive, of which only five had all their limbs intact.
+
+The beast killed first, feasted after. Highly territorial - it chased the party for many kilometres out from its nest. Ruthless - it eviscerated and disemboweled those that it killed with its talon-forelegs and beak.
+
+The man shuddered at the utter carnage that mercenary described. The man was inclined to believe the mercenary as the group shook visibly as they recollected those event.
+
+"They will be fine... It will all be fine..." The man muttered repeatedly.
+
+____
+
+Up the mountain, at the orphanage, a similar reaction as the villagers was elicited from Grace, who reflexively hid behind Guy. In turn, Guy had to try his hardest to hold up a brave front, when in reality he too was extremely petrified at the sight of a beast he had only heard of through myths and legends in his past life.
+
+"Wow!" Dora exclaimed excitedly as she hopped over to the beast that had fully descended to the ground in front of the orphanage. Al leapt off its back and immediately reached to stop Dora from approaching any further.
+
+"Careful! He's a finicky little one," Al said.
+
+"Little?" Marie blurted out. "That's not little!"
+
+"Is that a-" Markus started.
+
+"-Griffin!" Guy finished.
+
+"Oh? You've heard of griffins before? Although, this one is still a juvenile chick. It will grow much larger," Al expounded.
+
+"He's not an 'it'!" Dora corrected. "He's a he!"
+
+Al bit his tongue apologetically before narrowing his eyes in confusion, "Wait! How did you know that?"
+
+"He told me," Dora answered innocently before ducking underneath Al's hands and rushing up to the large four-legged creature with a pair of wide wings.
+
+"Dora!" Grace exclaimed, but her voice was cut short when then creature dipped its neck and nudged Dora playfully with its hooked beak. Dora grasped the creature's golden-brown feathers around its neck and whispered into its ears while giggling intermittently.
+
+"That's odd," Al commented. "He's not really so pleasant around other people. Not after I yanked him away from his parents..."
+
+'Did he kidnap this thing?!' Guy cried out internally.
+
+"Anyways," Al immediately said after. "Guy, come! Get on!"
+
+"Excuse me?"
+
+"Get on! I'll help you hop on to Garrud's back. Make sure that you don't pluck his feathers, he does NOT like that."
+
+Guy eyes darted to the creatures extended talons, which were nearly the size of bison horns. The claws of its feline hindlegs weren't anything to scoff at either - every time it flexed and retracted them, they left a visible dent on the hard ground. The beast's eagle-eyes exuded an aura of inescapable danger. Yet, this ferocious beast had turned into a yearning kitten in front of Dora, who barely reached its shoulders.
+
+"Do we really have to travel using a Griffin?" Guy inquired meekly with an audible gulp.
+
+"Unless you can fly," Al shrugged. "Now stop wasting time!"
 
 ____
 

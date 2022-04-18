@@ -1,118 +1,82 @@
 ---
 id: ifjj3njj30gce2fojr2315m
-title: Chapter 169 - No Questions Asked
+title: Chapter 169 - Meet Garrud the Griffin
 desc: ''
-updated: 1650194302049
+updated: 1650259484323
 created: 1649353627466
 ---
 
-A man massaged his silver beard while gazing into the horizon with a vigourous sheen in his eyes. His lips parted into a devious smile as his senses locked onto the approaching figure of another man, followed by a still adolescent griffin carrying two individuals. His attention quickly diverted from the critters incapable of flight and the beast and doubled down on the other man.
+The Griffin named Garrud was Al's familiar. A familiar is a being of another species tied in a pseudo-master-slave relationship with a mage. The bond is at the soul level, and is hence an irreversible process, and is generally a mutually beneficial relationship. As the mage progresses in their cultivation, the familiar receives positive feedback in theirs which helps them advance, and vice-versa. However, due to the ingrained nature of this bond, should either party face a catastrophe of fatal proportions, the other will face an equal retribution through their soul connection.
 
-"I knew he'd cash it in one day," the man said audibly with a reverberating chuckle. He gazed down on his clothes once again, a redundant action since he could easily observe it through his mana senses, and fixed his black overcoat. He then dusted his black skin-tight shirt - another redundant action since he could easily dispel all blemishes with his magic - and casually inserted his hands into his black trouser pockets.
+The art of forming this robust soul bond was introduced to mankind by the elves of the Fae Realm. The sentient elven race were unique in that they were born with very low mana capacity and weaker physiques. Compared to a human at the same cultivation realm, an elf might have less than half their mana capacity and somewhere between two-thirds to three-quarters of their strength. Although, compared to an average human, an average elf had far superior aesthetics and charms.
 
-After his final checks, he reverted his attention to the flying figure once again. As he did so, the man could feel his heartbeat hastening, he was getting agitated.
+Yet, how could such a weak race, on paper, survive in such a perilous environment of the Fae Realm and become the dominant species to walk those lands?
 
-"This feeling," the man said with a near ecstatic expression. "This excitement! How many years has it been since I felt this?"
+This was because the strength of the Fae lied not in their raw martial prowess, but in their superior spiritual capacities. While humans could guage their mana capacities quantitatively, the same could not be said for their spiritual strengths. Till date, the spiritual aspect of cultivation, more specifically the soul, remains an elusive topic for most sentient races. That is, apart from the elves. The strength of a newborn elves' soul far exceeds that of a mortal human at the prime of their life.
 
-The man's impeccable memories didn't fail him. The last time he felt this way was when he fought against Al Jeeves. It was a feeling of intoxication. His every fibre of being was pulsing at a feverish pace as all of his latent battle instincts were called into action. It was the kind of battle the man yearned for.
+Though many have tried to research this peculiarity, none have managed to derive a robust conclusion. Some believe that the elves' naturally long life expectancy, which is two and a half times that of a human, may have something to do with their high spiritual capacity. This, and the fact that it takes them double the time to mature biologically compared to humans. Others believe that inheritance and assimilation during fetal stages may have something to do with it. Elves have a very sparse birth and proliferation rate within their kind, which is further hampered by the fact that an elf mother gestates for nearly two years. Childbirth is elves is also much more perilous than in humans.
 
-A mage experiences three kinds of life-or-death battles in their lifetime. One when facing someone weaker, one when facing someone much stronger, and one when facing someone of equal or equivalent strength. The first kind is no fun, the victory is often known before the die is cast. The same sentiment is true for the second kind, since the only outcome in those confrontations is death. The third kind is where all the juice lied.
+Nonetheless, the elves' large spiritual capacity enables them to form symbiotic relationship with beasts of other species through familiar bonds, and this is where their true strength lies. There have been records of an entire country being ravaged by a single elf in the Core Condensation realm and his horde of familiars - fighting elves is seldom a one-versus-one confrontation.
 
-When fighting toe to toe with an opponent, one gets the opportunity to flex every single technique held in their arsenal. Because in those kinds of fights, the victory is always awarded to the mage with the superior skill, even if it is greater by a fingernail's margin. This was the kind of fight the man sought out so fervently. And this was the fight he got when facing Al Jeeves.
+Ultimately, a rudimentary technique to form familiar bonds was shared with the humans years before the Age of Isolation, which has survived the test of time by being held firmly within the grasps of the Beast Taming Guild. The technique hasn't changed for millenium, not for the lack of trying. The field of soul strength and spirituality is just too complex for human beings and other sentient races to comprehend, thus rather than tampering with the existing method that works just fine, mages choose to stick to the status quo.
 
-The man inhaled while positively shaking with exuberance, and honed all of his senses on the singular entity: Al Jeeves.
+In the current age, if anyone wanted to take in a familiar, they had to do it through the Beast Taming Guild AFTER achieving a minimum of 2-stars. Another opportunity is presented to take one a new familiar with each successive star achieved. It was needless to say that very few people held more than four stars, since each new familiar basically segmented the mage's soul proportionally to the beast's soul power.
 
-____
+Take Garrud for instance. A griffin is born with pseudo-sentience. Within months of hatching from its egg, the griffin's cultivation accelerates through the Mana Condensation realm to the Foundation Realm, at which point they reach adolescence. A griffin's DNA is encoded with a rudimentary cultivation method that elevates them to the Core Formation realm where they solidify full sentience.
 
-Al clicked his tongue in annoyance as a familiar probe washed over him. A mage's mana sense exists within the limit of their mana domain. Within said domain, everything is in control of the mage as long as they have the knowledge to manipulate the mana to their liking. However, when two mages confront each other, a peculiar interaction takes place when their mana domains overlap.
+As expected, the griffin's soul power expands exponentially once they enter Core Formation, at which point forming a familiar bond becomes extremely difficult unless the griffin acquiesces to it voluntarily; a mature griffin's soul power can rival that of a mage in the same cultivation realm. If there isn't a consensus from the familiar, a severe backlash can be incurred which will end up crippling the mage entirely.
 
-In most cases, the mage with the higher cultivation realm wins. To elaborate, the weaker mage will find it increasingly difficult to cast spells and manipulate the mana around them as the stronger mage fully collapses their wider mana domain into the weaker mage. The victory isn't always absolute since minor maneuvering and subterfuge can shift the balance ever so sligthly. However, when the realms of the mages are close in cultivation realms, the conflict within the overlapping domain turns into a heated dance with each side vying for the faintest opportunity to cut through the other's barriers.
+"I found Garrud as an egg," Al explained to Guy and Markus who were clutching onto the jerking body of the feathered and furred beast as it skimmed across the skies. "I formed a familiar bond with it the moment it hatched, otherwise it would have been impossible! Griffins are notoriously proud and highly territorial."
 
-Al immediately slowed his flight and activated a few spells inaudibly, essentially blocking the probe directed towards him. The victory in this confrontation was conceded to him, once again. This reignited the irksome feeling Al felt towards the man standing in the distance.
+"H-How did you find the egg?" Guy inquired while trying to control his chattering teeth. The sheer distance between their current altitude and the ground was agitating his acrophobia. Even his Disciple had increased the force with which he grabbed Guy's waist.
 
-"We are approaching the destination," Al informed Guy and Markus. "Remember everything I've told you."
+"Total coincidence! You wouldn't even believe it," Al blurted out as he soared next to him. "There was a contract posted for exterminating a pair of griffins up at Gold-Plated Hills quite a ways West from Twilight Village. Many heads congregated there to undertake this venture, the beat couple WERE in the Core Condensation Realm after all. On a side note, beasts at a cultivation realm are generally stronger than human mages at the same realm. It has to do with their superior physiques, bloodlines and one-track-minded cultivation methods. None of those distractions that humans suffer from, holding their cultivations back."
 
-The duo nodded affirmatively and looked forward, past the light mist which prevailed before them. Unlike Al, Guy and his Disciple's vision and mana sense were much more gimped in terms of range. They could only see a tad farther than a regular human, so all their eyes could capture was a faint silhouette of what could only be described as an upside-down mountain beyond a thin cloudy veil. Guy squinted while trying to gain a clearer visual, and within a quick half-minute, he was able to see their destination in its full majesty.
+"So anyways, I wanted to try my luck out. I hadn't confronted griffins before; thought about testing my might against them. And would you believe my luck! The griffins had laid a wonderful gold coated egg!"
 
-What looked like an upside-down mountain was actually a massive rock hovering precariously off the ground. Along the sides of this hovering mountain were various buildings, walkways and structures that were bustling with activity. These walkways and structures snaked in and out of the mountain, like an elegant worm eating into a fruit.
+"Unguarded?" Guy exclaimed in disbelief.
 
-"How is this even possible?" Guy exclaimed.
+"Not really," Al responded with a sly smile. "It just so happened that two mercenary groups led by a few mages had coordinated an attack against the nest at the same time. You may be aware that griffins are notorious for their capacity to hoard treasures. Their affinity to it sometimes even rivals dragons! The stronger the griffin, the more treasure hoarded in its nest. And if there were two, the hoard would be doubled. The mercenary groups distracted the two griffins, while I sneakily entered and swiped it."
 
-"This region is naturally dense in mana," Al explained, "When there is excess mana in a location, one can expect anomalous phenomenon. Most large sects can be found in such mana rich locations."
+As Al finished the sentence, Garrud jolted with mild aggravation.
 
-"It goes against all laws of physics," Markus muttered.
+"Oh drop it already!" Al spat at the irritated hybrid. "Your life amongst your parents would have been far worse. Do you think they would feed you all those expensive elixirs and natural treasures such as I did?"
 
-"Mana truly is a mystery," Guy affirmed with an impressed tone.
+Garrud vibrated reluctantly in agreement.
 
-The trio ascended as they approached the mountain, aiming for a flat landing space near the peak. As they rose, Guy observed the architecture further. The style closely matched the Mediterranean design motifs he'd seen back at Radiant City. Pillars and arches were in excess, with intricate sculptures and carvings peppered in various locations. The colour pallete was fairly warm with a preference towards natural brown and creamy shades. The paths had a cobblestone look in the public spaces, while near and inside buildings he could observe marble. There was also a heavy preference for open air design, which felt weird given the cold atmosphere at the higher altitude. But things became clear when they reached a few kilometres away from the mountain. As though a huge space heater had been activated, the previously chilly area around them turned slightly humid and warm.
+"He's a saucy little brat," Al commented. "A familiar bond does not automatically ensure allegience. The brat realised that he had been fleeced the moment he gained partial sentience, and he turned on me at that instance! You wouldn't believe how much I had to sink into him to get him to listen to me."
 
-Al observed the change in Guy's expression and said, "There are multiple formations protecting the mountain. We wouldn't be able to enter the vicinity of this mountain unscathed if not for this entry token."
+"What surprised me, though," Al immediately redirected with a confused intonation, "is that he was so amicable with that girl. Garrud hates people, period. The last time I asked someone else to feed him, he nearly mauled the poor bloke to death. The girl didn't aggravate him, its peculiar."
 
-Al fished out an embellished marble token the size of his palm which had beautiful cloud pattern on it.
+"Dora has a way with animals," Guy affirmed.
 
-"Amongst the many formations, one that controls the weather moderates the atmosphere. There are also formations that moderate the mana concentration in and around the mountain to avoid causing mana poisoning to new iniates to the sect, or visitors."
+"No kidding," Al muttered. "The weird thing was that I could hear her voice through my familiar bond. It was like a faint echo."
 
-"That's extremely convenient," Guy commented. "And expensive," he added as he recollected the mana crystal expenditure required to maintain the formation.
+"You know, the more I get to know the people at the orphanage, the more I've come to realise that it is a treasure trove filled with talented individuals," Al declared spontaneously.
 
-"Thanks to the mana concentration in the area, most of these formations can be sustained without mana crystals. Some of the more active defense formations do require additional mana, but those are only activated during dire scenarios," Al responded.
+"Everyone's talented in one way or another," Guy chuckled. "You just have to look deeper and with a lens free of prejudice."
 
-Following another sharp ascent, Al and Garrud hovered in place before landing upon an open area. The design of the flat region reminded Guy of helipads from his past life - it appeared as though this was specifically designated as the landing zone for flying objects.
+"Hear, hear!"
 
-"Al Jeeves!" A gruff voice bellowed from accross the landing space as he approached Al. "In the flesh."
+After that, Al increased his flight speed along with his familiar's.
 
-Al growled back in annoyance and greeted the man with a rough handshake, "Marek Glista."
+Although Guy had flown many times in his past life, it was always within the confines of a pressurised metal tube. Surprisingly, he felt safer atop the back of the flying beast that when travelling via aeroplane. Somehow, the feeling of the wind blowing through his hair and the paced heartbeats of the beast beneath him comforted his mind. While within an aeroplane, the precarious rumbling and jerking motion always instilled a subtle fear in his heart. He did not experience the same uneasiness atop Garrud.
 
-"You wouldn't believe how surprised I was when I received a message asking for assistance, from THE great Al Jeeves of all people?" The man dressed in all black said with a mocking tone.
+Guy did have some difficulty keeping his eyes open as they started to gain altitude. The dry, cold wind bit into his skin and dessicated his eye balls immediately. Through trial-and-error, he managed to form a robust screen of mana in front of him that helped separate the currents. He was just about to tell his Disciple when he noticed that Markus had already put up a similar sheild in front of his face.
 
-"Enough with the theatrics," Al shot back immediately while retrieving his palm from the uncomfortably long handshake. "Let's get this over with."
+"We will be arriving at the sect soon," Al's voice reverberated in their minds. "Let me handle the talking. I will lobby for access to the sect's record library. Through it, you will gain access to the sect's history and front-end management data and finances - all under supervision. The favour should cover that much."
 
-"Ah, ah, ah!" Marek responded while shaking an extended finger side-to-side. "As a humble Elder of the Cloudstrider Sect, it is my duty to go through the proper rituals while welcoming guests."
+Guy and Markus nodded affirmatively.
 
-"Now who might these two gentlemen be?" Marek asked out loud without taking his attention off of Al.
+"The man we are going to rendezvous with is extremely nosy. Try not to reveal too much about yourself. The more intrigued he feels, the more he will dig into your past," Al warned.
 
-"This is Guy Larks. He is an Apprentice I am training, and this is Markus Reva, a Student I'm personally teaching," Al said offhandedly.
+Guy chuckled spontaneously at the irony of Al's description of the man. 'Sounds similar to a certain mage I know.'
 
-Marek hummed and said, "The Student appears more talented than the Apprentice. And their physique is uninitiated to the martial path; they're weak."
+"Finally. Whatever happens, do not interfere with anything that happens in the sect," Al warned Guy and Markus. "I am a hundred percent sure that the bastard will set something up to provoke a confrontation."
 
-"Both of them reached this level within a span of two years. And you know that I don't gauge talent the same way you do."
+Al gritted his teeth in frustration as he suddenly recollected the interaction from his past with the 'bastard' in question that led to him gaining the favour.
 
-"Intellectuals then," Marek commented with a contemplative nod. I take it back. As expected of the great Mage, Al Jeeves. No talent can be hidden from those voracious eyes, thirsty for knowledge."
-
-"The same could be said for you," Al snorted back. "Your nose sniffs out martial talent like a Bloodletting Moth to, well, blood."
-
-"Is that a compliment?" Marek retorted with feigned surprise.
-
-"It's reciprocation," Al said with a sigh. "Let's move on."
-
-"I must say that I am a little curious. Your request is unusual," Marek pointed out with a sly grin. "What are you hiding from me, Al?"
-
-"That wasn't part of the agreement, Marek," Al denied immediately. "The condition from our duel was a favour with 'No Questions Asked'. Are you reneging on the deal?"
-
-Marek clicked his tongue and chided, "You always know to keep me on my toes."
-
-He then revealed a slight grin while tossing two marble tokens with an intricate symbol etched on them to Guy and Markus. As the tokens curved through the air and landed gently on their expecting palms, they could feel a trace of magic flowing through them.
-
-"Those shall give you unimpeded access to most locations within the sect, barring a few which shall be reminded to you by any guardians stationed near that area," Marek explained. "I remember that one of you requires access to historic records?"
-
-Guy nodded and raised his hands. Marek clicked his fingers, again without turning away from Al. Behind him, a cloaked mage materialised and greeted respectfully, "Elder Glista."
-
-"Lead the one with his arm up to the Archives."
-
-The cloaked figure turned and walked away without a word. It took a second, but Guy caught on to the implied message immediately and followed the figure in a brisk walk, with Markus in tow.
-
-Al turned to follow the duo but was immediately intercepted by Marek blocking his path, "Where are you going?"
-
-"Following them," Al answered with raised brows.
-
-"You don't have an all access token," Marek reminded.
-
-"What?"
-
-"You don't have access, Al," Marek repeated with a devious chuckle. "Do you realise how difficult it was to convince the Sect Master to issue the tokens 'No Questions Asked'?"
-
-Marek wore a fake pout and continued, "I could only manage to wrangle two."
-
-He then leaned forward and said, "It appears that you cannot leave my side today, Al."
+"It's because he LET me win that time," Al muttered to himself. "I have to be extra careful so that Guy and Markus aren't caught in whatever scheme he is cooking up."
 
 ____
 

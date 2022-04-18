@@ -1,114 +1,90 @@
 ---
 id: tu4d6nwvmt1avp52o1awzcm
-title: Chapter 164 - Al, meet Krish
+title: Chapter 164 - Short History of Academies of Magic
 desc: ''
-updated: 1649011935537
+updated: 1650259571440
 created: 1649011935537
 ---
 
-Al was shaken by the sudden intrusion into his mind. This was partly because he could not trace back to the origin of the transmission - it was perfectly cloaked! To be able to accomplish this, the source must have strength far exceeding his own. Al wanted to revert with a question to identify this expert, however due to the lack of a "footprint" he was unable to do so.
+Teachers, with a capitalised 'T', have become ubiquitous with the dissemination of magic and cultivation arts. Historically, Teachers are relatively new entrants into the wild world of cultivation, breaching into prominence maybe within the last ten thousand years give or take five thousand. The standard logic for a very long time was to hoard knowledge. To grow stronger in isolation, achieve advancements in cultivation, and go against the Heavens and all that. However, one fine day, a certain mage had a bright idea. She figured, 'Why should we hoard all of this knowledge, when we could use it to help everyone?'
 
-Thus, the only thing Al could do was wait. Having lived for so long, Al was thoroughly inducted into the way of the world - the sheer brutality of it. He had learned, through bitter experience, that mages in higher realms were strange creatures that rarely operated following common logic or sense. That being said, Al himself was unaware of his own idiosyncracies that had warped his personality. Actions that one might assume to be positive through in a regular setting may end up offending peak experts - survival was akin to a perilous tightrope walk. With this in mind, Al made it a point to never, EVER, interact with anyone stronger than himself.  
+No one really remembers the identity of such a revolutionary thinker, because the moment she voiced her proposition out loud, she was summarily annihalated.
 
-Now, apparently, there was a peak expert lingering in this village - one that was in the Tesseract Transformation realm. Al held his breath and froze every single muscle in his body, and waited. He didn't want to end up offending this mysterious expert, so Al even completely retracted his mana senses. With his gaze, Al shot a warning towards Guy and his students, only to receive a blank response of nonchalance.
+'Who would utter such blasphemous ideas? Does she have no common sense? *Tsk* Women... typical!' The mages of that generation disdained her at that time. Yet that pervasive idea had taken root. More and more mages, mostly those at the bottom rungs of the ladder, started to congregate and share their knowledge in hopes of growing stronger. After all, nothing brings people closer than a shared enemy. And to these unfortunate bottom feeders, the powerful Clans, Sects and Organisations were the monoliths they could never supercede.
 
-'Shit!' He cursed internally. 'I should have warned them immediately. They wouldn't know how to gauge the strength of this expert. They are doomed!'
+If those monoliths had been more proactive, and less arrogant, they could have nipped this growing threat in the bud. However, their unwavering belief of superiority cost them that advantage. The appeal of being able to learn magic without having to sacrifice one's freedom was an attractive selling point. As more mages came under this unnamed co-operative's umbrella, they started to appreciate its superiority over the existing power structures.
 
-Al wanted to unfreeze himself and offer some curt words of caution, but his body wouldn't respond to him. This was the result of deep-rooted fear in Al's heart. After all, he valued his own life more than anyone else's. This wasn't selfishness, it was the instinctual and raw animalistic response when facing a palpable threat.
+Lombard Gronnlander was the first to achieve successive breakthroughs and breached into the Tesseract Transformation realm in record time. His success was partly due to his strong first-generation Phoenician Bloodline, and partly due to the excessive amount of resources injected into him by the co-operative. The mages recognised the urgent requirement of a spearhead and face for their cause. They alone wouldn't have been enough to stand against the existing monoliths, so they immediately unearthed Lombard given his talent for cultivation.
 
-After an excruciatingly long ten minutes, Al heard a periodic tapping noise resonating from direction of the stairs to the village. With each tap, the sound gained volume as though it were approaching them. Through hasty deduction, Al affiliated this sound to correspond to the expert. After that, every tap felt like the pounding of a hammer against his soul. The ran in syncopation with Al's own heartbeat, at least that's how he perceived them to be. It was unsettling, and claustrophobia inducing.
+Lombard was made the de-factor leader of the co-operative, and went on to assert the co-operative's claim in the world of cultivation. There were many challenges and conflicts along the way, but the rag-tag groups of upstart mages held firm, and through smart and strategic manoeuvring, embedded themselves deeply into the world.
 
-The taps gained clarity after an even longer five minutes. At this point, Al realised that the sound was of wood striking the ground, followed by an awkward shuffle of feet.
+Marketing played a huge part in this. The monolithic organisations had reached a point where they had become unreachable by the common classes. Entry required some connection to existing parties, or absolutely unshakeable innate advantages like physiques or bloodlines. The common class COULD enter monoliths through alternate routes, but these were often equivalent to indentured servitude for life sometimes extending to future generations as well. The co-operative, however, did not have such restrictions. Anyone could participate as long as they could offer a manageable sum of money as fees.
 
-'A mage with a limp?' That made no sense! Becoming a mage was a surefire pathway to achieving the pinnacle of human form. Although mages had the opportunity to mould their flesh body to their liking upon achieving the Core Formation realm, he had never heard of a mage who had willingly opted for a flawed - handicapped - form. This occurence once again solidified the fact in Al's mind, that whoever the approaching expert was, had an eccentric personality. Al's soul quivered in agitation and fear upon arriving at that conclusion.
+The co-operative decided to branch their image favourably by calling themselves Academies, and the instructors as Teachers with a capitalised 'T'.
 
-'The more eccentric and bizzare the mage's personality, the lower the chance of us exiting this interaction with our lives intact!'
+"Are you a teacher?"
 
-Al wished nothing more than not existing in this place at this point in time.
+"No, I'm a Teacher. With a capitalised 'T'."
 
-The life-draining taps and soul-grinding shuffle came to a halt right outside Al's tent. What followed were a series of unhurried knocks, and then a calm call for permission.
+"Ah! I'm sorry teacher."
 
-"Can I come in?" The voice sounded familiar. Al had heard it before, outside the home of the pregnant woman!
+"Capitalise the 'T', damn it!"
 
-"Y-Yes," Al stuttered apprehensively with a wavering tone.
+"Right, right! Teacher."
 
-The door pivoted open, revealing the figure of an elderly man, leaning on a walking stick about his height and sporting a washed out cloak.
+"That's more like it."
 
-Al's eyes were glued on the individual as they entered. Guy rose from his seat and apologised, "Unfortunately, there isn't a chair here. Are you fine sitting on the ground?"
+Such conversations would spark within taverns, inns and restaurants. Needless to say, the newly formed Academies' marketing team was extremely effective in solidifying the public perception. Following a series of carefully calculated hits, coups and advertisement campaigns, the Academies and the Teachers started to overtake the monolithic organisations both in fame and power. In fact, they even started to gain support from the suppressed minor Clans, Sects and Organisations who had to submit to the might of the powerhouses. With a constant influx of untapped talents, and a steady generation of new mages and cultivators, the Academies had all the required ingredients to succeed through sheer numbers alone.
 
-"GUY!" Al interjected immediately. He coughed to draw in the old man's attention and said, "I-I have a chair in my storage disk, please give me a second. I apologise profusely for this sleight."
+On that note, the reason why Academies succeeded where Clans and Sects failed was in their independent nature. An Academy treated the Students and the Teacher not as entities tethered to the organisation, but rather as free agents employed through a thorough contract. This sat well with a lot of mages as no one of that stature preferred to be tied down by some flimsy reasoning of loyalty, servitude or obligation. Cultivation revolved around benefits, after all.
 
-"It's fine," the man said while waving his hand. With an audible groan, the man used his stick as support and descended into the padded ground. During this, Al caught a glimpse of a horribly dessicated leg peaking out from under the man's cloak. Al had never seen anything so grisly in his entire life. It was as though the flesh and muscle had been thoroughly consumed from within by a ravenous parasite, leaving just the bone in place. There were awkward dips and holes on the flesh, as though rot had taken hold.
+As more people started taking a liking to the format of Academies, and as more and more Academies started to sprout all over the world, the co-operative enacted their second step. They incrementally started to ingratiate themselves with the various guilds that existed around the world and brought them into the fold by inventing Teaching Licences. Now, Teachers not only had to have a thorough understanding of cultivation and magic, they must also be learned in other professions to a verifiable degree. With this new addition, Academies now catered to a wider variety of Students. This added stringency set Teachers and Academies apart from Sects and Clans who, often times, specialised in only one licenced profession like Alchemy, Smithing, Enchanting, and so on.
 
-"Are you interested in knowing the cause?" The man's voice dragged Al out of his trance. Al realised that he had been staring at the disabled leg for a while now.
+Over time, Academies entered the forefront of the mage circle and the arrogant Sects and Clans could do nothing to counteract this new phenomenon, as they were already too late.
 
-"Ah!" Al exclaimed. "I-I apologise! I wasn't expecting-"
+With their new power, the co-operative of Academies enacted new laws and regulations that placed checks on Clans and Sects. They made it so that only licenced Teachers could lecture about magic in a public setting. Teaching Apprentices could do so as well, but only under the purview of an Academy or another licenced Teacher. However, the only exception to the rule was if the lecturing individual in a member of a Clan or Sect, and the listeners are also members of the same Clan or Sect.
 
-Al was about to prostrate completely, when suddenly a force grabbed him by his shoulders and stopped him in place, "Don't fret. It is a common reaction. It's jarring to see a mage sporting a limp voluntarily." 
+"Why is the exception so specific?" Guy asked.
 
-Al wiped the cold sweat gushing out of his forehead in relief and gulped audibly. "I... Would... Hmm..."
+"Everyone has a bottomline," Al commented. "If the co-operative of Academies wouldn't have survived if it had restricted Clans and Sects any further than that. The monolithic organisations allowed the Academies to persist because making any move against the Academies would have put them in an unfavourable light. However, if the opposition from Academies exceeded the organisations' bottomlines, then they would have taken action regardless of how they would be perceived by the public."
 
-The man understood the purpose within Al's repeated attempts to formulate a question and said, "My name is Krish Nara. As you have rightfully determined, I am in the Tesseract Transformation realm. But don't worry, I haven't killed another human being in over seventy years. Wait, that's not right."
+"This leaves us with no choice, then?" Guy inquired.
 
-Krish turned to Guy and asked, "Does it count as killing if I condemned an entire sect to extinction which may have resulted in the deaths of the Sect Leader, Elders and a large portion of the Sect's members?"
+"I believe so," Al affirmed. "I've looked into it, and there is very little that I can do to overturn the ban that Radiant Academy has placed on your employment to any Academy of magic. Maybe if it had been earlier, it would have been possible - I could pull some strings and make it go away. But now, too much time has passed, and your name has probably been etched into stone. There is no escape."
 
-Guy nodded with widened eyes.
+"I guess there's no helping it," Guy shrugged. He then clapped his hands together and blurted out, "So how do you make a Sect anyway?"
 
-"In that case, I haven't killed another human being in the last fifty years. And I don't intend to kill anyone for the time being either. Generally, such actions tend to incur a lot of negative social credits in the mage community, and in those situations the sins of the Master reflects on the Disciple," Krish continued.
+"It's actually quite easy," Al said while waving his hand. "After the revolution brought on by Academies, Sects took a page from their strategy and began lowering the barrier of entry as well. Nowadays, just about anyone can make a sect. You need a unique name for the Sect, a unique location as the base, a unique assortment of cultivation methods to act as anchors for the sect and finally, you need support structures to hold up your Sect."
 
-"Stop intimidating him," Guy sighed. "Look at how shaken he is!"
+"I get the necessity of a unique name and location, but what do the rest mean?" Guy responded.
 
-"You should count your lucky stars, Guy!" Krish warned jokingly. "I'm only keeping you alive because of your value with my dearest Disciple."
+"If the assortment of cultivation methods taught within a Sect can be taught by a Teacher, what use is a Sect?" Al proposed. "Basically, a Sect is only functional if it can offer something inaccessible outside of it."
 
-Guy sneered back with mock laughter. "Marie has rubbed off on you poorly, Mage Nara. Your wit was never this acerbic before."
+"So if it is a cultivation method available in an Academy's library or by a Teacher, it is invalidated?" Guy rephrased his question.
 
-"What do you know? We've only been acquainted for a little more that a year," Krish retorted. "Unsurprisingly, my Disciple and I have a lot in common. Which is rather unfortunate since it is a monumental task to get anything past her contrarian mental barriers."
+"That is correct," Al nodded. "As for a support structure... How do I put it?"
 
-"It's ironic that in these cases, the instructor finds greater success in bending personally that forcing the pupil to compromise," Guy chimed back.
+Al scratched his chin in contemplation before explaining, "Why do people have to think twice before entering a bloody conflict with the Rasmus Clan? Ignoring the plethora of experts on the forefront of the clan, of course."
 
-"That is true," Krish affirmed. "I never thought that in my thousand years, I would have to metaphorically bow in front of a girl a hundredth my age. But hey! It works!"
+"I don't get what you mean," Guy muttered with a frown.
 
-"Anyways, let's get back to the topic at hand. I believe I can be of some assistance with your Sect problem," Krish offered.
+"It's our Ancestor," Jean answered in his stead. "The Ancestor's presence is the deterrent."
 
-"In what way?"
+Al snapped his finger and added, "That's what I mean! Any successful Sect that intends to last the test of time NEEDS a support structure of some kind that can deter miscreants from making disadvantageous moves. It could be anything, ranging from a veritable mage powerhouse to an artefact or weapon of some kind capable of enacting superior damage."
 
-"Well, Teacher Jeeves here-"
+"That is concerning," Guy chimed in. "Is it necessary?"
 
-"Please just call me Al," Al quickly corrected.
+"As I've said, it isn't necessary but highly recommended. Although just about anyone can create a clan, most smallfries without a support structure never make it in the long run. They either get decimated by their competition to bankruptcy or absorbed by a larger sect, or in some cases they just die."
 
-Krish clicked his tongue in annoyance and growled back, "Don't interrupt me!"
+While Guy furled his brows in deep thought, Al clicked his tongue and commented, "Regretfully, neither I not Goran can act as support structures since I am affiliated with the co-operative of Academies while his allegiance is to the Rasmus Clan."
 
-Al retreated with a whimper.
+The group entered a depressed state after hearing that. Their momentum was quenched, and Guy was immeasurably disappointed.
 
-"Damn it, now I've lost my train of thought..."
+"I guess my plan crashed before it could even take off, huh?" Guy commented with wry mirth.
 
-"I-I believe you were talking about the sect-" Al said with a low voice.
+At that moment, a familiar voice echoed within the minds of everyone present in the room. It was through a Mana Transmission!
 
-"Didn't I say not to interrupt me?" Krish shot back with anger in his voice.
-
-"You're enjoying this, aren't you?" Guy sighed.
-
-Krish burst into uproarious laughter, "That's my revenge for staring at my leg. But on a more serious note, don't be so formal in this setting. I don't have the patience to process extra words of nonsensical drivel. Keep it direct!"
-
-While Al nodded hurriedly in affirmation, Krish resumed, "I can help you in your plan to create your Sect. I have a few connections that can expedite the process and possibly offer you some advantages. On top of that, as Teacher Jeeves pointed out, I can also act as your insurance. Once they know that Tesseract Transformation realm mage is affiliated with your Sect, they will think twice before pulling something untoward."
-
-Guy hummed in contemplation.
-
-"Why?" He then asked. "Why would you do this for me?"
-
-"Consider it a favour," Krish responded. "For all the assistance you've offered in my journey to raise a Disciple."
-
-Guy furrowed his brows and said, "I'm not wholly convinced. From what I've heard from Marie, you're quite detached from the goings on in the world. Why would you go out of your way to assist me?"
-
-"There are reasons..." Krish expressed, wearing a strained expression. "Does it matter?"
-
-"If it were before, I wouldn't have asked," Guy responded. "But now, I'm not sure if I like the feeling of being used. So I'd really appreciate it if we put all of our cards on the table."
-
-Krish smiled ominously and said, "That's the right attitude."
-
-"That's true. I always wondered whether you were being mature or excessively naive in taking things in stride without questioning the motives of people around you," Al chimed in with an affirmative nod. "Not that I think that Mage Nara has any malicious ulterior motives-"
-
-"Just give it a break, man," Krish blurted out exasperatedly. "Alright. My reason for sponsoring you here are twofold."
+'I believe I can assist in this matter.'
 
 ____
 

@@ -1,92 +1,48 @@
 ---
 id: ik786ibsa2is822fq14n5zo
-title: Chapter 162 - Radical Idea
+title: Chapter 162
 desc: ''
-updated: 1648149619590
+updated: 1650259596271
 created: 1648149619590
 ---
 
-"That is quite sudden," Al commented about Guy's declaration. "And out of character. What brought about this change?"
+If anything, the almost-hostile-takeover Guy experienced by his more zealous counterpart was a much-needed wake-up call. For one, he realised that his previous life wasn't as impactful as he had thought it to be. Many achievements which he considered as monumental milestones appeared to have been built on a foundation of sand.
 
-"After a bought of rather harrowing introspection, I've come to realise a few shortcomings of mine that I feel need to be addressed immediately," Guy nodded affirmatively as he elaborated. He then proceeded to summarise his insights about himself concisely, vis-à-vis his aversion from conflict and extreme passivity.
+"Its seems that my accomplishments and initiatives were inconsequential in the grand scheme of things."
 
-"I don't see how that is a problem?" Al responded. "Your level-headedness and maturity is what makes you endearing."
+Secondly, he finally recognised that this world was much worse than his previous one. Even with all the unpleasantness that existed in his previous world, at least society the society there coated with a sense of peace. While most people were selfish, there was an incentive to offer aid to others. That sense of togetherness was missing in this world.
 
-For Al, being a little impulsive, forceful and aggressive was a common trait amongst mages out in the wild. This was how things worked. If one wanted to gain advantage, they had to suppress their competition through brute force. In this cesspool of muscle-headed, arrogant troglodytes, Guy was like a breath of fresh air. With his measured approach to things, and ability to take things in stride made him stand out, and it was this uniqueness that garnered Al's attention. Now, seeing as how Guy was planning to assimilate himself with the crowd, Al was a little disappointed.
+"Magic just makes things worse. Not only does it corrupt natural laws, it also corrupts the humanity in people's hearts," Guy concluded.
 
-"I don't intend to seek conflicts," Guy corrected. "I'm simply saying that I feel like I could do more in this world apart from holing myself away in this village."
+One couldn't predict if they would lose their life to a rogue sword or arrow, or even a virulent plague capable of devastating large swathes of territory. Poverty was rampant, widespread corruption and exploitation infested the civilisations, and the martial gap that separated the mortals from the mages had marginalised the powerless to a precarious lifestyle. To top it off, it didn't seem as though the existing authorities were willing to help improve the situation. They were satisfied with the status-quo.
 
-Guy paused to formulate a proper line of reasoning and then continued. "I've taken on two students of magic- let's say two and a half including Marie, all two and a half of them have achieved perfected resonance, and one of them has even advanced into the Foundation Establishment realm."
+"People could live such prosperous lives here. But everyone is too absorbed with accumulating power to look back and help others." This world had become rotten! The other Guy was correct in asserting that this rot had to be excised.
 
-"Master!" Markus exclaimed in surprise. "Y-You knew?"
+And the world was unforgiving to both adults and children alike. The orphans in the orphanage Guy was living in were an excellent example of this. These kids were robbed of their childhood, forced to carry the weight of the world on their backs and unable to express their true selves to the world. And who knows what horrible experiences Grace had to live through that caused her to tremble at the sight of another mage?
 
-"I assumed," Guy said with a cheeky smile. "You aren't one to give up so easily. So if you've stepped out of your seclusion, it could only mean that you've advanced successfully. Otherwise, I fear I would have had to drag you out of your room by force while you struggled at the last inch of your life after exhausting yourself completely."
+This was just a small sample in the large scheme of things. Guy could already fathom the lives of the other orphans around the world!
 
-Markus scratched the back of his head sheepishly.
+"Things probably aren't any better out there." Guy felt that it was no longer an option to sit on the sidelines and watch the world move in front of him.
 
-"Of the two and a half, two did not have a cultivation method," Guy resumed. "It meant that they wouldn't be able to advance in the path of magic, yet here they are, standing at the edge of the cliff ready to leap into true magehood. Although the sample size isn't sufficient to draw a wider conclusion, it is enough to establish a hypothesis: We have the ability to help those without the fortune to cultivate, to do so."
+Guy recognised that things needed to change. His current trajectory had to undergo a drastic shift. This change would serve dual purposes. Of course, the first was to make a meaningful contribution to the world and make a lasting difference. The second was more selfish, and it was to simply piss Mast off!
 
-"If I remember correctly," Al interjected. "You were against spreading this knowledge because it would eventually lead to a proliferation of violence and conflicts."
+He wasn't planning to intentionally confront Mast, since that entity hadn't done anything to hurt Guy (that was he was aware of). Furthermore, Guy was also grateful for being offered a second chance even if it was conditional in some ways.
 
-"That's the worst case scenario," Guy reasoned. "Take a look at what Jean's accomplished! My earlier stance was dependent on a false assumption that magic's primary purpose was to bolster martial might. However, Jean has proven that magic has potential to be applied in so many more fields that can benefit others. Furthermore, she alone isn't enough. Imagine if there were many more mages like Jean, with the knowledge and ability to practice medical magic of equal efficacy. How great would that be?"
+But the betrayal still hurt.
 
-"You seem hard set on this," Al commented.
+Mast must have a bottom line, but Guy hadn't infringed on it just yet. Presumably, Guy's previous trajectory wouldn't infringe on it either, otherwise, Mast would have interfered. Nonetheless, Guy was feeling confrontational. He wanted to see just how far he could push Mast's buttons, as a sign of silent protest.
 
-"It has to be done. I have a gift - a special power that brings with it an immense collection of knowledge, most of which I can't apply. However, my students have managed to make use of it and have achieved great accomplishments. It is a waste to hoard all of this knowledge when it could be disseminated and used for more fruitful purposes," Guy responded.
+"I realise that I need to make changes in the way I am handling things here," Guy muttered while scratching his chin. "The problem is that power is concentrated on the top. Just like with society in my previous life, those at the lower rungs of the ladder have a tougher time climbing up, while those already at the top can cruise through life without heavy consequences."
 
-"It is the first time I'm seeing a mage so eager to share their gains from an inheritance," Al muttered. For any mage, an inheritance, regardless of its source, was an immensely valuable treasure. This was because if used correctly, especially if it is compatible with the mage, an inheritance can accelerate the cultivation of a mage by a large margin in a short period of time. Inheritances are essentially solidified versions of the cultivation of a mage from the Tesseract Transformation realm. This realm is regarded as the absolute peak a mage can achieve in their lifetime, so it isn't farfetched to assume that their cultivation is as refined, optimised and potent as it could be. Now imagine if another mage gains access to this highly potent solidified cultivation, and have the ability to siphon from it and bolster their own. No mage wishes to share such fortuitous and cheat-like advantages with another who could potentially rise and become their competitor.
+While in his past life, the deciding factor was wealth, the societal divisions in this world relied on magical power and cultivation.
 
-Even within renowned clans, large organisations, and sects that have deep backings, sharing of an inheritance artefact with another member was a very rare occurrence. For example, although Goran was the current Clan Leader of the Rasmus Clan, he hadn't come into contact with the clan's inheritance artefact. In some ways, this was also a way to maintain checks and balances between these powerful entities. If word were to be leaked of the movement of an inheritance artefact within an organisation, it was akin to the arming of a nuclear missile. Opposing clans, organisations or sects would retaliate with a similar move, leading to a tense cold-war which could blow over at the lightest provocation.
 
-"I am envious of your open-mindedness," Al evoked while nodding his head appreciatively. "No mage would be so charitable to publicly share their inheritance with others."
 
-"Errr..."
+"But where do I begin?"
 
-"However, I suggest that you avoid hinting at or even bringing up the fact that you have an inheritance," Al warned.
+Guy had a good idea of the big picture, but the intermediate steps to achieve that goal were a mystery to him. After careful thought, he figured that it would be best to inquire a more learned party, preferably one with more experience in this world. Amongst those persons that he was acquainted with that fit that bill, a single name stood out prominently.
 
-"Errr..."
-
-"Words travel quickly, especially if they contain such enticing keywords," Al added. "Before you know it, mages will be swarming to this place to get a piece of the action. Once they're done, this village won't even exist on the face of the planet."
-
-"Erm... *cough* Right! What inheritance artefact?" Guy chimed in while sporting a conflicted smile.
-
-"That's the attitude," Al winked back.
-
-"But Master," Markus interjected at this point. "While I am fully behind you on your decision to spread your teachings, I hate to point out a glaring issue."
-
-All eyes on the room turned towards the boy, who was now feeling extremely discomfited. "I don't think we have the certification or official qualification to teach."
-
-Al smacked his forehead audible while hissing. "That's right!"
-
-"What's wrong?" Guy asked with visible confusion.
-
-"Although I recognise your ability to be a Teacher of magic, because you haven't gone through the proper qualification channels - by that I mean Academies of Magic - you technically do not have the certification to teach magic to others. If someone were to find out that you're conducting these lessons on magic, you could get into a lot of trouble with the authorities and the union of Academies and Teachers as a whole," Al explained.
-
-"Have I been doing something illegal all this time?" Guy exclaimed.
-
-"Your nurturing of a Disciple isn't illegal," Al corrected. "It is a personal relationship and a tradition that has existed since ancient history. However, again technically, teaching Jean when you aren't even a Teaching Apprentice is illegal and actionable to the highest extent of both national and international laws."
-
-Guy started to sweat bullets while eyeing the stoic girl. 'This girl is a walking lawsuit waiting to happen,' he said internally.
-
-"Please rest assured, Teacher Larks," the girl immediately responded, as though she'd read the lingering fear in Guy's eyes. "I am anything but grateful. May the world curse me with the most gruesome and painful death should I betray your confidence!"
-
-Guy sighed in relief inaudibly before reverting to the obvious question, "So there really isn't anything we can do, huh?"
-
-At this moment, Guy regretted his blasé attitude when he entered this world. If only he had tried harder, been more proactive at that time, he could have held his position back at the Academy. Then again, as he pondered on it further, a lot of good things had happened BECAUSE of that. He met Markus and his siblings, he befriended Al, and he found Grace. None of that would have been possible if not for his loss.
-
-"Actually," Al muttered out loud. "There may be a second pathway for you, albeit one that might be a bit tougher and could open you up to some unwelcome confrontation."
-
-Guy cocked his ears in attention and focused on Al. "Although you need a licence to teach magic officially, there are exceptions in place that can allow you to bypass that restriction."
-
-"How would that be?"
-
-"How do you think large organisations can accumulate so many specialised mages and warriors in their ranks?" Al hinted. "How is it that renowned clans and sects have the liberty to cultivate their own batch of mages with unique cultivation methods that cannot be found outside?"
-
-Guy narrowed his gaze and contemplated along this line of reasoning. After a quick half-second, the solution formed in his mind.
-
-"No way!" Guy exclaimed. "You aren't saying that we-"
-
-"That's right! We can create a Sect," Al affirmed while completing Guy's sentence.
+It was the man who had helped Guy get accustomed to his life here from the beginning. With a firm and resolute expression, Guy got on his feet and trudged along to the immaculate tent set up near the orphanage, which was the temporary home of Al Jeeves.
 
 ____
 

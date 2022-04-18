@@ -1,88 +1,78 @@
 ---
 id: 8z0mpun1q93ss3umkjqu20j
-title: Chapter 166 - Grim Future
+title: Chapter 166 - Ruthlessness
 desc: ''
-updated: 1649684993227
+updated: 1650259535901
 created: 1649011941944
 ---
 
-"Is it right to just reveal my fate like this?" Gue questioned with a tinge of worry in his voice. "From what I've heard, there can be great consequences if you action changes the course in any way."
+"My decision is influenced in large part by what I saw a little while back, when you were performing the |Soul Imprint| on Jean," Krish began. "As I've indicated before, through my eyes, your fate appears as murky as the Swamps of Garand. However, at that moment in time, your fate burst with a magnificient spark. In fact, this wasn't the first time such an event transpired, the same phenomenon occured when you performed your first |Soul Imprint| on Markus."
 
-"Things that are supposed to happen will happen, remember?" Krish winked. "What I am about to tell you won't change anything. You won't voluntarily stop in your tracks - are you planning to not continue teaching?"
+Guy's mind immediately formed a connection between this phenomenon and the two times he had utilised the powers of the mask. His expression faltered slightly, which wasn't missed by Krish who grabbed on like a pitbull.
 
-Observing Guy's lack of words, "See! Since there isn't any adverse consequence, aren't you the least bit curious to know?"
+"I knew it!" Krish exclaimed. "The events were special. Every other time you utilised your |Soul Imprint|, this did not occur. It got me thinking: What differed between those two instances and every other instance? No matter how hard I pondered over it, I could not come up with an answer, so I chalked it up as it having to do with your inheritance."
 
-"I guess so?" Guy muttered.
+"First off," Guy interrupted. "You were spying on me?" There was a faint sense of irritation in Guy's voice.
 
-"I saw a great leap," Krish started. "If the way the current world is progressing can be described in terms of architecture, it would be like a plain with a slight incline upwards. But with your intervention, a long set of stairs is introduced that leads into the sky with a steep rise and no end in sight. Now this may sound to oabstract to fathom, but that's primarily because I myself cannot put it into words."
+"It's a force of habit," Krish responded. "I won't apologise for it. I don't like being blindsided. My past experience has proven that vigilance is key in the survival of any mage. Teacher Jeeves here can corroborate this."
 
-"Can't Mage Nara use a |Soul Imprint|?" Al inquired, with the thirst of knowledge plastered blatantly accross his face.
+Al nodded vehemently in affirmation on queue.
 
-"Not if you want both of us to die a horrible death," Krish blurted out. "Certain secrets of this world are meant to be kept as such for the safety of the masses, boy."
+Guy coughed, in an attempt to expel the disturbing feeling swelling in his heart. Although he was affected by the breach of privacy, like any normal person, he could also empathise from Krish's point of view. Danger could potentially lurk around every corner in this world, thus precautionary measures were prudent. Besides, it wasn't as though privacy was in ample supply in Guy's past life. Corporations constantly tracked and sold user analytics, and governments - who are supposed to be on the side of the citizens - surveiled their citizens through flimsy protection laws. Certain social networking platforms could even offer tailored advertisements based on recent search history, going as far as to predict one's food preferences through complex statistical analysis. Compared to that, Krish's intermittent intrusions were trivial.
 
-"Nonetheless. Returning to the architectural metaphor once again: one would assume that such an endless stair would collapse under its own weight and instability. However, this stair happened to have the strongest foundations! It was built on the fundamental truths of this world - unshakable against all adversities!"
+"You are correct," Guy said with a bitter smile. "It does have something to do with my inheritance. Jean and Markus can attest to that."
 
-"You've lost me there," Guy interjected while squinting his eyes. "What's that supposed to mean?"
+"That's right!" Markus chimed in. "Compared to the other |Soul Imprints|, the one I experienced when I achieved perfected resonance was far more immersive and vibrant. To top it off, I am able to perfectly relive that experience anytime I want through meditation."
 
-"Hmm..." Krish scratched his chin in rumination. "You see, if I make my divination even a little more descriptive, I will be interfering with the trajectory fate has set out for you. So I need to choose my words carefully, and that is also why I try to stick close to metaphors and analogies."
+"Now that Senior Brother brought it up, I too felt the same way," Jean commented. "The experience has been engraved into my mind. To be honest, when I first experienced it I was completely dumbfounded. Everything I saw was unbelievable and unfathomable. I thought that the vision was simply gibberish - a figment of a warped imagination. However, after reassessing it multiple times, I realised that the things I saw were thoroughly grounded in rationality. They were to... real to be lies."
 
-"Let's put it this way then: You will leave an unimpeachable mark in this world. One that will last the test of time! The changes you will introduce will revolutionise the world from the mundane, to the complex," Krish orated slowly.
+"Can you explain what you saw?" Al hummed. His inquisitiveness was urging him to pursue this thread. Jean responded affirmatively and expounded on her virtual experience. As she spoke, Al's eyes started to burst out further and further from his sockets in excitement. Everything was so new to him, and magical. Of course, this irony was missed on Al. Living in a world dominated by magic, fathoming one without magic at all was akin to a fantasy for him.
 
-The more Krish spoke, the brighter Guy's eyes got. The elation grew to a point where even his physical body couldn't contain it, causing him to vibrate with excitement. But then, the bubbling mood was burst by Krish's next set of words.
+"Elaborate on this artefact which measures heartbeat, blood oxygen concentration and so on," Al demanded while straightening his back.
 
-"Sure there will be a lot of bloodshed, but in the grand scheme of things it will be all worth it."
+"Teacher Jeeves," Krish interjected. "Let's not deviate from the current conversation."
 
-"Bloodshed?" Guy quickly retorted. "What do you mean by that?"
+Al bit his tongue apologetically and regressed into the background. Krish's gaze drilled into Guy once again, egging to explain himself.
 
-"Conflicts, deaths," Krish listed. "Genocide. Maybe a cultural purge. You know? The usual occurrences during any war of conquest."
+"I-I don't know what else to say really," Guy said with a loud sigh, trying his hardest to suppress the twitch attacking his eyelids. "I just found some knowledge pertinent to what they were struggling with and just... did my thing."
 
-Guy's back was immediately drenched in sweat - an involuntary action that even his superior physique couldn't prevent. It was the outcome of a fear that had been plaguing his mind. After the almost-hostile-takeover of his body by the parasitic entity embodying his split soul - the other Guy with a capitalised 'G' given that he was no longer a mindless being - Guy was constantly disturbed by a singular question.
+"Nonetheless, there was a difference," Krish emphasised. "I can feel that you're hiding something. Don't worry, I won't be squeezing it out of you - everyone is entitled to their secrets."
 
-'What if the other Guy took over completely?'
+After a short pause to discharge the crescendoing tension in the room, Krish continued, "The first time the phenomenon occured, I was confounded and was unable to make any headway or gain any insights. But this time, I was prepared. I managed to gaze into your fate."
 
-Would it have been a better outcome? Guy recognised that he could not achieve anything with his usual passivity. However, changing his personality would be difficult. Contrary to popular belief, flipping one's approach to life wasn't an easy task. While in most generic web novels, the transmigrated or regressed individual often affirms a new resolve to live life more adventurously. They would declare that they would ensure this new life would be more meaningful and impactful, and they would succeed in doing so. Yet the truth wasn't as easy as fiction set it out to be. People who die, unless they were still kids or teens at the time of their death, have most of their character quirks and personalities already cemented and ingrained into their bones. Even if their body is changed, their essence of being remains the same. And as the saying goes, it is impossible for a tiger to change its stripes. That is, unless the tiger actively seeks to paint new stripes and cover up old ones. Sticking true to that idiom, Guy found out that unless he actively convinced himself to play his cards differently and policed his every action carefully, he'd end up reverting to his old, non-confrontational personality.
+"Gaze into his fate?" Al muttered. He sucked in a long breath through clenched teeth as he narrowed his gaze, "Where have I heard that before...?"
 
-To that end, Guy felt that since the other Guy was a completely different entity it could be a feasible way to change Guy's current trajectory. But this was only logical on paper. To concede control to the other Guy would be an imminent demise of Guy's original self. Although Guy wished to make a change in his lifestyle, he valued his life more. On top of that, Guy also had an inkling of just how destructive the other Guy could be.
+"And in that bright mote growing inside you, I saw an unbelievable vision," Krish evoked with awe in his eyes. "Interestingly, it was a lot similar to what the girl just said before. A world beyond anything I have ever seen before."
 
-This belief was further confirmed after Krish revealed what was within "Guy's" fate. Guy could infer that what Krish observed must have been the future of the other Guy, not his own. For some reason, in Krish's eye, Guy was a dead man. Maybe it was because Guy's transmigration wasn't registered as a valid action in this world's fabric of reality. His entry had affected those around him, and the world as a whole though. But, everytime Guy allowed the other Guy to take control, Krish could see a bloom of fate. This implied that the other Guy WAS a registered entity.
+"That's right!" Al interjected as he snapped his finger. "Y-You are the Golden-Eyed Seer! That's you, isn't it?"
 
-Guy wasn't sure if the future Krish saw when peeking into the other Guy's fate was a fixed outcome independent of whether the other Guy or the current Guy were in control of the body, OR if it was an event dependent on the other Guy being the sole controller of the body. Or maybe, Guy was destined to lose himself and concede full control to the other Guy, which was a bleak future to say the least. Since Guy did NOT want the future Krish divined to come through.
+"It all makes sense now!" Al continued hurriedly. "Exactly 53 years ago, the Sunspot Sect faced multiple calamities one after another. The Sect Master suffered a cultivation deviation as he attempted to breakthrough into Tesseract Transformation realm, resulting in him going mad and eradicating every single disciple present in the Sect. The Elders barely managed to stop him, losing more than three-quarters of their strength by the time the Sect Master was subdued. After the Sect Master gained clarity, and came face to face with the utter carnage he had wraught, he ended up killing himself in his grief. The Elders departed from the Sect. Some attempted to join other Sects but faced an untimely death due to odd reasons. One Elder accidentally swallowed poison instead of an alchemical potion. Another accidentally swallowed an artefact of mass destruction and imploded. One even fell on her own vitality draining sword while in a deep meditative state and died a shrivelled husk."
 
-Guy could make out that the other Guy was totally zealous and psychotic to a fatal degree through their short interaction. That man would go to extremes to achieve his goals - he wouldn't be averse to commiting genocide in order to spread his warped beliefs of the so-called Absolute Truth.
+Al gulped audibly as a morbid silence took grasp of the ambience, "A Sect which was by no means a minor contender just disappeared off the face of the map in one fell swoop, that too because of a multitude of highly coincidental events that just happened to fall into place at the right time. It was so monumental that even the cooperative of Teachers had to get involved. I happened to sit in during the investigation, which lasted for five whole years. At the end, we managed to narrow it down to one individual: The Golden-Eyed Seer!"
 
-"Do you see this future when gazing into the fates of any others here?" Guy probed.
+"They stole from me," Krish grunted in exasperation. "And then they had the gall to deny everything. I only did what was fair."
 
-"I actually haven't checked that far ahead," Krish confessed. "Interestingly, what I saw in your fate at that short moment began at a time point quite far off into the future. There was nothing visible in the immediate temporal vicinity. Doing so exhausted a lot my mana as well, since the cost of using my power increases exponentially the further I look. Why do you ask?"
+"The entire Sect was burned to the ground after the suicide of a female Thunderbird, whose spouse was killed and harvested near the Sect's mountain," Al continued. "Although the structure was disintegrated, we assumed that the Sect's heritage would remain intact in some form. However, when we finally managed to open up the Sect's treasury, there was nothing in it!"
 
-"I hope that the future you observed doesn't come true," Guy said with a stern voice. "It is not what I want my name to be associated with."
+"A price had to be paid," Krish shrugged.
 
-"Blood has to be shed and lives need to be culled to make any lasting difference," Krish sighed. "That is the sad truth of this world. People are naturally resistant to change, unless you force it down their throats."
+"The many mistresses the Sect Master and the Elders impregnated all had a miscarriage due to the absurdest of causes," Al exclaimed animatedly.
 
-"Mage Nara does have a point there," Al chimed in. "If you were content with teaching such a small congregation of students, youe old approach would have been fine. However, with your current goal to make a lasting difference, it is no longer a feasible strategy to live a life with hands unstained by blood. You will eventually end up hitting a wall that will have to be demolished. At that point, will you hesitate? Do you think you will have the luxury to hesitate?"
+"That wasn't part of my plan," Krish denied immediately while alternating his gaze between Guy and his students. "In a minor fit of anger, I may have made a mistake in the curse. By the way, the 'Golden-Eyed Seer' is a very mild alias. I assumed it would be more bloody given the level of carnage."
 
-Guy shrank in defeat. 'It is an eventuality, just like they've said. How will I fare at that point? Am I even ready?'
+"The cooperative of Teachers and the Alliance of Sects wanted to go with the 'Evil-Eyed Demon of Misfortune', but they feared retribution!" Al exhorted. "If a person could eradicate a sizeable entity such as the Sunspot Sect so ruthlessly without having to once show their face, who would want to get on their bad side by affronting them with such a diminutive alias?"
 
-Having come from a modern world which was relatively peaceful, Guy was naturally against taking another life. He often wondered how other transmigrated individuals managed to change their personalities so easily to stomach bloodshed. 'Even if I try to rationalise things as self-defence and righteous, I would only be deluding myself to feel less guilty.'
+"Did you really have to go that far?" Guy asked.
 
-'Argh! There are so many things to consider!' Guy groaned internally. 'Should I just give up? Is it even worth it to take make such a drastic change in my life? I was happy the way I was before, right?'
+"Of course," Krish answered without hesitation. "Although it left a bad taste in my mouth seeing how far my curse travelled, it was necessary to avoid future conflicts. Mages are anything but forgiving individuals - myself included. If I hadn't eliminated the sect both root and stem, it would have inevitably led to another conflict down the line with a descendent. Now that I have a Disciple, it could have affected Marie as well. This is partly why I avoid mage infested regions nowadays. Everyone is just so sensitive. One slip of the tongue and you can end up with an enemy for life. It is easy to rack up negative social credit which is impossible to clear no matter how hard I try."
 
-Just as Guy was about to enter a self-depracating spiral that eventually led to depression, Markus spoke up.
+Krish exhaled loudly to release his aggression. "Sorry about that rant..."
 
-"I apologise, but I disagree with Teacher Jeeves and Mage Nara," the boy said firmly. "While there is some truth to your statements which have obviously been derived from your vibrant experiences, I think my Master is different."
+"I can empathise with Mage Nara on that matter," Al affirmed.
 
-As he paused, Jean shuffled forward and said, "I agree with Senior Brother. I apologise for my frankness, but until I met Teacher Larks I was always led to believe that I would never be able to cultivate or achieve anything substantial with my life."
+"Now that you've said it," Guy interjected. "If you're so averse to interfering with mage congregations, why are you so eager to support me in my venture? I'm pretty sure that you will have to make an appearance in public and shake a few hands. Aren't you worried about your past catching up to you?"
 
-"I was led to believe the same thing. Teacher Jeeves may not be aware of the struggles I had to go through back at the Academy. The sheer helplessness I felt when everything I tried to push myself forward ended up either fizzling in front of me, or blowing up in my face," Markus volleyed.
-
-"My father had me meet a plethora of experts," Jean continued. "Uncle Jeeves, you recommended a few as well. How much were they able to accomplish? Compare that with what I achieved in just above a year thanks to Teacher Larks?"
-
-"The way Teacher Jeeves and Mage Nara have traced are relics of the old world," Markus evoked with fervour. "That is the viewpoint cultivated by eras of suppression and segregation, and a society built on savagery disguised in a pleasant suit. Why would Master revert to the techniques of the past if he intends to change the world?"
-
-Markus gulped audibly and held a firm gaze targeted at Krish. The boy was intimidated, but was trying his best to not reveal it outwardly.
-
-"Mage Nara," the boy uttered. "I-I believe that your divination is incorrect."
-
-"It has to be faulty," Jean said in conjunction, while using a hand to support her shivering Senio6r Brother from the back.
+"Given what I've seen in your fate, all those petty conflicts are trivial!" Krish evoked.
 
 ____
 

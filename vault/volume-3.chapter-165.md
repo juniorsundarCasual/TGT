@@ -1,78 +1,114 @@
 ---
 id: eztzx2mjkgil5zvliclj9ca
-title: Chapter 165 - Ruthlessness
+title: Chapter 165 - Al, meet Krish
 desc: ''
-updated: 1649683926008
+updated: 1650259553622
 created: 1649011939375
 ---
 
-"My decision is influenced in large part by what I saw a little while back, when you were performing the |Soul Imprint| on Jean," Krish began. "As I've indicated before, through my eyes, your fate appears as murky as the Swamps of Garand. However, at that moment in time, your fate burst with a magnificient spark. In fact, this wasn't the first time such an event transpired, the same phenomenon occured when you performed your first |Soul Imprint| on Markus."
+Al was shaken by the sudden intrusion into his mind. This was partly because he could not trace back to the origin of the transmission - it was perfectly cloaked! To be able to accomplish this, the source must have strength far exceeding his own. Al wanted to revert with a question to identify this expert, however due to the lack of a "footprint" he was unable to do so.
 
-Guy's mind immediately formed a connection between this phenomenon and the two times he had utilised the powers of the mask. His expression faltered slightly, which wasn't missed by Krish who grabbed on like a pitbull.
+Thus, the only thing Al could do was wait. Having lived for so long, Al was thoroughly inducted into the way of the world - the sheer brutality of it. He had learned, through bitter experience, that mages in higher realms were strange creatures that rarely operated following common logic or sense. That being said, Al himself was unaware of his own idiosyncracies that had warped his personality. Actions that one might assume to be positive through in a regular setting may end up offending peak experts - survival was akin to a perilous tightrope walk. With this in mind, Al made it a point to never, EVER, interact with anyone stronger than himself.  
 
-"I knew it!" Krish exclaimed. "The events were special. Every other time you utilised your |Soul Imprint|, this did not occur. It got me thinking: What differed between those two instances and every other instance? No matter how hard I pondered over it, I could not come up with an answer, so I chalked it up as it having to do with your inheritance."
+Now, apparently, there was a peak expert lingering in this village - one that was in the Tesseract Transformation realm. Al held his breath and froze every single muscle in his body, and waited. He didn't want to end up offending this mysterious expert, so Al even completely retracted his mana senses. With his gaze, Al shot a warning towards Guy and his students, only to receive a blank response of nonchalance.
 
-"First off," Guy interrupted. "You were spying on me?" There was a faint sense of irritation in Guy's voice.
+'Shit!' He cursed internally. 'I should have warned them immediately. They wouldn't know how to gauge the strength of this expert. They are doomed!'
 
-"It's a force of habit," Krish responded. "I won't apologise for it. I don't like being blindsided. My past experience has proven that vigilance is key in the survival of any mage. Teacher Jeeves here can corroborate this."
+Al wanted to unfreeze himself and offer some curt words of caution, but his body wouldn't respond to him. This was the result of deep-rooted fear in Al's heart. After all, he valued his own life more than anyone else's. This wasn't selfishness, it was the instinctual and raw animalistic response when facing a palpable threat.
 
-Al nodded vehemently in affirmation on queue.
+After an excruciatingly long ten minutes, Al heard a periodic tapping noise resonating from direction of the stairs to the village. With each tap, the sound gained volume as though it were approaching them. Through hasty deduction, Al affiliated this sound to correspond to the expert. After that, every tap felt like the pounding of a hammer against his soul. The ran in syncopation with Al's own heartbeat, at least that's how he perceived them to be. It was unsettling, and claustrophobia inducing.
 
-Guy coughed, in an attempt to expel the disturbing feeling swelling in his heart. Although he was affected by the breach of privacy, like any normal person, he could also empathise from Krish's point of view. Danger could potentially lurk around every corner in this world, thus precautionary measures were prudent. Besides, it wasn't as though privacy was in ample supply in Guy's past life. Corporations constantly tracked and sold user analytics, and governments - who are supposed to be on the side of the citizens - surveiled their citizens through flimsy protection laws. Certain social networking platforms could even offer tailored advertisements based on recent search history, going as far as to predict one's food preferences through complex statistical analysis. Compared to that, Krish's intermittent intrusions were trivial.
+The taps gained clarity after an even longer five minutes. At this point, Al realised that the sound was of wood striking the ground, followed by an awkward shuffle of feet.
 
-"You are correct," Guy said with a bitter smile. "It does have something to do with my inheritance. Jean and Markus can attest to that."
+'A mage with a limp?' That made no sense! Becoming a mage was a surefire pathway to achieving the pinnacle of human form. Although mages had the opportunity to mould their flesh body to their liking upon achieving the Core Formation realm, he had never heard of a mage who had willingly opted for a flawed - handicapped - form. This occurence once again solidified the fact in Al's mind, that whoever the approaching expert was, had an eccentric personality. Al's soul quivered in agitation and fear upon arriving at that conclusion.
 
-"That's right!" Markus chimed in. "Compared to the other |Soul Imprints|, the one I experienced when I achieved perfected resonance was far more immersive and vibrant. To top it off, I am able to perfectly relive that experience anytime I want through meditation."
+'The more eccentric and bizzare the mage's personality, the lower the chance of us exiting this interaction with our lives intact!'
 
-"Now that Senior Brother brought it up, I too felt the same way," Jean commented. "The experience has been engraved into my mind. To be honest, when I first experienced it I was completely dumbfounded. Everything I saw was unbelievable and unfathomable. I thought that the vision was simply gibberish - a figment of a warped imagination. However, after reassessing it multiple times, I realised that the things I saw were thoroughly grounded in rationality. They were to... real to be lies."
+Al wished nothing more than not existing in this place at this point in time.
 
-"Can you explain what you saw?" Al hummed. His inquisitiveness was urging him to pursue this thread. Jean responded affirmatively and expounded on her virtual experience. As she spoke, Al's eyes started to burst out further and further from his sockets in excitement. Everything was so new to him, and magical. Of course, this irony was missed on Al. Living in a world dominated by magic, fathoming one without magic at all was akin to a fantasy for him.
+The life-draining taps and soul-grinding shuffle came to a halt right outside Al's tent. What followed were a series of unhurried knocks, and then a calm call for permission.
 
-"Elaborate on this artefact which measures heartbeat, blood oxygen concentration and so on," Al demanded while straightening his back.
+"Can I come in?" The voice sounded familiar. Al had heard it before, outside the home of the pregnant woman!
 
-"Teacher Jeeves," Krish interjected. "Let's not deviate from the current conversation."
+"Y-Yes," Al stuttered apprehensively with a wavering tone.
 
-Al bit his tongue apologetically and regressed into the background. Krish's gaze drilled into Guy once again, egging to explain himself.
+The door pivoted open, revealing the figure of an elderly man, leaning on a walking stick about his height and sporting a washed out cloak.
 
-"I-I don't know what else to say really," Guy said with a loud sigh, trying his hardest to suppress the twitch attacking his eyelids. "I just found some knowledge pertinent to what they were struggling with and just... did my thing."
+Al's eyes were glued on the individual as they entered. Guy rose from his seat and apologised, "Unfortunately, there isn't a chair here. Are you fine sitting on the ground?"
 
-"Nonetheless, there was a difference," Krish emphasised. "I can feel that you're hiding something. Don't worry, I won't be squeezing it out of you - everyone is entitled to their secrets."
+"GUY!" Al interjected immediately. He coughed to draw in the old man's attention and said, "I-I have a chair in my storage disk, please give me a second. I apologise profusely for this sleight."
 
-After a short pause to discharge the crescendoing tension in the room, Krish continued, "The first time the phenomenon occured, I was confounded and was unable to make any headway or gain any insights. But this time, I was prepared. I managed to gaze into your fate."
+"It's fine," the man said while waving his hand. With an audible groan, the man used his stick as support and descended into the padded ground. During this, Al caught a glimpse of a horribly dessicated leg peaking out from under the man's cloak. Al had never seen anything so grisly in his entire life. It was as though the flesh and muscle had been thoroughly consumed from within by a ravenous parasite, leaving just the bone in place. There were awkward dips and holes on the flesh, as though rot had taken hold.
 
-"Gaze into his fate?" Al muttered. He sucked in a long breath through clenched teeth as he narrowed his gaze, "Where have I heard that before...?"
+"Are you interested in knowing the cause?" The man's voice dragged Al out of his trance. Al realised that he had been staring at the disabled leg for a while now.
 
-"And in that bright mote growing inside you, I saw an unbelievable vision," Krish evoked with awe in his eyes. "Interestingly, it was a lot similar to what the girl just said before. A world beyond anything I have ever seen before."
+"Ah!" Al exclaimed. "I-I apologise! I wasn't expecting-"
 
-"That's right!" Al interjected as he snapped his finger. "Y-You are the Golden-Eyed Seer! That's you, isn't it?"
+Al was about to prostrate completely, when suddenly a force grabbed him by his shoulders and stopped him in place, "Don't fret. It is a common reaction. It's jarring to see a mage sporting a limp voluntarily." 
 
-"It all makes sense now!" Al continued hurriedly. "Exactly 53 years ago, the Sunspot Sect faced multiple calamities one after another. The Sect Master suffered a cultivation deviation as he attempted to breakthrough into Tesseract Transformation realm, resulting in him going mad and eradicating every single disciple present in the Sect. The Elders barely managed to stop him, losing more than three-quarters of their strength by the time the Sect Master was subdued. After the Sect Master gained clarity, and came face to face with the utter carnage he had wraught, he ended up killing himself in his grief. The Elders departed from the Sect. Some attempted to join other Sects but faced an untimely death due to odd reasons. One Elder accidentally swallowed poison instead of an alchemical potion. Another accidentally swallowed an artefact of mass destruction and imploded. One even fell on her own vitality draining sword while in a deep meditative state and died a shrivelled husk."
+Al wiped the cold sweat gushing out of his forehead in relief and gulped audibly. "I... Would... Hmm..."
 
-Al gulped audibly as a morbid silence took grasp of the ambience, "A Sect which was by no means a minor contender just disappeared off the face of the map in one fell swoop, that too because of a multitude of highly coincidental events that just happened to fall into place at the right time. It was so monumental that even the cooperative of Teachers had to get involved. I happened to sit in during the investigation, which lasted for five whole years. At the end, we managed to narrow it down to one individual: The Golden-Eyed Seer!"
+The man understood the purpose within Al's repeated attempts to formulate a question and said, "My name is Krish Nara. As you have rightfully determined, I am in the Tesseract Transformation realm. But don't worry, I haven't killed another human being in over seventy years. Wait, that's not right."
 
-"They stole from me," Krish grunted in exasperation. "And then they had the gall to deny everything. I only did what was fair."
+Krish turned to Guy and asked, "Does it count as killing if I condemned an entire sect to extinction which may have resulted in the deaths of the Sect Leader, Elders and a large portion of the Sect's members?"
 
-"The entire Sect was burned to the ground after the suicide of a female Thunderbird, whose spouse was killed and harvested near the Sect's mountain," Al continued. "Although the structure was disintegrated, we assumed that the Sect's heritage would remain intact in some form. However, when we finally managed to open up the Sect's treasury, there was nothing in it!"
+Guy nodded with widened eyes.
 
-"A price had to be paid," Krish shrugged.
+"In that case, I haven't killed another human being in the last fifty years. And I don't intend to kill anyone for the time being either. Generally, such actions tend to incur a lot of negative social credits in the mage community, and in those situations the sins of the Master reflects on the Disciple," Krish continued.
 
-"The many mistresses the Sect Master and the Elders impregnated all had a miscarriage due to the absurdest of causes," Al exclaimed animatedly.
+"Stop intimidating him," Guy sighed. "Look at how shaken he is!"
 
-"That wasn't part of my plan," Krish denied immediately while alternating his gaze between Guy and his students. "In a minor fit of anger, I may have made a mistake in the curse. By the way, the 'Golden-Eyed Seer' is a very mild alias. I assumed it would be more bloody given the level of carnage."
+"You should count your lucky stars, Guy!" Krish warned jokingly. "I'm only keeping you alive because of your value with my dearest Disciple."
 
-"The cooperative of Teachers and the Alliance of Sects wanted to go with the 'Evil-Eyed Demon of Misfortune', but they feared retribution!" Al exhorted. "If a person could eradicate a sizeable entity such as the Sunspot Sect so ruthlessly without having to once show their face, who would want to get on their bad side by affronting them with such a diminutive alias?"
+Guy sneered back with mock laughter. "Marie has rubbed off on you poorly, Mage Nara. Your wit was never this acerbic before."
 
-"Did you really have to go that far?" Guy asked.
+"What do you know? We've only been acquainted for a little more that a year," Krish retorted. "Unsurprisingly, my Disciple and I have a lot in common. Which is rather unfortunate since it is a monumental task to get anything past her contrarian mental barriers."
 
-"Of course," Krish answered without hesitation. "Although it left a bad taste in my mouth seeing how far my curse travelled, it was necessary to avoid future conflicts. Mages are anything but forgiving individuals - myself included. If I hadn't eliminated the sect both root and stem, it would have inevitably led to another conflict down the line with a descendent. Now that I have a Disciple, it could have affected Marie as well. This is partly why I avoid mage infested regions nowadays. Everyone is just so sensitive. One slip of the tongue and you can end up with an enemy for life. It is easy to rack up negative social credit which is impossible to clear no matter how hard I try."
+"It's ironic that in these cases, the instructor finds greater success in bending personally that forcing the pupil to compromise," Guy chimed back.
 
-Krish exhaled loudly to release his aggression. "Sorry about that rant..."
+"That is true," Krish affirmed. "I never thought that in my thousand years, I would have to metaphorically bow in front of a girl a hundredth my age. But hey! It works!"
 
-"I can empathise with Mage Nara on that matter," Al affirmed.
+"Anyways, let's get back to the topic at hand. I believe I can be of some assistance with your Sect problem," Krish offered.
 
-"Now that you've said it," Guy interjected. "If you're so averse to interfering with mage congregations, why are you so eager to support me in my venture? I'm pretty sure that you will have to make an appearance in public and shake a few hands. Aren't you worried about your past catching up to you?"
+"In what way?"
 
-"Given what I've seen in your fate, all those petty conflicts are trivial!" Krish evoked.
+"Well, Teacher Jeeves here-"
+
+"Please just call me Al," Al quickly corrected.
+
+Krish clicked his tongue in annoyance and growled back, "Don't interrupt me!"
+
+Al retreated with a whimper.
+
+"Damn it, now I've lost my train of thought..."
+
+"I-I believe you were talking about the sect-" Al said with a low voice.
+
+"Didn't I say not to interrupt me?" Krish shot back with anger in his voice.
+
+"You're enjoying this, aren't you?" Guy sighed.
+
+Krish burst into uproarious laughter, "That's my revenge for staring at my leg. But on a more serious note, don't be so formal in this setting. I don't have the patience to process extra words of nonsensical drivel. Keep it direct!"
+
+While Al nodded hurriedly in affirmation, Krish resumed, "I can help you in your plan to create your Sect. I have a few connections that can expedite the process and possibly offer you some advantages. On top of that, as Teacher Jeeves pointed out, I can also act as your insurance. Once they know that Tesseract Transformation realm mage is affiliated with your Sect, they will think twice before pulling something untoward."
+
+Guy hummed in contemplation.
+
+"Why?" He then asked. "Why would you do this for me?"
+
+"Consider it a favour," Krish responded. "For all the assistance you've offered in my journey to raise a Disciple."
+
+Guy furrowed his brows and said, "I'm not wholly convinced. From what I've heard from Marie, you're quite detached from the goings on in the world. Why would you go out of your way to assist me?"
+
+"There are reasons..." Krish expressed, wearing a strained expression. "Does it matter?"
+
+"If it were before, I wouldn't have asked," Guy responded. "But now, I'm not sure if I like the feeling of being used. So I'd really appreciate it if we put all of our cards on the table."
+
+Krish smiled ominously and said, "That's the right attitude."
+
+"That's true. I always wondered whether you were being mature or excessively naive in taking things in stride without questioning the motives of people around you," Al chimed in with an affirmative nod. "Not that I think that Mage Nara has any malicious ulterior motives-"
+
+"Just give it a break, man," Krish blurted out exasperatedly. "Alright. My reason for sponsoring you here are twofold."
 
 ____
 

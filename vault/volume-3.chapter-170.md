@@ -1,48 +1,118 @@
 ---
 id: grk850cf2fjrhws2v0jbfwe
-title: Chapter 170
+title: Chapter 170 - No Questions Asked
 desc: ''
-updated: 1650259261311
+updated: 1650259466723
 created: 1650194178873
 ---
 
-If anything, the almost-hostile-takeover Guy experienced by his more zealous counterpart was a much-needed wake-up call. For one, he realised that his previous life wasn't as impactful as he had thought it to be. Many achievements which he considered as monumental milestones appeared to have been built on a foundation of sand.
+A man massaged his silver beard while gazing into the horizon with a vigourous sheen in his eyes. His lips parted into a devious smile as his senses locked onto the approaching figure of another man, followed by a still adolescent griffin carrying two individuals. His attention quickly diverted from the critters incapable of flight and the beast and doubled down on the other man.
 
-"Its seems that my accomplishments and initiatives were inconsequential in the grand scheme of things."
+"I knew he'd cash it in one day," the man said audibly with a reverberating chuckle. He gazed down on his clothes once again, a redundant action since he could easily observe it through his mana senses, and fixed his black overcoat. He then dusted his black skin-tight shirt - another redundant action since he could easily dispel all blemishes with his magic - and casually inserted his hands into his black trouser pockets.
 
-Secondly, he finally recognised that this world was much worse than his previous one. Even with all the unpleasantness that existed in his previous world, at least society the society there coated with a sense of peace. While most people were selfish, there was an incentive to offer aid to others. That sense of togetherness was missing in this world.
+After his final checks, he reverted his attention to the flying figure once again. As he did so, the man could feel his heartbeat hastening, he was getting agitated.
 
-"Magic just makes things worse. Not only does it corrupt natural laws, it also corrupts the humanity in people's hearts," Guy concluded.
+"This feeling," the man said with a near ecstatic expression. "This excitement! How many years has it been since I felt this?"
 
-One couldn't predict if they would lose their life to a rogue sword or arrow, or even a virulent plague capable of devastating large swathes of territory. Poverty was rampant, widespread corruption and exploitation infested the civilisations, and the martial gap that separated the mortals from the mages had marginalised the powerless to a precarious lifestyle. To top it off, it didn't seem as though the existing authorities were willing to help improve the situation. They were satisfied with the status-quo.
+The man's impeccable memories didn't fail him. The last time he felt this way was when he fought against Al Jeeves. It was a feeling of intoxication. His every fibre of being was pulsing at a feverish pace as all of his latent battle instincts were called into action. It was the kind of battle the man yearned for.
 
-"People could live such prosperous lives here. But everyone is too absorbed with accumulating power to look back and help others." This world had become rotten! The other Guy was correct in asserting that this rot had to be excised.
+A mage experiences three kinds of life-or-death battles in their lifetime. One when facing someone weaker, one when facing someone much stronger, and one when facing someone of equal or equivalent strength. The first kind is no fun, the victory is often known before the die is cast. The same sentiment is true for the second kind, since the only outcome in those confrontations is death. The third kind is where all the juice lied.
 
-And the world was unforgiving to both adults and children alike. The orphans in the orphanage Guy was living in were an excellent example of this. These kids were robbed of their childhood, forced to carry the weight of the world on their backs and unable to express their true selves to the world. And who knows what horrible experiences Grace had to live through that caused her to tremble at the sight of another mage?
+When fighting toe to toe with an opponent, one gets the opportunity to flex every single technique held in their arsenal. Because in those kinds of fights, the victory is always awarded to the mage with the superior skill, even if it is greater by a fingernail's margin. This was the kind of fight the man sought out so fervently. And this was the fight he got when facing Al Jeeves.
 
-This was just a small sample in the large scheme of things. Guy could already fathom the lives of the other orphans around the world!
+The man inhaled while positively shaking with exuberance, and honed all of his senses on the singular entity: Al Jeeves.
 
-"Things probably aren't any better out there." Guy felt that it was no longer an option to sit on the sidelines and watch the world move in front of him.
+____
 
-Guy recognised that things needed to change. His current trajectory had to undergo a drastic shift. This change would serve dual purposes. Of course, the first was to make a meaningful contribution to the world and make a lasting difference. The second was more selfish, and it was to simply piss Mast off!
+Al clicked his tongue in annoyance as a familiar probe washed over him. A mage's mana sense exists within the limit of their mana domain. Within said domain, everything is in control of the mage as long as they have the knowledge to manipulate the mana to their liking. However, when two mages confront each other, a peculiar interaction takes place when their mana domains overlap.
 
-He wasn't planning to intentionally confront Mast, since that entity hadn't done anything to hurt Guy (that was he was aware of). Furthermore, Guy was also grateful for being offered a second chance even if it was conditional in some ways.
+In most cases, the mage with the higher cultivation realm wins. To elaborate, the weaker mage will find it increasingly difficult to cast spells and manipulate the mana around them as the stronger mage fully collapses their wider mana domain into the weaker mage. The victory isn't always absolute since minor maneuvering and subterfuge can shift the balance ever so sligthly. However, when the realms of the mages are close in cultivation realms, the conflict within the overlapping domain turns into a heated dance with each side vying for the faintest opportunity to cut through the other's barriers.
 
-But the betrayal still hurt.
+Al immediately slowed his flight and activated a few spells inaudibly, essentially blocking the probe directed towards him. The victory in this confrontation was conceded to him, once again. This reignited the irksome feeling Al felt towards the man standing in the distance.
 
-Mast must have a bottom line, but Guy hadn't infringed on it just yet. Presumably, Guy's previous trajectory wouldn't infringe on it either, otherwise, Mast would have interfered. Nonetheless, Guy was feeling confrontational. He wanted to see just how far he could push Mast's buttons, as a sign of silent protest.
+"We are approaching the destination," Al informed Guy and Markus. "Remember everything I've told you."
 
-"I realise that I need to make changes in the way I am handling things here," Guy muttered while scratching his chin. "The problem is that power is concentrated on the top. Just like with society in my previous life, those at the lower rungs of the ladder have a tougher time climbing up, while those already at the top can cruise through life without heavy consequences."
+The duo nodded affirmatively and looked forward, past the light mist which prevailed before them. Unlike Al, Guy and his Disciple's vision and mana sense were much more gimped in terms of range. They could only see a tad farther than a regular human, so all their eyes could capture was a faint silhouette of what could only be described as an upside-down mountain beyond a thin cloudy veil. Guy squinted while trying to gain a clearer visual, and within a quick half-minute, he was able to see their destination in its full majesty.
 
-While in his past life, the deciding factor was wealth, the societal divisions in this world relied on magical power and cultivation.
+What looked like an upside-down mountain was actually a massive rock hovering precariously off the ground. Along the sides of this hovering mountain were various buildings, walkways and structures that were bustling with activity. These walkways and structures snaked in and out of the mountain, like an elegant worm eating into a fruit.
 
+"How is this even possible?" Guy exclaimed.
 
+"This region is naturally dense in mana," Al explained, "When there is excess mana in a location, one can expect anomalous phenomenon. Most large sects can be found in such mana rich locations."
 
-"But where do I begin?"
+"It goes against all laws of physics," Markus muttered.
 
-Guy had a good idea of the big picture, but the intermediate steps to achieve that goal were a mystery to him. After careful thought, he figured that it would be best to inquire a more learned party, preferably one with more experience in this world. Amongst those persons that he was acquainted with that fit that bill, a single name stood out prominently.
+"Mana truly is a mystery," Guy affirmed with an impressed tone.
 
-It was the man who had helped Guy get accustomed to his life here from the beginning. With a firm and resolute expression, Guy got on his feet and trudged along to the immaculate tent set up near the orphanage, which was the temporary home of Al Jeeves.
+The trio ascended as they approached the mountain, aiming for a flat landing space near the peak. As they rose, Guy observed the architecture further. The style closely matched the Mediterranean design motifs he'd seen back at Radiant City. Pillars and arches were in excess, with intricate sculptures and carvings peppered in various locations. The colour pallete was fairly warm with a preference towards natural brown and creamy shades. The paths had a cobblestone look in the public spaces, while near and inside buildings he could observe marble. There was also a heavy preference for open air design, which felt weird given the cold atmosphere at the higher altitude. But things became clear when they reached a few kilometres away from the mountain. As though a huge space heater had been activated, the previously chilly area around them turned slightly humid and warm.
+
+Al observed the change in Guy's expression and said, "There are multiple formations protecting the mountain. We wouldn't be able to enter the vicinity of this mountain unscathed if not for this entry token."
+
+Al fished out an embellished marble token the size of his palm which had beautiful cloud pattern on it.
+
+"Amongst the many formations, one that controls the weather moderates the atmosphere. There are also formations that moderate the mana concentration in and around the mountain to avoid causing mana poisoning to new iniates to the sect, or visitors."
+
+"That's extremely convenient," Guy commented. "And expensive," he added as he recollected the mana crystal expenditure required to maintain the formation.
+
+"Thanks to the mana concentration in the area, most of these formations can be sustained without mana crystals. Some of the more active defense formations do require additional mana, but those are only activated during dire scenarios," Al responded.
+
+Following another sharp ascent, Al and Garrud hovered in place before landing upon an open area. The design of the flat region reminded Guy of helipads from his past life - it appeared as though this was specifically designated as the landing zone for flying objects.
+
+"Al Jeeves!" A gruff voice bellowed from accross the landing space as he approached Al. "In the flesh."
+
+Al growled back in annoyance and greeted the man with a rough handshake, "Marek Glista."
+
+"You wouldn't believe how surprised I was when I received a message asking for assistance, from THE great Al Jeeves of all people?" The man dressed in all black said with a mocking tone.
+
+"Enough with the theatrics," Al shot back immediately while retrieving his palm from the uncomfortably long handshake. "Let's get this over with."
+
+"Ah, ah, ah!" Marek responded while shaking an extended finger side-to-side. "As a humble Elder of the Cloudstrider Sect, it is my duty to go through the proper rituals while welcoming guests."
+
+"Now who might these two gentlemen be?" Marek asked out loud without taking his attention off of Al.
+
+"This is Guy Larks. He is an Apprentice I am training, and this is Markus Reva, a Student I'm personally teaching," Al said offhandedly.
+
+Marek hummed and said, "The Student appears more talented than the Apprentice. And their physique is uninitiated to the martial path; they're weak."
+
+"Both of them reached this level within a span of two years. And you know that I don't gauge talent the same way you do."
+
+"Intellectuals then," Marek commented with a contemplative nod. I take it back. As expected of the great Mage, Al Jeeves. No talent can be hidden from those voracious eyes, thirsty for knowledge."
+
+"The same could be said for you," Al snorted back. "Your nose sniffs out martial talent like a Bloodletting Moth to, well, blood."
+
+"Is that a compliment?" Marek retorted with feigned surprise.
+
+"It's reciprocation," Al said with a sigh. "Let's move on."
+
+"I must say that I am a little curious. Your request is unusual," Marek pointed out with a sly grin. "What are you hiding from me, Al?"
+
+"That wasn't part of the agreement, Marek," Al denied immediately. "The condition from our duel was a favour with 'No Questions Asked'. Are you reneging on the deal?"
+
+Marek clicked his tongue and chided, "You always know to keep me on my toes."
+
+He then revealed a slight grin while tossing two marble tokens with an intricate symbol etched on them to Guy and Markus. As the tokens curved through the air and landed gently on their expecting palms, they could feel a trace of magic flowing through them.
+
+"Those shall give you unimpeded access to most locations within the sect, barring a few which shall be reminded to you by any guardians stationed near that area," Marek explained. "I remember that one of you requires access to historic records?"
+
+Guy nodded and raised his hands. Marek clicked his fingers, again without turning away from Al. Behind him, a cloaked mage materialised and greeted respectfully, "Elder Glista."
+
+"Lead the one with his arm up to the Archives."
+
+The cloaked figure turned and walked away without a word. It took a second, but Guy caught on to the implied message immediately and followed the figure in a brisk walk, with Markus in tow.
+
+Al turned to follow the duo but was immediately intercepted by Marek blocking his path, "Where are you going?"
+
+"Following them," Al answered with raised brows.
+
+"You don't have an all access token," Marek reminded.
+
+"What?"
+
+"You don't have access, Al," Marek repeated with a devious chuckle. "Do you realise how difficult it was to convince the Sect Master to issue the tokens 'No Questions Asked'?"
+
+Marek wore a fake pout and continued, "I could only manage to wrangle two."
+
+He then leaned forward and said, "It appears that you cannot leave my side today, Al."
 
 ____
 

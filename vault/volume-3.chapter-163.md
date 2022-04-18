@@ -1,90 +1,92 @@
 ---
 id: 6poe0qkuc9t8z8hzsslf2oy
-title: Chapter 163 - Short History of Academies of Magic
+title: Chapter 163 - Radical Idea
 desc: ''
-updated: 1648149631511
+updated: 1650259587197
 created: 1648149631511
 ---
 
-Teachers, with a capitalised 'T', have become ubiquitous with the dissemination of magic and cultivation arts. Historically, Teachers are relatively new entrants into the wild world of cultivation, breaching into prominence maybe within the last ten thousand years give or take five thousand. The standard logic for a very long time was to hoard knowledge. To grow stronger in isolation, achieve advancements in cultivation, and go against the Heavens and all that. However, one fine day, a certain mage had a bright idea. She figured, 'Why should we hoard all of this knowledge, when we could use it to help everyone?'
+"That is quite sudden," Al commented about Guy's declaration. "And out of character. What brought about this change?"
 
-No one really remembers the identity of such a revolutionary thinker, because the moment she voiced her proposition out loud, she was summarily annihalated.
+"After a bought of rather harrowing introspection, I've come to realise a few shortcomings of mine that I feel need to be addressed immediately," Guy nodded affirmatively as he elaborated. He then proceeded to summarise his insights about himself concisely, vis-à-vis his aversion from conflict and extreme passivity.
 
-'Who would utter such blasphemous ideas? Does she have no common sense? *Tsk* Women... typical!' The mages of that generation disdained her at that time. Yet that pervasive idea had taken root. More and more mages, mostly those at the bottom rungs of the ladder, started to congregate and share their knowledge in hopes of growing stronger. After all, nothing brings people closer than a shared enemy. And to these unfortunate bottom feeders, the powerful Clans, Sects and Organisations were the monoliths they could never supercede.
+"I don't see how that is a problem?" Al responded. "Your level-headedness and maturity is what makes you endearing."
 
-If those monoliths had been more proactive, and less arrogant, they could have nipped this growing threat in the bud. However, their unwavering belief of superiority cost them that advantage. The appeal of being able to learn magic without having to sacrifice one's freedom was an attractive selling point. As more mages came under this unnamed co-operative's umbrella, they started to appreciate its superiority over the existing power structures.
+For Al, being a little impulsive, forceful and aggressive was a common trait amongst mages out in the wild. This was how things worked. If one wanted to gain advantage, they had to suppress their competition through brute force. In this cesspool of muscle-headed, arrogant troglodytes, Guy was like a breath of fresh air. With his measured approach to things, and ability to take things in stride made him stand out, and it was this uniqueness that garnered Al's attention. Now, seeing as how Guy was planning to assimilate himself with the crowd, Al was a little disappointed.
 
-Lombard Gronnlander was the first to achieve successive breakthroughs and breached into the Tesseract Transformation realm in record time. His success was partly due to his strong first-generation Phoenician Bloodline, and partly due to the excessive amount of resources injected into him by the co-operative. The mages recognised the urgent requirement of a spearhead and face for their cause. They alone wouldn't have been enough to stand against the existing monoliths, so they immediately unearthed Lombard given his talent for cultivation.
+"I don't intend to seek conflicts," Guy corrected. "I'm simply saying that I feel like I could do more in this world apart from holing myself away in this village."
 
-Lombard was made the de-factor leader of the co-operative, and went on to assert the co-operative's claim in the world of cultivation. There were many challenges and conflicts along the way, but the rag-tag groups of upstart mages held firm, and through smart and strategic manoeuvring, embedded themselves deeply into the world.
+Guy paused to formulate a proper line of reasoning and then continued. "I've taken on two students of magic- let's say two and a half including Marie, all two and a half of them have achieved perfected resonance, and one of them has even advanced into the Foundation Establishment realm."
 
-Marketing played a huge part in this. The monolithic organisations had reached a point where they had become unreachable by the common classes. Entry required some connection to existing parties, or absolutely unshakeable innate advantages like physiques or bloodlines. The common class COULD enter monoliths through alternate routes, but these were often equivalent to indentured servitude for life sometimes extending to future generations as well. The co-operative, however, did not have such restrictions. Anyone could participate as long as they could offer a manageable sum of money as fees.
+"Master!" Markus exclaimed in surprise. "Y-You knew?"
 
-The co-operative decided to branch their image favourably by calling themselves Academies, and the instructors as Teachers with a capitalised 'T'.
+"I assumed," Guy said with a cheeky smile. "You aren't one to give up so easily. So if you've stepped out of your seclusion, it could only mean that you've advanced successfully. Otherwise, I fear I would have had to drag you out of your room by force while you struggled at the last inch of your life after exhausting yourself completely."
 
-"Are you a teacher?"
+Markus scratched the back of his head sheepishly.
 
-"No, I'm a Teacher. With a capitalised 'T'."
+"Of the two and a half, two did not have a cultivation method," Guy resumed. "It meant that they wouldn't be able to advance in the path of magic, yet here they are, standing at the edge of the cliff ready to leap into true magehood. Although the sample size isn't sufficient to draw a wider conclusion, it is enough to establish a hypothesis: We have the ability to help those without the fortune to cultivate, to do so."
 
-"Ah! I'm sorry teacher."
+"If I remember correctly," Al interjected. "You were against spreading this knowledge because it would eventually lead to a proliferation of violence and conflicts."
 
-"Capitalise the 'T', damn it!"
+"That's the worst case scenario," Guy reasoned. "Take a look at what Jean's accomplished! My earlier stance was dependent on a false assumption that magic's primary purpose was to bolster martial might. However, Jean has proven that magic has potential to be applied in so many more fields that can benefit others. Furthermore, she alone isn't enough. Imagine if there were many more mages like Jean, with the knowledge and ability to practice medical magic of equal efficacy. How great would that be?"
 
-"Right, right! Teacher."
+"You seem hard set on this," Al commented.
 
-"That's more like it."
+"It has to be done. I have a gift - a special power that brings with it an immense collection of knowledge, most of which I can't apply. However, my students have managed to make use of it and have achieved great accomplishments. It is a waste to hoard all of this knowledge when it could be disseminated and used for more fruitful purposes," Guy responded.
 
-Such conversations would spark within taverns, inns and restaurants. Needless to say, the newly formed Academies' marketing team was extremely effective in solidifying the public perception. Following a series of carefully calculated hits, coups and advertisement campaigns, the Academies and the Teachers started to overtake the monolithic organisations both in fame and power. In fact, they even started to gain support from the suppressed minor Clans, Sects and Organisations who had to submit to the might of the powerhouses. With a constant influx of untapped talents, and a steady generation of new mages and cultivators, the Academies had all the required ingredients to succeed through sheer numbers alone.
+"It is the first time I'm seeing a mage so eager to share their gains from an inheritance," Al muttered. For any mage, an inheritance, regardless of its source, was an immensely valuable treasure. This was because if used correctly, especially if it is compatible with the mage, an inheritance can accelerate the cultivation of a mage by a large margin in a short period of time. Inheritances are essentially solidified versions of the cultivation of a mage from the Tesseract Transformation realm. This realm is regarded as the absolute peak a mage can achieve in their lifetime, so it isn't farfetched to assume that their cultivation is as refined, optimised and potent as it could be. Now imagine if another mage gains access to this highly potent solidified cultivation, and have the ability to siphon from it and bolster their own. No mage wishes to share such fortuitous and cheat-like advantages with another who could potentially rise and become their competitor.
 
-On that note, the reason why Academies succeeded where Clans and Sects failed was in their independent nature. An Academy treated the Students and the Teacher not as entities tethered to the organisation, but rather as free agents employed through a thorough contract. This sat well with a lot of mages as no one of that stature preferred to be tied down by some flimsy reasoning of loyalty, servitude or obligation. Cultivation revolved around benefits, after all.
+Even within renowned clans, large organisations, and sects that have deep backings, sharing of an inheritance artefact with another member was a very rare occurrence. For example, although Goran was the current Clan Leader of the Rasmus Clan, he hadn't come into contact with the clan's inheritance artefact. In some ways, this was also a way to maintain checks and balances between these powerful entities. If word were to be leaked of the movement of an inheritance artefact within an organisation, it was akin to the arming of a nuclear missile. Opposing clans, organisations or sects would retaliate with a similar move, leading to a tense cold-war which could blow over at the lightest provocation.
 
-As more people started taking a liking to the format of Academies, and as more and more Academies started to sprout all over the world, the co-operative enacted their second step. They incrementally started to ingratiate themselves with the various guilds that existed around the world and brought them into the fold by inventing Teaching Licences. Now, Teachers not only had to have a thorough understanding of cultivation and magic, they must also be learned in other professions to a verifiable degree. With this new addition, Academies now catered to a wider variety of Students. This added stringency set Teachers and Academies apart from Sects and Clans who, often times, specialised in only one licenced profession like Alchemy, Smithing, Enchanting, and so on.
+"I am envious of your open-mindedness," Al evoked while nodding his head appreciatively. "No mage would be so charitable to publicly share their inheritance with others."
 
-Over time, Academies entered the forefront of the mage circle and the arrogant Sects and Clans could do nothing to counteract this new phenomenon, as they were already too late.
+"Errr..."
 
-With their new power, the co-operative of Academies enacted new laws and regulations that placed checks on Clans and Sects. They made it so that only licenced Teachers could lecture about magic in a public setting. Teaching Apprentices could do so as well, but only under the purview of an Academy or another licenced Teacher. However, the only exception to the rule was if the lecturing individual in a member of a Clan or Sect, and the listeners are also members of the same Clan or Sect.
+"However, I suggest that you avoid hinting at or even bringing up the fact that you have an inheritance," Al warned.
 
-"Why is the exception so specific?" Guy asked.
+"Errr..."
 
-"Everyone has a bottomline," Al commented. "If the co-operative of Academies wouldn't have survived if it had restricted Clans and Sects any further than that. The monolithic organisations allowed the Academies to persist because making any move against the Academies would have put them in an unfavourable light. However, if the opposition from Academies exceeded the organisations' bottomlines, then they would have taken action regardless of how they would be perceived by the public."
+"Words travel quickly, especially if they contain such enticing keywords," Al added. "Before you know it, mages will be swarming to this place to get a piece of the action. Once they're done, this village won't even exist on the face of the planet."
 
-"This leaves us with no choice, then?" Guy inquired.
+"Erm... *cough* Right! What inheritance artefact?" Guy chimed in while sporting a conflicted smile.
 
-"I believe so," Al affirmed. "I've looked into it, and there is very little that I can do to overturn the ban that Radiant Academy has placed on your employment to any Academy of magic. Maybe if it had been earlier, it would have been possible - I could pull some strings and make it go away. But now, too much time has passed, and your name has probably been etched into stone. There is no escape."
+"That's the attitude," Al winked back.
 
-"I guess there's no helping it," Guy shrugged. He then clapped his hands together and blurted out, "So how do you make a Sect anyway?"
+"But Master," Markus interjected at this point. "While I am fully behind you on your decision to spread your teachings, I hate to point out a glaring issue."
 
-"It's actually quite easy," Al said while waving his hand. "After the revolution brought on by Academies, Sects took a page from their strategy and began lowering the barrier of entry as well. Nowadays, just about anyone can make a sect. You need a unique name for the Sect, a unique location as the base, a unique assortment of cultivation methods to act as anchors for the sect and finally, you need support structures to hold up your Sect."
+All eyes on the room turned towards the boy, who was now feeling extremely discomfited. "I don't think we have the certification or official qualification to teach."
 
-"I get the necessity of a unique name and location, but what do the rest mean?" Guy responded.
+Al smacked his forehead audible while hissing. "That's right!"
 
-"If the assortment of cultivation methods taught within a Sect can be taught by a Teacher, what use is a Sect?" Al proposed. "Basically, a Sect is only functional if it can offer something inaccessible outside of it."
+"What's wrong?" Guy asked with visible confusion.
 
-"So if it is a cultivation method available in an Academy's library or by a Teacher, it is invalidated?" Guy rephrased his question.
+"Although I recognise your ability to be a Teacher of magic, because you haven't gone through the proper qualification channels - by that I mean Academies of Magic - you technically do not have the certification to teach magic to others. If someone were to find out that you're conducting these lessons on magic, you could get into a lot of trouble with the authorities and the union of Academies and Teachers as a whole," Al explained.
 
-"That is correct," Al nodded. "As for a support structure... How do I put it?"
+"Have I been doing something illegal all this time?" Guy exclaimed.
 
-Al scratched his chin in contemplation before explaining, "Why do people have to think twice before entering a bloody conflict with the Rasmus Clan? Ignoring the plethora of experts on the forefront of the clan, of course."
+"Your nurturing of a Disciple isn't illegal," Al corrected. "It is a personal relationship and a tradition that has existed since ancient history. However, again technically, teaching Jean when you aren't even a Teaching Apprentice is illegal and actionable to the highest extent of both national and international laws."
 
-"I don't get what you mean," Guy muttered with a frown.
+Guy started to sweat bullets while eyeing the stoic girl. 'This girl is a walking lawsuit waiting to happen,' he said internally.
 
-"It's our Ancestor," Jean answered in his stead. "The Ancestor's presence is the deterrent."
+"Please rest assured, Teacher Larks," the girl immediately responded, as though she'd read the lingering fear in Guy's eyes. "I am anything but grateful. May the world curse me with the most gruesome and painful death should I betray your confidence!"
 
-Al snapped his finger and added, "That's what I mean! Any successful Sect that intends to last the test of time NEEDS a support structure of some kind that can deter miscreants from making disadvantageous moves. It could be anything, ranging from a veritable mage powerhouse to an artefact or weapon of some kind capable of enacting superior damage."
+Guy sighed in relief inaudibly before reverting to the obvious question, "So there really isn't anything we can do, huh?"
 
-"That is concerning," Guy chimed in. "Is it necessary?"
+At this moment, Guy regretted his blasé attitude when he entered this world. If only he had tried harder, been more proactive at that time, he could have held his position back at the Academy. Then again, as he pondered on it further, a lot of good things had happened BECAUSE of that. He met Markus and his siblings, he befriended Al, and he found Grace. None of that would have been possible if not for his loss.
 
-"As I've said, it isn't necessary but highly recommended. Although just about anyone can create a clan, most smallfries without a support structure never make it in the long run. They either get decimated by their competition to bankruptcy or absorbed by a larger sect, or in some cases they just die."
+"Actually," Al muttered out loud. "There may be a second pathway for you, albeit one that might be a bit tougher and could open you up to some unwelcome confrontation."
 
-While Guy furled his brows in deep thought, Al clicked his tongue and commented, "Regretfully, neither I not Goran can act as support structures since I am affiliated with the co-operative of Academies while his allegiance is to the Rasmus Clan."
+Guy cocked his ears in attention and focused on Al. "Although you need a licence to teach magic officially, there are exceptions in place that can allow you to bypass that restriction."
 
-The group entered a depressed state after hearing that. Their momentum was quenched, and Guy was immeasurably disappointed.
+"How would that be?"
 
-"I guess my plan crashed before it could even take off, huh?" Guy commented with wry mirth.
+"How do you think large organisations can accumulate so many specialised mages and warriors in their ranks?" Al hinted. "How is it that renowned clans and sects have the liberty to cultivate their own batch of mages with unique cultivation methods that cannot be found outside?"
 
-At that moment, a familiar voice echoed within the minds of everyone present in the room. It was through a Mana Transmission!
+Guy narrowed his gaze and contemplated along this line of reasoning. After a quick half-second, the solution formed in his mind.
 
-'I believe I can assist in this matter.'
+"No way!" Guy exclaimed. "You aren't saying that we-"
+
+"That's right! We can create a Sect," Al affirmed while completing Guy's sentence.
 
 ____
 
