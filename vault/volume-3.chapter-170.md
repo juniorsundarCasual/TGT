@@ -2,7 +2,7 @@
 id: grk850cf2fjrhws2v0jbfwe
 title: Chapter 170 - No Questions Asked
 desc: ''
-updated: 1650259466723
+updated: 1650380443147
 created: 1650194178873
 ---
 
@@ -94,7 +94,7 @@ He then revealed a slight grin while tossing two marble tokens with an intricate
 
 "Those shall give you unimpeded access to most locations within the sect, barring a few which shall be reminded to you by any guardians stationed near that area," Marek explained. "I remember that one of you requires access to historic records?"
 
-Guy nodded and raised his hands. Marek clicked his fingers, again without turning away from Al. Behind him, a cloaked mage materialised and greeted respectfully, "Elder Glista."
+Guy nodded and raised his hands. Marek clicked his fingers, again without turning away from Al. Behind him, a white-cloaked, middle-aged and bald mage materialised and greeted respectfully, "Elder Glista."
 
 "Lead the one with his arm up to the Archives."
 
