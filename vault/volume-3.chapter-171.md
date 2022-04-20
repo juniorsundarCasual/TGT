@@ -1,8 +1,8 @@
 ---
 id: 9yv9lnjrzckmeiut9zptjeh
-title: Chapter 171
+title: Chapter 171 - Read, Reserve, Rinse, Repeat
 desc: ''
-updated: 1650391911919
+updated: 1650475930401
 created: 1650194200375
 ---
 
@@ -74,7 +74,25 @@ Guy's growing smile faltered as he recollected the sudden lack of a certain enti
 
 'It's fine. The RoK works exactly as it used to, with our without him...'
 
-After cleansing his mind of all distracting thoughts, Guy got down to scanning through the books once again. Compared to his time in the Academy's library, there was a tighter time crunch that inhibited him from properly absorbing the content he was reading. Instead, Guy applied his speed-reading techniques to go through the book
+After cleansing his mind of all distracting thoughts, Guy got down to scanning through the books once again. Compared to his time in the Academy's library, there was a tighter time crunch that inhibited him from properly absorbing the content he was reading. Instead, Guy applied his speed-reading techniques to go through the book.
+
+Speed-reading was a skill Guy was thoroughly intimated with in his past life. He hadn't applied it much in this iteration since it wasn't necessary. However, Guy was not fond of using that skill since it greatly detracted from the enjoyment of completing a book at a leisurely pace.
+
+There were many elements involved in becoming an effective speed-reader. The first was achieving a steady reading pace. Often times, the thing that slowed people down the most is when they lost track of where they were on a page, especially when reaching a line break. Following text simply with the eye wasn't always tractable, it was also easy to get distracted when doing this. Guy tackled this problem by following the text with his index finger, just like how he taught Kano. The finger moved at a swift yet steady pace across the page like a typewriter.
+
+Another folly committed by novice readers was in repeating the content being read in their minds using their "inner voice". It is a common habit which, while allowing the reader to create a vibrant tapestry of voices and characters in their mind space, significantly hampers the reading rate. This took some time for Guy to suppress, but through repeated practice Guy learned how to shut down the voice orating the read content in his head.
+
+In addition to this, Guy learned that reading can be optimised if time isn't being wasted in moving the pupils sideways to track the read text. Usually, when humans read a text of any kind, their pupils jerk between ends of the sentence which is not efficient. Instead, by training the peripheral vision to absorb text at the start and end of a line while keeping the gaze affixed at the centre of the text, one can increase their reading speed.
+
+Through repeated practice, Guy optimised his speed reading skills. Some minor techniques he developed through this process include reading phrases as opposed to words, phasing out his retention when reading articles and unimportant parts of speech, and only grasping at keywords and using intuition to fill in the blanks. All in all, Guy had trained himself into a speed reading demon.
+
+After arriving at this world, Guy did give it a try and was pleasantly surprised to find that the process had become a lot easier. Thanks to the mana sense, he could now see EVERYTHING on a page without having to move his eyes. Thanks to his improved mental faculties and physique, he could scan through text and flip pages at inhuman speeds. Although he wasn't internalising the content as well as if he were reading it thoroughly, it was sufficient to replicate the book inside the RoK.
+
+Within a minute, Guy had already picked up and put back a book which was at least an inch think. Through a rough calculation, he was reading at around a 160000 words per minute which was at least double the world record for speed reading back on Earth!
+
+Guy's eyes roamed over the shelves ones again as his brain ran a few more arithmetic operations. "I should be able to complete 93% of the books in here. I should prioritise records on Sect operation, events and expenditures. I should leave the miscellaneous records till the end if I have time."
+
+He then cracked his knuckles and stiff neck before approaching the next book on the row of his current bookshelf and resumed his excercise in tedium.
 
 ____
 
