@@ -2,7 +2,7 @@
 id: smGG2GnLM6dQNGA2MwFaY
 title: Chapter 074 - I See Dead Stars
 desc: ''
-updated: 1643626625498
+updated: 1650517225130
 created: 1643569485881
 ---
 
@@ -80,7 +80,7 @@ It had a circular appearance. Markus was confused whether it was spherical becau
 
 To Markus, the mass appeared small. He didn't know whether it was because he was far away from it, or if it was actually that size. But as he approached it, it started to become larger. Enormous even!
 
-Upon reaching closer, Guy was able to observe the mass with greater detail. The area around the black mass began to visibly warp. What should have appeared stationary and point-like, stretched out like a noodle and began to revolve with a high angular velocity. There was no sound, but Markus felt the undulating seismic activity passing through him periodically.
+Upon reaching closer, Markus was able to observe the mass with greater detail. The area around the black mass began to visibly warp. What should have appeared stationary and point-like, stretched out like a noodle and began to revolve with a high angular velocity. There was no sound, but Markus felt the undulating seismic activity passing through him periodically.
 
 And suddenly, he was caught!
 

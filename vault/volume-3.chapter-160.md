@@ -2,7 +2,7 @@
 id: s4caxcak282dgu3h65wqmhp
 title: Chapter 160 - Déjà Vu
 desc: ''
-updated: 1649962733956
+updated: 1650517052892
 created: 1647595177150
 ---
 
@@ -52,7 +52,7 @@ Guy smiled bitterly at Al's animated exclamation. He wasn't sure if there was ev
 
 According to her Uncle Jeeves, her cultivation method was customised to her specifically. This in and of itself was a monumental achievement that could only be achieved by mages at the peak of magic, the frontrunners, the veritable geniuses with godlike powers. One must have an immutable and irrefutable extent of knowledge of a field of magic, as well as a high level of familiarity with the subject to be able to devise a cultivation method for them. While the latter condition could be met fairly easily, the former was an incredible feat to achieve by a mage within one lifetime. Yet, Teacher Larks had done exactly this. At least that's what it appeared to be on paper. Jean was fairly certain that Teacher Larks' inheritance may also have played a key role here as it is a culmination of a peak-level mage's entire life. Maybe there were key knowledge fragments in it that might have assisted Jean in some way. But even her Senior Brother had a Specialised grade cultivation method, which also happened to have a nature contrasting her own. She had never heard of a mage being able to create two different, conflicting, Specialised cultivation methods. This suggested that the inheritance must've been from an unbelievably powerful mage - one with a vast repository of knowledge and experience in their repertoire.
 
-Secibdkt, the cherry on the cake that threw Jean for a loop was the fact that this entire time, Jean had been cultivating without even being aware of it! This achievement was a testament to Teacher Larks' skills in pedagogy. How great of a Teacher can one be if they can induce an advancement in their students without them being aware of it until the opportune moment of advancement presents itself?
+Finally, the cherry on the cake that threw Jean for a loop was the fact that this entire time, Jean had been cultivating without even being aware of it! This achievement was a testament to Teacher Larks' skills in pedagogy. How great of a Teacher can one be if they can induce an advancement in their students without them being aware of it until the opportune moment of advancement presents itself?
 
 The aforementioned conditions are incredible on their own. But combining these two independent, and equally improbable events produced this unicorn of an achievement. Although Jean's face didn't show it, she was immensely grateful to Teacher Larks for everything he'd done for her to date.
 
