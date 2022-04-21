@@ -2,7 +2,7 @@
 id: tu4d6nwvmt1avp52o1awzcm
 title: Chapter 164 - Short History of Academies of Magic
 desc: ''
-updated: 1650259571440
+updated: 1650563488833
 created: 1649011935537
 ---
 
