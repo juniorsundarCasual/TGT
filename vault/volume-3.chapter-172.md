@@ -1,10 +1,12 @@
 ---
 id: 8zsx6p1thfgitg6e7vyz40e
-title: Chapter 172
+title: Chapter 172 - Sects of the Past, Present... and Future?
 desc: ''
-updated: 1650561974332
+updated: 1650641045116
 created: 1650194206635
 ---
+
+The Cloudstrider Sect started some 5000 years ago - after the Age of Isolation - making it one of the older sects in the scene. To that end, their Archive was chock-full of data crystallising their rich operating history and beyond.
 
 As Guy added more and more books into the RoK, he entered a fugue state of semi-consciousness. This was a first for him, a usual speed-reading session never took him to such a level of immersion. What he was experiencing at the moment was magical through and through.
 
@@ -22,9 +24,31 @@ The test went further to paint a picture of how the guilds evolved to become sec
 
 In some instances, other groups of similarly trained mages decided to form alliances amongst themselves to form a multi-faceted "guild". Once these new "guilds" entered the scene, they quickly took the old guild's by storm. For one, the appeal of being able to learn and improve WHILE earning swayed people towards these new "guild" who turned to calling themselves sects as it was a more fitting name for their collective. During this transformation, a lot of other changes happened alongside. For example, the dichotomy between mages who applied magic externally, and warriors who worked their magics internally was erased altogether. Ultimately, magic was magic no matter how mana was being used.
 
-'It's not a wholly unbiased recounting, but it is sufficient. Besides, knowing the history of sects in general does little to aid my cause.' Guy concluded. 'But everything else here is so... boring and bland.'
+'It's not a wholly unbiased recounting, but it is sufficient. Besides, knowing the history of sects in general does little to aid my cause.' Guy concluded. 'I get what the guilds' purpose were in the past. They acted as protection against magical threats. But what function do Sects have nowadays?'
 
-The fact was that the Cloudstrider Sect, probably like every other sect in this world, had a monotonous operation style. The sect itself started some 5000 years ago - after the Age of Isolation - making it one of the older sects in the scene, however not much had changed in the way things worked. 
+Through further reading, Guy found out that a sect's purpose was also to offer protection against magical threats in its region, but with the government and clans catching up martially they had become somewhat redundant. The Cloudstrider Sect no longer initiated large-scale operations to eradicate hordes of dangerous magical beasts, or congregations of mages from an unorthodox magic practising sect.
+
+On a side note, sects operating within specific regions often congregated to form an alliance. In modern times, these regions were defined as the political boundaries between nations, and the sects within the boundaries sometimes even collaborated with the government. The alliance officially recognised and "tolerated" by the empire were designated as the orthodox sects. The sects that the government opposed vigorously, generally due to horrendous practises, were called unorthodox sects. To elaborate on that point, a bandit camp of regular mortals was just a regular bandit camp. However, if the leader of the camp was a mage with a decently advanced cultivation, and if one or more members of the group were also mages, the bandit camp would become an unorthodox sect by definition. 
+
+Nowadays, though, not many large and powerful unorthodox sects proliferated in the Solar Empire. The last true conflict that shook the entire region and motivated the orthodox alliance to make a move was the Plague of Dark Cleansing. The Cloudstrider Sect happened to play a key role in chasing Ziva out of the region. They would have killed him, if not for the intervention from the Blackstar Kingdom in the North. Now Ziva Lune operated his own sect in that region, which was incidentally classified as an orthodox sect in that area even though he practised magic involving a tonne of grotesque human experimentation. Although the Cloudstrider Sect couldn't impede into the region controlled by their neighbouring alliance, their current tasks mostly revolved around tracking any unwelcome movement and invasions from their neighbours. 
+
+Apart from that, the Cloudstrider Sect's general operation was wholly bland and boring. Maybe it was because of its age and heritage, but as Guy progressed through the records, he found that the sect became less and less adventurous in its activities. It had essentially devolved into an endless cycle of recruitment, tournaments and competitions, intermittent exploratory trips to quell the burgeoning population of dangerous beasts criminals usually associated with unorthodox magic practicing sects that were already gimped due to the heavy policing and scorched earth preventative measures employed by the government, clans and sects.
+
+However, the Sect had to propagate somehow. To that end, the Sect conducted mass recruitments every ten years, sparser than the less prominent sects in the orthodox alliance. The sects nowadays had three divisions: Outer, Inner and Core. The horde that entered the Sect would become part of the Outer division, where they would have to compete against each other, to a brutal degree, to gain resources and advance in their cultivations. They wouldn't receive any support apart from prefunctory lectures explaining the base cultivation method. Only a measly 1% could get promoted to the Inner division, at which point there was an even tougher competition to gain the recognition of a sect elder to become their Disciple. That would qualify them as Core division members, automatically moving them to a track for an elder position of some kind in the future.
+
+As Guy finished a record describing the day-to-day occurrences in the Outer division from the past year, his chest undulated with disgust.
+
+'They're being treated worse than animals!'
+
+An Outer division disciple was basically a slave. They were treated with no dignity by the Inner and Core members. Even amongst themselves, they had no camaraderie since only those with grit and cunning could accumulate enough resources to advance. Those that couldn't advance were infinitely tethered to the Sect, forced to live the rest of their lives as indentured slaves with no prospects. Most of the Outer division members would die due to the unforgiving environment.
+
+'They don't even have the decency to commemorate their names?'
+
+They were all numbers. A footnote on the ledger. Only Guy could see the blood oozing from the ink that dotted the decimal defining the percentage of Outder division member "turnover". It reminded Guy of a horrendous hypothetical experiment he had heard of in his past life. Basically, a pot was filled with a myriad of highly venomous creatures and closed shut. The pot was left as is for days on end. The critters stuck within were forced to fight amongst each other for survival, surviving against the venomous strikes of their fellow prisoners. After much time passed, the lid would be opened to reveal the single victor of the bloodsport, the critter with venom to surpass all venoms. This was how the Sect's Outer division was being managed.
+
+'I cannot run my sect like this... Not in good conscience...' Guy reaffirmed.
+
+The Archives did not expand on the workings of the Outer division beyond the basics. Guy could fill in the blanks by himself, much to his disgust. However, another individual was coincidentally gaining a clear view of the true treatment of Outer division sect members on his own.
 
 ____
 
