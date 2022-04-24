@@ -2,7 +2,7 @@
 id: 57h3ivh8kbfqgyllt1785yd
 title: Chapter 173
 desc: ''
-updated: 1650814854766
+updated: 1650824281699
 created: 1650259435687
 ---
 
@@ -51,4 +51,4 @@ His first stop was at a rather prominent building at the centre of the Sect whic
 ____
 
 **Next**
-* [[volume-3.chapter-173]]
+* [[volume-3.chapter-174]]
