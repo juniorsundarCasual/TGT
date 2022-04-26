@@ -65,6 +65,7 @@ workspace:
     maxPreviewsCached: 10
     maxNoteLength: 204800
     dendronVersion: 0.83.0
+    enableFullHierarchyNoteTitle: false
 preview:
     enableFMTitle: true
     enableNoteTitleForLink: true
@@ -90,7 +91,7 @@ publishing:
         - volume-3
     enableSiteLastModified: true
     siteRootDir: docs
-    siteUrl: 'https://juniorsundar.github.io'
+    siteUrl: https://juniorsundar.github.io
     enableFrontmatterTags: true
     enableHashesForFMTags: false
     enableRandomlyColoredTags: true
