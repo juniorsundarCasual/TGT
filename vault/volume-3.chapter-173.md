@@ -2,7 +2,7 @@
 id: 57h3ivh8kbfqgyllt1785yd
 title: Chapter 173 - Exploring the Sect (Part One)
 desc: ''
-updated: 1650898778862
+updated: 1650997786378
 created: 1650259435687
 ---
 
@@ -46,9 +46,7 @@ Therefore, Markus decided to put the uncomfortably rampant bullying within sect 
 
 "To use their bodies in such a way..."
 
-After an exeedingly mountainous amount of effort, Markus finally tuned out all the other unpleasant displays around him to focus on more constructive things. His first stop was at a rather prominent building at the centre of the Sect which was labeled as the Mission Centre. He could only enter and peruse the peripheral hall, which held a few sparse escort and extermination missions with a substantial payout.
-
-Most of these missions seemed to originate from well-known sources, primarily businesses that had a nationwide and international reach. While the payout was large, Markus was certain that a large portion of it would be appropriated by the Sect itself.
+After an exeedingly mountainous amount of effort, Markus finally tuned out all the other unpleasant displays around him to focus on more constructive things. His first stop was at a rather prominent building at the centre of the Sect which was labeled as the Mission Centre. He could only enter and peruse the peripheral hall, which held a few sparse escort and extermination missions with a substantial payout. Most of these missions seemed to originate from well-known sources, primarily businesses that had a nationwide and international reach. 
 
 Based on Markus' knowledge, a Sect could generate income through two main routes. The first, and most straightforward, is through these sorts of missions. The Sect would perform these mercenary works for contracting parties in return for pay. On the down low, certain sects are also known to take on contracts that walk the grey or black path such as theft, kidnapping or assassination. Usually, it is the unorthodox sects that profilerate in this market, but sects in the orthodox alliance are also known to dabble in these acts while maintaining plausible deniability.
 
@@ -58,9 +56,9 @@ Markus took note of this aspect as he moved past the Mission Centre. Since the l
 
 "Hold it! Identification," One of the armoured guards blocking the path demanded as they moved towards Markus. Markus bowed respectfully in return, causing the guard to lower his aggression slightly, before presenting the token on his person.
 
-The guard injected his mana into the token before tossing it back, "Beyond this point are the personal quarters of the Inner division members."
+The guard injected his mana into the token before tossing it back. An smug smile flashed accross his face for a microsecond, before it returned to a flat frown. He then said, "Beyond this point are the personal quarters of the Inner division members."
 
-As he terminated that statement, he walked towards Markus with an imposing aura. His boyd language clearly implied opposition, while his words did not dictate it.
+As he terminated that statement, he walked towards Markus with an imposing aura. His body language clearly implied opposition, while his words did not dictate it.
 
 Markus bowed once again before turning. As he did so, he noticed another guard approaching the man who turned him away. By gently sharpening his mana senses, he caught their conversation.
 
