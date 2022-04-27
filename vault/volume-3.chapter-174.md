@@ -1,8 +1,8 @@
 ---
 id: tms5sxmils4qke9slbeetjw
-title: Chapter 174
+title: Chapter 174 - Exploring the Sect (Part Two)
 desc: ''
-updated: 1650997942971
+updated: 1651085282439
 created: 1650802163712
 ---
 
@@ -20,7 +20,7 @@ What Markus could feel permeating within the ironically pleasant Sect air, was t
 
 "This isn't a place to learn!" It wasn't conducive at all!
 
-The only places where teaching of some kind took place were at this large congregational buildings known as pavilions. These buildings were multifunctional, in their they operated as both repositories and storage rooms, as well as lecture and practice halls. For example, the Ritual Formation Pavilion was one of the larger buildings in the Sect. It was only a short distance away from the Mission Centre as you descended mountain.
+The few lcoations where teaching of some kind took place were at this large congregational buildings known as pavilions. These buildings were multifunctional, in their they operated as both repositories and storage rooms, as well as lecture and practice halls. For example, the Ritual Formation Pavilion was one of the larger buildings in the Sect. It was only a short distance away from the Mission Centre as you descended mountain.
 
 The Ritual Formation Pavilion had two architectural forms mated into one seamless structure. There was a towering section which also acted as the entrance and hall, as well as a flat and wide section which acted as the practice area. After a long stretch of disappointment, Markus was finally excited to explore an actual house of learning.
 
@@ -30,7 +30,27 @@ The pavilion operated by a pay-to-access principle; not everyone could enter and
 
 Returning to the concept of Sect Merits, the only way to earn these merits was by performing assigned tasks or missions. That's right, although the missions offered a specific payout, the reward was fully appropriated by the Sect and the participants were awarded Sect Merits in return. These merits could then be turned in for certain benefits like accessing these restricted sections in the many Pavilions in the Sect, accessing the Sect's main weapon cache, personal tutoring time with Elders, and so on.
 
-At cursory glance, the Merits system may seem like an exercise to encourage participation and sense of belonging, however, Markus could see past the flimsy facade and understood the grim undertones of this system. 
+At cursory glance, the Merit system may seem like an exercise to encourage participation and sense of belonging, however, Markus could see past the flimsy facade and understood its grim reality. Let's say that a certain store sells a myriad of items, most of which aren't available anywhere else. However, instead of accepting standard currency they only accept a special token. It is only possible to earn this token by performing tasks and missions for the store, or by exchanging circulating currency. On paper, it looks like a system to cultivate membership and repeated purchases at the store.
+
+There is a special sword in this store that costs 1000 merits. Due to its uniqueness, there is no proper basis of comparison, however we can use its grade to set a baseline. To accumulate these 1000 merits, one may have to take on ten to fifteen mission with the store, or trade 500 gold coins. At this juncture, people would be immediately drawn towards the ten to fifteen mission requirement as it is perceived as more economic. However, if they were to take on comparable missions from another client, they would earn at least two times the 500 gold requirement. Now, let's assume that the store's purchasing requirements are met, is the obtained sword even work the 500 gold? Is it worth the harrowing missions where your life is on the line?
+
+This is how the Sect exploits the Merit system. By creating a false economy built on non-functional tender, they take advantage of the members to fill their coffers with actual money. It is all implemented so ingeniously, that the members don't even feel that they are being exploited. Cleaning a pavilion would earn them some Merits. Performing collection tasks warrants Merits. Acting as sparring partners to Inner or Core division members gets you Merits.
+
+"This is literally slave labour..." Markus sighed while shaking his head. This realisation soured his enjoyment of the Ritual Formation Pavilion, not that he could get anywhere inside to do it in the first place. Even with the token, he was barred entrance due to lack of Merits. He faced the same opposition in the other pavilions littered around the Sect. Due to its age and heritage, there were many pavilions catering to most known specialities in magecraft. Alchemy, enchanting, beast-taming, and even the so-called lesser fields like painting and so on. Although, none could match the grandiosity of the Ritual Formation Pavilion, primarily because it was what the Cloudstrider Sect was known for.
+
+The only other space where some form of pedagogy occurred within the Sect was in the Martial-Arts Hall. Given that the Sect was just another mercenary corp washed with fancy colours, there had to be some place where new members were trained and brought up. What reason would there be for the Sect to take in scores of members at once if not to replenish their ranks and raise their strength both individually and as an organisation?
+
+The Hall was within a walled-off compound. Thankfully, there wasn't a Merit paywall blocking him from exploring the place. After circling the place both outside and within, Markus found out that by design and implementation, it was a lot similar to the training fields back in the Academy. There were places to practice weapon-craft, spellcasting, movement arts, and so on. There were also locations to exercise and meditate, as well as a multi-functional gym. Finally, just when Markus was getting excited, he collided against the formidable Merit barrier! Beyond a certain floor in the main building attached to the field, there were a series of special training rooms that, apparently, lengthened the perception of time by a substantial factor. Given the Sect's proclivities towards unfathomable ritual formations, Markus was convinced that these rooms were time-dilation chambers that somehow affected the occupants mental faculties either by dialling it up, or actually affecting the fabric of spacetime. After inspecting the region with his spacetime vision, Markus did not observe any discontinuities, but it wasn't enough to sway his earlier hypotheses.
+
+"Maybe there are rituals blocking my view. I can't discount either of them. Then again, it could also be something completely outside of my theories. For that, though, I will need access which will be impossible," Markus muttered to himself as he exited the building. Right at that moment, a series of loud cheers broke, boos and hisses unsettled the eerie silence looming in the area.
+
+Curious, Markus followed the noise around the Martial-Arts Hall and walked up a set of stairs. After circling a wide path around the mountain, Markus arrived at a large amphitheatre built into a much larger excavation in the mountainside. The semi-circular amphitheatre was centred at a wide tournament-regulation stage. At the steep side of the mountain, which was at the back of the amphitheatre, there were a few more viewing platforms up high, probably for the more renowned spectators.
+
+The amphiteatre itself was filled nearly to the brim with people ranging from Markus' age and above, all of whom were spectating an ongoing match between two combatants. Evidently, the match had been going for a while since the spectators were are feeling a bit antsy, and the combatants were bathed in blood and sweat. Yet neither showed any sign of forfeiting.
+
+The last time Markus witnessed any regulated fight of this kind was a bit more than a year back, which also happened to be his loss against Gaige.
+
+"Maybe I can use this chance as an opportunity to improve," Markus surmised as he shimmied towards a seat midways from the stage. 'Observing these spars could help me formulate better strategies for myself during future conflicts.'
 
 ____
 
