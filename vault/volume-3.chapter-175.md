@@ -2,7 +2,7 @@
 id: 2328j23bmndslm5cocw7t5h
 title: Chapter 175 - Power Struggles
 desc: ''
-updated: 1651170256300
+updated: 1651340806463
 created: 1650802191282
 ---
 
@@ -80,7 +80,7 @@ The girl revealed a savage grin that warped her pure face and said, "If father r
 
 "Ha! He stands out like a sore thumb in a sea of black," the girl snorted. "How does he blend in so well? No one's even noticed his presence."
 
-Korr's frown deepened. "He's passively manipulating the surrounding mana to block his sound and smell, as well as redirecting the light rays reflecting from him."
+Korr's frown deepened. "He's passively manipulating the surrounding mana to block his sound and smell, as well as redirecting the light rays reflecting from him. Apart from that, his aura - or sense of presence - is completely suppressed."
 
 "Passively? Without spellcasting?" The girl exclaimed in surprise. "If I remember correctly, that Battle Maniac pushed for two all-access tokens. If one is here, where is the other?"
 
