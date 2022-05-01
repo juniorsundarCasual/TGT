@@ -2,7 +2,7 @@
 id: YDXJwZeLm1jDhwF8VUSoL
 title: Chapter 085 - Closer Inspection
 desc: ''
-updated: 1645964328371
+updated: 1651421722638
 created: 1643652169797
 ---
 
@@ -34,7 +34,7 @@ Josie looked around curiously, and realised that Markus was talking to her, "Me?
 
 Markus nodded and then waited for her to respond.
 
-"Oh! Uhm... I am Josie. I am Young miss' attendant," Josie offered.
+"Oh! Uhm... I am Josie. I am Young Miss' attendant," Josie offered.
 
 Markus bowed and reciprocated, "Pleased to make your acquaintance, Miss Josie."
 

@@ -2,7 +2,7 @@
 id: gC1BrFqc284VFhvM0FBbz
 title: Chapter 150 - The Other Guy
 desc: ''
-updated: 1647970048156
+updated: 1651421712696
 created: 1645785338363
 ---
 
@@ -34,7 +34,7 @@ Just then, a thought sparked in Jean's mind. She pulled out a locket embedded wi
 
 Right as the name exited her mouth, the region in front of her flickered and a person manifested.
 
-"Young miss called for me?" Josie responded with a deep bow.
+"Young Miss called for me?" Josie responded with a deep bow.
 
 "You've worked with my mother before. Can you perform this procedure explained here?" Jean asked while handing the journal to Josie.
 
@@ -42,7 +42,7 @@ Right as the name exited her mouth, the region in front of her flickered and a p
 
 Jean's face scrunched up in distress. She approached Chiani with faltering steps and grasped the woman's hand tight.
 
-"Little girl," the midwife scoffed but was quickly countered with a firm and forceful stare from Josie. "*cough* Young mistress, I think we should proceed with my suggestion now."
+"Little girl," the midwife scoffed but was quickly countered with a firm and forceful stare from Josie. "*cough* Young Mistress, I think we should proceed with my suggestion now."
 
 ""NO!"" Marie and Kannan burst through the doors, sheer panic laced in their voices. "You can't kill my wife!" Kannan vehemently rejected with a frantic stutter. His eyes had reddened veins bulging out, possibly through a surge of anger, frustration and sorrow. He rushed forwards and physically dragged the midwife out of the room, "GET OUT!"
 

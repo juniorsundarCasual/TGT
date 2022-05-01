@@ -2,7 +2,7 @@
 id: MCOps8fcGpVdABFazXYXi
 title: Chapter 081 - Fateful Encounter
 desc: ''
-updated: 1643656587839
+updated: 1651421712702
 created: 1643652014968
 ---
 
@@ -28,25 +28,25 @@ After settling down in the inn for the day, Goran and Al decided to fly ahead to
 
 "I'm a little bored, Josie," Jean said with a sigh. "I've been sitting in the carriage the entire day. Although it can dissipate the shocks, I still feel quite sore."
 
-"This servant will massage the Young miss at once," Josie suggested.
+"This servant will massage the Young Miss at once," Josie suggested.
 
 "No. Instead, I want to go out for a stroll. Check out the market!" Jean declared with some excitement, although it was not evident on her expressionless face.
 
-"But Young miss, Lord said that it would be best if we stayed put..."
+"But Young Miss, Lord said that it would be best if we stayed put..."
 
 "Come on, Josie! With you around, what's the worst that could happen? I mean, unless we cross someone at the Core Formation realm or above, you should be able to take them down. Besides, with the guards maintaining vigilance on those entering and exiting the town, I don't think we will have any problems," Jean replied to persuade Josie.
 
-"Young miss, we should not test fate by making such claims," Josie said with a bitter smile.
+"Young Miss, we should not test fate by making such claims," Josie said with a bitter smile.
 
 "Whatever, Josie I'm going!" Jean declared while sauntering out of her room.
 
-"Young miss... Please don't rush..." Josie uttered with a sigh of defeat.
+"Young Miss... Please don't rush..." Josie uttered with a sigh of defeat.
 
 ____
 
 "Tsk... These herbs are all in their last legs..." Jean commented as she left the last stall in the row.
 
-"That is expected, Young miss. The stalls mostly sell goods that are prone to perishing during transit through the forest, damaged during transportation, or exceeding caravan capacity. That is why they are at a lower price point since the merchants want to recoup their losses, and optimally break even," Josie explained.
+"That is expected, Young Miss. The stalls mostly sell goods that are prone to perishing during transit through the forest, damaged during transportation, or exceeding caravan capacity. That is why they are at a lower price point since the merchants want to recoup their losses, and optimally break even," Josie explained.
 
 "That makes sense..."
 
@@ -70,7 +70,7 @@ Jean scooted over and peeked around the corner leading into the alley and observ
 
 Seeing how the girl was at such a disadvantage, Jean felt distressed and whispered to Josie, "Should we help her out?"
 
-Josie answered, "Lord said to not draw attention to ourselves, Young miss..."
+Josie answered, "Lord said to not draw attention to ourselves, Young Miss..."
 
 "But she's outnumbered..." She said bitterly and said, "How can I call myself a healer if I can't even help a defenceless person?"
 
@@ -102,9 +102,9 @@ The grovelling men paying attention to the confrontation all shuddered in fear a
 
 "Nonetheless, I am grateful for your intervention. Not everyone would do so in such circumstances," the girl said while bowing towards Josie.
 
-"You shouldn't thank me, but the Young miss. It was she who took pity on you," Josie corrected while directing her hand towards Jean.
+"You shouldn't thank me, but the Young Miss. It was she who took pity on you," Josie corrected while directing her hand towards Jean.
 
-The girl bowed once again towards Jean and said, "Then this peasant is infinitely grateful towards the Young miss for her benevolence."
+The girl bowed once again towards Jean and said, "Then this peasant is infinitely grateful towards the Young Miss for her benevolence."
 
 Jean quickly waved her hand and replied, "Please! It wasn't anything."
 

@@ -2,7 +2,7 @@
 id: thmcL7cRljFpI6zoj2HZ0
 title: Chapter 103 - Goran's Philanthropic Heart
 desc: ''
-updated: 1643657189638
+updated: 1651421722632
 created: 1643656103125
 ---
 
@@ -12,7 +12,7 @@ The man's wrinkled face crumpled with a bitter expression as he responded hesita
 
 The man still shuddered when he recollected the gruelling, backbreaking carriage ride from the city to this out-of-the-way village. Being of advanced age and lacking the robustness of a mage's physique, Mylo had to sit through a torturous ride whose after-effects were still reverberating through his bones. 
 
-"Constructing the Young miss' living quarters will take a bit longer than the initial estimate. This orphanage is a fairly complete structure, so I think it would be advisable to build a separate building for the Young miss as opposed to a simple attachment," Mylo continued. "Furthermore, I didn't anticipate just how secluded the location would be when I provided the ambitious estimate of three weeks. If I'm being optimistic, the work can be finished within a month."
+"Constructing the Young Miss' living quarters will take a bit longer than the initial estimate. This orphanage is a fairly complete structure, so I think it would be advisable to build a separate building for the Young Miss as opposed to a simple attachment," Mylo continued. "Furthermore, I didn't anticipate just how secluded the location would be when I provided the ambitious estimate of three weeks. If I'm being optimistic, the work can be finished within a month."
 
 Goran nodded and added, "I understand. If you need anything, anything at all, don't hesitate to let me know. The construction must be finished as soon as possible, money isn't an issue. Also, I hope that we can keep this under wraps."
 

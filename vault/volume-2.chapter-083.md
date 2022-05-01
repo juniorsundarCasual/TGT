@@ -2,7 +2,7 @@
 id: XJLDPx0qxPekOZrJzZMYE
 title: Chapter 083 - Reunion
 desc: ''
-updated: 1643656629127
+updated: 1651421712700
 created: 1643652150477
 ---
 
@@ -14,19 +14,19 @@ Marie assumed her seat at the carriage leading the caravan, which also happened 
 
 Jean nodded affirmatively and exhaled with mirth. "She is fun!"
 
-"The Young miss must not associate herself with people like her," Josie said morosely.
+"The Young Miss must not associate herself with people like her," Josie said morosely.
 
 "Why is that?"
 
-"The Young miss is of a higher stature and background!" Josie affirmed righteously.
+"The Young Miss is of a higher stature and background!" Josie affirmed righteously.
 
 Jean hummed in thought, and followed up with a question, "Would mother avoid people "below her"? Is it right for a healer to discriminate against people just because they are of a different socio-economic class?"
 
-Josie immediately corrected herself by stating, "However the Young miss has more responsibilities! The Young miss is not just a prospective healer, she is also the next leader of the Rasmus Clan!"
+Josie immediately corrected herself by stating, "However the Young Miss has more responsibilities! The Young Miss is not just a prospective healer, she is also the next leader of the Rasmus Clan!"
 
 "It's still quite early to declare that..." Jean interjected with a wry intonation.
 
-"The Young miss must not get disheartened! This slave firmly believes that the Young miss is -"
+"The Young Miss must not get disheartened! This slave firmly believes that the Young Miss is -"
 
 ""destined to soar through the heavens!"" Jean and Josie both said at the same time. Jean immediately followed up by asking, "What if I don't want to soar through the heavens? What if I just want to dwell in the world of mortals and make it better?"
 
@@ -36,13 +36,13 @@ Josie immediately corrected herself by stating, "However the Young miss has more
 
 ____
 
-Josie looked down with a crestfallen expression. 'Madam, the Young miss is so much like you... I am afraid I can no longer dissuade the Young miss from following in Madam's footsteps. I can only pray that I can protect the Young miss from the many dangers of the world. I must not fail Madam's final task of keeping the Young miss safe!'
+Josie looked down with a crestfallen expression. 'Madam, the Young Miss is so much like you... I am afraid I can no longer dissuade the Young Miss from following in Madam's footsteps. I can only pray that I can protect the Young Miss from the many dangers of the world. I must not fail Madam's final task of keeping the Young Miss safe!'
 
 Right as Josie's internal soliloquy reached an end, Marie declared from the front of the caravan, "We've arrived!"
 
 Once the carriage stopped, Jean and Josie exited, along with Al and Goran. Marie hopped down from the carriage and walked forward, towards a narrow path sloping upwards. Unfortunately, the path wasn't wide enough to accommodate the carriage, and it seemed that their destination was at the end, hence everyone started to trudge along the unfinished passage.
 
-Jean was growing increasingly anxious and excited with every step, given the prospect of finally achieving her dreams. Goran was equally excited for the very same reason. Josie didn't display any outward emotions, except internally she was both conflicted and assured. The former, because she didn't want her Young miss to face the dangers that followed stepping into the path of magehood, and the latter because she firmly wished for her Young miss to find her happiness. 
+Jean was growing increasingly anxious and excited with every step, given the prospect of finally achieving her dreams. Goran was equally excited for the very same reason. Josie didn't display any outward emotions, except internally she was both conflicted and assured. The former, because she didn't want her Young Miss to face the dangers that followed stepping into the path of magehood, and the latter because she firmly wished for her Young Miss to find her happiness. 
 
 Al was simply elated to meet Guy once again. He had built a close friendship with the man and really wished to continue many of their unfinished conversations. Marie, though, was simply growing angrier and angrier with each step. After a point, her rage was so evident that it overpowered everyone else following her.
 

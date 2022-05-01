@@ -2,7 +2,7 @@
 id: hf4d14upkcz3kfsnx56yyqi
 title: Chapter 152 - Point Of View
 desc: ''
-updated: 1647002388154
+updated: 1651421722627
 created: 1646333820299
 ---
 
@@ -70,7 +70,7 @@ Nonetheless, although it felt like a lot of time had passed in the virtual exper
 
 Jean's eye gained a focused clarity as all the insights she gained settled in place. It was at this point that she realised the existence of a turbulent mana whirlpool settling around her.
 
-"Congratulations, Young miss," Josie exclaimed with a beaming smile. "Congratulations on achieving perfected resonance."
+"Congratulations, Young Miss," Josie exclaimed with a beaming smile. "Congratulations on achieving perfected resonance."
 
 "There's no time for celebration," Jean snapped back. "We need to begin immediately!"
 

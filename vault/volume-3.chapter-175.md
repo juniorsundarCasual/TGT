@@ -2,7 +2,7 @@
 id: 2328j23bmndslm5cocw7t5h
 title: Chapter 175 - Power Struggles
 desc: ''
-updated: 1651340806463
+updated: 1651421722622
 created: 1650802191282
 ---
 
@@ -12,7 +12,7 @@ In the stands embedded in the cliff-side at the back of the auditoriom, within o
 
 "Why am I here again?" She exclaimed. "There are so many other vermin beneath me who can handle this!"
 
-"The Sect Leader asked for the Young miss specifically," a deep male voice answered. From the shadows, an immaculately dressed man who appeared to be in his mid-twenties stepped forth. He sported a perfectly trimmed blonde beard and mustache the connected with his golden-blonde hair, trimmed perfectly flat. His square face was a shade paler than everyone else around him, and his hazel eyes betrayed his foreign heritage.
+"The Sect Leader asked for the Young Miss specifically," a deep male voice answered. From the shadows, an immaculately dressed man who appeared to be in his mid-twenties stepped forth. He sported a perfectly trimmed blonde beard and mustache the connected with his golden-blonde hair, trimmed perfectly flat. His square face was a shade paler than everyone else around him, and his hazel eyes betrayed his foreign heritage.
 
 "What have I done that's gotten father so angry?" She snorted. "If this is his way to punish me for a mistake I've made, tell him that I am not impressed. How can I correct myself if I don't even know what I've done wrong?"
 
@@ -22,7 +22,7 @@ In the stands embedded in the cliff-side at the back of the auditoriom, within o
 
 The man remained silent and shared a meaningful gaze with the younger woman. Her eyes narrowed in response while her mind whirred into motion in an attempt to interpret the meaning behind the man's cryptic gaze. After a short minute, she exhaled loudly in annoyance and complained, "Fuck it! I don't care. I'm leaving!"
 
-"Young miss..." the man pleaded without a waver in his voice.
+"Young Miss..." the man pleaded without a waver in his voice.
 
 "Tell me, or I'm leaving."
 
@@ -34,7 +34,7 @@ The man positioned himself in front of the retreating girl, blocking her path.
 
 "Are you sure you want to do this?" The girl threatened with a sneer. "You forget, Korr, that your life is not yours anymore."
 
-The man did not falter. "While this slave's life is tethered to the Young miss', his allegiance is to the Sect Leader first."
+The man did not falter. "While this slave's life is tethered to the Young Miss', his allegiance is to the Sect Leader first."
 
 "It will be your word against mine, Korr," the girl said with a fake pout. She then proceeded to tear her dress from the collar while whimpering, "What would father do if he found out that his most loyal servant defiled his only daughter?" Her hands jerked wildly, revealing a set of immature lumps fixed in place with a turn of sturdy cotton. "Maybe he won't believe me, because I know he trusts you more than any of his own flesh and blood. BUT, do you think he will remain still after this news becomes public? To him, is your life worth more than his face?"
 
@@ -50,7 +50,7 @@ The man nodded.
 
 "What use is dipping into the Outer division for this? Shouldn't I be corralling support from the Inner division?"
 
-"The Young miss must already know that the First and Second Young masters have already cornered all the impactful members from the Inner and Core divisions."
+"The Young Miss must already know that the First and Second Young masters have already cornered all the impactful members from the Inner and Core divisions."
 
 "Then what's the point?" The girl sighed.
 
@@ -58,17 +58,17 @@ The man paused and gazed into the distance. "When a prey is cornered, that is wh
 
 "Are you comparing me to a bunny?" The girl chuckled.
 
-"This slave asks the Young miss to evaluate the proposition," Korr emphasised.
+"This slave asks the Young Miss to evaluate the proposition," Korr emphasised.
 
 "I know, I know. Elder brothers have become complacent. Thier play at succession has become a childish tug of war. The Sect has become stale. The Elders bicker amongst each other, the Inner and Core divisions are filled with wastrels and yes-men. Father wants me to add fuel to the fire by shaking up the balance in the upper divisions by raising prospective supporters brimming with the fire of ambition. That's why he is willing to give me access to all of these weapons, potions and manuals as a reward for this tournament," the girl said while pointing at the stack of papers.
 
 "But the fact remains, why me and why now?" She added. "I've been actively staying out of this power struggle for a reason. Why would I voluntarily jump into a pool of headaches by becoming the Sect Leader?"
 
-"The confidence that Young miss just displayed is part of the reason," Korr replied. "The Young miss will be more successful and more capable towards raising the Cloudstrider Sect to new heights."
+"The confidence that Young Miss just displayed is part of the reason," Korr replied. "The Young Miss will be more successful and more capable towards raising the Cloudstrider Sect to new heights."
 
 "Are those your words or fathers?"
 
-"This slave believes that the answer is irrelevant. What matters more is whether the Young miss is willing to step on this path? As the Young miss already stated, success is a foregone conclusion after all."
+"This slave believes that the answer is irrelevant. What matters more is whether the Young Miss is willing to step on this path? As the Young Miss already stated, success is a foregone conclusion after all."
 
 The girl revealed a savage grin that warped her pure face and said, "If father really intends to go ahead with this, he must be aware of how I operate. Blood will be spilt. A lot of it."
 
@@ -94,7 +94,7 @@ Korr's frown deepened. "He's passively manipulating the surrounding mana to bloc
 
 Her lips parted with a ruthless grin as she wetted her lips with her tongue. He extended her finger and traced the boy's face in mid-air playfully, "He shall be the first stepping stone. Tell me about him, Korr!"
 
-Being in the Core Formation realm, Korr had little difficulty extending his mana sense to |Inspect| the lad. "Foundation Establishment realm, Base stage, just like the Young miss. By my estimate, fourteen to fifteen years old. He should be affiliated with Teacher Jeeves-"
+Being in the Core Formation realm, Korr had little difficulty extending his mana sense to |Inspect| the lad. "Foundation Establishment realm, Base stage, just like the Young Miss. By my estimate, fourteen to fifteen years old. He should be affiliated with Teacher Jeeves-"
 
 "The 'Polymath'? I thought the Battle Maniac and Al Jeeves were bone-deep rivals? He would do a favour like this to the man that defeated him?" The girl scoffed. "How is the boy related to Al Jeeves?"
 
@@ -114,7 +114,7 @@ Being in the Core Formation realm, Korr had little difficulty extending his mana
 
 "Wait!" the girl commanded. "Activate the Life-and-Death Formation."
 
-"Young miss!" Korr rebutted.
+"Young Miss!" Korr rebutted.
 
 "Are you worried that I will lose the confrontation?" The girl challenged.
 
@@ -122,7 +122,7 @@ Being in the Core Formation realm, Korr had little difficulty extending his mana
 
 "I know! Don't treat me like an idiot!" She snapped back. "The boy will definitely surrender before the match even begins. The Life-and-Death Formation assures the start of the match. After that, I will just have to make my move before he can audibly throw the towel. Once the blows are exchanged, he won't have the sense to extricate himself from the fight."
 
-"But Young miss, once the Life-and-Death Formation is initiated, it cannot be stopped."
+"But Young Miss, once the Life-and-Death Formation is initiated, it cannot be stopped."
 
 "That is unless someone in an Elder's position interferes," the girl hinted mysteriously.
 

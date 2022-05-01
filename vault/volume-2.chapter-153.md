@@ -2,13 +2,13 @@
 id: tsqcbgfj9f3j1ois977gqo3
 title: Chapter 153 - Baggage
 desc: ''
-updated: 1647969709516
+updated: 1651421722626
 created: 1646333839474
 ---
 
 "Everyone apart from Josie, please leave the room immediately!" Jean commanded authoritatively. "Oh! And please call the midwife in again."
 
-"Umm, Young miss," Josie interrupted. "Teacher Larks is in a crucial state at the moment."
+"Umm, Young Miss," Josie interrupted. "Teacher Larks is in a crucial state at the moment."
 
 Jean followed Josie's extended finger and saw her Teacher seated in a meditative state in a cross-legged pose. "Is Teacher having a breakthrough?"
 
@@ -38,7 +38,7 @@ Dora lowered her head and twisted her feet in distress, "Umm..."
 
 "Leave it," Jean sighed, noticing the girl's discomfort. "Thank you for this, it's perfect. The Sleep Pollen of an Insect Queen contains a toxin that targets the nerves extending from the inhaler's spine. As long as we can control the dosage, it should offer the perfect sedative effect for our patient without adversely affecting the foetus, right Josie?"
 
-"That is correct, Young miss," Josie affirmed.
+"That is correct, Young Miss," Josie affirmed.
 
 "Be that as it may, we will get back to this conversation afterwards, Dora," Jean warned sternly.
 
@@ -64,7 +64,7 @@ At that moment she recollected a key idiom her mother used to preach when she wa
 
 "But I don't have any knowledge about what the Young Mistress is preparing to perform," the midwife pleaded. "This one feels that she will only be a hindrance."
 
-"The Young miss asked you to stay," Josie reinforced.
+"The Young Miss asked you to stay," Josie reinforced.
 
 "This one is staying," the midwife nodded obediently and assumed a position close to the pregnant woman cautiously.
 

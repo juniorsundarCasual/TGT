@@ -2,13 +2,13 @@
 id: 66qtq7j6uxlngxpxeb8fl7q
 title: Chapter 154 - Artificial Childbirth
 desc: ''
-updated: 1647001103885
+updated: 1651421722625
 created: 1646333852964
 ---
 
 "Do you have the solution prepared, Josie?" Jean directed at Josie who had entered her assistant-state-of-mind.
 
-"As you had instructed, Young miss," Josie responded as she pulled out a metal sealed container to Jean. "I haven't tested it properly yet, unfortunately. However initial trials showed that it works as described."
+"As you had instructed, Young Miss," Josie responded as she pulled out a metal sealed container to Jean. "I haven't tested it properly yet, unfortunately. However initial trials showed that it works as described."
 
 Jean nodded affirmatively and instructed the midwife, "Please close all windows and portals into the room. We will be sanitising the area and cannot allow any foreign contaminants."
 
@@ -22,7 +22,7 @@ A thin mist started to emanate from the container as the spell circle rotated at
 
 Jean pulled her brows upward inquisitively and frowned.
 
-"This slave took the liberty of adding an inert fragrant agent to the mixture, Young miss," Josie clarified immediately. "A thousand apologies for that, however, the solution was extremely pungent. This slave assumed that the mixture would be aerosolised as a mist therefore she took the subsequent measures. But rest assured that the efficacy of the solution was not affected."
+"This slave took the liberty of adding an inert fragrant agent to the mixture, Young Miss," Josie clarified immediately. "A thousand apologies for that, however, the solution was extremely pungent. This slave assumed that the mixture would be aerosolised as a mist therefore she took the subsequent measures. But rest assured that the efficacy of the solution was not affected."
 
 "I can see that," Jean responded with a nod. Her mana sense observed her immediate vicinity and noticed that the aerosol was working as expected and killing the malicious germs. "Good job, Josie!"
 
@@ -38,7 +38,7 @@ Josie channelled her mana and created a translucent sphere around the phial cont
 
 "It needs to be sent directly into the space within the spine protecting the spinal cord," Jean reminded. "Do not let it disperse in the muscle or the blood vessels."
 
-"Worry not, Young miss," Josie responded. "This slave will be careful."
+"Worry not, Young Miss," Josie responded. "This slave will be careful."
 
 Immediately after, Josie pressed her open palms along the woman's back and rubbed lightly over the spine. As she did so, an ethereal glow bloomed in the affected region, as though a light was shining from inside the woman's body.
 
@@ -56,7 +56,7 @@ Jean's mother did not share this point of view. However, since mastering artific
 
 "I-" Chiani muttered in confusion. "I can't feel anything?"
 
-"It's in effect," Josie added. "We can begin now, Young miss."
+"It's in effect," Josie added. "We can begin now, Young Miss."
 
 "No one touches the patient with anything that is NOT first sanitised or coated with a layer of pure mana," Jean reminded.
 
@@ -68,7 +68,7 @@ Jean moved her finger horizontally in a region below the belly button and above 
 
 "I cannot risk causing necrosis," Jean replied. "We will suture the vessels together after the operation is completed."
 
-"I have prepared a blood stimulating lozenge for this purpose, Young miss," Josie said. She retrieved a dark red, coin-sized solid object and stuffed it into Chiani's mouth. "Suck on it. It will provide a slow influx of vitality."
+"I have prepared a blood stimulating lozenge for this purpose, Young Miss," Josie said. She retrieved a dark red, coin-sized solid object and stuffed it into Chiani's mouth. "Suck on it. It will provide a slow influx of vitality."
 
 The dumbfounded woman nodded innocently and sucked on the salty mass in her mouth.
 

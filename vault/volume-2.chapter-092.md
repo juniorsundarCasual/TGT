@@ -2,7 +2,7 @@
 id: TdDI7tNtBHBohS0Xuqk6E
 title: Chapter 092 - Interesting Tales
 desc: ''
-updated: 1643656920917
+updated: 1651421722636
 created: 1643653007154
 ---
 
@@ -112,7 +112,7 @@ The two gazed at each other as an awkward silence began to stew over.
 
 Markus' eyes widened in surprise.
 
-Suddenly, Josie's tone turned incisive, "I can rest assured that Young miss has a strong and capable Senior brother such as yourself. And if what you said is true, that your Master played a large role in your success, I am glad to know that my Young miss will be treated well."
+Suddenly, Josie's tone turned incisive, "I can rest assured that Young Miss has a strong and capable Senior brother such as yourself. And if what you said is true, that your Master played a large role in your success, I am glad to know that my Young Miss will be treated well."
 
 The statements, though genuine, had a tinge of threat embedded into them that struck Markus. He realised that Josie wasn't speaking her mind, rather she was making a declaration. She was telling him to make sure that Jean wasn't harmed, wronged, or hurt in any way.
 

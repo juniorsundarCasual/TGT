@@ -2,7 +2,7 @@
 id: NCGs2UZ3JxDjFycMAbuNV
 title: Chapter 076 - Nightmares
 desc: ''
-updated: 1643656493375
+updated: 1651421764876
 created: 1643651886480
 ---
 
@@ -100,29 +100,29 @@ The room she was in maintained a serene silence unlike the cacophony resonating 
 
 But the physical silence was disturbed by a series of knocks from her room door.
 
-"Young miss, are you awake?" a soft, aged, female voice followed, speaking with a respectful tone.
+"Young Miss, are you awake?" a soft, aged, female voice followed, speaking with a respectful tone.
 
 "Come in, Josie," Jean answered.
 
 The room door opened and an elderly maid walked in, with her head facing low.
 
-"Young miss, Lord Rasmus is expecting a guest, and would like for you to be present," the maid said.
+"Young Miss, Lord Rasmus is expecting a guest, and would like for you to be present," the maid said.
 
 She immediately followed up with a few points, "I have prepared your bath and an appropriate outfit. This slave awaits your instructions."
 
 Jean clicked her tongue and reprimanded the maid, "Josie! Can you stop acting so formally with me? You've raised me for goodness sake."
 
-"This maid apologises. She will try harder from now on, young miss," Josie responded without missing a beat.
+"This maid apologises. She will try harder from now on, Young Miss," Josie responded without missing a beat.
 
 Jean sighed in defeat, and replied, "I trust your choice. Please help me get ready."
 
 The maid bowed in affirmation and proceeded to assist Jean off of her bed. As she approached the mattress, the maid noticed the dampness soaking the area where Jean was sleeping.
 
-"May this slave be presumptuous to ask the young miss a personal question?"
+"May this slave be presumptuous to ask the Young Miss a personal question?"
 
 Jean simply nodded.
 
-"Did the young miss experience another nightmare? Is the medicine from Mage Baruchel ineffective?"
+"Did the Young Miss experience another nightmare? Is the medicine from Mage Baruchel ineffective?"
 
 Jean shook her head. "I've stopped taking it. They are just sleep-inducing potions. I don't want to build an immunity to it through overconsumption."
 
@@ -130,17 +130,17 @@ Jean shook her head. "I've stopped taking it. They are just sleep-inducing potio
 
 "You don't have to tell Father. If he asks, just say you don't know or something."
 
-"Young miss, you know that I cannot lie to the Lord."
+"Young Miss, you know that I cannot lie to the Lord."
 
 "You would do it for me, right?" The girl asked in a coquettish manner, yet and expression barely shifted from uncaring coldness.
 
-"This may be presumptuous of this slave. But I hope young miss knows that Madam would never blame young miss for what happened that day. I have been with Madam since the day she entered this household through marriage. She loved the young miss oh so dearly - like the world!"
+"This may be presumptuous of this slave. But I hope Young Miss knows that Madam would never blame Young Miss for what happened that day. I have been with Madam since the day she entered this household through marriage. She loved the Young Miss oh so dearly - like the world!"
 
 Jean sagged her shoulders in response and nodded in resignation.
 
 After she finished taking a bath, Jean sat down in front of her dressing table and observed her reflection in the mirror. The person that stared back had skin as smooth as Jade, polished to perfection.
 
-"The young miss grows to look more like the Madam every day," Josie said lovingly as she started to work Jean's hair expertly.
+"The Young Miss grows to look more like the Madam every day," Josie said lovingly as she started to work Jean's hair expertly.
 
 "A portrait may capture the appearance of a person, but it is seldom able to mimic the person's aura," Jean answered.
 
@@ -154,11 +154,11 @@ Jean glanced at the knife on her workspace, which happened to neighbour her dres
 
 "Did father say who the guest was?" Jean asked casually.
 
-"To answer the young miss, the Lord only revealed that the guest was some teacher from the Radiant Academy," Josie answered.
+"To answer the Young Miss, the Lord only revealed that the guest was some teacher from the Radiant Academy," Josie answered.
 
 "Another one? Father should just give up. Magic and cultivation just aren't in my destiny," Jean muttered.
 
-Josie quickly responded with a serious tone, "Young miss should not disparage herself! This slave firmly believes that the young miss will one day soar through the heavens!"
+Josie quickly responded with a serious tone, "Young Miss should not disparage herself! This slave firmly believes that the Young Miss will one day soar through the heavens!"
 
 Jean wanted to chuckle in amusement, yet she just couldn't vocalise the emotion.
 

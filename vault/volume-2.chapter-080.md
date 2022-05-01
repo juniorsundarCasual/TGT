@@ -2,7 +2,7 @@
 id: vPgdWOfEZU9pJZqbORJ9F
 title: Chapter 080 - True Competition
 desc: ''
-updated: 1643656565439
+updated: 1651421712706
 created: 1643652005982
 ---
 
@@ -70,15 +70,15 @@ Since then, she had immersed herself into the contents of the recording, with th
 
 Josie walked closer and observed the frame carefully.
 
-"To answer Young miss, the spell appears to be similar to |Acid Mist|," she answered with a respectful tone.
+"To answer Young Miss, the spell appears to be similar to |Acid Mist|," she answered with a respectful tone.
 
 Jean hummed in affirmation, but retorted, "But isn't that at least a Tier-2 spell?"
 
-"To answer Young miss, it is."
+"To answer Young Miss, it is."
 
 "Then how was he able to cast it?" Jean interrogated.
 
-"To answer Young miss, I do not know."
+"To answer Young Miss, I do not know."
 
 Jean exhaled loudly and started to note down her observations into her personal journal.
 
@@ -104,7 +104,7 @@ As she drilled into Markus' every action, subtle or otherwise, the voices in her
 
 "ENOUGH!" Jean screamed.
 
-"Young miss? Is there a problem?" Josie quickly walked up to the inflamed Jean.
+"Young Miss? Is there a problem?" Josie quickly walked up to the inflamed Jean.
 
 "... Nothing... Umm... Josie?" She asked.
 
@@ -112,15 +112,15 @@ As she drilled into Markus' every action, subtle or otherwise, the voices in her
 
 "Do you think it will work? Consulting Teacher Larks, I mean," Jean added with evident doubt and uncertainty in her voice.
 
-"To answer Young miss, this slave has said it before and will say it again: this slave firmly believes that Young miss is destined to soar through the heavens!"
+"To answer Young Miss, this slave has said it before and will say it again: this slave firmly believes that Young Miss is destined to soar through the heavens!"
 
 "That's just false hopefulness-"
 
-"This slave may be presumptuous to ask this, but why does Young miss firmly believe that she will fail?"
+"This slave may be presumptuous to ask this, but why does Young Miss firmly believe that she will fail?"
 
 Jean lowered her head and said, "We've failed so many times already..."
 
-"But Young miss, to borrow from miss' own words, unless we test it out, we should not readily write out an unexplored possibility as a foregone conclusion."
+"But Young Miss, to borrow from miss' own words, unless we test it out, we should not readily write out an unexplored possibility as a foregone conclusion."
 
 "But if all we ever face is failure, what confidence is there that the n-th outcome will be anything different?"
 
@@ -128,7 +128,7 @@ Jean lowered her head and said, "We've failed so many times already..."
 
 Jean sighed and confessed, "It's just... I'm scared... What if this doesn't work out? What will happen to father?"
 
-"Young miss should not preoccupy herself with such worries. Miss should remain hopeful because this slave firmly believes that miss is-"
+"Young Miss should not preoccupy herself with such worries. Miss should remain hopeful because this slave firmly believes that miss is-"
 
 ""destined to soar through the heavens!"" Jean and Josie said together. To that, Josie acted out of character and chuckled lightly which was met by a forced, yet apt smile by Jean.
 
@@ -146,7 +146,7 @@ Josie paused for effect, and continued, "The late Madam did not know of this at 
 
 "The Abyssal Wyrm had sensed the presence of additional intruders and showed itself - a woman with beauty beyond comparison. She had raven black hair, deep blue eyes, and a slender and seductive figure. However, the vision was only short-lived, because the wyrm recognised the threat and immediately morphed into her true form. A slithering, elongated mass of unrivalled terror - an abomination of the highest order. Its entire body was coated in darkness - one couldn't recognise its face if not for the presence of four unblinking, bone-white balls marking its eyes. When it opened its mouth, rows and rows of domineering teeth welcomed us, ready to tear us into nothingness. This slave is still unable to fathom how an alluring and elegant figure could hide such a horrific presence..."
 
-"To conclude the story, the Lord and his companions, with the assistance from the late Madam and this slave, managed to overpower the Wyrm and drive it out of the cavern. But the Young miss should note, that the late Madam and this slave were only able to survive the Wyrm's attack due to the Madam's unrivalled background as a healer. By the time the Wyrm's oppressive power had retreated, both the slave and the late Madam were left with shattered bones and perforated internal organs. Our survival was nothing short of a miracle."
+"To conclude the story, the Lord and his companions, with the assistance from the late Madam and this slave, managed to overpower the Wyrm and drive it out of the cavern. But the Young Miss should note, that the late Madam and this slave were only able to survive the Wyrm's attack due to the Madam's unrivalled background as a healer. By the time the Wyrm's oppressive power had retreated, both the slave and the late Madam were left with shattered bones and perforated internal organs. Our survival was nothing short of a miracle."
 
 Jean turned back to the recording and resumed right as the scene approached the point where Markus stood up after experiencing the overpowering attack of the Abyssal Wyrm bloodline.
 
@@ -154,7 +154,7 @@ As she saw the boy's broken yet impressive figure rise up, Jean hummed affirmati
 
 As she finished that statement, Jean started to feel her cheeks warming up for some reason.
 
-"Young miss? The miss' body seems to be heating up all of a sudden. This slave will fetch her some water immediately!"
+"Young Miss? The miss' body seems to be heating up all of a sudden. This slave will fetch her some water immediately!"
 
 Jean felt her forehead to confirm that she was heating up. She felt her neck and muttered, "Heart rate increasing? What... just what is happening to me?"
 
