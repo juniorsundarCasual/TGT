@@ -2,7 +2,7 @@
 id: aoc3q1fycs4s6c353wx31x5
 title: Chapter 176
 desc: ''
-updated: 1651430122401
+updated: 1651477001491
 created: 1651340901008
 ---
 
@@ -30,11 +30,31 @@ While a few attendants immediately rushed towards the injured combatants and adm
 
 The question was, could he have defended against that attack? The answer was yes, he could have defended that attack because it originated from a mage in Mana Condensation realm. The amount of mana behind the attack was low, and the mage's mana domain was abysmal. Markus could easily overpower that gust before it even left the sword. However, Markus took the inquiry to the next level by amplifying the attack to match that of a Foundation Establishment realm mage. Could he have defended against one like that?
 
-When it comes to defending, the answer can fall somewhere between two ends of a spectrum. You can have a sweeping defense that covers all bases, or you can have a specialised defence that is perfect for the attack you intend to block. The easiest way to define the two is by using a swordfight as a basis of comparison. Two warriors with a sword and shield each enter combat. The first warrior swings their sword with a sidewards slash. The attack is telegraphed and the defended is faced with two options, they could either raise their shield to block the attack, or they could use their own sword to parry the attack and follow it up with a shield bash and gain the advantage.
+There are many ways to protect and defend oneself against attacks, both physical and magical. However, we can categorise these methods into two large buckets: Passive and Active defense. Passive defense involves the use of enchanted gears, defensive rituals, innate bloodline and physique advantages, and so on. These are protective measures that persist in the background and do not require the mage to divert their attention in maintaining it. Active defense involves the use of physical or magical defense measures that the mage must consciously maintain for it to remain effective.
+
+When it comes to defending with magic, the answer can fall somewhere between two ends of a spectrum. You can have a sweeping defense that covers all bases, or you can have a specialised defence that is perfect for the attack you intend to block. The easiest way to define the two is by using physical defense mechanisms as basis of comparison. Two warriors with a sword and shield each enter combat. The first warrior swings their sword with a sidewards slash. The attack is telegraphed and the defended is faced with two options, they could either raise their shield to block the attack, or they could use their own sword to parry the attack and follow it up with a shield bash and gain the advantage.
 
 Immediately, the difference is evident. The shield block is a sweeping defense. Although it is effective, it is wasteful. The blocker has to take the shock from the attack, and they do not gain any advantage from the defensive maneuvre as the initiative is still in the attacker's hands. However, there is a high guarantee of success. On the other hand, a parry is more efficient, but sacrifices the guarantee and is also heavily reliant on the blocker's skill. However, upon a successful parry, the initiative is turned over to the defender.
 
-A mage has a blocking spell in their arsenal known as |Ward|. There are variations of the spell such as |Lesser Ward|, |Greater Ward|, |Ward Wall|, and so on that build upon the spell. Essentially, the mage puts up a multi-layered mana shield to physically block the attacks. The greater the proficiency with the spell, the greater the number of layers and the stronger the defense. It was simple and fit the purpose. However, the downside here was that a |Ward| spell consumed mana when active, and consumed mana proportional to the damage it sustained.  
+A mage has a blocking spell in their arsenal known as |Ward|. There are variations of the spell such as |Lesser Ward|, |Greater Ward|, |Ward Wall|, and so on that build upon the spell. Essentially, the mage puts up a multi-layered mana shield to physically block the attacks. The greater the proficiency with the spell, the greater the number of layers and the stronger the defense. It was simple and fit the purpose. However, the downside here was that a |Ward| spell consumed mana when active, and consumed mana proportional to the damage it sustained. Furthermore, just like shield-blocking, it is extremely difficult for the defender to gain the initiative in combat through this method.
+
+Moving towards the other end of the spectrum, the defensive maneuvres get increasingly more intricate and specialised while becoming more efficient in their mana usage and in their capacity to gain initiative. Taking the |Fireball| as an example: a simple |Lesser Ward| can effectively handle the attack. However, a more specialised solution would be to create a vaccuum region along the path of the projectile to dissipate the ball of burning gas. Moving further, it is also possible to manipulate the surrounding air to redirect the attack to another trajectory. At the furthest end of the spectrum, one can create a piercing gust of wind that rotates counter to the |Fireball| which uses the energy of the attack to ignite itself, essentially turning the incoming |Fireball| into an outgoing |Flame Lance|. As evident, the amount of mana and resource required to initiate the defense maneuvres decreases while the skill requirement increases.
+
+The goal of a skillful mage is to find the perfect balance in the spectrum. Even if one maneuvre is highly efficient, it requires the application of a lot of mental processing power. Is the investment sensible in the long run? Sometimes, a less efficient defensive maneuvre is preferable if it can protect against multiple attack patterns.
+
+These were the kinds of questions Markus was cycling through in his mind at that moment. This exercise was a practise to hone his instincts and make him a superior mage.
+
+The reason why martial arts were created was BECAUSE there is an upper limit to the base instincts of humans. A beast at the same cultivation realm as a human is a lot stronger because their instincts are superior. To bridge this gap, humans created martial arts to artificially hone the innate instincts and train their bodies to react to specific scenarios.
+
+For a mage that uses their mind for combat, the procedure to hone their instincts involves constant mental conditioning through reasoning and debate. The goal is to train the mind to arrive at the correct conclusion in a highly stressful scenario, just like breathing and blinking.
+
+Right as Markus devised an optimal defense against the wind attack, the stage was cleared. Then, from the viewing stand embedded into the mountain side, a figure leapt out and descended. The figure glided through the air gracefully, like a leaf floating in the wind, and landed casually on the stage.
+
+Markus' eyes glanced at the figures face and widened in horror.
+
+The reaction was an instinct ingrained into his soul. The girl's expression, her aura and bearing, and her classical beauty, all of these features combined caused multiple alarms to blare in his mind.
+
+'I have to leave!' Without hesitation, Markus lowered his head and started to scoot out from his spot. Unfortunately, his exit was blocked by the agitated youths around him.
 
 ____
 
