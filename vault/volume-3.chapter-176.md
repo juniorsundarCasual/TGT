@@ -1,8 +1,8 @@
 ---
 id: aoc3q1fycs4s6c353wx31x5
-title: Chapter 176
+title: Chapter 176 - Defense
 desc: ''
-updated: 1651477001491
+updated: 1651598829766
 created: 1651340901008
 ---
 
