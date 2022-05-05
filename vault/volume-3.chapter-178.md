@@ -1,8 +1,8 @@
 ---
 id: zj9wbj421c6s4qwfhpcys0l
-title: Chapter 178
+title: Chapter 178 - Exhange of Pointers
 desc: ''
-updated: 1651688074809
+updated: 1651742471133
 created: 1651340921335
 ---
 
@@ -54,7 +54,37 @@ Cleo flew through the air and landed like a ragdoll at the far end of the stage.
 
 "Umm... Do I win?" Markus asked the dumbfounded referee. The man, in turn, gulped and looked at the wrecked body of the girl. He was given instructions to not stop the match even if anyone surrenders. So, after dabbing his sweating forehead, he said, "The combatant isn't incapacitated. The match will continue!"
 
-"FUCK!" A hoarse voice bellowed, as 
+"FUCK!" A hoarse voice bellowed. Cleo coughed audibly as she stumbled to stand up. She turned to face Markus, with deathly rage bursting out of her eyes. The fact that her appearance had tattered to match a jaundiced person with large porous burn-scars and disintegrating clothes, simply amplified her murderous aura further. The last surge of electricity prior to her propulsion had caused her hairs to mat and protrude outwards, adding a maddened garnish to her aesthetic.
+
+"YOU-" The girl waved a trembling finger towards Markus as she prepared to spit out a series of insults. However, she was immediately interrupted by a mouthful of |Fireball|. The barrage was relentless. Cleo hurriedly activated one of the enchantments on her blade, causing it to shine a bright cyan. She then sliced through the incoming |Fireball| causing it to split midways.
+
+"AAAARGGG!" She shouted as she continued to slice through the |Fireball| spells. As she gained proper footing, Markus raised his right foot and activated a spell circle at his sole. She brought it down, eliciting a hollow booming knows that vibrated throughout the stage.
+
+Without stopping the fire attacks, Markus continued to rhytmically raise and lower his foot. With each drop, the booming knows rang louder and louder, until suddenly Cleo could physically observe the ground wave as through it were made of water.
+
+With another drop, the wave gained a massive boost in amplitude, causing her to be pushed off the ground. Now off-balance, Markus ceased the fire barrage and started to accumulate a |Great Fireball| on his open hand with his wand pointing at it. The vorticing ball grew larger by the second, before Markus immediately released it towards the hovering Cleo.
+
+"ENOUGH!" Cleo screamed as she swung her one-handed blade with both her hands grasping the hilt. With a mightly slice, the |Great Fireball| was dissipated. However, Markus anticipated it and hand followed the attack with an |Explosion| which hit her right in the face while she was recovering from the exhausting defensive maneouvre.
+
+Cleo staggered as she tried to stop herself from collapsing. Markus could see her chest rising and falling, as she tried to catch her breath.
+
+"Is the match over?" Markus inquired, seeing as the girl explicitly called 'enough'.
+
+"HOW DARE YOU! I WILL KILL-" The girl once again begain monologuing, however, Markus reverted to his strategy and tossed a |Fireball| her way.
+
+"Oh no you don't!" The girl quickly strafed right and spun in a pirouette with her blade extended outwards, like a deadly top. From the tips of her blade, a white mist sprayed out. All around Markus, the water particles suspended in the air started to condense and washed his vision a translucent white shade. A heavy fog descended upon the stage.
+
+"I've let this go on for long enough," the girl's voice echoed around Markus. His senses were completely overloaded. As he tried to extend his mana sense, he realised that the girl was actively enforcing her influence over their overlapping domain making it had for him to do anything. He could not manipulate the mana around him at all.
+
+"Within this fog, nothing comes in, nothing goes out. You are at my mercy," the girl said ominously. "Even if you call for a surrender, no one will hear you."
+
+Markus was in a complete bind. At that instant, his instinct suddenly warned him of an impending attack. He leaned back immediately, only to miss a sweeping slice a inch away from where his neck would have been.
+
+'She's intending to kill me?' Markus thought. That attack was laced with an intent to kill. All this while, he had only been holding himself back. It appeared as though it was all for naught, since the girl had intended to thoroughly disable him from the very beginning.
+
+Markus' rogue thoughts narrowed to a single conclusion, 'I must end her.'
+
+With a renewed focus, Markus once again extended his bogged down mana sense and tuned into a frequency that the girl had no control over.
 
 ____
 
