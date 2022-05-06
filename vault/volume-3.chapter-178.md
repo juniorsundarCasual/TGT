@@ -2,7 +2,7 @@
 id: zj9wbj421c6s4qwfhpcys0l
 title: Chapter 178 - Exhange of Pointers
 desc: ''
-updated: 1651742471133
+updated: 1651830905929
 created: 1651340921335
 ---
 
@@ -78,13 +78,13 @@ Cleo staggered as she tried to stop herself from collapsing. Markus could see he
 
 "Within this fog, nothing comes in, nothing goes out. You are at my mercy," the girl said ominously. "Even if you call for a surrender, no one will hear you."
 
-Markus was in a complete bind. At that instant, his instinct suddenly warned him of an impending attack. He leaned back immediately, only to miss a sweeping slice a inch away from where his neck would have been.
+Markus was in a complete bind. At that instant, his only active sense suddenly warned him of an impending attack. He leaned back immediately, only to miss a sweeping slice an inch away from where his neck would have been.
 
 'She's intending to kill me?' Markus thought. That attack was laced with an intent to kill. All this while, he had only been holding himself back. It appeared as though it was all for naught, since the girl had intended to thoroughly disable him from the very beginning.
 
 Markus' rogue thoughts narrowed to a single conclusion, 'I must end her.'
 
-With a renewed focus, Markus once again extended his bogged down mana sense and tuned into a frequency that the girl had no control over.
+With a renewed focus, Markus once again extended his bogged down mana sense and turned off all of his regular human senses, tuning into a frequency that the girl had no control over.
 
 ____
 
