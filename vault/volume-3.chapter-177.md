@@ -2,7 +2,7 @@
 id: hvwsdc0higpewnoowj5v0jh
 title: Chapter 177 - Bait, Funnel, and Trap
 desc: ''
-updated: 1651599012158
+updated: 1651819805537
 created: 1651340917334
 ---
 
@@ -46,7 +46,7 @@ Silence prevailed in the audience for an uncomfortably long time as the girl wav
 
 Markus immediately edged behind the person in front of him to immediately break the line of sight between the girl and himself.
 
-'She was after me all along! But why?'
+'She was after me all along! But why? Does this have anything to do with what Teacher Jeeves warned us about?'
 
 Unfortunately, the teen in front of Markus had the same idea, and moved out of the way, revealing the cowering figure of Markus.
 

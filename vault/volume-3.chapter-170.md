@@ -2,11 +2,11 @@
 id: grk850cf2fjrhws2v0jbfwe
 title: Chapter 170 - No Questions Asked
 desc: ''
-updated: 1650380443147
+updated: 1651819015329
 created: 1650194178873
 ---
 
-A man massaged his silver beard while gazing into the horizon with a vigourous sheen in his eyes. His lips parted into a devious smile as his senses locked onto the approaching figure of another man, followed by a still adolescent griffin carrying two individuals. His attention quickly diverted from the critters incapable of flight and the beast and doubled down on the other man.
+A man massaged his silver beard while gazing into the horizon with a vigourous sheen in his eyes. His lips parted into a devious smile as his senses locked onto the approaching figure of another man, followed by a still adolescent Gryphon carrying two individuals. His attention quickly diverted from the critters incapable of flight and the beast and doubled down on the other man.
 
 "I knew he'd cash it in one day," the man said audibly with a reverberating chuckle. He gazed down on his clothes once again, a redundant action since he could easily observe it through his mana senses, and fixed his black overcoat. He then dusted his black skin-tight shirt - another redundant action since he could easily dispel all blemishes with his magic - and casually inserted his hands into his black trouser pockets.
 

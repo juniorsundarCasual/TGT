@@ -2,7 +2,7 @@
 id: 5z9ilswex39jdos9i369new
 title: Chapter 168 - Journey for Knowledge
 desc: ''
-updated: 1651654423949
+updated: 1651819048601
 created: 1649353623562
 ---
 
@@ -126,7 +126,7 @@ Al bit his tongue apologetically before narrowing his eyes in confusion, "Wait! 
 
 Guy's eyes darted to the creature's extended talons, which were nearly the size of bison horns. The claws of its feline hind legs weren't anything to scoff at either - every time it flexed and retracted them, they left a visible dent on the hard ground. The beast's eagle eyes exuded an aura of inescapable danger. Yet, this ferocious beast had turned into a yearning kitten in front of Dora, who barely reached its shoulders.
 
-"Do we really have to travel using a Griffin?" Guy inquired meekly with an audible gulp.
+"Do we really have to travel using a gryphon?" Guy inquired meekly with an audible gulp.
 
 "Unless you can fly," Al shrugged. "Now stop wasting time!"
 
