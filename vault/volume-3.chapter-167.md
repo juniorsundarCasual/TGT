@@ -2,11 +2,11 @@
 id: gvi17h6yxs1ytrula91x80m
 title: Chapter 167 - Grim Future
 desc: ''
-updated: 1651432324453
+updated: 1651820764091
 created: 1649353619755
 ---
 
-"Is it right to just reveal my fate like this?" Gue questioned with a tinge of worry in his voice. "From what I've heard, there can be great consequences if your action changes the course in any way."
+"Is it right to just reveal my fate like this?" Guy questioned with a tinge of worry in his voice. "From what I've heard, there can be great consequences if your action changes the course in any way."
 
 "Things that are supposed to happen will happen, remember?" Krish winked. "What I am about to tell you won't change anything. You won't voluntarily stop in your tracks - are you planning to not continue teaching?"
 
