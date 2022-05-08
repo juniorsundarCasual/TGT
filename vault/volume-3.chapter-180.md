@@ -2,7 +2,7 @@
 id: 4alhm3o85hzg0etg8eqmp96
 title: Chapter 180 - Ulterior Motives
 desc: ''
-updated: 1652023866291
+updated: 1652031169324
 created: 1651742506112
 ---
 
@@ -80,7 +80,7 @@ Markus pulled the edge of his lips into his cheeks and said. "I felt that way ma
 
 With a passion-filled gaze, Marek said, "When you know you can't have it. But your heart just won't stop searching for it. All you can hope for is that the mere sight of it is enough to satisfy that fervour."
 
-"I did have an ulterior motive when I let you win," Marek said finally with a serious tone. "I just wanted to see you again. I knew that as long as this favour hung over your head, we would meet again. Well, I hoped that we would. Luckily, it came to pass."
+"I did have an ulterior motive when I let you win," Marek said finally with a worried tone. "I just wanted to see you again. I knew that as long as this favour hung over your head, we would meet again. Well, I hoped that we would. Luckily, it came to pass."
 
 ____
 
