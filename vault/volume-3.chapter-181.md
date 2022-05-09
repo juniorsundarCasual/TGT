@@ -2,7 +2,7 @@
 id: intj2ry8wdnvffwxytsgibq
 title: Chapter 181
 desc: ''
-updated: 1652122019824
+updated: 1652122938883
 created: 1651742519768
 ---
 
@@ -44,7 +44,35 @@ Marek smiled bitterly, before sighing in relief. "Thank you for that, Al. I real
 
 Marek paused once he finished the anecdote and said, "But I am surprised that you aren't offended or repulsed by my expression of affection towards you."
 
-"Why should I be offended, better you why should you feel anxious about it either ways?" Al retorted. "Who in their right mind would offend you"
+"Why should I be offended, more importantly, why should you feel anxious about it either ways?" Al retorted. "You are in a position where you dictate the rules! To hell with what other people think, they're all hypocrites."
+
+"Are you trying to make me feel better?" Marek smiled.
+
+"You think your love for another man is unnatural and deviant? What of all the people who wouldn't think twice before laying with other species? Is that not unnatural?" Al reasoned. "Your affection is pure. You didn't force yourself on anyone nor did you pressure anyone, you were considerate the entire time."
+
+"The way you rejected me earlier, I get the feeling that you've been in a relationship with another man before?" Marek probed.
+
+Al nodded, "Of course! You should know that my cultivation urges me to try and learn new things. I have experimented with a man before. It was pleasant, I won't deny it."
+
+"I am envious of the man who you shared that experience with," Marek said with a wry and dismayed expression.
+
+"Don't be so dramatic. It was just sex," Al shot back. "I know you're looking for something more substantial."
+
+The ambience in the room turned brighter at this point as both sides lowered their guards against each other.
+
+"Since we're being truthful here," Al followed up. "That kid isn't my Student, and that man isn't my Apprentice."
+
+"Are you talking about your companions?"
+
+"Yes. The kid's actually the man's Disciple," Al confessed.
+
+"Really? This is a first time for me, seeing a Master and Disciple both in the same cultivation realm. Did the guy con the kid into a discpleship?" Marek asked incredulously.
+
+"No. But their circumstances are... special. I won't expound on it as it isn't my place to do so," Al clarified. "But I urge you to observe them more carefully, and not dismiss them so readily. Who knows, maybe you'll see something interesting?"
+
+Al then proceeded to explain Guy's purpose in coming to the Sect.
+
+
 
 Talk about why they're old casually.
 
