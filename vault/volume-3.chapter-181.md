@@ -1,8 +1,8 @@
 ---
 id: intj2ry8wdnvffwxytsgibq
-title: Chapter 181
+title: Chapter 181 - Heart-to-Heart
 desc: ''
-updated: 1652122938883
+updated: 1652204487230
 created: 1651742519768
 ---
 
@@ -56,7 +56,7 @@ Al nodded, "Of course! You should know that my cultivation urges me to try and l
 
 "I am envious of the man who you shared that experience with," Marek said with a wry and dismayed expression.
 
-"Don't be so dramatic. It was just sex," Al shot back. "I know you're looking for something more substantial."
+"Don't be so dramatic. It was just physical," Al shot back. "I know you're looking for something more substantial."
 
 The ambience in the room turned brighter at this point as both sides lowered their guards against each other.
 
@@ -70,11 +70,53 @@ The ambience in the room turned brighter at this point as both sides lowered the
 
 "No. But their circumstances are... special. I won't expound on it as it isn't my place to do so," Al clarified. "But I urge you to observe them more carefully, and not dismiss them so readily. Who knows, maybe you'll see something interesting?"
 
-Al then proceeded to explain Guy's purpose in coming to the Sect.
+"I still don't get why the need to peruse the Sect's archives," Marek pointed out.
 
+"It didn't HAVE to be the Cloudstrider Sect. We would have made do with any other, but this was convenient given the favour. And it worked to our benefit due to the Sect's rich history," Al answered.
 
+"Let me guess, you're thinking of starting your own sect?" Marek guessed. "That's not possible though, you are already associated with the co-operative of Teachers... So it's that man then?"
 
-Talk about why they're old casually.
+"Astute deduction," Al lauded.
+
+"It's going to be difficult," Marek responded while shaking his head. "The scene is quite saturated. Just last year, the Solar Sect Alliance welcomed 250 new registered Sects of which only two remain functional, that two as subsidiaries of the Poison Rain Sect down south."
+
+"I don't think that's going to be an issue," Al assured.
+
+"Why?" But Marek immediately followed by exclaiming, "Don't tell me! Given how calm you are, it must mean that it's basically a done deal - a guaranteed success. That can only mean that the man has a strong backer."
+
+"I have no comments," Al responded with a blank expression.
+
+"Your silence speaks volumes," Marek chuckled excitedly. "So who is it? Anyone we know? Can't be, all of our acquaintances are deeply affiliated with one group or another. Must be someone from outside! Is it a foreigner?"
+
+"I was promised an NQA, what's with all these questions?" Al complained with an exaggeratedly scandalized tone.
+
+"*tsk* You're no fun! That's okay, I'll have to cross path with them anyways. I'll be the one representing the Cloudstrider Sect in the next Alliance gathering. The Sect Master is growing increasingly worried," Marek grumbled while scratching his forehead. "It ain't my fault that he can't birth a capable heir! Honestly, the years of stagnancy has caused malicious rot has set in."
+
+"Can't you do something about it?" Al suggested.
+
+"Why should I? The idiot that I am, I made a Soul Contract with the Sect when I got this position. I was too young and hot-headed back then. So long as this Sect exists I will be forever tethered to it," Marek blurted out. "The sooner that I'm free, the sooner I can go about doing something productive with my life."
+
+"Shh!" Al cautioned. "What if the Sect's Ancestor hears?"
+
+"Do you think that fossil's still alive?" Marek scoffed. "It's been years since he entered seclusion in pursuit of an inspiration. My guess is that the bloke failed and Ascended. It's all smoke and mirrors I tell ya!"
+
+"I don't understand why you decided to tie yourself with a Sect. Life is so much freer when studying in an Academy," Al lamented on Marek's behalf.
+
+"That's because your family was loaded, isn't that right?" Marek sneered. "I wasn't so lucky. And my 'talent' towards cultivation required a lot of arduous unearthing to manifest. It wouldn't have been tractable if I joined an Academy. See, each side has its own advantages and disadvantages, Al."
+
+At that moment, Marek and Al both cocked their heads towards the entrance to the room with a frown on their faces. Within seconds of them turning, a series of knocks resounded form the door.
+
+"Elder Glista! Elder Glista!" A man's concerned voice called out as a blonde haired, bearded figure burst in.
+
+"I'm entertaining a guest, Korr," Marek warned sternly, his mana pushing forcefully against the hyperventilating man. This was enough to let Marek know that an act was underway. Why else would a Core Formation realm expert breath so heavily? "You better have a good reason for this interruption if you wish to leave with both your eyes intact. And know this, after I remove your eyes, if I ever see them healed and functioning I will gauge them out again right then and there."
+
+Without flinching, or hesitating, the man named Korr spoke up, "Young Mistress Loras and Elder Glista's guest are duelling! A verbal spat devolved out of control to a physical confrontation which then turned into a life-or-death duel, which unintentionally triggered the Life-and-Death Formation. This slave implores the Elder to intervene!"
+
+"Those are lies," Al denied flatly. "Markus would never willing participate in any such duels."
+
+"And yet, the formation is active," Marek muttered with a concerned frown as his senses detected the formation in use within the Outer Division. "The girl has grown impudent. Her father's idiotic doting has spoiled her to her core."
+
+Without wasting a second, Marek gestured at Al and disappeared from his room. Once the two experts had gone, the exhausted Korr immediately dusted himself and wore an impassive expression once again. He then followed the duo as well.
 
 ____
 
