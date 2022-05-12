@@ -2,7 +2,7 @@
 id: h7Nn1c5nWjflgxhowWHio
 title: Chapter 067 - Inevitabilities
 desc: ''
-updated: 1643626438595
+updated: 1652383953437
 created: 1643569454617
 ---
 
@@ -34,27 +34,27 @@ Guy shook his head again.
 
 "Anyone can wield a sword. It's not a hard thing to do. But it is hard to wield it without hurting yourself. Those that can accomplish that often train for years to become experts in swordsmanship. Amongst those swordsmen, those with potential for magic can train in a series of skills that complement their swordsmanship called Sword Arts. These extend the mortal swordsmanship styles by imbuing and manipulating mana in some particular way. Mages that have mastered multiple Sword Arts, and choose to cultivate their sword skills more deeply, pursue an elusive concept often known as Sword Intent. A mage that can manifest Sword Intent is said to have reached a realm where they become one with the sword and can perform their Sword Arts without needing a physical sword to channel the power. Manifesting Sword Intent is often the step-off point into higher realms in cultivating swordsmanship. And that is exactly what mages in The Soaring Sword Sect pursue with immense fervour. They are so involved in this pursuit that they often seclude themselves from the world for years on end."
 
-Krish paused before continuing, "I say they were wonderful because they seldom interfered in the mortal world unless certain events blatantly offended a set of codes established by their sect ancestors. So anyway, there was this kid, the Sect Master's latest direct disciples, that had to go on an extermination mission raised by a township that neighboured the sect. With his position and reputation, the kid was extremely arrogant and entitled. He felt that he was above everyone just because the Sect Master chose him out of 1000 others. He thought the extermination mission was easy and beneath him, yet the Sect Master pushed him to take it in hopes of tempering the boy's mentality. As you would have guessed, the mission wasn't as easy as the boy figured it to be. He had to confront a large bandit group led by a mage in the same realm as him. The boy went in without planning and peacocked his affiliation. The entire camp attacked him together. Once the minions softened him up, the leader came in for the killing blow.
+Krish paused before continuing, "I say they were wonderful because they seldom interfered in the mortal world unless certain events blatantly offended a set of codes established by their sect ancestors. So anyway, there was this kid, the Sect Leader's latest direct disciples, that had to go on an extermination mission raised by a township that neighboured the sect. With his position and reputation, the kid was extremely arrogant and entitled. He felt that he was above everyone just because the Sect Leader chose him out of 1000 others. He thought the extermination mission was easy and beneath him, yet the Sect Leader pushed him to take it in hopes of tempering the boy's mentality. As you would have guessed, the mission wasn't as easy as the boy figured it to be. He had to confront a large bandit group led by a mage in the same realm as him. The boy went in without planning and peacocked his affiliation. The entire camp attacked him together. Once the minions softened him up, the leader came in for the killing blow.
 
-"But the Sect Master was keeping an eye the entire time, so he interfered and handled the matter. The boy, though, was thoroughly affected. Coming face to face with his mortality and his inadequacy did a number on him. It completely shattered his ego, developing Inner Demons in the process. The following time he attempted a breakthrough, he suffered a serious backlash and crippled his cultivation."
+"But the Sect Leader was keeping an eye the entire time, so he interfered and handled the matter. The boy, though, was thoroughly affected. Coming face to face with his mortality and his inadequacy did a number on him. It completely shattered his ego, developing Inner Demons in the process. The following time he attempted a breakthrough, he suffered a serious backlash and crippled his cultivation."
 
 "Inner Demons?" Guy mimicked.
 
-Krish affirmed with a hum and added, "He became reclusive and started to second guess everything. He was easily irritated, started to drink excessively, constantly exuded an aura of hopelessness, and was always checked out. The Sect Master didn't know what to do. The boy happened to have a special physique that made him more perceptive to Sword Intent. He was meant to soar the skies as the youngest mage to ever manifest the Sword Intent. In many ways, the Sect Master felt responsible for how things turned out."
+Krish affirmed with a hum and added, "He became reclusive and started to second guess everything. He was easily irritated, started to drink excessively, constantly exuded an aura of hopelessness, and was always checked out. The Sect Leader didn't know what to do. The boy happened to have a special physique that made him more perceptive to Sword Intent. He was meant to soar the skies as the youngest mage to ever manifest the Sword Intent. In many ways, the Sect Leader felt responsible for how things turned out."
 
 "Wasn't he, though?" Guy asked with a hint of surety, to which Krish denied, "It was a foregone conclusion. An inevitability, if you will. The boy was born with great fortune, but he was doomed to never realise it."
 
 "You must have already seen that, right?"
 
-"I did. And when the Sect Master asked me about the boy's fortune, I told him about it. It was for that reason that the Sect Master sent the boy on the mission in the first place! To temper the kid and help him unleash his full potential."
+"I did. And when the Sect Leader asked me about the boy's fortune, I told him about it. It was for that reason that the Sect Leader sent the boy on the mission in the first place! To temper the kid and help him unleash his full potential."
 
 "You must have also seen the boy's descent following his failure."
 
 "I did."
 
-"And you didn't warn the Sect Master?"
+"And you didn't warn the Sect Leader?"
 
-Krish smiled mysteriously and answered, "He didn't ask. Mages think that just because they can cultivate beyond mortality and exceed their limits, they can go against their fortune and fate. The reality is far from that. In many ways, the Sect Master was equally as arrogant as the boy. He thought that just because he had an insight into the future, he could change it. He believed that with his unparalleled strength and wisdom, he could play as a Deity."
+Krish smiled mysteriously and answered, "He didn't ask. Mages think that just because they can cultivate beyond mortality and exceed their limits, they can go against their fortune and fate. The reality is far from that. In many ways, the Sect Leader was equally as arrogant as the boy. He thought that just because he had an insight into the future, he could change it. He believed that with his unparalleled strength and wisdom, he could play as a Deity."
 
 Guy smiled bitterly and commented, "It's ironic. There is this saying, 'One often meets his destiny on the road he takes to avoid it.'"
 

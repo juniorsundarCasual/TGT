@@ -2,7 +2,7 @@
 id: intj2ry8wdnvffwxytsgibq
 title: Chapter 181 - Heart-to-Heart
 desc: ''
-updated: 1652204487230
+updated: 1652383953419
 created: 1651742519768
 ---
 
@@ -90,7 +90,7 @@ The ambience in the room turned brighter at this point as both sides lowered the
 
 "I was promised an NQA, what's with all these questions?" Al complained with an exaggeratedly scandalized tone.
 
-"*tsk* You're no fun! That's okay, I'll have to cross path with them anyways. I'll be the one representing the Cloudstrider Sect in the next Alliance gathering. The Sect Master is growing increasingly worried," Marek grumbled while scratching his forehead. "It ain't my fault that he can't birth a capable heir! Honestly, the years of stagnancy has caused malicious rot has set in."
+"*tsk* You're no fun! That's okay, I'll have to cross path with them anyways. I'll be the one representing the Cloudstrider Sect in the next Alliance gathering. The Sect Leader is growing increasingly worried," Marek grumbled while scratching his forehead. "It ain't my fault that he can't birth a capable heir! Honestly, the years of stagnancy has caused malicious rot has set in."
 
 "Can't you do something about it?" Al suggested.
 

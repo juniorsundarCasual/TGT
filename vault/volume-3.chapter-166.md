@@ -2,7 +2,7 @@
 id: 8z0mpun1q93ss3umkjqu20j
 title: Chapter 166 - Ruthlessness
 desc: ''
-updated: 1651173463477
+updated: 1652383953429
 created: 1649011941944
 ---
 
@@ -46,7 +46,7 @@ After a short pause to discharge the crescendoing tension in the room, Krish con
 
 "That's right!" Al interjected as he snapped his finger. "Y-You are the Golden-Eyed Seer! That's you, isn't it?"
 
-"It all makes sense now!" Al continued hurriedly. "Exactly 53 years ago, the Sunspot Sect faced multiple calamities one after another. The Sect Master suffered a cultivation deviation as he attempted to break through into the Tesseract Transformation realm, resulting in him going mad and eradicating every single disciple present in the Sect. The Elders barely managed to stop him, losing more than three-quarters of their strength by the time the Sect Master was subdued. After the Sect Master gained clarity and came face to face with the utter carnage he had wrought, he ended up killing himself in his grief. The Elders departed from the Sect. Some attempted to join other Sects but faced an untimely death due to odd reasons. One Elder accidentally swallowed poison instead of an alchemical potion. Another accidentally swallowed an artefact of mass destruction and imploded. One even fell on her own vitality draining sword while in a deep meditative state and died a shrivelled husk."
+"It all makes sense now!" Al continued hurriedly. "Exactly 53 years ago, the Sunspot Sect faced multiple calamities one after another. The Sect Leader suffered a cultivation deviation as he attempted to break through into the Tesseract Transformation realm, resulting in him going mad and eradicating every single disciple present in the Sect. The Elders barely managed to stop him, losing more than three-quarters of their strength by the time the Sect Leader was subdued. After the Sect Leader gained clarity and came face to face with the utter carnage he had wrought, he ended up killing himself in his grief. The Elders departed from the Sect. Some attempted to join other Sects but faced an untimely death due to odd reasons. One Elder accidentally swallowed poison instead of an alchemical potion. Another accidentally swallowed an artefact of mass destruction and imploded. One even fell on her own vitality draining sword while in a deep meditative state and died a shrivelled husk."
 
 Al gulped audibly as a morbid silence took grasp of the ambience, "A Sect which was by no means a minor contender just disappeared off the face of the map in one fell swoop, that too because of a multitude of highly coincidental events that just happened to fall into place at the right time. It was so monumental that even the co-operative of Teachers had to get involved. I happened to sit in during the investigation, which lasted for five whole years. In the end, we managed to narrow it down to one individual: The Golden-Eyed Seer!"
 
@@ -56,7 +56,7 @@ Al gulped audibly as a morbid silence took grasp of the ambience, "A Sect which 
 
 "A price had to be paid," Krish shrugged.
 
-"The many mistresses the Sect Master and the Elders impregnated all had a miscarriage due to the absurdest of causes," Al exclaimed animatedly.
+"The many mistresses the Sect Leader and the Elders impregnated all had a miscarriage due to the absurdest of causes," Al exclaimed animatedly.
 
 "That wasn't part of my plan," Krish denied immediately while alternating his gaze between Guy and his students. "In a minor fit of anger, I may have made a mistake in the curse. By the way, the 'Golden-Eyed Seer' is a very mild alias. I assumed it would be more bloody given the level of carnage."
 

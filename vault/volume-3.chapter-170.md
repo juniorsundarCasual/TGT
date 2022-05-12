@@ -2,7 +2,7 @@
 id: grk850cf2fjrhws2v0jbfwe
 title: Chapter 170 - No Questions Asked
 desc: ''
-updated: 1651820529294
+updated: 1652383953427
 created: 1650194178873
 ---
 
@@ -108,7 +108,7 @@ Al turned to follow the duo but was immediately intercepted by Marek blocking hi
 
 "What?"
 
-"You don't have access, Al," Marek repeated with a devious chuckle. "Do you realise how difficult it was to convince the Sect Master to issue the tokens 'No Questions Asked'?"
+"You don't have access, Al," Marek repeated with a devious chuckle. "Do you realise how difficult it was to convince the Sect Leader to issue the tokens 'No Questions Asked'?"
 
 Marek wore a sneer and continued, "I could only manage to wrangle two."
 

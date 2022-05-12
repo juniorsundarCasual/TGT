@@ -2,7 +2,7 @@
 id: gb0zs9edb4ioqavt94qkxxt
 title: Chapter 101 - (Interlude) A Brewing Storm (Part Two)
 desc: ''
-updated: 1648144879186
+updated: 1652383953435
 created: 1648144879186
 ---
 
@@ -88,7 +88,7 @@ The two mages hovering above slowly descended and approached the fallen figure.
 
 "Are you ok?"
 
-"The protective artefact from the Sect Master worked!" The shorter mage answered. However, near the end, there was visible strain and hoarseness in his voice. The mage coughed to clear his voice.
+"The protective artefact from the Sect Leader worked!" The shorter mage answered. However, near the end, there was visible strain and hoarseness in his voice. The mage coughed to clear his voice.
 
 "What's the matter?" The taller mage asked without taking his attention away from the Plague Emperor. His entire mana sense was focused on the figure to be wary of any suspicious actions.
 

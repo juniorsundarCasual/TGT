@@ -2,7 +2,7 @@
 id: 2frg75lgm4e7ynxms9b1crz
 title: Chapter 102 - (Interlude) A Brewing Storm (Part Three)
 desc: ''
-updated: 1648144959251
+updated: 1652384129167
 created: 1648144959251
 ---
 
@@ -72,7 +72,7 @@ Ziva exhaled a long breath to centre his emotions and spoke up, "It is getting h
 
 "Humph! Excuses! You were the one who promised us you would take down that irksome Solar Empire once and for all. I remember exactly how you begged and grovelled on your knees," the man chortled in derision.
 
-'But then that imbecile of a King just had to go and open his mouth!' Ziva complained internally. As his emotions picked up again, the room started to undulate with unstable mana. Interestingly, the other man wasn't the least bit affected. Evidently, Ziva and this man were somewhat equally matched. The only thing diving them, of course, was political backing. The man, known simply as Maise, no last name, was the King's most loyal of dogs. So, he effectively had the backing of the monarch of the Blackstar Kingdom. On the other hand, although Ziva held the position of a sect master it was only in name. There was literally no one else in the sect. No one wanted to be affiliated with or even approach the demon that unleashed the Plague of Dark Cleansing. A plague that had annihilated a region comparable to a small city and quite literally salted the fields, turning it into a veritable no man's land.
+'But then that imbecile of a King just had to go and open his mouth!' Ziva complained internally. As his emotions picked up again, the room started to undulate with unstable mana. Interestingly, the other man wasn't the least bit affected. Evidently, Ziva and this man were somewhat equally matched. The only thing diving them, of course, was political backing. The man, known simply as Maise, no last name, was the King's most loyal of dogs. So, he effectively had the backing of the monarch of the Blackstar Kingdom. On the other hand, although Ziva held the position of a sect leader it was only in name. There was literally no one else in the sect. No one wanted to be affiliated with or even approach the demon that unleashed the Plague of Dark Cleansing. A plague that had annihilated a region comparable to a small city and quite literally salted the fields, turning it into a veritable no man's land.
 
 "I heard that you will be travelling to the Solar Empire as an ambassador?" Ziva said in trying to change the topic.
 

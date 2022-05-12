@@ -2,13 +2,13 @@
 id: 4alhm3o85hzg0etg8eqmp96
 title: Chapter 180 - Ulterior Motives
 desc: ''
-updated: 1652031169324
+updated: 1652383953422
 created: 1651742506112
 ---
 
 In another place high up in the Sect's floating mountain, in a room inside a courtyard dwelling assigned only for Elders in the Sect, two individuals were in a tense meeting.
 
-As a sect grew larger, it became harder to manage the individual members and maintain proper control over the organisation. To tackle this issue, regiments were created within the sect led by Elders. An Elder in charge of a regiment would report directly to the Sect Master and based on the regiment's performance as a whole and their contribution to the Sect, they would have greater say in sect matters.
+As a sect grew larger, it became harder to manage the individual members and maintain proper control over the organisation. To tackle this issue, regiments were created within the sect led by Elders. An Elder in charge of a regiment would report directly to the Sect Leader and based on the regiment's performance as a whole and their contribution to the Sect, they would have greater say in sect matters.
 
 Frequently, certain competitions would be held in the Outer Division, with Elders in the audience, and based on the members' performances they would be recruited into a particular regiment and move into the Inner Division.
 
