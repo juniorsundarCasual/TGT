@@ -2,7 +2,7 @@
 id: 0mc7ullxkzeov70n324g0pq
 title: Chapter 183 - (Interlude) Leaving the Cloudstrider Sect
 desc: ''
-updated: 1652618317859
+updated: 1652622186829
 created: 1652597774156
 ---
 
@@ -110,7 +110,7 @@ Cleo turned around and noticed the emotionless man standing by her bed.
 
 "The Sect Leader said to convey to the Young Miss that, 'If you make a risky play, do some when you know you will win. Because of your idiocy, I now have to bend even lower in front of Marek.'" 
 
-In fact, through association, the Sect Leader had also lost a lot of face due to his daughter's humiliating victory. He had planned to retaliate by scheming to undermine Teacher Jeeves and that boy Markus. However, right after the incident, Elder Glista came with full force and rallied his support asking to condemn the Sect Leader for offending guests visiting the Sect. The Sect Leader had little time to counter the allegations, since it literally blindsided him. The Sect Leader would have been the one to dole out Cleo's punishment today if not for the bind he was currently in, in holding the other elders at bay.
+In fact, through association, the Sect Leader had also lost a lot of face due to his daughter's humiliating victory. He had planned to retaliate by scheming to undermine Teacher Jeeves and that boy Markus. However, right after the incident, Elder Glista came with full force and rallied his support asking to condemn the Sect Leader for offending guests visiting the Sect. They then went on to challenge his capacity in leading a Sect if he couldn't control his own flesh and blood. Since Elder Glista was one of the pillars of the Sect, these allegations couldn't be swept under the rug and had to be brought to debate and discussion. The Sect Leader had little time to counter the allegations, since it literally blindsided him. The Sect Leader would have been the one to dole out Cleo's punishment today if not for the bind he was currently in, in holding the other elders at bay.
 
 Korr paused and said, "The Young Miss knows full well that the Sect Leader abhors that phrase - 'second chance'. The Young Miss received an opportunity, regretfully she squandered it immediately after. For now, the Young Miss has been ordered to remain within her quarters."
 
