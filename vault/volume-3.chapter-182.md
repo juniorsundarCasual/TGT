@@ -2,7 +2,7 @@
 id: cpv9q4newgverol3d8fchw4
 title: Chapter 182 - Outplayed, Outdone, Outclassed
 desc: ''
-updated: 1652383953418
+updated: 1652597938899
 created: 1651988839743
 ---
 
@@ -60,7 +60,7 @@ Marek shivered as he recollected that unpleasant confrontation. He hated to admi
 
 Marek jolted, and without wasting a second longer he got to work dissipating the formation. With a wave of his hand, the Life-and-Death Formation was deactivated. With his position as an Elder, he had the authority to do so. However, the Irrationality Formation was not within his control. It could only be controlled by those expressly allowed by the Sect Leader. In this case, the girl who was in the process of ceasing to exist had the key. However, she was barely in any condition to do so.
 
-Hence, Marek deffered to Al, since he acknolwedge the man's prowess with anything intellectual in nature. Al didn't need to see or hear Marek's go-ahead as he immediately got to work. The ritual formation in question was subtle, in that it was bundle amidst a series of other formations concentrated on the field. For any other mage, it would have been a chore that would take a few hours to decipher. However, the convoluted bundle unravelled like a loosly tied knot in Al's mind. He could immediatley pinpoint the weakness of the formation and attacked it with distributed |Magic Missles| that hit their targets in a specific order.
+Hence, Marek deffered to Al, since he acknolwedge the man's prowess with anything intellectual in nature. Al didn't need to see or hear Marek's go-ahead as he immediately got to work. The ritual formation in question was subtle, in that it was bundle amidst a series of other formations concentrated on the field. For any other mage, it would have been a chore that would take a few hours to decipher. However, the convoluted bundle unravelled like a loosely tied knot in Al's mind. He could immediatley pinpoint the weakness of the formation and attacked it with distributed |Magic Missles| that hit their targets in a specific order.
 
 Right as the last missle hit one of the strategic nexuses of the formation, a single foreign word escaped from Markus' lips. The name pierced through the inhuman shriek emanating from the void-black ball in front of him, which was flanked by revolving debris.
 
@@ -80,19 +80,19 @@ Then, like a ton of bricks crashing into him from a dangerous height, his memori
 
 'Markus!' Al's voice resounded in Markus' mind. 'The person you are fighting is the Sect Leader's daughter.'
 
-Markus's eyes widened in shock. He was definitely screwed. Forget about laying low and under the radar, he had just debased and was about to kill the VVIP of this Sect! Markus shot Al a desperate gaze which conveyed everything Al needed to know.
+Markus's eyes widened in shock. He was definitely screwed. Forget about lying low and under the radar, he had just debased and was about to kill the VVIP of this Sect! Markus shot Al a desperate gaze which conveyed everything Al needed to know.
 
 "He can't stop the attack without hurting himself and everyone around him," Al concluded.
 
 He then immediately rushed on stage and activated a multitude of protective spells, as well as a spell he himself was working on - using Guy's method of course - to counter that dastardly compressive spell that rerouted a river back at the village. Al dialled the spell up to its maximum possible level and thrust it against the |Singularity|.
 
-Evidently, the defensive spell was not enough. His thought process during its conception did not account for the interweaving of spacetime elements, so the spell could only counter the compressive aspects by overloading it with a lot of mana. As more and more of Al's mana got sucked into the |Singularity| the spell's voraciousness was satiated. Al got a little concered as more mana that he expected rushed in. It wasn't much in the grand scheme of things, but for a perfectionist who preferred to be efficient with his mana, this discprepancy irked him a bit. He would explore this at a later date. Then, as anticipated, he cast a much thicker ward spell around the dissipated spell for the upcoming blast. The attack collided against the wall of mana and burst through a few preliminary layers before shutting off.
+Evidently, the defensive spell was not enough. His thought process during its conception did not account for the interweaving of spacetime elements, so the spell could only counter the compressive aspects by overloading it with a lot of mana. As more and more of Al's mana got sucked into the |Singularity| the spell's voraciousness was satiated. Al got a little concered as more mana that he expected rushed in. It wasn't much in the grand scheme of things, but for a perfectionist who preferred to be efficient with his mana, this discrepancy irked him a bit. He would explore this at a later date. Then, as anticipated, he cast a much thicker ward spell around the dissipated spell for the upcoming blast. The attack collided against the wall of mana and burst through a few preliminary layers before shutting off.
 
 As the dust settled, Marek walked over and said, "Due to external interference, the match goes in favour of Cleo Loras. Congratulations."
 
 It took some time for Markus to register the outcome, but he joined the dots and recognised what Al and Marek were cooking. He then bowed at the shivering girl coated in filth and said sincerely, "I have lost. Thank you for opening up my horizons, Mage Loras."
 
-He then quickly jumped off the stage and sprinted away immediately.
+He then quickly jumped off the stage and sprinted away without a moment of hesitance.
 
 ____
 
