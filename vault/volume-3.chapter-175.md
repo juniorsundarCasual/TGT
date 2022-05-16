@@ -2,7 +2,7 @@
 id: 2328j23bmndslm5cocw7t5h
 title: Chapter 175 - Power Struggles
 desc: ''
-updated: 1652383953424
+updated: 1652677494834
 created: 1650802191282
 ---
 
@@ -48,9 +48,9 @@ The girl looked pointedly at the statue of a man for a charged minute, before lo
 
 The man nodded.
 
-"What use is dipping into the Outer division for this? Shouldn't I be corralling support from the Inner division?"
+"What use is dipping into the Outer Division for this? Shouldn't I be corralling support from the Inner Division?"
 
-"The Young Miss must already know that the First and Second Young masters have already cornered all the impactful members from the Inner and Core divisions."
+"The Young Miss must already know that the First and Second Young masters have already cornered all the impactful members from the Inner and Core Divisions."
 
 "Then what's the point?" The girl sighed.
 
@@ -60,7 +60,7 @@ The man paused and gazed into the distance. "When a prey is cornered, that is wh
 
 "This slave asks the Young Miss to evaluate the proposition," Korr emphasised.
 
-"I know, I know. Elder brothers have become complacent. Thier play at succession has become a childish tug of war. The Sect has become stale. The Elders bicker amongst each other, the Inner and Core divisions are filled with wastrels and yes-men. Father wants me to add fuel to the fire by shaking up the balance in the upper divisions by raising prospective supporters brimming with the fire of ambition. That's why he is willing to give me access to all of these weapons, potions and manuals as a reward for this tournament," the girl said while pointing at the stack of papers.
+"I know, I know. Elder brothers have become complacent. Thier play at succession has become a childish tug of war. The Sect has become stale. The Elders bicker amongst each other, the Inner and Core Divisions are filled with wastrels and yes-men. Father wants me to add fuel to the fire by shaking up the balance in the upper divisions by raising prospective supporters brimming with the fire of ambition. That's why he is willing to give me access to all of these weapons, potions and manuals as a reward for this tournament," the girl said while pointing at the stack of papers.
 
 "But the fact remains, why me and why now?" She added. "I've been actively staying out of this power struggle for a reason. Why would I voluntarily jump into a pool of headaches by becoming the Sect Leader?"
 

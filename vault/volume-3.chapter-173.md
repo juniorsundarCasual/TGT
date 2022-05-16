@@ -2,13 +2,13 @@
 id: 57h3ivh8kbfqgyllt1785yd
 title: Chapter 173 - Exploring the Sect (Part One)
 desc: ''
-updated: 1652384690821
+updated: 1652677470643
 created: 1650259435687
 ---
 
 "You're short! There are only three phials here, our agreement was for ten," a teenage boy dressed in a white robe with indigo and gold clouds embroidered on it chided with a disdainful frown on his face.
 
-"I'm sorry Senior. The collection has become much harder given the increase in the... demand. I believe there are three more members from the Outer division reporting to Senior," another teenager responded with a painfully deep bow. He was garbed in a black robe with similar embroidery minus the gold inlays. The condition of the fabric was also miles behind that of the other boy's, with frequent scuff marks and hastily patched up tears peppered around them.
+"I'm sorry Senior. The collection has become much harder given the increase in the... demand. I believe there are three more members from the Outer Division reporting to Senior," another teenager responded with a painfully deep bow. He was garbed in a black robe with similar embroidery minus the gold inlays. The condition of the fabric was also miles behind that of the other boy's, with frequent scuff marks and hastily patched up tears peppered around them.
 
 "Are you saying it's my fault?" the white-robed boy shot back aggressively?
 
@@ -20,9 +20,9 @@ Before he could respond, the black-robed boy was grabbed by his hair and slammed
 
 Another punch landed in the same location, eliciting a pained groan from the black-robed teen.
 
-"I wouldn't need to recruit more members from the Outer division if you had done a better job. Are you satisfied with doing the bare minimum?" The question was followed by a kick toward the black-robed teen, who was in the fetal position. "If you want to attract the attention of your superiors, you need to go above and beyond. What I gave you was a test."
+"I wouldn't need to recruit more members from the Outer Division if you had done a better job. Are you satisfied with doing the bare minimum?" The question was followed by a kick toward the black-robed teen, who was in the fetal position. "If you want to attract the attention of your superiors, you need to go above and beyond. What I gave you was a test."
 
-"Fucking Outer trash! Get this through your head. This is how cultivation works. It's all about gaining benefits when possible," the white-robed teen bellowed maniacally. "If you want to get ahead, you need to step over a few heads in the process. Do you think every piece of shit entering the Outer division gets to enter the Inner division?"
+"Fucking Outer trash! Get this through your head. This is how cultivation works. It's all about gaining benefits when possible," the white-robed teen bellowed maniacally. "If you want to get ahead, you need to step over a few heads in the process. Do you think every piece of shit entering the Outer Division gets to enter the Inner Division?"
 
 "Do you think this is unfair?" The boy asked sarcastically.
 
@@ -52,11 +52,11 @@ Based on Markus' knowledge, a Sect could generate income through two main routes
 
 Alternatively, a Sect could also earn money through its own side businesses. The Cloudstrider Sect is known for its highly potent ritual formations. Third parties can contract the Sect's services to set up formations for defence, offence or general utility. Other sects offer their own speciality as a service or even other tangible resources obtained through mines or resource-generating infrastructures under their control. 
 
-Markus took note of this aspect as he moved past the Mission Centre. Since the location acted as a central node of the entire Sect, moving on the rising path led Markus to the entrance to the Sect's Inner division.
+Markus took note of this aspect as he moved past the Mission Centre. Since the location acted as a central node of the entire Sect, moving on the rising path led Markus to the entrance to the Sect's Inner Division.
 
 "Hold it! Identification," One of the armoured guards blocking the path demanded as they moved towards Markus. Markus bowed respectfully in return, causing the guard to lower his aggression slightly, before presenting the token on his person.
 
-The guard injected his mana into the token before tossing it back. A smug smile flashed across his face for a microsecond, before it returned to a flat frown. He then said, "Beyond this point is the personal quarters of the Inner division members."
+The guard injected his mana into the token before tossing it back. A smug smile flashed across his face for a microsecond, before it returned to a flat frown. He then said, "Beyond this point is the personal quarters of the Inner Division members."
 
 As he terminated that statement, he walked toward Markus with an imposing aura. His body language clearly implied opposition, while his words did not dictate it.
 
@@ -80,7 +80,7 @@ Needless to say, apart from the Sect's architectural heritage, Markus was thorou
 
 "Maybe it was my own fault for keeping such high hopes," Markus sighed. "It's all the same, no matter where you go."
 
-With an audible exhale and a dismayed shrug, Markus resumed his walk in the direction of the Outer division.
+With an audible exhale and a dismayed shrug, Markus resumed his walk in the direction of the Outer Division.
 
 ____
 

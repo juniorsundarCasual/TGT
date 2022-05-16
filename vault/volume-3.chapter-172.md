@@ -2,7 +2,7 @@
 id: 8zsx6p1thfgitg6e7vyz40e
 title: Chapter 172 - Sects of the Past, Present... and Future?
 desc: ''
-updated: 1652207532717
+updated: 1652678234176
 created: 1650194206635
 ---
 
@@ -38,23 +38,23 @@ Now Ziva Lune operated his own sect in that region, which was incidentally class
 
 Apart from that, the Cloudstrider Sect's general operation was wholly bland - they didn't even deign to undertake common escort missions and protection missions for merchant caravans and other clients like the less renowned sects. Maybe it was because of its age and heritage, but as Guy progressed through the records, he found that the sect became less and less adventurous in its activities. It had essentially devolved into an endless cycle of recruitment, tournaments and competitions, intermittent exploratory trips to quell the burgeoning population of dangerous beasts.
 
-However, the Sect had to propagate somehow. To that end, the Sect conducted mass recruitments every ten years, sparser than the less prominent sects in the orthodox alliance. The sects nowadays had three divisions: Outer, Inner and Core. The horde that entered the Sect would become part of the Outer division, where they would have to compete against each other, to a brutal degree, to gain resources and advance in their cultivations. They wouldn't receive any support apart from perfunctory lectures explaining the base cultivation method. Only a measly 1% could get promoted to the Inner division, at which point there was an even tougher competition to gain the recognition of a sect elder to become their Disciple. That would qualify them as Core division members, automatically moving them to a track for an elder position of some kind in the future.
+However, the Sect had to propagate somehow. To that end, the Sect conducted mass recruitments every ten years, sparser than the less prominent sects in the orthodox alliance. The sects nowadays had three divisions: Outer, Inner and Core. The horde that entered the Sect would become part of the Outer Division, where they would have to compete against each other, to a brutal degree, to gain resources and advance in their cultivations. They wouldn't receive any support apart from perfunctory lectures explaining the base cultivation method. Only a measly 1% could get promoted to the Inner Division, at which point there was an even tougher competition to gain the recognition of a sect elder to become their Disciple. That would qualify them as Core Division members, automatically moving them to a track for an elder position of some kind in the future.
 
-As Guy finished a record describing the day-to-day occurrences in the Outer division from the past year, his chest undulated with disgust.
+As Guy finished a record describing the day-to-day occurrences in the Outer Division from the past year, his chest undulated with disgust.
 
 'They're being treated worse than animals!'
 
-An Outer division disciple was basically a slave. They were treated with no dignity by the Inner and Core members. Even amongst themselves, they had no camaraderie since only those with grit and cunning could accumulate enough resources to advance. Those that couldn't advance were infinitely tethered to the Sect, forced to live the rest of their lives as indentured slaves with no prospects. Most of the Outer division members would die due to the unforgiving environment.
+An Outer Division disciple was basically a slave. They were treated with no dignity by the Inner and Core members. Even amongst themselves, they had no camaraderie since only those with grit and cunning could accumulate enough resources to advance. Those that couldn't advance were infinitely tethered to the Sect, forced to live the rest of their lives as indentured slaves with no prospects. Most of the Outer Division members would die due to the unforgiving environment.
 
 'They don't even have the decency to commemorate their names?'
 
-They were all numbers. A footnote on the ledger. Only Guy could see the blood oozing from the ink that dotted the decimal defining the percentage of Outder division member "turnover". It reminded Guy of a horrendous hypothetical experiment he had heard of in his past life. Basically, a pot was filled with a myriad of highly venomous creatures and closed shut. The pot was left as-is for days on end. The critters stuck within were forced to fight amongst each other for survival, surviving against the venomous strikes of their fellow prisoners. After much time passed, the lid would be opened to reveal the single victor of the bloodsport, the critter with venom to surpass all venoms. This was how the Sect's Outer division was being managed.
+They were all numbers. A footnote on the ledger. Only Guy could see the blood oozing from the ink that dotted the decimal defining the percentage of Outer Division member "turnover". It reminded Guy of a horrendous hypothetical experiment he had heard of in his past life. Basically, a pot was filled with a myriad of highly venomous creatures and closed shut. The pot was left as-is for days on end. The critters stuck within were forced to fight amongst each other for survival, surviving against the venomous strikes of their fellow prisoners. After much time passed, the lid would be opened to reveal the single victor of the bloodsport, the critter with venom to surpass all venoms. This was how the Sect's Outer Division was being managed.
 
 'I cannot run my sect like this... Not in good conscience...' Guy reaffirmed.
 
-The Archives did not expand on the workings of the Outer division beyond the basics. However, Guy could fill in the blanks by himself, much to his disgust.
+The Archives did not expand on the workings of the Outer Division beyond the basics. However, Guy could fill in the blanks by himself, much to his disgust.
 
-Coincidentally, another individual was gaining a clearer view of the true treatment of Outer division sect members first-hand.
+Coincidentally, another individual was gaining a clearer view of the true treatment of Outer Division sect members first-hand.
 
 ____
 
