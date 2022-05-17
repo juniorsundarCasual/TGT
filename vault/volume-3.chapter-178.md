@@ -2,7 +2,7 @@
 id: zj9wbj421c6s4qwfhpcys0l
 title: Chapter 178 - Exhange of Pointers
 desc: ''
-updated: 1651830905929
+updated: 1652812601861
 created: 1651340921335
 ---
 
@@ -44,7 +44,7 @@ What Cleo didn't know was that the hand placed over her left breast may have sav
 
 Then again, someone would interfere if things got to that point. Markus had learned from his mistakes from the past. He could not show any mercy in a moderated duel. The last time he did that, he lost miserably.
 
-With that in mind, Markus ramped up his attack and activated another set of spell circles, using the phial of sulphur in his satchel as the source. A mist of sulphuric acid formed around him, drenching the electrocuted girl. The distributed nature of the attack overwhelmed her attire's warding enchantments, and began eating into her clothes, hair, and skin, turning them a dirty yellow shade.
+With that in mind, Markus ramped up his attack and activated another set of spell circles, using the phial of sulphur in his satchel as the source. A mist of sulphuric acid formed around him, drenching the electrocuted girl. The distributed nature of the attack overwhelmed her attire's warding enchantments, and began eating into her clothes, hair, and skin, turning them a dirty yellow shade. In the beginning, her clothes started to regenerate, with the help of the enchantments within. But after a few more distributed acid attacks, the regeneration could no longer keep up and ceased working altogether.
 
 'This should be enough, right?' After a casual ten minutes, Markus pondered whether to stop the shock attack. He hadn't tried it on another human yet, so he didn't know if this was enough to incapacitate her. Furthermore, her appearance had also deteriorated drastically after her unceremonious acid bath. It really hurt Markus' conscience to watch her suffer like that.
 

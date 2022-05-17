@@ -2,17 +2,17 @@
 id: 2328j23bmndslm5cocw7t5h
 title: Chapter 175 - Power Struggles
 desc: ''
-updated: 1652677494834
+updated: 1652812868010
 created: 1650802191282
 ---
 
 "Pathetic!"
 
-In the stands embedded in the cliff-side at the back of the auditoriom, within one of the more elaborate covered viewing boxes, a girl barely into her mid-teens, spat out in disgust at the "embarrassing" display below her. Her piercing blue eyes were languid as they scanned over the two individuals confronting each other on stage. She shifted a strand of her void-black hair draped over her eyes and on her marble-like smooth skin, behind her ear.
+In the stands embedded in the cliff-side at the back of the auditorium, within one of the more elaborate covered viewing boxes, a girl barely into her mid-teens, spat out in disgust at the "embarrassing" display below her. Her piercing blue eyes were languid as they scanned over the two individuals confronting each other on stage. She shifted a strand of her void-black hair draped over her eyes and on her marble-like smooth skin, behind her ear.
 
 "Why am I here again?" She exclaimed. "There are so many other vermin beneath me who can handle this!"
 
-"The Sect Leader asked for the Young Miss specifically," a deep male voice answered. From the shadows, an immaculately dressed man who appeared to be in his mid-twenties stepped forth. He sported a perfectly trimmed blonde beard and mustache the connected with his golden-blonde hair, trimmed perfectly flat. His square face was a shade paler than everyone else around him, and his hazel eyes betrayed his foreign heritage.
+"The Sect Leader asked for the Young Miss specifically," a deep male voice answered. From the shadows, an immaculately dressed man who appeared to be in his mid-twenties stepped forth. He sported a perfectly trimmed blonde beard and moustache that connected with his golden-blonde hair. His square face was a shade paler than everyone else around him, and his hazel eyes betrayed his foreign heritage.
 
 "What have I done that's gotten father so angry?" She snorted. "If this is his way to punish me for a mistake I've made, tell him that I am not impressed. How can I correct myself if I don't even know what I've done wrong?"
 
@@ -20,7 +20,7 @@ In the stands embedded in the cliff-side at the back of the auditoriom, within o
 
 "Then?"
 
-The man remained silent and shared a meaningful gaze with the younger woman. Her eyes narrowed in response while her mind whirred into motion in an attempt to interpret the meaning behind the man's cryptic gaze. After a short minute, she exhaled loudly in annoyance and complained, "Fuck it! I don't care. I'm leaving!"
+The man remained silent and shared a meaningful gaze with the younger woman. Her eyes narrowed in response while her mind whirred into motion in an attempt to interpret the meaning behind the man's cryptic stare. After a short minute, she exhaled loudly in annoyance and complained, "Fuck it! I don't care. I'm leaving!"
 
 "Young Miss..." the man pleaded without a waver in his voice.
 
@@ -42,7 +42,7 @@ The man stared listlessly at the girl attempting to put on a solo-act, without m
 
 The girl looked pointedly at the statue of a man for a charged minute, before lowering her hands casually. As she did so, her torn clothes started to regenerate at a visible pace, immediately covering her up. "You're no fun. Now stop wasting my time and tell me why I'm here?"
 
-"The victors need to be awarded," the man repeated while nudging an overlooked stack of papers on the table next to the girl. Her eyes followed suit and perused through its contents. Midway through, he mouth widened into a knowing smile, before settling at a confused frown.
+"The victors need to be awarded," the man repeated while nudging an overlooked stack of papers on the table next to the girl. Her eyes followed suit and perused through its contents. Midway through, her mouth widened into a knowing smile, before settling at a confused frown.
 
 "He wants me to build up my own force of loyalists? Why?" The girl inquired. "Does he want me to compete with my elder brothers?"
 
@@ -54,17 +54,17 @@ The man nodded.
 
 "Then what's the point?" The girl sighed.
 
-The man paused and gazed into the distance. "When a prey is cornered, that is when it is the most dangerous. With a well-placed bite at the jugular, even a rabbit can kill a distracted lion."
+The man paused and gazed into the distance. "When prey is cornered, that is when it is the most dangerous. With a well-placed bite at the jugular, even a rabbit can kill a distracted lion."
 
 "Are you comparing me to a bunny?" The girl chuckled.
 
 "This slave asks the Young Miss to evaluate the proposition," Korr emphasised.
 
-"I know, I know. Elder brothers have become complacent. Thier play at succession has become a childish tug of war. The Sect has become stale. The Elders bicker amongst each other, the Inner and Core Divisions are filled with wastrels and yes-men. Father wants me to add fuel to the fire by shaking up the balance in the upper divisions by raising prospective supporters brimming with the fire of ambition. That's why he is willing to give me access to all of these weapons, potions and manuals as a reward for this tournament," the girl said while pointing at the stack of papers.
+"I know, I know. Elder brothers have become complacent. Their play at succession has become a childish tug of war. The Sect has become stale. The Elders bicker amongst each other, the Inner and Core Divisions are filled with wastrels and yes-men. Father wants me to add fuel to the fire by shaking up the balance in the upper divisions and raising prospective supporters brimming with the fire of ambition. That's why he is willing to give me access to all of these weapons, potions and manuals as a reward for this tournament," the girl said while pointing at the stack of papers.
 
 "But the fact remains, why me and why now?" She added. "I've been actively staying out of this power struggle for a reason. Why would I voluntarily jump into a pool of headaches by becoming the Sect Leader?"
 
-"The confidence that Young Miss just displayed is part of the reason," Korr replied. "The Young Miss will be more successful and more capable towards raising the Cloudstrider Sect to new heights."
+"The confidence that Young Miss just displayed is part of the reason," Korr replied. "The Young Miss will be more successful and more capable of raising the Cloudstrider Sect to new heights."
 
 "Are those your words or fathers?"
 
@@ -76,7 +76,7 @@ The girl revealed a savage grin that warped her pure face and said, "If father r
 
 "What's the matter?" The girl inquired.
 
-"I sense Elder Glista's token in the crowd," the man extended his index finger and pointed towards an individual in the crowd. "That boy."
+"I sense Elder Glista's token in the crowd," the man extended his index finger and pointed toward an individual in the crowd. "That boy."
 
 "Ha! He stands out like a sore thumb in a sea of black," the girl snorted. "How does he blend in so well? No one's even noticed his presence."
 
@@ -86,19 +86,19 @@ Korr's frown deepened. "He's passively manipulating the surrounding mana to bloc
 
 "The second should be in the Archives."
 
-"WHAT?!" The girl bellowed in anger. "That old man acts as though the Sect is his - the Archives hold the heritage of our Sect and he just let a stranger have complete access to it? He dares to ask for not one but two all-access tokens with no reasoning whatsoever. Is this Sect his personal playground?"
+"WHAT?!" The girl bellowed in anger. "That old man acts as though the Sect is his - the Archives hold the history and workings of our Sect and he just let a stranger have complete access to it? He dares to ask for not one but two all-access tokens with no reasoning whatsoever. Is this Sect his personal playground?"
 
 "Elder Glista is a key pillar of the Sect," Korr reminded. "He doesn't ask for much-"
 
 "But when he does, it's something monumental like this! The man needs to be put in his place," The girl scratched her chin in thought before continuing. "Since I will have to stake my claim for the leadership, I must achieve something exemplary to stand-out."
 
-Her lips parted with a ruthless grin as she wetted her lips with her tongue. He extended her finger and traced the boy's face in mid-air playfully, "He shall be the first stepping stone. Tell me about him, Korr!"
+Her lips parted with a ruthless grin as she wetted her lips with her tongue. She extended her finger and traced the boy's face in mid-air playfully, "He shall be the first stepping stone. Tell me about him, Korr!"
 
 Being in the Core Formation realm, Korr had little difficulty extending his mana sense to |Inspect| the lad. "Foundation Establishment realm, Base stage, just like the Young Miss. By my estimate, fourteen to fifteen years old. He should be affiliated with Teacher Jeeves-"
 
 "The 'Polymath'? I thought the Battle Maniac and Al Jeeves were bone-deep rivals? He would do a favour like this to the man that defeated him?" The girl scoffed. "How is the boy related to Al Jeeves?"
 
-"Student or a Disciple. His musculature indicates that he has little to no experience with martial-arts."
+"Student or a Disciple. His musculature indicates that he has little to no experience with martial arts."
 
 "So he takes after his Teacher."
 
@@ -128,7 +128,7 @@ Being in the Core Formation realm, Korr had little difficulty extending his mana
 
 "This slave understands," Korr nodded affirmatively. "This slave shall make it so."
 
-And with that said, Korr disappeared in a haze flash. The girl stroked her chin, and licked her lips once again as a sense of morbid intoxication washed over her. "It's been some time since by blade has spilt blood. You poor boy, don't disappoint me."
+And with that said, Korr disappeared in a haze flash. The girl stroked her chin and licked her lips once again as a sense of morbid intoxication washed over her. "It's been some time since by blade has spilt blood. You poor boy, don't disappoint me."
 
 ____
 
