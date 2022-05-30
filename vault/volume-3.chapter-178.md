@@ -2,7 +2,7 @@
 id: zj9wbj421c6s4qwfhpcys0l
 title: Chapter 178 - Exchange of Pointers
 desc: ''
-updated: 1653917492227
+updated: 1653931882291
 created: 1651340921335
 ---
 
@@ -58,7 +58,7 @@ Cleo flew through the air and landed like a ragdoll at the far end of the stage.
 
 "YOU-" The girl waved a trembling finger towards Markus as she prepared to spit out a series of insults. However, she was immediately interrupted by a mouthful of |Fireball|. The barrage was relentless. Cleo hurriedly activated one of the enchantments on her blade, causing it to shine a bright cyan. She then sliced through the incoming |Fireball| causing it to split midways.
 
-"AAAARGGGHH!" She shouted as she continued to slice through the |Fireball| spells. As she gained proper footing, Markus raised his right foot and activated a spell circle at his sole. She brought it down, eliciting a hollow booming noise that vibrated throughout the stage.
+"AAAARGGGHH!" She shouted as she continued to slice through the |Fireball| spells. As she gained proper footing, Markus raised his right foot and activated a spell circle at his sole. He brought it down, eliciting a hollow booming noise that vibrated throughout the stage.
 
 Without stopping the fire attacks, Markus continued to rhythmically raise and lower his foot. With each drop, the booming noise rang louder and louder, until suddenly Cleo could physically observe the ground wave as though it were made of water.
 
