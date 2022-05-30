@@ -1,8 +1,8 @@
 ---
 id: 0arq6td8yh1etl2v21safjh
-title: Chapter 190 - Reject Reality, Substitute Your Own
+title: Chapter 190 - I Reject Your Reality and Substitute My Own
 desc: ''
-updated: 1653936650351
+updated: 1653936817921
 created: 1653807824429
 ---
 
