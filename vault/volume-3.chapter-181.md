@@ -2,7 +2,7 @@
 id: intj2ry8wdnvffwxytsgibq
 title: Chapter 181 - Heart-to-Heart
 desc: ''
-updated: 1652383953419
+updated: 1654026184153
 created: 1651742519768
 ---
 
@@ -12,9 +12,9 @@ He alternated his gaze between the table and Al's face. His conversation partner
 
 'Give me a reaction,' Marek pleaded. 'Anything at all!'
 
-At that instant, Al suddenly raised his palm, brought it over his face, and started to shudder as a mirthful, muffled laughter resonated from him.
+At that instant, Al suddenly raised his palm, brought it over his face, and started to shudder as a burst of mirthful, muffled laughter resonated from him.
 
-'That's...' Disappointing. Marek's heart ached once again. He wanted to dig a hundred feet deep hole and bury himself in it. He wanted the world to end right now, so that the past conversation would cease to exist. He wanted anything, absolutely anything, to save him from the humiliation he was feeling right now.
+'That's...' Disappointing. Marek's heart ached once again. He wanted to dig a hundred feet-deep hole and bury himself in it. He wanted the world to end right now so that the past conversation would cease to exist. He wanted anything, absolutely anything, to save him from the humiliation he was feeling right now.
 
 "I really can be stupid sometimes," Al commented. "The answer was right in front of me - it was literally squashed up against my nose - but I was too absorbed in my paranoia to grasp it."
 
@@ -34,9 +34,9 @@ Marek smiled bitterly, before sighing in relief. "Thank you for that, Al. I real
 
 "Why should you feel so apprehensive?" Al challenged. "Is it about the stigma?"
 
-"Obviously! Like I said before, when I was still a budding mage, I grew attracted to a fellow Sect member. He was a kind-hearted lad who wouldn't think twice before helping others. Although he didn't make much headway in his cultivation, he was always willing to guide and trade pointers," Marek started with a nostalgic glaze in his eyes.
+"Obviously! Like I said before when I was still a budding mage, I grew attracted to a fellow Sect member. He was a kind-hearted lad who wouldn't think twice before helping others. Although he didn't make much headway in his cultivation, he was always willing to guide and trade pointers," Marek started with a nostalgic glaze in his eyes.
 
-"Over time, my affection for him kept growing and growing. It reached a point where I couldn't contain it within myself. And so, I took a leap of fate and confessed. I thought he was... like me. The nature of our interactions made it appear as such. But he-" Marek flinched as he recollected the moment. "He put me out to dry. Let's say his rejection wasn't as dignified as yours. Ultimately, he let it slip and then everybody in the Sect knew - of the deviant named Marek Glista. I realised then that this world had no place for people such as myself. Thankfully I wasn't weakhearted. I could bear with the jeers and deriding comments. I worked my ass that day forth. And now, none who looked down on my remain alive. They either succumbed to the tests of time, or to my blades."
+"Over time, my affection for him kept growing and growing. It reached a point where I couldn't contain it within myself. And so, I took a leap of fate and confessed. I thought he was... like me. The nature of our interactions made it appear as such. But he-" Marek flinched as he recollected the moment. "He put me out to dry. Let's say his rejection wasn't as dignified as yours. Ultimately, he let it slip and then everybody in the Sect knew - of the deviant named Marek Glista. I realised then that this world had no place for people such as myself. Thankfully I wasn't weakhearted. I could bear the jeers and deriding comments. I worked my ass that day forth. And now, none who looked down on me remain alive. They either succumbed to the tests of time or my blades."
 
 "What of that boy who betrayed your trust?"
 
@@ -44,19 +44,19 @@ Marek smiled bitterly, before sighing in relief. "Thank you for that, Al. I real
 
 Marek paused once he finished the anecdote and said, "But I am surprised that you aren't offended or repulsed by my expression of affection towards you."
 
-"Why should I be offended, more importantly, why should you feel anxious about it either ways?" Al retorted. "You are in a position where you dictate the rules! To hell with what other people think, they're all hypocrites."
+"Why should I be offended, more importantly, why should you feel anxious about it either way?" Al retorted. "You are in a position where you dictate the rules! To hell with what other people think, they're all hypocrites."
 
 "Are you trying to make me feel better?" Marek smiled.
 
-"You think your love for another man is unnatural and deviant? What of all the people who wouldn't think twice before laying with other species? Is that not unnatural?" Al reasoned. "Your affection is pure. You didn't force yourself on anyone nor did you pressure anyone, you were considerate the entire time."
+"You think your love for another man is unnatural and abnormal? What of all the people who wouldn't think twice before laying with other species? Is that not unnatural?" Al reasoned. "Your affection is pure. You didn't force yourself on anyone nor did you pressure anyone, you were considerate the entire time."
 
 "The way you rejected me earlier, I get the feeling that you've been in a relationship with another man before?" Marek probed.
 
-Al nodded, "Of course! You should know that my cultivation urges me to try and learn new things. I have experimented with a man before. It was pleasant, I won't deny it."
+Al nodded, "Of course! You should know that my cultivation urges me to try and learn new things. I have experimented with a man. It was pleasant, I won't deny it."
 
 "I am envious of the man who you shared that experience with," Marek said with a wry and dismayed expression.
 
-"Don't be so dramatic. It was just physical," Al shot back. "I know you're looking for something more substantial."
+"Don't be so dramatic. It was just physical," Al shot back. "I know that you're looking for something more substantial."
 
 The ambience in the room turned brighter at this point as both sides lowered their guards against each other.
 
@@ -66,11 +66,11 @@ The ambience in the room turned brighter at this point as both sides lowered the
 
 "Yes. The kid's actually the man's Disciple," Al confessed.
 
-"Really? This is a first time for me, seeing a Master and Disciple both in the same cultivation realm. Did the guy con the kid into a discpleship?" Marek asked incredulously.
+"Really? This is the first time for me - seeing a Master and Disciple both in the same cultivation realm. Did the guy con the kid into entering his discipleship?" Marek asked incredulously.
 
 "No. But their circumstances are... special. I won't expound on it as it isn't my place to do so," Al clarified. "But I urge you to observe them more carefully, and not dismiss them so readily. Who knows, maybe you'll see something interesting?"
 
-"I still don't get why the need to peruse the Sect's archives," Marek pointed out.
+"I still don't get why they need to peruse the Sect's archives," Marek pointed out.
 
 "It didn't HAVE to be the Cloudstrider Sect. We would have made do with any other, but this was convenient given the favour. And it worked to our benefit due to the Sect's rich history," Al answered.
 
@@ -78,7 +78,7 @@ The ambience in the room turned brighter at this point as both sides lowered the
 
 "Astute deduction," Al lauded.
 
-"It's going to be difficult," Marek responded while shaking his head. "The scene is quite saturated. Just last year, the Solar Sect Alliance welcomed 250 new registered Sects of which only two remain functional, that two as subsidiaries of the Poison Rain Sect down south."
+"It's going to be difficult," Marek responded while shaking his head. "The scene is quite saturated. Just last year, the Solar Sect Alliance welcomed 250 new registered Sects of which only two remain functional, that too as subsidiaries of the Poison Rain Sect down south."
 
 "I don't think that's going to be an issue," Al assured.
 
@@ -86,11 +86,11 @@ The ambience in the room turned brighter at this point as both sides lowered the
 
 "I have no comments," Al responded with a blank expression.
 
-"Your silence speaks volumes," Marek chuckled excitedly. "So who is it? Anyone we know? Can't be, all of our acquaintances are deeply affiliated with one group or another. Must be someone from outside! Is it a foreigner?"
+"Your silence speaks volumes," Marek chuckled excitedly. "So who is it? Anyone, we know? Can't be, all of our acquaintances are deeply affiliated with one group or another. Must be someone from outside! Is it a foreigner?"
 
 "I was promised an NQA, what's with all these questions?" Al complained with an exaggeratedly scandalized tone.
 
-"*tsk* You're no fun! That's okay, I'll have to cross path with them anyways. I'll be the one representing the Cloudstrider Sect in the next Alliance gathering. The Sect Leader is growing increasingly worried," Marek grumbled while scratching his forehead. "It ain't my fault that he can't birth a capable heir! Honestly, the years of stagnancy has caused malicious rot has set in."
+"*tsk* You're no fun! That's okay, I'll have to cross paths with them anyways. I'll be the one representing the Cloudstrider Sect in the next Alliance gathering. The Sect Leader is growing increasingly worried," Marek grumbled while scratching his forehead. "It ain't my fault that he can't birth a capable heir! Honestly, the years of stagnancy have caused malicious rot to set in."
 
 "Can't you do something about it?" Al suggested.
 
@@ -102,17 +102,19 @@ The ambience in the room turned brighter at this point as both sides lowered the
 
 "I don't understand why you decided to tie yourself with a Sect. Life is so much freer when studying in an Academy," Al lamented on Marek's behalf.
 
-"That's because your family was loaded, isn't that right?" Marek sneered. "I wasn't so lucky. And my 'talent' towards cultivation required a lot of arduous unearthing to manifest. It wouldn't have been tractable if I joined an Academy. See, each side has its own advantages and disadvantages, Al."
+"That's because your family was loaded, isn't that right?" Marek sneered. "I wasn't so lucky. And my 'talent' towards cultivation required a lot of arduous unearthing to manifest. It wouldn't have been tractable if I joined an Academy. See, each side has its advantages and disadvantages, Al."
 
-At that moment, Marek and Al both cocked their heads towards the entrance to the room with a frown on their faces. Within seconds of them turning, a series of knocks resounded form the door.
+At that moment, Marek and Al both cocked their heads toward the entrance to the room with a frown on their faces. Within seconds of them turning, a series of knocks resounded from the door.
 
-"Elder Glista! Elder Glista!" A man's concerned voice called out as a blonde haired, bearded figure burst in.
+"Elder Glista! Elder Glista!" A man's concerned voice called out as a blonde-haired, bearded figure burst in.
 
-"I'm entertaining a guest, Korr," Marek warned sternly, his mana pushing forcefully against the hyperventilating man. This was enough to let Marek know that an act was underway. Why else would a Core Formation realm expert breath so heavily? "You better have a good reason for this interruption if you wish to leave with both your eyes intact. And know this, after I remove your eyes, if I ever see them healed and functioning I will gauge them out again right then and there."
+"I'm entertaining a guest, Korr," Marek warned sternly, his mana pushing forcefully against the hyperventilating man. This was enough to let Marek know that an act was underway - why else would a Core Formation realm expert breathe so heavily? 
 
-Without flinching, or hesitating, the man named Korr spoke up, "Young Mistress Loras and Elder Glista's guest are duelling! A verbal spat devolved out of control to a physical confrontation which then turned into a life-or-death duel, which unintentionally triggered the Life-and-Death Formation. This slave implores the Elder to intervene!"
+"You better have a good reason for this interruption if you wish to leave with both your eyes intact. And know this, after I remove your eyes if I ever see them healed and functioning I will gauge them out again right then and there."
 
-"Those are lies," Al denied flatly. "Markus would never willing participate in any such duels."
+Without flinching, or hesitating, the man named Korr spoke up, "Young Mistress Loras and Elder Glista's guest are duelling! A verbal spat devolved out of control into a physical confrontation which then turned into a life-or-death duel, which unintentionally triggered the Life-and-Death Formation. This slave implores the Elder to intervene!"
+
+"Those are lies," Al denied flatly. "Markus would never willingly participate in any such duels."
 
 "And yet, the formation is active," Marek muttered with a concerned frown as his senses detected the formation in use within the Outer Division. "The girl has grown impudent. Her father's idiotic doting has spoiled her to her core."
 

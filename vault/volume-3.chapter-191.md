@@ -2,7 +2,7 @@
 id: jsuhtk3telcufvl7lpbw8f1
 title: Chapter 191 - Losing Oneself 
 desc: ''
-updated: 1654024902258
+updated: 1654025667596
 created: 1653807827901
 ---
 
@@ -54,7 +54,7 @@ Al revealed a bitter smile and confessed, "It's difficult for me. I have many de
 
 "Is it to do with your Student?" Krish shot back, and received a sorrowful nod from Al.
 
-"Your destinies are tied together," Krish said while shaking his head thoughtfully. "It is unfortunate that I cannot untangle that web without incurring a massive debt with the universe. You see, while he is a monster of your design, you won't be the one to slay him."
+"Your destinies are tied together," Krish said while shaking his head thoughtfully. "It is unfortunate that I cannot untangle that web without incurring a massive debt with the universe. You see, while he is a monster birthed by your negligence, you won't be the one to slay him."
 
 "You're saying that the boy will face retribution, correct?!" Al uttered in agitation.
 
