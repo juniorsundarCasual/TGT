@@ -2,7 +2,7 @@
 id: jsuhtk3telcufvl7lpbw8f1
 title: Chapter 191 - Losing Oneself 
 desc: ''
-updated: 1654025667596
+updated: 1654059685102
 created: 1653807827901
 ---
 
@@ -106,7 +106,9 @@ Krish stared meaningfully at Al, until the message clicked in Al's mind. Al's mo
 
 "You don't mean-"
 
-"Erumpents are herbivorous. They don't revel in uncalled murder. But they will do it if they have to. Yet, they know how to not lose themselves to the anger. But humans aren't born with such inhibitors," Krish highlighted. "When Guy reaches the precipice - the edge of the cliff beyond which he will lose all sense of right and wrong - someone must stop him. And that someone will be you. Guy's future is in flux and I'm finding it difficult to narrow the exact sequence. Therefore, I need someone to keep an eye on him. I can only do so with limited capacity. Which leaves only you."
+"Erumpents are herbivorous. They don't revel in uncalled murder. But they will do it if they have to. Yet, they know how to not lose themselves to the anger. But humans aren't born with such inhibitors," Krish highlighted.
+
+"That is to say, erumpents behave this way for a reason. However, they know when to stop. Humans, when walking down such a destructive path, can often lack the self-control to stop. Guy exudes an aura of a centred and mature person, however there will come a time when he will lose all reason. At that moment, just like an erumpent, he will have the potential to unleash hell at a large scale," Krish added. "When Guy reaches the precipice - the edge of the cliff beyond which he will lose all sense of right and wrong - someone must stop him. And that someone will be you. Guy's future is in flux and I'm finding it difficult to narrow the exact sequence. Therefore, I need someone to keep an eye on him. I can only do so with limited capacity. Which leaves only you."
 
 "What do you need me to do?"
 
