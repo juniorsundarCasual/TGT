@@ -2,7 +2,7 @@
 id: 4alhm3o85hzg0etg8eqmp96
 title: Chapter 180 - Ulterior Motives
 desc: ''
-updated: 1653847219140
+updated: 1654275224050
 created: 1651742506112
 ---
 
@@ -16,7 +16,7 @@ Marek Glista was responsible for the Martial Peak regiment within the Cloudstrid
 
 Marek blew lightly over the surface of the hot tea in his hands before taking a small sip. Although he could very well gulp down the scalding cup, given his superior physique, tea was more to enjoy, appreciate and converse over than to satiate one's thirst. Although, the last part of that triad was missing from the present company. He was currently in his personal quarters entertaining a guest who simply refused to partake in any tête-à-tête.
 
-"Come on now, Al. Stop staring at me as if you want to eat me," Markus joked. "You're making me blush."
+"Come on now, Al. Stop staring at me as if you want to eat me," Marek joked. "You're making me blush."
 
 Al snorted back before picking up his own cup of tea, "I don't understand why someone such as yourself would collect such precious tea. You don't even know how to appreciate them."
 
@@ -40,11 +40,11 @@ Marek exhaled in defeat and leaned back into his chair casually while adorning a
 
 "Don't give me that bullshit," Al derided sarcastically. "I don't believe I am so capable as to defeat someone who has earned the alias 'Battle Maniac' in one-on-one combat."
 
-"Aren't you underestimating yourself?" Markus pointed out.
+"Aren't you underestimating yourself?" Marek pointed out.
 
 "I don't do that. The only reason I agreed to a duel back then was that you cornered me into that confrontation. No one knows me better than myself, and I knew from the beginning that I could not beat you. Your track record made that extremely clear. 'If you want to defeat Marek Glista, bring a mage a realm above or forget about winning,' that's what everyone says do you know that?"
 
-"That's highly paranoid of you," Markus chuckled. "Maybe all that studying has fried your brain."
+"That's highly paranoid of you," Marek chuckled. "Maybe all that studying has fried your brain."
 
 Al brought down his fist forcefully on the table before him, releasing a loud boom. Surprisingly the table withheld the attack, nothing placed on it even vibrated. But this wasn't of Al's concern. The moment of aggression was enough to bring Marek out of his jovial mood. He looked into Al's eyes with a cold frown and said, "Why do you even care? For argument's sake, let's say that I did let you win there. The way I see it, you had everything to gain. How did I benefit from that?"
 
@@ -74,7 +74,7 @@ Noticing Al's heated and accusatory gaze, Marek tried to keep his calm. However,
 
 "Though our combat, I found myself resonating with another. Not in my cultivation, not in my soul, but in my heart." 
 
-Markus pulled the edge of his lips into his cheeks and said. "I felt that way many times before when I was younger and still stupid. I followed it once, only to get burned and shamed in public. Since then, I cut that part of my heart and let it decay, never to resurface again. However, when fighting you, that dried up husk that remained in my heart started to bloom once more."
+Marek pulled the edge of his lips into his cheeks and said. "I felt that way many times before when I was younger and still stupid. I followed it once, only to get burned and shamed in public. Since then, I cut that part of my heart and let it decay, never to resurface again. However, when fighting you, that dried up husk that remained in my heart started to bloom once more."
 
 "Unfortunately, it came back in full force. I could not quell it. During our fight, I had this sudden urge to be selfish and let everything be damned. But I knew that it wasn't right - it wouldn't be fair for you. Yet I had to do something to quench that part of my heart."
 
