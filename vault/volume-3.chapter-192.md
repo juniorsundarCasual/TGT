@@ -2,7 +2,7 @@
 id: hx1nee4jkb2enw7rs5we1oq
 title: Chapter 192 - Crowdsourcing
 desc: ''
-updated: 1654435578630
+updated: 1654624047839
 created: 1654412165093
 ---
 
@@ -56,7 +56,7 @@ Marie clicked her tongue, "You guys are no fun. You'll understand what I mean wh
 
 #Your weakness will be your undoing! Then again, it would be better if you just died.#
 
-"Well, Teacher is just preparing everyone for the Sect, I guess," Marie reasoned. "But if you aren't comfortable being a member of the Sect, Jean, you don't have to force yourself. I kind of have to, although I am not averse to joining the Sect, since my Master chose to align himself with it. Markus here is kind of obligated to do so for the same reason. You don't necessarily have to do that. Your obligation is first with your Clan."
+"Well, Sect Leader is just preparing everyone for the Sect, I guess," Marie reasoned. "But if you aren't comfortable being a member of the Sect, Jean, you don't have to force yourself. I kind of have to, although I am not averse to joining the Sect, since my Master chose to align himself with it. Markus here is kind of obligated to do so for the same reason. You don't necessarily have to do that. Your obligation is first with your Clan."
 
 "Father said that I can join the Sect if I want to," Jean muttered. "And... I want to. But, I also don't want my magic to maim others. My mother always told me that a healer must use their magic for the good of everyone."
 
@@ -72,7 +72,7 @@ Jean nodded thoughtfully and followed the duo to the classroom.
 
 "We stopped to talk. Jean has something she would like to say," Marie answered. Guy gazed expectantly at the usually quiet girl and awaited her statement.
 
-"I-I will talk to Teacher after the lesson," Jean quickly said with a discomfited expression.
+"I-I will talk to Sect Leader after the lesson," Jean quickly said with a discomfited expression.
 
 "Okay," Guy shrugged. "Unfortunately, we won't be learning anything today. I actually have another task from you guys that needs work."
 

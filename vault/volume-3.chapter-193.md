@@ -2,7 +2,7 @@
 id: 7s7i7qlgcbd4iur6fil8llu
 title: Chapter 193
 desc: ''
-updated: 1654541302003
+updated: 1654627433845
 created: 1654412169862
 ---
 
@@ -14,7 +14,7 @@ Guy observed a complicated expression spawn across everyone's face. He could see
 
 "Let's follow this strategy," Guy declared as he clapped his hands. "We will spend ten minutes, brainstorming ideas. Each person will come up with one name, and why they chose that it. They must present their honest opinions and profess their case. After that, the quorum will debate on the name. Whether it is viable. Whether it needs to be changed. And so on. Sound reasonable?"
 
-The group hummed and proceeded with the activity. Right as they started, Marie noticed that Guy wasn't doing anything, "Aren't you participating as well, Teacher?"
+The group hummed and proceeded with the activity. Right as they started, Marie noticed that Guy wasn't doing anything, "Aren't you participating as well, Sect Leader?"
 
 "I came up with a few names earlier. I didn't like them," Guy confessed while shaking his head.
 
@@ -48,19 +48,89 @@ Guy kept time mentally, and to his surpise, the trio finished their first set of
 
 "Can you expand on that Markus?" Guy volleyed.
 
-"The name does not explore the present nature of the Sect. It professes what the Sect could be and achieve. But it does not portray what members can expect from the Sect in the present. I think we should try to include details along those lines as well."
+"The name does not explore the present nature of the Sect. It professes what the Sect could be and achieve. But it does not portray what members can expect from the Sect in the present. I think we should try to include details along those lines as well," Markus expounded.
 
-Bright Horizons Sect
+Marie flashed her tongue as a cheeky challenge and returned to her seat.
 
-Renewal Sect
+"I-I will go next," Jean said while raising her hand.
 
-Voidstar Sect
+"Along the veins of Senior Brother's reasoning, the name I came up with is 'Renewal Sect'. It alludes to how Sect Leader intends to redefine the function and purpose of a Sect, while offering members a second chance and new opportunities. It also resonated with me personally, since I was able to renew my quest towards becoming a healer and my passion towards the subject."
 
-Shifting Paradigms Sect
+"Good! Something personal, I like it," Guy commended. "What about you guys?"
 
-Bounteous Heart Sect
+"It's good," Marie nodded.
 
-True World Sect
+"Same here," Markus affirmed.
+
+"That's it?" Guy snorted. "Okay..." he shrugged seeing as no one was willing to provide additional criticisms. He figured that the two were being considerate of Jean, who struggled with public speaking in general due to her inability to gauge the audience. He was satisfied that they thought that way, but he didn't miss the slight disappointment flashing across Jean's face as she returned to her seat.
+
+'She was hoping to receive an opportunity to stand her ground,' Guy confirmed mentally.
+
+"Although I like the name, Jean," Guy said. "I feel that it lacks sufficient punch. It doesn't have the punch needed to stand out amongst other, more prominent sects. Do you understand what I mean?"
+
+Jean's eyes opened up with resolute satisfaction and she nodded thoughtfully. "Now that it's been pointed out, I can see the shortcoming. Thank you Sect Leader."
+
+"By the way, I noticed that everyone's calling me Sect Leader now?" Guy segued. "We haven't even officially established the Sect yet, isn't it a bit premature?"
+
+"We all know its an eventuality," Marie chuckled. "We're just getting used to it."
+
+"It's too long!" Guy said while shaking his head. "I don't think you can call me Teacher without getting sued by the Co-operative. So, just call me Mister Larks, or just Guy. "
+
+"Okay, Guy it is," Marie affirmed with a muffled laugh.
+
+"Marie! Master," Markus pleaded.
+
+"You can call me whatever you want, Markus. Respect isn't adhered to a name, but the person," Guy said while waving his hands. He turned to Jean and gazed at her expectantly.
+
+"I will call you Mister Larks..." the girl mumbled.
+
+"With that out of the way, let's get back to the business at hand. Markus, it's your turn now," Guy redirected.
+
+"My current frontrunner for sect names is the 'Shifting Paradigms Sect'," Markus started. "It's inspired by how we are constantly encouraged and force to question our beliefs and biases and broaden our understanding of the trivialities that prevail around us. Even the simplest of phenomena have innumerable mechanisms underlying them that at first glance are impossible to fathom. Yet as you unfurl it, layer by layer, things start to make sense."
+
+"That's a wonderful rationale, Markus," Guy congratulated.
+
+"I agree," Marie followed up. "But I think it's too complicated and wordy. Paradigms is a tough word that I don't think many people will know the meaning of. And it's a mouthful."
+
+"That is a fair point," Guy agreed. "No matter, we still have time. Let's resume the process. Marie, now it's your turn."
+
+They then continued the brainstorming session. Incrementally, the blackboard was populated with a plethora of names offered by his three students. Although, the discussion did not maintain its civility near the end, as exhaustion and irritability started to take hold over their minds. After all, it was never pleasant having your ideas denied.
+
+By the end, a still silence took hold of the class. No one took the initiative to go up to the baord and jot down another name. Either they were out of ideas, or just didn't have the motivation to do so.
+
+Guy looked around and sighed upon seeing the morose faces.
+
+'I guess I'll have to go with one of my own,' he concluded begrudgingly. As he was about to erase the names from the board, Jean shot up from her seat.
+
+Her face flashed a rare sparkle, and she gulped excitedly.
+
+"I... I have another one!" She exclaimed uncharacteristically.
+
+She walked up to the front and started explaining.
+
+"I got inspired by Senior Brother's very first idea," she said while pointing at the crossed out 'Shifting Paradigms Sect' on the blackboard. "Senior Brother defined it as the result of peeling away the layers of obfuscations to get to the truth. To put it another way, in here we learn how to look beyond the falsehoods presented to us and get to the fundamental truths. A world without mana, that is the truth."
+
+With an extremely agitated expression, she declared, "'True World Sect'! That is the name. It defines what we seek to do here. It encapsulates the vision, and the mission succinctly. And, it is short and catchy, like Mister Larks pointed out."
+
+The still silence that reigned in the room morphed to one filled with excitement. While the students contemplated over this idea, something moved within Guy's soul.
+
+All of a sudden, he started to feel animated as the name echoed within his mind. A part of him was resonating with it. The minute tear within the RoK widened slightly, and an ominous aura rippled out before dissipating.
+
+"I like it!" Guy asserted. "Opinions?"
+
+"It's perfect," Marie agreed, and so did Markus.
+
+"So that does it then. From here on out, our Sect with be known as the True World Sect."
+
+With a booming voice, Guy added with fervour, "Our vision is to educate the uninformed masses of the truth that our world is built upon. And our mission is to cultivate free thinkers that can challenge the established facts that lack proper scientific founding and pursue the truth no matter the co-"
+
+Guy coughed as he finally caught himself. He shook his head to clear his rampant and somewhat anarchic thoughts and alternated his gaze between his students who sported a confused expression.
+
+"I, uh..." he muttered. "I'm feeling a bit woozy. I stayed up all night brainstorming. I ought to rest," he said with a strained smile.
+
+"Anyways, class dismissed."
+
+'That was weird. I lost myself there for a second. I... I think I need to clear my head a little bit.'
 
 ____
 
