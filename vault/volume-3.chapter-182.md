@@ -2,7 +2,7 @@
 id: cpv9q4newgverol3d8fchw4
 title: Chapter 182 - Outplayed, Outdone, Outclassed
 desc: ''
-updated: 1654233826314
+updated: 1654780424326
 created: 1651988839743
 ---
 
@@ -56,7 +56,7 @@ Marek shivered as he recollected that unpleasant confrontation. He hated to admi
 
 "H-How?" Marek's jaw dropped in shock. "Is he- No, I mean- Abyssal Wyrm bloodline?"
 
-'No time to explain. Just know that what he is about to cast right now has the potential to be equally devastating as the |Eye of the Abyss| albeit at a much, much smaller scale. But the problem is that his attack with be pure, with no flashiness. Just unadulterated and voracious annihilation!'
+'No time to explain. Just know that what he is about to cast right now has the potential to be equally devastating as the |Eye of the Abyss| albeit at a much, much smaller scale. But the problem is that his attack will be pure, with no flashiness. Just unadulterated and voracious annihilation!'
 
 Marek jolted, and without wasting a second longer he got to work dissipating the formation. With a wave of his hand, the Life-and-Death Formation was deactivated. With his position as an Elder, he had the authority to do so. However, the Irrationality Formation was not within his control. It could only be controlled by those expressly allowed by the Sect Leader. In this case, the girl who was in the process of ceasing to exist had the key. However, she was barely in any condition to do so.
 
