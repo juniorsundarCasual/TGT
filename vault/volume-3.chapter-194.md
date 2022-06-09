@@ -1,8 +1,8 @@
 ---
 id: l9vnstr3u6eacbswha9d5rq
-title: Chapter 194
+title: Chapter 194 - Business Proposal.
 desc: ''
-updated: 1654715622756
+updated: 1654796120552
 created: 1654412176258
 ---
 
@@ -44,8 +44,35 @@ Guy smiled and reached into his bag, retrieving a half-inch thick, A4 sized, bou
 
 "The business proposal," Guy explained.
 
+Karmin glossed the cover page, "Verum Trading Company? What's Verum?"
 
+"It means 'truth' in an extinct language," Guy answered. "If you peruse the Executive Summary on the subsequent page, you will see that my sect is called 'True World Sect'. Hence, to establish a relationship between the company and the Sect, I decided to name the company as such."
 
+Karmin hummed and proceeded to read through the proposal. Contrary to his expectations, going as far as to exceed beyond it, the report was thorough. Extremely so. It started off with a description of the company's purpose.
+
+"It says here that, 'The Verum Trading Company seeks to fulfil gaps in the market that the public isn't fully aware of.' This sounds a little vague, can you expand on it?"
+
+"Surely. There is a saying where I come from that 'Necessity is the mother of creation.' People seek out solutions and invent when a vital need is found unfulfilled. People built carts when the need to travel over long distances while transporting heavy goods was found unfulfilled. People built roads when the need for said travel grew perilous and unstable," Guy started. He then shifted his tone and professed a few counterpoints, "But what happens when a large portion of these needs get fulfilled? This is where we encroach upon the territory of the 'wants'. This is a slippery slope, since satisfying wants is not crucial, but merely enjoyable. People needed clothing to protect themselves from the environment, but they wanted fashion to express their individuality and in some cases flaunt their wealth. But that is beyond the scope of our discussion."
+
+"Ironically, its is by satisfying wants is how business' thrive. This is also what separates the lucrative businesses from the ones that just get by. Through my research over the past few weeks in the commercial districts of Radiant City and Wayward Town, I found out that most, if not all businesses that cater to consumer 'wants' do so exclusively with a market segment that has an excess of disposable income and savings. I would like to draw your attention to-" Guy leaned forward and turned the pages of the report. "-here. In this page I have described my observation comparing a Carpenter's Shop in Wayward Town against a Furniture Emporium here in Radiant City. In the Shop, 88% of the clients were of a segment from the low-income bracket. I've defined my criteria for such labels in the reference page at the front. 8% were from businesses looking for cheap and disposable furniture while the rest were simply miscellaneous. However, the Emporium exclusively catered to wealthy clientele. And by wealthy, I mean in both money and power. In fact, I saw they kick out a man who had the finances to purchase their products but lacked sufficient fame."
+
+"How did you get this information?" Karmin asked incredulously.
+
+"I stalked outside the stores and took surveys. The people visiting the Shop were more forefront with their answers. For the Emporium, I had to rely solely on my observations, so they may be skewed or biased - just a fair warning," Guy clarified. "But I want to point out that the Emporium made a heck of a lot more out of their sparse sales as opposed to the Carpenter with his apprentices who outputted more units per order. I also noticed that the variety of products sold by the Carpented were sorely lacking, while the Emporium had a myriad of products with varying designs."
+
+"Well the Carpenter's clients don't really seek such ornamentations," Karmin pointed out.
+
+"Exactly!" Guy said while snapping his fingers. "Why is that?"
+
+"Why is what?"
+
+"Why is it that the Carpenter's clients don't seek these ornamentations? Why is everyone - by that I am referring to the large segment of the market that fall under the middle to low income brackets - suddenly just content with mediocrity and living a mundane life?" Guy professed animatedly. 
+
+Guy decided to pull a few tricks he learned from his sister from his past life, and blasted Karmin with a declaration that shook the man to his core.
+
+"Everyone wants," he said with a weighty voice that started to crescendo as he spoke on. "Everyone wants, but most lack the frame of mind to pursue it. People believe that certain excesses are beyond their station - that they are solely for the rich and powerful - and that they don't deserve it. But the Verum Trading Company aims to disprove this mentality. A farmer can enjoy the luxury of owning their very own chaise longue without having to feel heartache over shelling out an inhuman amount of currency. And similarly, a Carpenter need not fret over being unable to fulfil that demand should the farmer approach them."
+
+"Every need or want can be fulfilled by ingenuity and creativity. This is Verum Trading Company's motto. We seek to output products that address the overlooked gaps in the market that are wells of wealth waiting to be tapped."
 
 ____
 
