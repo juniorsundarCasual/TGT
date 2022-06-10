@@ -2,7 +2,7 @@
 id: 0mc7ullxkzeov70n324g0pq
 title: Chapter 183 - (Interlude) Leaving the Cloudstrider Sect
 desc: ''
-updated: 1654493339507
+updated: 1654886943953
 created: 1652597774156
 ---
 
@@ -66,7 +66,7 @@ Since he was flying within the radius of Guy's mana sense, the latter responded,
 
 Markus's face bloomed with a childish smile as he started to recollect the duel from memory. His animated tone and evocative recounting reflected the sheer joy the boy was feeling. Because although, on paper, the duel was declared a loss. Markus saw, first-hand, just how much stronger he had become. Guy was also pleasantly surprised by Markus' report. Although he was averse to combat, he recognised its necessity given the path he was planning to take. To that end, one thing that worried him the most was his and his students' abilities to contend against opponents of similar strength. Markus' victory calmed his tumultuous heart.
 
-'Although I don't want to discourage you,' Al spoke up as Markus finished his piece. 'Your overwhelming victory today was primarily because Cleo wasn't knowledgeable about your combat style, and she was also overly arrogant about his chances of victory. When facing a calmer and focused opponent, your chances of victory may be slimmer than you think.'
+'Although I don't want to discourage you,' Al spoke up as Markus finished his piece. 'Your overwhelming victory today was primarily because Cleo wasn't knowledgeable about your combat style, and she was also overly arrogant when entering into the fight. When facing a calmer and focused opponent, your chances of victory may be slimmer than you think.'
 
 'I am aware of that,' Markus answered sincerely. 'I lacked proper combat experience while my opponent did not. However, I held the initiative throughout the duel. This could only mean that my opponent entered the duel with a lax state of mind.'
 
@@ -92,7 +92,7 @@ Ultimately, she did win. But only through a technicality, and that irked her. Sh
 
 Cleo sat up in her bed and was immediately attacked by a vile stench. This was the second thing that failed to return to normal after the fight.
 
-"Unfortunately, the Alchemy Pavilion was draining their year's stockpile of alchemical waste, and it was disposed of through the drainage systems. The Pavilion Head stopped over and inspected the Young Miss' condition and said that regretfully, the unpleasant odour will persist for at least another weak," Korr's flat voice answered.
+"Unfortunately, the Alchemy Pavilion was draining their year's stockpile of alchemical waste, and it was disposed of through the drainage systems. The Pavilion Head stopped over and inspected the Young Miss' condition and said that regretfully, the unpleasant odour will persist for at least another week," Korr's flat voice answered.
 
 Cleo turned around and noticed the emotionless man standing by her bed.
 
@@ -108,7 +108,7 @@ Cleo turned around and noticed the emotionless man standing by her bed.
 
 "Wait!" Cleo called out frantically as she got to her feet. She didn't bother to put on her footwear and grasped at the man. "I made a small mistake. Just give me a second chance."
 
-"The Sect Leader said to convey to the Young Miss that, 'If you make a risky play, do so when you know you will win. Because of your idiocy, I now have to bend even lower in front of Marek.'" 
+"The Sect Leader said to convey to the Young Miss that, 'If you make a risky play, do so when you know you will win. Because of your idiocy, I now have to bend even lower in front of Marek.'" 
 
 In fact, through association, the Sect Leader had also lost a lot of face due to his daughter's humiliating victory. He had planned to retaliate by scheming to undermine Teacher Jeeves and that boy Markus. However, right after the incident, Elder Glista came with full force and rallied support asking to condemn the Sect Leader for offending guests visiting the Sect. They then went on to challenge the Sect Leader's capacity in leading a Sect if he couldn't control his own flesh and blood. Elder Glista also threw out a plethora of accumulated evidence of the Sect Leader's scruples from the past. Since Elder Glista was one of the pillars of the Sect, these allegations couldn't be swept under the rug and had to be brought to debate and discussion. The Sect Leader had little time to counter the allegations since it literally blindsided him. He would have been the one to dole out Cleo's punishment today if not for the bind he was currently in, in holding the other elders at bay.
 
