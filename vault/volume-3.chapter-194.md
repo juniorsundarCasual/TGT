@@ -1,8 +1,8 @@
 ---
 id: l9vnstr3u6eacbswha9d5rq
-title: Chapter 194 - Business Proposal.
+title: Chapter 194 - Business Proposal
 desc: ''
-updated: 1654796120552
+updated: 1655022012957
 created: 1654412176258
 ---
 
