@@ -2,7 +2,7 @@
 id: furnaf02bjstadyokbk7xv7
 title: Chapter 196
 desc: ''
-updated: 1655054623288
+updated: 1655106082469
 created: 1655022488870
 ---
 
@@ -26,7 +26,7 @@ Karmin nodded subconsciously, but his mind was already dwelling into the future 
 
 Guy produced another stack of papers, much thicker than the proposal, and plopped them in front of Karmin. As he read them, Karmin's expression turned complicated, not because he had issue with the contents, but rather the content was extremely thorough and tackled every question he could think of.
 
-"The Burning Forge will be responsible for manufacturing and distribution. The Burning Forge will also act as the point of sales for the first ten years following the validation of this contract. Clients may place orders from any Burning Forge outlet. Verum Trading Company will be responsible for marketing, sales, design and development, and the products will be owned, on paper, by the company."
+"The Burning Forge will be the sole for manufacturer for Verum Trading Company's products for the duration of ten years following the validation of this contract. However, the patents and rights for the products will be fully owned by Verum Trading Company. The Burning Forge may not sell or distribute products owned by Verum Trading Company to external parties."
 
 "..."
 
@@ -34,11 +34,15 @@ Guy produced another stack of papers, much thicker than the proposal, and ploppe
 
 "..."
 
-"Every new product developed by Verum Trading Company that is to be manufactured and distributed through The Burning Forge will be subject to another contract that will determine the cost of goods, resources, and so on. For the first ten years, The Burning Forge will be the sole manufacturer and distributor for Verum Trading Company, following which another contract negotiation will take place."
+"Every new product developed by Verum Trading Company that is to be manufactured through The Burning Forge will be subject to another contract that will determine the cost of goods, resources, and so on. These contracts will be active for the duration of the manufacturing rights aforementioned, and will be subject to renegotiation once the manufacturing rights held by The Burning Forge are lapsed."
 
 "..."
 
-"The stake for Verum will be held by Karmin Zola till their termination. It is non-transferable. If Karmin Zola wishes to transfer the stake to a third-party, the recipient must be able to purchase the stake according to its price, which corresponds to the percentage invested given the valuation of the company at that point in time."
+"The stake for Verum will be held by Karmin Zola, Owner of The Burning Forge, till their termination. It is non-transferable. If Karmin Zola wishes to transfer theie stake to a third-party, the recipient must be able to purchase the stake according to its price, which corresponds to the percentage invested given the valuation of the company at that point in time."
+
+"..."
+
+"Karmin Zola, as a stakeholder, will be awarded an annual dividend which corresponds to a percentage of the profits accumulated by the company. The dividend amount is dependent on the amount of shares held by Karmin Zola."
 
 "..."
 

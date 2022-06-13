@@ -2,7 +2,7 @@
 id: l9vnstr3u6eacbswha9d5rq
 title: Chapter 194 - Business Proposal
 desc: ''
-updated: 1655022012957
+updated: 1655105229641
 created: 1654412176258
 ---
 
@@ -28,9 +28,9 @@ Now that Guy had a name for his Sect as well as a location where it could be est
 
 An alternative that did not involve underage kids putting their lives on the line was through conducting business. This could involve providing a specialised service or selling unique products.
 
-To that end, Guy found through research that there were exceedingly complex steps involved in starting a business affiliated with a Sect. Especially within the Solar Empire, where the market was heavily controlled, there were a plethora of requirements that needed to be fulfilled. First, he would have to start a company under the Sect's name which could only sell within one specific town or city. Once the company achieved a market dependent revenue quota, they would have authorisation to start trade and sell in other towns and cities. Of course, there were ways to circumvent through back channels and connections, both of which Guy lacked.
+To that end, Guy found through research that there were exceedingly complex steps involved in starting a business affiliated with a Sect. Especially within the Solar Empire, where the market was heavily controlled, there were a plethora of requirements that needed to be fulfilled. The most stringent of said requirements was that any company spawned off a Sect could not have physical stores within any commercial district - purchases must be made directly with the Sect. To elaborate, if Guy created a company that provided a good or service, customers could only purchase that good or service by contacting the Sect's sales representative. They could not go to a storefront that acted as the point-of-sale. This was a massive disadvantage because it automatically removed the primary mode of promotion in this world. Essentially, it turns Sects into e-commerce businesses, but without the internet.
 
-The more feasible option would be to partner with an already established business and piggy-back of their sales channels. Thus Guy decided to bank on his connection with Karmin.
+Apart from this, Guy was faced with other roadblocks common to new businesses, most of which could be solved by building lucrative connections. This could be accomplished by bringing in investors. Investors hold stake in a business and have an active motivation to assure its success. This was Guy's purpose in approaching Karmin.
 
 "I see," Karmin hummed once Guy finished speaking. "So I am guessing that your request has something to do with your Sect's possible revenue stream?"
 
