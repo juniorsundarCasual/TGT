@@ -1,8 +1,8 @@
 ---
 id: 16gjbxqhio6k0bs7ewc639s
-title: Chapter 195
+title: Chapter 195 - Blast from the Past (from Another World)
 desc: ''
-updated: 1655040976848
+updated: 1655142532916
 created: 1655022472633
 ---
 
@@ -75,9 +75,6 @@ Karmin nodded enthusiastically as his eyes widened into saucers. "You no longer 
 "Through my research, I found that the issue does not lie in the cost of the materials but rather the time and expertise. Most of the parts needed to materialise this require some intricate tool work for which we will need some expert blacksmiths and woodworkers, which I am sure you have connections with. I have developed blueprints for these parts, which I will share in due time. But before that, I will need to hear your opinion and decision on the proposal," Guy concluded.
 
 "So, what do you say?"
-
-
-
 
 ____
 
