@@ -2,13 +2,13 @@
 id: ay6g0r4xotmgc9cjrbp48za
 title: Chapter 188 - Combat Training
 desc: ''
-updated: 1653418776222
+updated: 1655442592536
 created: 1653214049694
 ---
 
-Breakfast was silent as the group was incomplete. Grace hadn't awoken yet, Guy figured that she was probably exhausted after unveiling her darkest secrets. Revisiting trauma was never pleasant, and often times physically draining.
+Breakfast was silent as the group was incomplete. Grace hadn't awoken yet, Guy figured that she was probably exhausted after unveiling her darkest secrets. Revisiting trauma was never pleasant, and oftentimes physically draining.
 
-A dismal ambience lingered around the dining table, even the usually upbeat Dora kept mum the entire time. She didn't even pester Kano to elaborate on his trip to the city. Markus ate his food mechanically, same as with Marie. Jean wore an impassive expression, yet her body language screamed of discomfort. She could read the room, but had no idea why such a dreary atmosphere pervaded the room.
+A dismal ambience lingered around the dining table, even the usually upbeat Dora kept mum the entire time. She didn't even pester Kano to elaborate on his trip to the city. Markus ate his food mechanically, the same as Marie. Jean wore her usual impassive expression, yet her body language screamed discomfort. She could read the room and had no idea why such a dreary atmosphere pervaded it.
 
 Guy finished his food and placed his wooden spoon into his bowl.
 
@@ -16,13 +16,13 @@ Guy finished his food and placed his wooden spoon into his bowl.
 
 The eyes of his two students darted his way in disbelief. His disciple was also thoroughly floored by Guy's sudden announcement.
 
-"Master? I'm not sure I understand..."
+"Master? I'm not sure that I understand..."
 
-"We've been neglecting a key functionality of magic during out lessons. After our trip to the Cloudstrider Sect, it became clear to me that our approach was incorrect. Danger lurks behind every corner, we must be prepared to contend against such threats that target our lives and that of our loved ones. Although you succeeded this time, we also established that it was in large part due to your opponent's complacency. If there is one thing I know for a fact, is that there will never be second chances in life-"
+"We've been neglecting a key functionality of magic during our lessons. After our trip to the Cloudstrider Sect, it became clear to me that our approach was incorrect. Danger lurks behind every corner, we must be prepared to contend against such threats that target our lives and that of our loved ones. Although you succeeded this time, we also established that it was in large part due to your opponent's complacency. If there is one thing I know for a fact, is that there will never be second chances in life-"
 
-'Lies!' Guy thought to himself. He was here right now in his second chance. 'But they don't know that. And maybe my second chance was also a first time. What guarantee is there that I or any of my students will get a second iteration?'
+'Lies!' Guy thought to himself. He was here right now in his second chance. 'But they don't know that. And maybe my second chance was also the first time. What guarantee is there that I or any of my students will get a second iteration?'
 
-"Anyways, self-defence is a must have skill for everyone. We will add combat to our usual physical training regiment."
+"Anyways, self-defence is a must-have skill for everyone. We will add combat to our usual physical training regiment."
 
 "I understand, Master," Markus affirmed.
 
@@ -32,15 +32,15 @@ The eyes of his two students darted his way in disbelief. His disciple was also 
 
 "Are you sure Big Sis?" Markus inquired.
 
-"A hundred percent! This handicap will push my limits. I am sure of it!"
+"A hundred per cent! This handicap will push my limits. I am sure of it!"
 
 ____
 
-A flurry of |Fireball|, |Ice Lance|, |Water Jet|, and a plethora of other projectiles flew back and forth between two casters as a third individual observed unwaveringly. Almost akin to a turn based game, the duo attacked and defended alternatingly. Each pushing their spellcasting and ingenuity to the limit to produce solutions on the fly. In one instance, a |Fireball| would be negated by another |Fireball|. In another, the |Fireball| would get pulled into |Wind Vortex| morphing it into a |Flame Spin| that shockwaved outwards.
+A flurry of |Fireball|, |Ice Lance|, |Water Jet| and a plethora of other projectiles flew back and forth between two casters as a third individual observed unwaveringly. Almost akin to a turn-based game, the duo attacked and defended alternatingly. Each pushing their spellcasting and ingenuity to the limit to produce solutions on the fly. In one instance, a |Fireball| would be negated by another |Fireball|. In another, the |Fireball| would get pulled into |Wind Vortex| morphing it into a |Flame Spin| that spread outward with a shockwave.
 
-Guy and Markus, along with Jean, were in the usual clearning where they tested and practised spellcasting. Their previous location had undergone a thorough landscaping operation and thus they had to manually clear a section of the forest to create a new one. Today could be considered an inaugration of this new field, and it was already starting to look worn out due to the heavy pummelling from the rogue spells.
+Guy and Markus, along with Jean, were in the usual clearing where they tested and practised spellcasting. Their previous location had undergone a thorough landscaping operation and thus they had to manually clear a section of the forest to create a new one. Today could be considered an inauguration of this new field, and it was already starting to look worn out due to the heavy pummelling from the rogue spells.
 
-Both Markus and Guy had their wands out. Guy had built one for himself a while back when he made one for Jean and Marie. He'd mostly been using it for spells of convenience, either to clean the roof tiles of the orphanage, or the stairs, maybe sweeping fallen leaves and dust. This spar was officially the first time the wand participated in actual combat. Needless to say, Guy was plenty impressed with his own creation. He had tried the wand out to cast a few spells during its conception, but he hadn't used it in a high-stress situation. After actually doing so, he realised just how cheat-like it was. Certain spells which took a heavy toll on the mana pool were turned into trivial cantrips thanks to the wand. This was also in large part due to Markus' innovative Compartmentalisation algorithm that further enhanced Guy's Modular Spellmaking.
+Both Markus and Guy had their wands out. Guy had built one for himself a while back when he made one for Jean and Marie. He'd mostly been using it for spells of convenience, either to clean the roof tiles of the orphanage or the stairs, maybe sweeping fallen leaves and dust. This spar was officially the first time the wand participated in actual combat. Needless to say, Guy was plenty impressed with his creation. He had tried the wand out to cast a few combat spells during its conception, but he hadn't used it in a high-stress situation. After actually doing so, he realised just how cheat-like it was. Certain spells which took a heavy toll on the mana pool were turned into trivial cantrips thanks to the wand. This was also in large part due to Markus' innovative Compartmentalisation algorithm that further enhanced Guy's Modular Spellmaking.
 
 "If I were to describe it, I would say that our combat style is like a brute force attack, isn't it?" Guy commented as he redirected a burst of water whipping from his blind side. "We are leveraging our efficiency in spellcasting to overpower our opponents. There doesn't seem to be a technique to this."
 
@@ -50,9 +50,9 @@ Both Markus and Guy had their wands out. Guy had built one for himself a while b
 
 "Master is quite unrelenting," Markus chimed in as sweat started to form across his forehead. "The spells are-"
 
-A compressed vorticing ball of fiery gas propelled itself at mach speeds towards Markus. Markus barely shifted his hips to the left and the ball flew past, missing him by a millimetre and collided against a tree on the other end of the field. As the ball hit the trunk, it expanded and exploded magnificiently, taking with it a huge bite of the trunk. The tree fell after a second, as it finally realised that its body was suddenly missing.
+A compressed vorticing ball of fiery gas propelled itself at Mach speeds towards Markus. Markus barely shifted his hips to the left and the ball flew past, missing him by a millimetre and collided against a tree on the other end of the field. As the ball hit the trunk, it expanded and exploded magnificently, taking with it a huge bite of the trunk. The tree fell after a second, as it finally realised that its body was suddenly missing.
 
-"How did you do that?" Guy asked. He could see the precision in Markus' movement. It was calculate- No! It was like he already knew the ball would follow that trajectory before it even left Guy's wand.
+"How did you do that?" Guy asked. He could see the precision in Markus' movement. It was calculated- No! It was like he already knew the ball would follow that trajectory before it even left Guy's wand.
 
 "I used the new sensory data that my mana sense can observe to predict the path," Markus answered truthfully.
 
@@ -62,9 +62,9 @@ A compressed vorticing ball of fiery gas propelled itself at mach speeds towards
 
 "WHAT?!" Guy shrieked in surprise. "How?"
 
-Markus smiled proudly and started to explain his process of stumbling accross the new channel that led to his advancement into Foundation Establishment.
+Markus smiled proudly and started to explain his process of stumbling across the new channel that led to his advancement into Foundation Establishment.
 
-"You do realise just how risky your method was, right?" Al reprimanded. "Many mages have lost their sanity after delving into the information gathered from their mana sense. Nonetheless, your gains did end up outweighing the risks. Being able to access an exclusive sensory channel through the mana sense is a one-in-a-million ability held closely by specialised practitioners from deep-rooted clans, sects, or beings with special bloodlines and physiques. I caught a few glimpses of how you used this new sensory channel to your advantage in the fight against Cleo. Definitely handy, although I don't know what else it offers you apart from an extremely precise view of your surroundings."
+"You do realise just how risky your method was, right?" Al reprimanded. "Many mages have lost their sanity after delving into the information gathered from their mana sense. Nonetheless, your gains did end up outweighing the risks. Being able to access an exclusive sensory channel through the mana sense is a one-in-a-million ability held closely by specialised practitioners from deep-rooted clans, sects, or beings with special bloodlines and physiques. I caught a few glimpses of how you used this new sensory channel to your advantage in the fight against Cleo. Definitely handy! Although I don't know what else it offers you apart from an extremely precise view of your surroundings."
 
 "You have no idea just how broken this is," Guy said to Al. "Being able to observe spacetime, like actually seeing it, opens up a realm of new possibilities for Markus."
 
@@ -76,11 +76,11 @@ Markus scratched his chin and said, "It isn't exactly a spell, more like an abil
 
 Markus nodded and said, "Teacher Jeeves, please lower your guard for this one. I haven't tried it on someone two realms above me, I don't know if it will work."
 
-Right as Al obliged verbally, he could feel a miniscule change transpiring around him. He suddenly started to feel a flunctuation in his weight. Thanks to his cultivation realm, Al had a highly attuned sense of perception of his self. He had lived in this body for over a century now, needless to say he knew every nook and cranny of it, from the length of his tone-nails to the number of eye-lashed on his left eye. The small disturbance in his weight was nigh-imperceptible but wasn't missed by him. He was lighter by exactly one kilogram.
+Right as Al obliged verbally, he could feel a minuscule change transpiring around him. He suddenly started to feel a fluctuation in his weight. Thanks to his cultivation realm, Al had a highly attuned sense of perception of himself. He had lived in this body for over a century now, needless to say, he knew every nook and cranny of it, from the length of his tone-nails to the number of eye-lashed on his left eye. The small disturbance in his weight was nigh-imperceptible but wasn't missed by him. He was lighter by exactly one kilogram.
 
 After a short second, the feeling reverted, but then pushed in the other direction. Instead of feeling lighter, he had gotten heavier.
 
-"That is definitely interesting!" Al congratulated. Markus stopped the ability acting on Al and did so on his teacher.
+"That is fascinating!" Al congratulated. Markus stopped his ability acting on Al and diverted it to his Master
 
 "That's freaky!" Guy exclaimed.
 
@@ -100,11 +100,11 @@ Markus smiled bitterly and said, "There were no apt words to describe it, so I u
 
 "What's English?" Al interjected. "It's definitely not Ancient Tongue."
 
-"It's the language that most of the insight in the inheritance are encrypted it," Guy lied without missing a beat. For the first time, he didn't feel any discomfort as it rolled out the tip of his tongue. The triviality of the process did unsettle Guy, but he quickly waved it away.
+"It's the language that most of the insight in my inheritance is encrypted in," Guy lied without missing a beat. For the first time, he didn't feel any discomfort as it rolled out the tip of his tongue. The triviality of the process did unsettle Guy, but he quickly waved it away.
 
 "I wouldn't be able to replicate that, right?" Guy redirected immediately.
 
-"I don't think so. The way Markus described it, this new ability is probably a byproduct of his specific cultivation method - whatever it is. It would be difficult for you to replicate it without going through a cultivation deviation. You could create an analogue if you tried, just like how Markus managed to create a pseudo replica of Gaige's attack. But creating the same would be extremely difficult." Al explained. "In fact, you should probably have some special ability with your own specialised cultivation method. Have you tried testing it out?"
+"I don't think so. The way Markus described it, this new ability is probably a byproduct of his specific cultivation method - whatever it is. It would be difficult for you to replicate it without going through a cultivation deviation. You could create an analogue if you tried, just like how Markus managed to create a pseudo replica of Gaige's attack. But creating the same would be extremely difficult." Al explained. "In fact, you should probably have some special ability with your specialised cultivation method. Have you tried testing it out?"
 
 "My cultivation method?" Guy blurted out. Frankly, he had no idea what it was either. How could he know what his special ability would be?
 
