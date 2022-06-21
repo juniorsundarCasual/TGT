@@ -1,8 +1,8 @@
 ---
 id: h1qq238cj6gq4m77gjjkbz5
-title: Chapter 199
+title: Chapter 199 - Rekindling
 desc: ''
-updated: 1655751115188
+updated: 1655836322920
 created: 1655621428703
 ---
 
@@ -34,13 +34,39 @@ Life had reached a standstill for Garlin.
 
 This was until his stationary cart was given an imperceptible impetus, by his son. Suddenly, the boy started to produce results. His coursework in the Academy improved, so did his performance. Just recently, he was listed amongst the top 10 of his cohort three of his friends who Garlin had written off as worthless.
 
-It did nudge Garlin's depression away just a little bit, maybe even spark an ember of hope. It definitely got him curious to see what motivated such a change. If Garlin had learned anything in his career, it was that nothing good came for free. His son was acting differently, there had to be a motivating factor. More often than naught, the root cause for a youth's change was someone of the opposite sex. Suprisingly, it was not the case in this situation.
+It did nudge Garlin's depression away just a little, maybe even spark an ember of hope. It definitely got him curious to see what motivated such a change. If Garlin had learned anything in his career, it was that nothing good came for free. His son was acting differently, there had to be a motivating factor. More often than naught, the root cause for a youth's change was someone of the opposite sex. Surprisingly, it was not the case in this situation.
 
 The cause for Furion's change in personality was the boy currently sitting before him, named Markus Reva. But what intrigued him more was the identity of the person sitting beside the boy, named Guy Larks.
 
 This Guy's identity was a bit more obscure. All Garlin was aware of, or whatever he was able to unearth from his memories, was that he was a Teaching Apprentice, but the last thing he could remember was that the man was culled from his post as part of the regular process. Once that happened, both Markus and Guy disappeared. This information was obtained directly for Furion's mouth. And now, they've returned about a year later, having made significant advancements in their cultivation.
 
-This discrepancy was screaming into
+This discrepancy was setting off his innate instincts, which had turned dormant as of late. An opportunity had come knocking.
+
+"It's nice to finally make your acquaintance, Mister Dune," Guy greeted with a smile. Garlin examined his posture and body language and determined that it wasn't a facade. Although it was wholehearted, there was a degree of sincerity in that remark and that pleasant veneer.
+
+Garlin returned the smile and said, "It's unfortunate that I know very little about Mage Larks. Although I am informed of Markus and his achievements."
+
+"That's good enough. I haven't done anything to warrant such attention," Guy replied with a chuckle, "Not yet anyway."
+
+"So, what can I help you with?"
+
+Guy appreciated the no nonsense attitude and went straight to the point, "Dune Caravan Management. I require the services of your company to help store, transport and deliver stock for my company."
+
+"If that's the case, you could have applied directly through our managers," Garlin retorted casually.
+
+"Because that would have missed you the opportunity to get in on the ground floor of a business unlike any other," Guy responded with a mysterious flicker in his eyes.
+
+"If it's a business unlike any other, what guarantee would I have that my investment would return a profit?" Garlin challenged.
+
+"Touche," Guy admitted. "You must have heard a tonne of ideas that start like this from many an upstarts looking to squeeze you of your money. But you see, I'm different."
+
+"How so?" Garlin smirked back.
+
+"Because I actually did the research," Guy declared as he dropped another copy of the business proposal with a dramatic flare. "You asked for guarantees? Well, Sir, I've done my due diligence and can declare with a high degree of certainty that you will not be disappointed with this investment opportunity."
+
+Garlin furrowed his brows and pulled the proposal towards himself. Although Garlin and Karmin were similar, as they were both successful businessmen, there was key detail that set them apart. Karmin, at heart, was a creator - his primary affiliation was as a blacksmith. Although he had a strong business sense and insight, in some cases where his creative instincts combated with his objective market trends, he would defer to his instincts. That was the case with Garlin, as he was a capitalist through and through. He built a transportation company from scratch which now encompassed warehousing and storage as well, all using his business acumen which he cultivated through repeated failures and successes. Thus Garlin's nose followed the money, in all ten out of ten cases.
+
+Therefore, compared to Karmin, he was quick to grasp the key details listed within the extensively documented report. No claim was left unsupported - there was a wide range of research and legwork put into this document which provided robust guarantees. Garlin's eye's sparkled as his finger drifted along the paper and turned the pages one after another. Within a stimulation half-hour he had finished the report and his eyes darted over to Guy, with a reignited fire of passion burning within.
 
 ____
 
