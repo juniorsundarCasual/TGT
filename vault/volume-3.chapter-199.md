@@ -2,7 +2,7 @@
 id: h1qq238cj6gq4m77gjjkbz5
 title: Chapter 199 - Rekindling
 desc: ''
-updated: 1655836322920
+updated: 1655901630067
 created: 1655621428703
 ---
 
@@ -64,7 +64,7 @@ Guy appreciated the no nonsense attitude and went straight to the point, "Dune C
 
 "Because I actually did the research," Guy declared as he dropped another copy of the business proposal with a dramatic flare. "You asked for guarantees? Well, Sir, I've done my due diligence and can declare with a high degree of certainty that you will not be disappointed with this investment opportunity."
 
-Garlin furrowed his brows and pulled the proposal towards himself. Although Garlin and Karmin were similar, as they were both successful businessmen, there was key detail that set them apart. Karmin, at heart, was a creator - his primary affiliation was as a blacksmith. Although he had a strong business sense and insight, in some cases where his creative instincts combated with his objective market trends, he would defer to his instincts. That was the case with Garlin, as he was a capitalist through and through. He built a transportation company from scratch which now encompassed warehousing and storage as well, all using his business acumen which he cultivated through repeated failures and successes. Thus Garlin's nose followed the money, in all ten out of ten cases.
+Garlin furrowed his brows and pulled the proposal towards himself. Although Garlin and Karmin were similar, as they were both successful businessmen, there was a key detail that set them apart. Karmin, at heart, was a creator - his primary affiliation was as a blacksmith. Although he had a strong business sense and insight, in some cases where his creative instincts combated with his objective market trends, he would defer to his instincts. That wasn't the case with Garlin, as he was a capitalist through and through. He built a transportation company from scratch which now encompassed warehousing and storage as well, all using his business acumen which he cultivated through repeated failures and successes. Thus Garlin's nose followed the money, in all ten out of ten cases.
 
 Therefore, compared to Karmin, he was quick to grasp the key details listed within the extensively documented report. No claim was left unsupported - there was a wide range of research and legwork put into this document which provided robust guarantees. Garlin's eye's sparkled as his finger drifted along the paper and turned the pages one after another. Within a stimulation half-hour he had finished the report and his eyes darted over to Guy, with a reignited fire of passion burning within.
 
