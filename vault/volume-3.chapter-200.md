@@ -1,8 +1,8 @@
 ---
 id: qkdbfnbrubl1fcq3nx269hm
-title: Chapter 200 - Securing and Investment and Gaining and Employee
+title: Chapter 200 - Securing an Investment and Gaining an Employee
 desc: ''
-updated: 1655972794864
+updated: 1656225295648
 created: 1655621459847
 ---
 
