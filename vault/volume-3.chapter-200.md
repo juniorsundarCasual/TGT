@@ -1,134 +1,72 @@
 ---
 id: qkdbfnbrubl1fcq3nx269hm
-title: Chapter 200 - Securing an Investment and Gaining an Employee
+title: Chapter 200 - Rekindling
 desc: ''
-updated: 1656225295648
+updated: 1656265185762
 created: 1655621459847
 ---
 
-"This is fantastic," Garlin praised while pointing at the varied instances of graphs peppered accross the report. "It so accurately encasulates everything I want to know, without me having to sit down and deconstruct pages upon pages of unintelligible text and numbers."
+His son was Garlin's greatest disappointment, but it wasn't in the way everyone assumed. Garlin had grand hopes and dreams. He wanted to rise to height deemed impossible for someone with his background. And he had reached the cusp of achieving it too, that time. Unfortunately it all came crumbling around him in one fell swoop.
 
-"What are these images?" He added while glancing between a pie, bar and line graph conveying three different sets of data.
+When it happened, Garlin cycled through a plethora of emotions. He felt rage, that his son failed him so spectacularly. Garlin sank every single resource in his employ for his son, yet the boy couldn't present anything in return. In simple business terms, he turned out to be a loss-making investment. He then felt envious of the offsprings of other families and his competitors. Why were they so exemplary, and why couldn't his son perform similarly? Finally he felt sorrow, witnessing his dreams shatter before him. Things weren't supposed to go this way. This wasn't part of his plans. Where did it all go wrong?
 
-"They're called graphs. As you so rightly said, they are pictorial representations of data," Guy affirmed.
+His first instinct was to bring the hammer down on his son - corporal punishment. He lashed the squealing boy a few times with a whip. Every time the rope hit the boy's flesh, Garlin's heart ached. His wife pleaded that he stop, but Garlin anger overpowered his reasoning. Near the twentieth hit, he started to question why he was assaulting his son this way. He remembered that his father used to do the same thing to him. Garlin's father was a bullock-cart driver who would help transport the villagers from the village to the nearby town. Whenever Garlin disappointed or disobeyed the man, he would rush outside, pick up the bamboo stick he'd use to corral the bovines and hit him with it.
 
-"Wonderful! Did you invent these graphs?" Garlin responded, but then he caught himself and bit his tongue. "Apologies, I understand if these are trade-secrets of some kind."
+Just like Garlin did with Furion, his own father had high hopes for Garlin. He wanted Garlin to become a scholar and find a firm foothold in the public sector. The jobs were stable, well-paying, and reputable. But Garlin wasn't a particularly studious boy. His mind worked differently - he learned by application. Contrarily, the schools emphasised rote memorisation and hypotheticals. So, he would regularly skip school and roam around town observing the goings-on in the markets.
 
-Guy waved his hand casually and said, "To answer your first question, I wasn't the one who invented them. I do teach about them, though."
+Inevitably, Garlin would get caught by his father and would have to eat a fresh serving of bamboo lashings. But it didn't dissuade Garlin from resuming his behaviour. Because while Garlin knew why his father urged him so vehemently to pursue a path betterment, he also recognised that the path set out for him wouldn't make him happy. Besides that, he also realised that the reason his father chose this path for him was the generous boost in status that was appended to the family of the government official. His father didn't want to be affiliated with his profession as a bullock-cart driver, so he used Garlin as a tool to that end. Much like how Garlin used Furion to achieve his own dream.
 
-Garlin noticed Markus nodding along and asked the boy, "You know how to make these things?"
+The twenty-first lash did not fall on his son's marred back. Because at that instant, he realised a key fact, which was that when a person is born an invisible line is drawn that demarcates how far they can reach in life with their own autonomy. This may refer to their social standing, or economic position, or even their martial strength through cultivation. To reach beyond this limit, they will have to inevitably rely on another. Just like his father did, and failed, with Garlin, and just like how Garlin did, and failed, with Furion. It is impossible to force someone to assist them in crossing this line without incurring some serious repercussions. Garlin's father applied force excessively, and Garlin ended up running away in the middle of the night one day. As Garlin gazed at his son's tear-filled face and his wives grieving frown, his grasp over the whip loosened. Going down this path would guarantee that his son would resent him for life. Garlin did not want that. If he ignored this and kept on pushing, either the boy would run away just like him or in the worst case scenario, die. Garlin did not want that either.
 
-"Master has taught us how to collect, process and present data in human-readable format, yes," Markus answered. "Graphs and charts are included in this."
+At that instant, Garlin's mind was set.
 
-Garlin pushed out his lower lips and nodded with and impressed expression. His eyes darted to his son who was also perusing through the report, reading the pages he had already finished. A thought sprouted in his mind at that instant, but Garlin didn't actively pursue it for the time being. After a short half-minute, he quickly reverted to the situation at hand.
+'Am I satisfied with what I've achieved by myself?' Garlin asked himself. To that the answer was obviously, 'Yes.'
 
-"This Verum Trading Company, you intend to use it to finance the True World Sect which you will be leading," Garlin confirmed.
+He was rich, and his business model was self-sustaining and brought in a steady and substantial income. Did he need to take that extra step to solidify his social standing?
 
-Upon receiving a nod from Guy he followed up, "To that end, I have a few questions regarding your Sect, since the two will be inevitably tied together."
+'Not really.'
 
-"Go ahead," Guy agreed.
+Garlin released a sigh that took with it all of his ambition and drive. He'd achieved a sobering conclusion, 'There is nothing that I can do anymore.'
 
-"I am sufficiently informed of the requirements to starting and maintaining a Sect," Garlin started. "How can you guarantee that the Solar Alliance will validate the creation of your Sect?"
+Garlin had reached the line, and was ready to settle. He stopped nitpicking over his son, he stopped caring about what the boy did after that day. It wasn't because he despised the lad. Garlin was just disappointed. He realised that if he had approached the situation differently, he could have acheived a different result. Maybe if he was a bit more hands on and stern with his son, the boy would have a sense of responsibility. Maybe if he took the boy along with him during business trips and ventures, the boy would become more intimate with the family's occupation. Maybe if he had moderated the boy's friendships and connections, the boy would have more experience socially. Maybe, maybe, maybe... There were a lot of them, each as viable as the other, each adding on to his growing disappointment.
 
-"We have the support of a Tesseract Transformation realm mage," Guy declared openly.
+Life had reached a standstill for Garlin.
 
-Garlin's eyes nearly popped out of his sockets, and his son who was gulping down a glass of water took a legitimate spit-take.
+This was until his stationary cart was given an imperceptible impetus, by his son. Suddenly, the boy started to produce results. His coursework in the Academy improved, so did his performance. Just recently, he was listed amongst the top 10 of his cohort three of his friends who Garlin had written off as worthless.
 
-"A T-T..." Garlin stuttered. "Tesseract Transformation? H-HOW? WHO?"
+It did nudge Garlin's depression away just a little, maybe even spark an ember of hope. It definitely got him curious to see what motivated such a change. If Garlin had learned anything in his career, it was that nothing good came for free. His son was acting differently, there had to be a motivating factor. More often than naught, the root cause for a youth's change was someone of the opposite sex. Surprisingly, it was not the case in this situation.
 
-"I believe it would be in our best interest to not agitate them. Though I can provide guarantees of their support. If need be I can add it to the contract."
+The cause for Furion's change in personality was the boy currently sitting before him, named Markus Reva. But what intrigued him more was the identity of the person sitting beside the boy, named Guy Larks.
 
-"Contract?"
+This Guy's identity was a bit more obscure. All Garlin was aware of, or whatever he was able to unearth from his memories, was that he was a Teaching Apprentice, but the last thing he could remember was that the man was culled from his post as part of the regular process. Once that happened, both Markus and Guy disappeared. This information was obtained directly for Furion's mouth. And now, they've returned about a year later, having made significant advancements in their cultivation.
 
-"Right!" Guy snapped his finger and retrieved the second monstrous paper pile from his satchel and dropped it before Garlin. "These documents are for our potential partnership in this venture. If you are interested in investing and holding a stake in this business, there are additional clauses," Guy added while sliding forward another set of documents.
+This discrepancy was setting off his innate instincts, which had turned dormant as of late. An opportunity had come knocking.
 
-Compared to Karmin's response, Garlin's eyes sparkled with excitement. He rubbed his hands in anticipation, licked his right thumb in preparation of some aggressive page flipping. Guy swore that he saw the man salivating as he mouthed the clauses.
+"It's nice to finally make your acquaintance, Mister Dune," Guy greeted with a smile. Garlin examined his posture and body language and determined that it wasn't a facade. Although it was wholehearted, there was a degree of sincerity in that remark and that pleasant veneer.
 
-"Oh ho! Smart, smart, I would have missed that," the man commented with a sly chuckle. Every now and then, the man released a similar comment in contemplation or in commendation followed by a sound ranging between a thoughtful hum to a full-blown laugh.
+Garlin returned the smile and said, "It's unfortunate that I know very little about Mage Larks. Although I am informed of Markus and his achievements."
 
-"Beautiful!" The man concluded as he finished reading the final clause. "I could not find a single lapse or exploitable clause. Every aspect I could think of was addressed and then some. Truly a magnificient contract, this one is. Did you write this, or was a third-pary consulted?"
+"That's good enough. I haven't done anything to warrant such attention," Guy replied with a chuckle, "Not yet anyway."
 
-"I wrote it, thank you for your kind words," Guy replied with a wry grin. He wasn't completely used to receiving compliments, especially if what he was getting it for wasn't something he was expressly good at. Guy had seen better contracts penned down in his past life, but people far more educated in the field than he was. This barely scratched the surface - Guy was sure that if a more ruthless capitalist with a top-notch legal team were to approach this self-admittedly haphazard contract, they could drill holes into it like a worm devouring a tasty fruit.
+"So, what can I help you with?"
 
-"I must say that I am truly impressed by... well everything, really!" Garlin exclaimed. "The proposed venture is robust, and based on your research, which I must say has floored me in its meticulousness, it will be profitable. Although I have yet to see some of the products your company will develop and sell, I can infer from your confidence that you have some plans in motion?"
+Guy appreciated the no nonsense attitude and went straight to the point, "Dune Caravan Management. I require the services of your company to help store, transport and deliver stock for my company."
 
-"That I do," Guy affirmed. "I am currently in talks with Karmin Zola of The Burning Forge. Not only is he an investor, but The Burning Forge will also act as the manufacturer of our products."
+"If that's the case, you could have applied directly through our managers," Garlin retorted casually.
 
-"You got Karmin in on this?" Garlin blurted out in suprise. The man and his company's name were in most people's lips these days. The advent of the Steel had changed the market landscape, shaking it to its core. The alloy was as durable as Dwarven metal with enchanting capacity close tot it as well. What really shattered the market was the affordability of the metal - it was nearly as cheap as iron for goodness’s sake! Steel weapons and armour had become commonplace in most places, it was just that good.
+"Because that would have missed you the opportunity to get in on the ground floor of a business unlike any other," Guy responded with a mysterious flicker in his eyes.
 
-"Yes, currently, we are at the prototyping stage of a device," Guy added. "The product is owned completely by Verum Trading Company. The Burning Forge only has the rights to manufacture. They don't have rights to sell it either, so a purchase of said products need to be validated through Verum Trading Company or True World Sect," he emphasised immediately after. That answered a question that was about to roll off of Garlin's tongue, which was 'Why should I invest in your company if I can get it from the manufacturer.'
+"If it's a business unlike any other, what guarantee would I have that my investment would return a profit?" Garlin challenged.
 
-"That's a smart move," Garlin commended.
+"Touche," Guy admitted. "You must have heard a tonne of ideas that start like this from many an upstarts looking to squeeze you of your money. But you see, I'm different."
 
-"As for your earlier question about the products in our catalogue, let me introduce you to the Gutenberg Press," Guy started. He then went on to give an overview of how the device worked minus excessive technical details since he recognised that his audience wasn't as experienced in this field as Karmin. That, and because he wasn't fully sure if Garlin was on-board with the business. Unlike Karmin, Guy could not get a proper read on Garlin likely due to his years of experience in this ruthless environment.
+"How so?" Garlin smirked back.
 
-"I believe we can even start a publishing company after creating this product. All the while, a company under Verum's umbrella could take on publishing contracts for large scale manufacture and sales." this time it was Furion who spoke up. The boy had been silent this entire time, making himself as scarce as possible. However, his eyes gained a motivated glimmer as he blurted out his ideas. "Apart from that, instead of selling these machines, they could be leased to others at first."
+"Because I actually did the research," Guy declared as he dropped another copy of the business proposal with a dramatic flare. "You asked for guarantees? Well, Sir, I've done my due diligence and can declare with a high degree of certainty that you will not be disappointed with this investment opportunity."
 
-"What is your rationale behind the decision to lease instead of sell?" Garlin directed to his son calmly. The boy jerked in surprise.
+Garlin furrowed his brows and pulled the proposal towards himself. Although Garlin and Karmin were similar, as they were both successful businessmen, there was a key detail that set them apart. Karmin, at heart, was a creator - his primary affiliation was as a blacksmith. Although he had a strong business sense and insight, in some cases where his creative instincts combated with his objective market trends, he would defer to his instincts. That wasn't the case with Garlin, as he was a capitalist through and through. He built a transportation company from scratch which now encompassed warehousing and storage as well, all using his business acumen which he cultivated through repeated failures and successes. Thus Garlin's nose followed the money, in all ten out of ten cases.
 
-"Umm, I mean..." Furion stuttered.
-
-"Speak clearly," Garlin emphasised.
-
-"I-If, I mean if they sell the products from the beginning, there is little guarantee that the purchaser won't open up the product and steal its designs. Leasing can help avert those problems. First, a breakdown mechanism could be installed inside the machine that causes the product to malfunction if someone opens it. Then, when the product fails to work after being put together, Verum Trading Company can impose a penalty on the buyer. Maybe a clause can be added to the leasing contract?" Furion listed.
-
-Guy shuddered upon seeing the little capitalist's mind at work. Back on Earth, many corporations implemented such devious methods inside their own devices to avoid theft in cases where patent litigation could not be extended. Nonetheless, Guy was completely for Furion's suggestion. In this world, there were no such things as patents and copyrights. The only cases where intellectual property rights were respected occured when guilds became involved. Such as the deal Karmin had with the Smithing and Enchanting Guild.
-
-"You seem taken with this product," Garlin commented, directing it to his son.
-
-"Well, it seems fresh," the boy admitted.
-
-"What do you think of the company?" Garlin followed up.
-
-"The proposal presents a worthwhile investment," the boy answered. Although he'd spent most of his time before as an aimless schion, Furion had some knowledge through following his father.
-
-"It's decided then!" Garlin declared. "I will invest in Verum Trading Company. I will partner with the company for distribution. Though, I do have some conditions."
-
-"We can negotiate the deal, sure," Guy responded.
-
-"I am willing to invest 100000 gold coins," Garlin said. "But it will be in the name of my son."
-
-"What?!" Furion shrieked.
-
-"He will be your contact and facilitator at Dune Caravan Management. If there is anything you need done, it will go through him and him alone.," Garlin continued. "Essentially, I want him to become an employee at your Verum Trading Company."
-
-"Won't that be a conflict of interest?" Guy probed.
-
-"It would," Garlin answered. "But from the date of signing this contract, the boy will no longer be bankrolled by me."
-
-"Father?" Furion uttered in shock.
-
-"You will live in this house, your essentials will be funded by deducting a percentage of the salary you earn from your work at Verum. You will be responsible for every other expenditure of yours from this point on," Garlin declared.
-
-"Will that be a problem?" Garlin asked Guy. But the question felt rhetorical.
-
-"You wish to educate your son through this?" Guy rephrased.
-
-"I do," Garlin answered.
-
-"Why?"
-
-"Furion here and his group of wastrels spent less than a year with your Disciple and changed completely," Garlin started. "I was always intrigued by how a single boy could accomplish such a feat. But after meeting you in person, I can see your fingerprints on his personality."
-
-"Markus here managed to elicit changes in my son in months, where I failed over years," Garlin confessed with a sorrowful frown. "I won't be shameless and foist him upon you without renumeration. You can treat those 100000 gold coins less like an investment and more like fees to teach my boy. Treat him how you see fit, pay him what you feel is appropriate, just please do anything to fix my mistakes."
-
-"Father," Furion said with a wavering voice.
-
-"I made a mistake," Garlin continued while shaking his head, speaking to his son this time. His voice sounded aged and worn out. "I pushed my expectations upon you without taking your feelings into consideration. You are a talented and thoughtful boy, it's just that I wasn't good enough to nurture it well."
-
-Furion's eyes threatened to tear up, but he quickly dabbed them and looked away.
-
-"So, Sect Leader Larks. Do you find these conditions acceptable?" Garlin redirected. His face had mellowed out, and there was a pleading and hopeful intonation in his request.
-
-To that, Guy frowned and said, "So you're basically saying that you will invest in my company if I take in a new student, for an exorbitant fee at that?"
-
-As Garlin nodded, Guy said, "I don't accept."
-
-Before the man's face drooped in defeat, Guy warped with a sly smile and said, "I was here for an investment, and I will take your money as an investment. You will be eligible for the benefits that come with said investment as stipulated in the contract. Apart from that, I accept the employment of your son into Verum Trading Company in concordance with your conditions (to be amended into the contract). This employment will involve an extensive training phase which will intimate him with all the aspects of the business and will cover a wide range of skill."
-
-Guy extended his arm forward and concluded, "Are those conditions acceptable?"
-
-Garlin laughed uproariously as he interpreted Guy's words, "We have ourselves a deal then!"
+Therefore, compared to Karmin, he was quick to grasp the key details listed within the extensively documented report. No claim was left unsupported - there was a wide range of research and legwork put into this document which provided robust guarantees. Garlin's eye's sparkled as his finger drifted along the paper and turned the pages one after another. Within a stimulation half-hour he had finished the report and his eyes darted over to Guy, with a reignited fire of passion burning within.
 
 ____
 

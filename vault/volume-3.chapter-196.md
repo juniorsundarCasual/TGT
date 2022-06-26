@@ -1,86 +1,80 @@
 ---
 id: furnaf02bjstadyokbk7xv7
-title: Chapter 196 - Dabbling in Legalese
+title: Chapter 196 - Blast from the Past (from Another World)
 desc: ''
-updated: 1655146267655
+updated: 1656265254457
 created: 1655022488870
 ---
 
-Karmin had to physically hold himself back from hugging the man in front of him and kissing him on the lips. As a businessman, Karmin quickly envisioned the possibilities professed by the device presented in front of him. Using his knowledge of blacksmithing, he could confirm that what was proposed was within the limits of reality and was possible to materialise.
+Guy's elder sister was an ambitious businesswoman. She was tenacious and ruthless, and built her entertainment empire from scratch with no help from the family. It was a task she took upon herself to prove that she was more than just the Larks name.
 
-Guy noticed that Karmin was on the cusp of tipping over in favour of the investment and decided it was time for the coup-de-grace.
+She always had the entrepreneur's spirit, and a natural-born insight unlike any other. She was quick to observe the changes in market trend while working as an intern in a record label company.
 
-"This device is a trailer of what my business aims to output. Machines and solutions that can simplify overlooked problems that prevail in society. Let us take a step back and look forward in time. A decade later, more than 25% of publishers in the world utilise this Press to produce their books. With the ease of manufacture and distribution, more and more people have access to information and the average literacy of the population increases. Those of the lower class that believed they could never escape their station due to the educational barrier blocking their advance no longer have to worry about their illiteracy, since just about anyone can learn to read and write with a small expense of a few copper coins to purchase a book that teaches them how to read."
+After two years of accumulating experience and knowledge, she set off to create her own unique company that recruited talent and trained them to thrive in the perilous industry. She took a page from the systems employed in the East, and tweaked it slightly to achieve great success.
 
-"Why would you buy a book to learn to read?" Karmin blurted out.
+For one, the West encouraged individuality and self-expression. Yet because of this mentality, the artists were forced to set out on their own and find opportunities by themselves. Although they could employ agents, the support they received from that side was limited to finding and landing auditions, negotiating pays, and so on. There was little to no support for growth and development, which was available in the agencies of the East.
 
-"Pictures," Guy answered. "See! This opens up a new avenue altogether. Books that teach people to do things. A century into the future, just about anyone can write and publish a book. A farmer could write a book teaching others how to tend to different crops. An adventurer could write a book teaching others of the fundamentals to survive in the wilderness."
+When an actor failed an audition, or if an album flopped, they would rarely receive tangible feedback on how to improve. There was also little training on how to handle their fame and the media. His sister's goal was to create an agency that could fill in that role. To act as the incubator that nurtured artists and supported them through their journey. 
 
-"Solutions that can change the future," Guy highlighted. "You can expect more of those from the company."
+Guy's sister pitched her company to many investors, most did not believe in her vision. They figured that investing heavily into unestablished talent was futile since they would simply jump ship when offered a better contract, which was understandable. But his sister did not give in regardless of the many denials she faced. Unltimately, one woman felt moved by his sister's proposal, and she offered her support. His sister would later marry this woman, but that was a different story.
 
-Karmin nodded subconsciously, but his mind was already dwelling into the future as Guy indicated. Except, he wasn't envisioning all those philanthropic outcomes, he was mentally counting the gold coins spilling into his coffers.
+During her time pursuing investors, his sister had conducted an unbelievably thorough research of the market. In the process, she had recruited Guy's assistance to help her put together the business proposal. Guy was more than willing to help his sister for free, but she insisted on paying him saying that, "Until I can prove my mettle, you aren't my brother. I am no Larks. I am simply an acquaintance hiring your services."
 
-"This... Okay!" Karmin declared. "You've convinced me. I am prepared to invest in this company."
+Through this favour, Guy learned a great deal about business management from his sister. He accumulated many valuable skills that he never thought he would ever use again, until he died, transmigrated, and resolved to create his own sect.
 
-"Wonderful! Now comes the often unpleasant part of this interaction: the negotiation," Guy said as his enthusiasm dampened. "I have prepared a preliminary contract to cement our agreement. Please have a read and if you have any problems, we can flesh out the details further."
+Guy followed his sister's method by the book to put together the business proposal for his venture. He spent two weeks moving from place to place, stalking outside stores and shops, and even interviewed many folk both willing and irritated. It was hard, but it was necessary. 
 
-Guy produced another stack of papers, much thicker than the proposal, and plopped them in front of Karmin. As he read them, Karmin's expression turned complicated, not because he had issue with the contents, but rather the content was extremely thorough and tackled every question he could and couldn't think of.
+This is because noone wants to willingly give their money to others. The rich may throw their wealth willy-nilly, but that is only because they know that the expenditure will net a guaranteed return immediately. But such guarantees aren't present when investing.
 
-"Verum Trading Company is affiliated with and a subsidiary of the True World Sect. At the time of drafting this contract, the Sect Leader and primary representative for Verum Trading Company is Guy Larks. The Burning Forge is owned by and operated by Karmin Zola. Legally, The Burning Forge and Karmin Zola are a singular entity."
+With investing, what they get are probabilities. Probability of successfully recouping the amount invested, probability of amplifying their invested amount, and the dreaded possibility of making a loss. Based on how these probabilities are spread, an investor will decide to invest or pass on a proposal.
 
-"..."
+The probabilities are generated in large part based on the data presented to the investors, and in minor part based on the entrepreneur's drive and vision with their business. A confident entrepreneur with a losing business model is the same as a money-making business model with a half-hearted or nervous entrepreneur. However, the former will be kicked out of the room immediately, while the latter can salvage the situation by selling their business model to the investor and work as an employee in the business.
 
-"The Burning Forge will be the sole for manufacturer for Verum Trading Company's products for the duration of ten years following the validation of this contract. However, the patents and rights for the products will be fully owned by Verum Trading Company. The Burning Forge may not sell or distribute products owned by Verum Trading Company to external parties. Violation of this clause will be subject to the following repercussions..."
+To convince Karmin, Guy had to show that he was motivated with his business, and he had to present to him the data that supported the need for his business.
 
-"..."
+After collecting a wide range of raw data through primary research, Guy took half a week to compile everything into human-readable form. At this point he was grateful that he had his computer in the RoK. With the help of the spreadsheet program, the word processor, and the printer, the process was trivial. His efforts definitely paid off as Karmin's eyes sparkled and latched on to the colourful graphs presenting the data visually. Rather than seeing abstract numerics sprawled accross the page, graphs are the easiest way to make sense of data so that even a layman can understand it.
 
-"As an investor, Karmin Zola can choose receive earnings equivalent to the percentage invested. These earnings will be in the form of annual dividends, which are percentage distributions of the profits accumulated by the business yearly. Alternatively, Karmin Zola can opt to reinvest the dividends into Verum Trading Company for an increase in owned stake. The stake ownership is calculated using the following criteria..."
+"While you bring forward good points, I am confused as to what your business will do. As in, what is the tangible output from this company?" Karmin asked.
 
-"..."
+"Good question. To answer it, I would like to propose to you a series of questions, please entertain me," Guy requested as he pulled out a textbook from his satchel.
 
-"Every new product developed by Verum Trading Company that is to be manufactured through The Burning Forge will be subject to another contract that will determine the cost of goods, resources, and so on. These contracts will be active for the duration of the manufacturing rights aforementioned, and will be subject to renegotiation once the manufacturing rights held by The Burning Forge are lapsed. Verum Trading Company, and by extension the True World Sect, will be guaranteed a complimentary unit of every new product manufactured by The Burning Forge."
+"This is the 'Compendium of Common Metals and Alloys' from the Guild's library. I borrowed it for today's presentation. Only the Guilds have a copy of this book, why is that?"
 
-"..."
+"Because it is expensive to print. And it regularly gets updated," Karmin answered.
 
-"The stake for Verum Trading Company will be held by Karmin Zola, owner of The Burning Forge, till their termination. It is non-transferable. If Karmin Zola wishes to transfer their stake to a third-party, the recipient must be able to purchase the stake according to its price, which corresponds to the percentage invested given the valuation of the company at that point in time. Transfer of stake between individuals will be require confirmation from all other stakeholders."
+"True, so if I wanted to purchase this book, how much would I have to spend?"
 
-"..."
+"At least a few gold coins. No one really bothers to purchase these," Karmin responded. "You would have to pay scribes to copy over the content and artists to copy the illustrations. It's a huge hassle."
 
-Karmin dabbed the sweat from his forehead as he averted his eyes from the stack of text. He still had a quarter of the stack left. He had seen many contracts in his lifetime, this was by far the most... everything!
+"What if I told you that it was possible to reduce the cost to a few silver coins?" Guy probed mystically.
 
-"This is quite verbose," Karmin commented. That was putting it lightly. Karmin had never seen a contract so exhaustive in his entire life.
+Karmin narrowed his eyes and nearly snorted at what he perceived was a joke. But when he noticed Guy's confident smile, he realised that the man was being serious.
 
-"If we're doing this, we're going to do this right. Although we are closely acquainted, I wish to separate our personal and professional relationship. This contract is my way of showing my sincerity in seeking your assistance in this matter as a successful businessman," Guy explained with a forthright tone. When it comes to money, he had learned from that it was often best to draw clear lines. Misunderstandings stemming from mishandling of money often leads to the worst kinds of conflicts, and most of the time the damages sustained through these conflicts - relationship-wise - were ones that never healed. Therefore, for this agreement, Guy put together a meticulous contract after crawling through the RoK for examples, leaving absolutely no room for misunderstandings or contention.
+"You're kidding!"
 
-Karmin coughed lightly to mask his embarrassment and said, "It will take me some time to go through this. Don't get me wrong, I am leaning for this partnership its just that, like you said, we need to take this seriously and approach this collaboration with a purely business-oriented lens."
+"I am here today to propose to you the first product envisioned and designed by Verum Trading Company, the Gutenberg Press," Guy declared. He then reached into his satchel again and pulled out a scroll the length of his forearm.
 
-Guy smiled back, expressing his satisfaction, and said, "That's good to know. No issues! I strongly urge you to go through this contract and mark any amendments you wish to implement, and we shall work out those kinds accordingly. I shall be in Radiant City for a month at least, I hope to produce a working unit of the Gutenberg Press within that time so that it can hit the markets as soon as possible. It definitely helps to have a demonstrative unit when convincing potential buyers."
+As he unfurled it, he revealed a descriptive diagram that presented, in Karmin's eyes, a grandiose machine that could take in sheets of paper and output uniform text.
 
-Karmin affirmed and returned an equally satisfied smile, trying his hardest to stop his lips from quivering as he anticipated the long hours that will be spent deconstructing this beast of a contract.
+"This machine utilises a mechanism that we call the Gutenberg Mechanism to stamp text arranged in proper order in the form of blocks, into blank paper," Guy explained. "It utilises the same techniques people use to stamp their identity in official forms."
 
-____
+"Can you explain how this process works?" Karmin inquired as he squinted at the paper.
 
-As Guy turned a corner into an alley after exiting The Burning Forge, he doubled over onto his knees and released a long sigh of relief. For all intents and purposes, this was his very first business pitch, and he was freaking out!
+"These are called letterpress blocks that contain singular letters extending outwards and reflected. To manufacture these, you can use casts with molten bronze. We can customise these and generate a myriad of typesetting fonts to match the nature of the text. For instance, this textbook is informative and needs to be devoid of flagrant embellishments. To accomplish that, we can utilise the following font which are called Simple Serif and Simple San Serif. For more vibrant text, we can use fonts like this one which I call Cursive," Guy explained while pointing out at sections on the scroll.
 
-From the beginning, Guy wanted Karmin to take him seriously and consider investing from a professional standpoint. He knew that Karmin had hitched his wagon with Guy from way back, and he would readily agree to anything as long as it wasn't flagrantly disadvantageous. In fact, Guy had a hunch that Karmin would still agree albeit begrudgingly. Guy could have very easily asked Karmin to turn The Burning Forge as the Sect's finance front. It would have been easy to do, heck Guy could have "urged" Karmin to do so with his powers if the man was teetering towards a disagreement. But Guy didn't want to do that.
+"The blocks can be arranged in a line, note that the text is backwards since when you print it the imprint reflects. You can arrange multiple lines to form a page."
 
-For the True World Sect to sustain itself and succeed, its source of income needs to be robust and legitimate. Guy couldn't rely on others for this, it had to be purely through his own initiative.
+"This seems to take a lot of time," Karmin commented. "Wouldn't it be easier for a scribe to write out the page?"
 
-Spearheading innovation. That was the name of the game. Developing novel products that made life easier for people and businesses. Guy could sell inventions that existed in his past life that didn't exist here. It was something most, if not all transmigrators attempted and succeeded in doing. But as established earlier, Guy knew that it wasn't a sustainable venture.
+"That would be true if the intention is to write one page at a time. But the way this press works is by printing out multiple batches all at once. You see, after typesetting a page, all you need to do is affix it here and dab the ink over it like so. Finally, you place the paper over this and bring down the lever of the Gutenberg mechanism. After a few seconds, the lever can be pulled back and voila!" Guy finally gestured at the last diagram. "You get a completely typeset page immediately. While typesetting takes time, printing takes barely a minute. You can print over a hundred copies of a page within an hour. Then you set for the next page and repeat the same. Within a week you can output over a hundred copies of a book with only four people working the machine. The best part is that every book will be exactly the same. And if the workers are properly trained and educated, the margin of error is low. As a businessman, you should already be able to envision the benefits of this machine."
 
-What use was having a horde of innovative and inquisitive minds if he was the only one outputting ideas? The Sect was basically a think tank filled with endless creativity. If Guy taught the members well, they could in turn innovate and develop new products and solutions that could be monetised. Verum Trading Company would act as a platform for them to prototype, market and float their ideas. This way, the kids would learn to apply their knowledge and gain motivation from achieving tangible results.
+Karmin nodded enthusiastically as his eyes widened into saucers. "You no longer have to worry about variations in script due to differences in scribe habits. Heck, you don't have to hire droves of scribes in the first place! The unbelievable fact is that this miraculous machine doesn't even rely on magic or mana, so just about anyone can use it."
 
-Guy didn't have to actively participate in innovation, he could light the fuse with a few kew products like the Printing Press, which he rightly affiliated with the original inventor. Down the line, Guy planned to create the Lathe and the Milling machine as well, the two fundamental machines that revolutionised modern industry. With the clause in the contract which awarded the Sect with a complimentary unit, Guy planned to teach the Sect members on how to use these machines so that they could fast-forward innovation and prototype their ideas quickly.
+"This machine!" Karmin exclaimed as financial mathematics rattled off in his mind. "How much will it cost to manufacture?"
 
-Guy had laid out an elaborate plan of action to raise his Sect and turn it into an unshakeable monolith. That was the only way he could implement meaningful changes in a global scale. The business would play a huge role towards this goal.
+"Through my research, I found that the issue does not lie in the cost of the materials but rather the time and expertise. Most of the parts needed to materialise this require some intricate tool work for which we will need some expert blacksmiths and woodworkers, which I am sure you have connections with. I have developed blueprints for these parts, which I will share in due time. But before that, I will need to hear your opinion and decision on the proposal," Guy concluded.
 
-With manufacturing out of the way, once Karmin signed the contract, Guy had to now worry about distribution. The Sect's business could not build a brick-and-mortar store in commercial districts, after all. And no business would go out of their way to a rural village to buy goods they had never heard of and transport it where they needed it. Verum Trading Company had to deliver their products to the customer somehow.
-
-Surprisingly, Markus came through on this matter. Guy walked briskly through a few alleys and roads and finally reached a rather high-class restaurant called The Golden Plate in the city's entertainment district.
-
-This area was usually frequented by the wealthier segment of the market and was thus clean and rarely crowded. There were regular patrols by the local law enforcement, thus crime was a rare occurence here. In fact, being caught by law enforcement would be the best case scenario for any criminal in these parts.
-
-Guy's purpose here was to meet his second possible investor, and a prospective distribution channel for the Verum Trading Company.
+"So, what do you say?"
 
 ____
 

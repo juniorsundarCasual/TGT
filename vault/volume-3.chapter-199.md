@@ -1,72 +1,104 @@
 ---
 id: h1qq238cj6gq4m77gjjkbz5
-title: Chapter 199 - Rekindling
+title: Chapter 199 - Hitting up an Old Friend's Father
 desc: ''
-updated: 1655901630067
+updated: 1656265202399
 created: 1655621428703
 ---
 
-His son was Garlin's greatest disappointment, but it wasn't in the way everyone assumed. Garlin had grand hopes and dreams. He wanted to rise to height deemed impossible for someone with his background. And he had reached the cusp of achieving it too, that time. Unfortunately it all came crumbling around him in one fell swoop.
+"So let me get this straight," Furion interjected as he massaged his forehead. "You dropped out of the Academy because your Master, Mister Larks here, was, for the lack of a better word, kicked out?"
 
-When it happened, Garlin cycled through a plethora of emotions. He felt rage, that his son failed him so spectacularly. Garlin sank every single resource in his employ for his son, yet the boy couldn't present anything in return. In simple business terms, he turned out to be a loss-making investment. He then felt envious of the offsprings of other families and his competitors. Why were they so exemplary, and why couldn't his son perform similarly? Finally he felt sorrow, witnessing his dreams shatter before him. Things weren't supposed to go this way. This wasn't part of his plans. Where did it all go wrong?
+"I mean, there's a lot of better words to describe that situation," Guy muttered with a bitter smile. "Fired, let go of, dismissed, discharged..."
 
-His first instinct was to bring the hammer down on his son - corporal punishment. He lashed the squealing boy a few times with a whip. Every time the rope hit the boy's flesh, Garlin's heart ached. His wife pleaded that he stop, but Garlin anger overpowered his reasoning. Near the twentieth hit, he started to question why he was assaulting his son this way. He remembered that his father used to do the same thing to him. Garlin's father was a bullock-cart driver who would help transport the villagers from the village to the nearby town. Whenever Garlin disappointed or disobeyed the man, he would rush outside, pick up the bamboo stick he'd use to corral the bovines and hit him with it.
+"And now, you're planning to start your own Sect?" The boy continued, ignoring that little aside.
 
-Just like Garlin did with Furion, his own father had high hopes for Garlin. He wanted Garlin to become a scholar and find a firm foothold in the public sector. The jobs were stable, well-paying, and reputable. But Garlin wasn't a particularly studious boy. His mind worked differently - he learned by application. Contrarily, the schools emphasised rote memorisation and hypotheticals. So, he would regularly skip school and roam around town observing the goings-on in the markets.
+"That summarises the situation," Markus affirmed.
 
-Inevitably, Garlin would get caught by his father and would have to eat a fresh serving of bamboo lashings. But it didn't dissuade Garlin from resuming his behaviour. Because while Garlin knew why his father urged him so vehemently to pursue a path betterment, he also recognised that the path set out for him wouldn't make him happy. Besides that, he also realised that the reason his father chose this path for him was the generous boost in status that was appended to the family of the government official. His father didn't want to be affiliated with his profession as a bullock-cart driver, so he used Garlin as a tool to that end. Much like how Garlin used Furion to achieve his own dream.
+Furion released a sigh charged with a myriad of emotions, and shot a suspicious gaze at the Master-Disciple duo. "Where do I fit into all of this? Are you asking me to join your Sect?"
 
-The twenty-first lash did not fall on his son's marred back. Because at that instant, he realised a key fact, which was that when a person is born an invisible line is drawn that demarcates how far they can reach in life with their own autonomy. This may refer to their social standing, or economic position, or even their martial strength through cultivation. To reach beyond this limit, they will have to inevitably rely on another. Just like his father did, and failed, with Garlin, and just like how Garlin did, and failed, with Furion. It is impossible to force someone to assist them in crossing this line without incurring some serious repercussions. Garlin's father applied force excessively, and Garlin ended up running away in the middle of the night one day. As Garlin gazed at his son's tear-filled face and his wives grieving frown, his grasp over the whip loosened. Going down this path would guarantee that his son would resent him for life. Garlin did not want that. If he ignored this and kept on pushing, either the boy would run away just like him or in the worst case scenario, die. Garlin did not want that either.
+At this stage, Guy stepped in, "Financing."
 
-At that instant, Garlin's mind was set.
+Before Furion could speak up in denial, Guy raised his palm and expounded, "Dune Caravan Management."
 
-'Am I satisfied with what I've achieved by myself?' Garlin asked himself. To that the answer was obviously, 'Yes.'
+"That's my father's business. I don't know if I can help you there," Furion replied shaking his head.
 
-He was rich, and his business model was self-sustaining and brought in a steady and substantial income. Did he need to take that extra step to solidify his social standing?
+"What we need is a foot through the door, that much you can do," Guy reinforced. He noticed the conflicted emotions flashing across Furion's face and added, "Don't worry. It is a lucrative offer. If you are interested, I can take you through it right now."
 
-'Not really.'
+Furion inhaled with a shaking breath as he mentally calculated the offer. "No, it's fine. I owe Boss Markus too much - this is the least I can do. Like you said, I can get your foot through the door, but I won't be able to stop it if my father decided to ignore it and brings the door down on your legs."
 
-Garlin released a sigh that took with it all of his ambition and drive. He'd achieved a sobering conclusion, 'There is nothing that I can do anymore.'
+"That's more than enough," Guy smiled back. "Now then, let's eat. I've booked a hearty lunch, would be a shame to not enjoy it."
 
-Garlin had reached the line, and was ready to settle. He stopped nitpicking over his son, he stopped caring about what the boy did after that day. It wasn't because he despised the lad. Garlin was just disappointed. He realised that if he had approached the situation differently, he could have acheived a different result. Maybe if he was a bit more hands on and stern with his son, the boy would have a sense of responsibility. Maybe if he took the boy along with him during business trips and ventures, the boy would become more intimate with the family's occupation. Maybe if he had moderated the boy's friendships and connections, the boy would have more experience socially. Maybe, maybe, maybe... There were a lot of them, each as viable as the other, each adding on to his growing disappointment.
+That, Furion could get behind. He'd never actually eaten at The Golden Plate before. Even though his family was rich and well off, they rarely ate out in such luxurious establishments unless it was to wine and dine a potential client or business partner. Even then, his father actively avoided The Golden Plate due to its exorbitant prices.
 
-Life had reached a standstill for Garlin.
+In fact, Furion was partly assuaged about introducing this Guy Larks to his father because the man could afford to dine him here. Just to test out the theory further, Furion made it a point to order one or two of the pricier dishes on the menu and gauged at the man's facial expressions. Noticing nary a ripple, Furion was sure that one, this man was serious and two, he had a lot of money to spare. Taking money from the rich was basically business 101!
 
-This was until his stationary cart was given an imperceptible impetus, by his son. Suddenly, the boy started to produce results. His coursework in the Academy improved, so did his performance. Just recently, he was listed amongst the top 10 of his cohort three of his friends who Garlin had written off as worthless.
+Furion patted his stomach after gulping down the last sip of the Jasmine-Infused Saffron Tea and exclaimed with a hearty, "Aaaah!"
 
-It did nudge Garlin's depression away just a little, maybe even spark an ember of hope. It definitely got him curious to see what motivated such a change. If Garlin had learned anything in his career, it was that nothing good came for free. His son was acting differently, there had to be a motivating factor. More often than naught, the root cause for a youth's change was someone of the opposite sex. Surprisingly, it was not the case in this situation.
+"That was delicious," he added. "Let's get going then."
 
-The cause for Furion's change in personality was the boy currently sitting before him, named Markus Reva. But what intrigued him more was the identity of the person sitting beside the boy, named Guy Larks.
+____
 
-This Guy's identity was a bit more obscure. All Garlin was aware of, or whatever he was able to unearth from his memories, was that he was a Teaching Apprentice, but the last thing he could remember was that the man was culled from his post as part of the regular process. Once that happened, both Markus and Guy disappeared. This information was obtained directly for Furion's mouth. And now, they've returned about a year later, having made significant advancements in their cultivation.
+"Is my father in?" Furion inquired the rugged looking, beast of a man guarding the door to his father's office.
 
-This discrepancy was setting off his innate instincts, which had turned dormant as of late. An opportunity had come knocking.
+"Little Boss Furion," the man greeted with a bow. "Boss Dune's inside, yes."
 
-"It's nice to finally make your acquaintance, Mister Dune," Guy greeted with a smile. Garlin examined his posture and body language and determined that it wasn't a facade. Although it was wholehearted, there was a degree of sincerity in that remark and that pleasant veneer.
+"Is he busy?"
 
-Garlin returned the smile and said, "It's unfortunate that I know very little about Mage Larks. Although I am informed of Markus and his achievements."
+"He told me to not let anyone in. I dunno if he's busy or not 'cause he tells me that everytime, so..." The man answered while scratching his bald head.
 
-"That's good enough. I haven't done anything to warrant such attention," Guy replied with a chuckle, "Not yet anyway."
+Furion sucked in a fraught breath through his teeth as he contemplated on how to progress. After a rather momentous year, Furion had finally moved into his father's good graces. Prior to the turnabout Furion implemented to his worldview and persona, in large part due to Markus' intervention, his relationship with his father was quite strained. They rarely talked, and Furion always had the feeling that the man didn't really care about what happened to him.
 
-"So, what can I help you with?"
+He did care once, though. Many years back. His father would dote on him, buy him everything he wanted. Reprimand him when he made a mistake, and praise him when he did something commendable. But somewhere along the way, things started to go sour and their relationship diverged. Furion didn't know why back then, and it remained that way for a very long time since then. This was until Furion became properly acquainted with Markus, and changed his approach.
 
-Guy appreciated the no nonsense attitude and went straight to the point, "Dune Caravan Management. I require the services of your company to help store, transport and deliver stock for my company."
+Furion thought that by acting out and getting into trouble, he could once again recapture his father's attention. Maybe that way he would care again? But that was the false path, since everything he did get into some mischief and had his father come bail him out, he could feel him moving further and further away. However, after a thorough searching of his memories, Furion figured out the reason and he realised that it had to do with why his father started pushing him away in the first place.
 
-"If that's the case, you could have applied directly through our managers," Garlin retorted casually.
+It happened one day when his father invited a client. Furion was told that the client was special. Yet, it was only a bit later that he learned to what extent they were 'special', and just how idiotic of an understatement the word 'special' was to describe them. These clients happened to be directly related to the Emperor, with just a few degrees of separation. Clamping them down would have been a massive deal for the business and for the family. Not only would it rake in a lot of potential revenue and extend their connections, it would also offer the family and opportunity to lose the dreaded "pravenu" label. Furion knew that this was his father yearned for the most. He'd earned enough money to put them in a veritable position financially, but it was still insufficient when pitted against the big hitters in society, the ancient clans. No matter how influential and wealthy they may be, when facing the clans that basically ran the Empire, they were just ants.
 
-"Because that would have missed you the opportunity to get in on the ground floor of a business unlike any other," Guy responded with a mysterious flicker in his eyes.
+However, wealth and an endorsement weren't the only barriers for entry into highborn society. There was a third, which was where Furion fit into his father's plan. What ensures the longevity of a clan? The mages affiliated with it. Not the ones in the family's bankroll, but the ones born into it with the clan's blood coursing through their veins.
 
-"If it's a business unlike any other, what guarantee would I have that my investment would return a profit?" Garlin challenged.
+Furion was the third piece of the puzzle, alas he did not know of it at that time. He was always confused why his father hired so many personal tutors and Teachers after shelling out inordinate amounts of money. His father hoped that Furion would turn out to be talented in some way, and become the pillar that could help transition their business and family into a Clan.
 
-"Touche," Guy admitted. "You must have heard a tonne of ideas that start like this from many an upstarts looking to squeeze you of your money. But you see, I'm different."
+Nonetheless, Furion failed. When it came time to display their prowess, Furion fizzled out. This was because he never took his trainings seriously. He was perfectly happy living a life of indulgence.
 
-"How so?" Garlin smirked back.
+After that instance, his father stopped paying him any attention. Although it wasn't the first time Furion had disappointed his father, it definitely became the last.
 
-"Because I actually did the research," Guy declared as he dropped another copy of the business proposal with a dramatic flare. "You asked for guarantees? Well, Sir, I've done my due diligence and can declare with a high degree of certainty that you will not be disappointed with this investment opportunity."
+Furion lived in ignorance for many years, until one day, after acquiescing to a request from Markus, things started to turn around. As Furion started to apply himself more thoroughly in his training and in the Academy, he could gradually see his father's disinterested gaze softening. An infrequent word of encouragement and commendation here, a reward for good performance there. Furion could clearly see his father coming around.
 
-Garlin furrowed his brows and pulled the proposal towards himself. Although Garlin and Karmin were similar, as they were both successful businessmen, there was a key detail that set them apart. Karmin, at heart, was a creator - his primary affiliation was as a blacksmith. Although he had a strong business sense and insight, in some cases where his creative instincts combated with his objective market trends, he would defer to his instincts. That wasn't the case with Garlin, as he was a capitalist through and through. He built a transportation company from scratch which now encompassed warehousing and storage as well, all using his business acumen which he cultivated through repeated failures and successes. Thus Garlin's nose followed the money, in all ten out of ten cases.
+This was why he was feeling a little anxious about what he was about to do right now. On one hand, he owed Markus, and on the other, he didn't want to agitate his father. In the end, he felt that it was wrong to go back on one's words and threw caution to the wind. He knocked on his father's office door.
 
-Therefore, compared to Karmin, he was quick to grasp the key details listed within the extensively documented report. No claim was left unsupported - there was a wide range of research and legwork put into this document which provided robust guarantees. Garlin's eye's sparkled as his finger drifted along the paper and turned the pages one after another. Within a stimulation half-hour he had finished the report and his eyes darted over to Guy, with a reignited fire of passion burning within.
+"Father, it's me Furion," he said with a cautious yet loud voice.
+
+"Come." His father answered from beyond the door.
+
+____
+
+Garlin Dune, was exhausted. Nowadays, he'd close himself off in his office even if there was no work for him to do, and simply stare into the unblemished ceiling, without a thought roaming through his mind.
+
+His company basically ran itself. There was always some work to do since people always had to transport goods between places. The logistics were unchanging, hiring the required escorts, charting the course and planning stops, all of it had turned into an automaton that no longer required his input. Garlin worked hard to get where he was. He wasn't ashamed to admit that he built the Dune Caravan Management company with his own blood, sweat and the occasional tears, and it was his proudest creation.
+
+Yet why was he feeling so distraught and idle all the time?
+
+The question was answered by a series of knocks emanating from his doors and the voice of his son, his greatest disappointment.
+
+"Father, it's me Furion," the boy called out. There was apprehension in his voice. The boy required something. In fact, this was something Garlin was getting used to nowadays. When before, the boy used to act gung-ho and impertinent, he was slowly turning more polite and mature. Which did bring a smile to Garlin's face.
+
+"Come," Garlin responded. He had nothing else to do anyways.
+
+The door opened gently, and his son's chubby face poked through. The boy bowed to as a greeting and inched closed.
+
+"Sit," Garlin instructed. "Speak."
+
+"Umm, Father," the boy said with a strained smile. "I'm... I was wondering if had some time. You see..."
+
+Garlin growled and said, "Speak properly."
+
+The boy jerked in place and regurgitated his words, "I brought someone who wanted to talk to you about a business deal."
+
+Garlin's eyes narrowed and he had to physically hold himself back from unleashing a regretful sigh.
+
+'Well, at least the boy isn't downright asking to lend money to some miscreants. I can just deny thing after hearing what they have to say.'
+
+"Fine, call them in."
 
 ____
 

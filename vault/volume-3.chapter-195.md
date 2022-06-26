@@ -1,80 +1,78 @@
 ---
 id: 16gjbxqhio6k0bs7ewc639s
-title: Chapter 195 - Blast from the Past (from Another World)
+title: Chapter 195 - Business Proposal
 desc: ''
-updated: 1655142532916
+updated: 1656265271084
 created: 1655022472633
 ---
 
-Guy's elder sister was an ambitious businesswoman. She was tenacious and ruthless, and built her entertainment empire from scratch with no help from the family. It was a task she took upon herself to prove that she was more than just the Larks name.
+"Teacher Larks, you didn't have to come all the way here," Karmin greeted jollily while reaching forward for a fulfilled hug.
 
-She always had the entrepreneur's spirit, and a natural-born insight unlike any other. She was quick to observe the changes in market trend while working as an intern in a record label company.
+As Guy embraced the man in return, he noticed a few changes in his demeanour. For one, Karmin appeared much, much stress-free as opposed to the last time. It was also evident that he had gained a little weight and his face had gained more colour.
 
-After two years of accumulating experience and knowledge, she set off to create her own unique company that recruited talent and trained them to thrive in the perilous industry. She took a page from the systems employed in the East, and tweaked it slightly to achieve great success.
+'It looks like business is good,' Guy though to himself. If only he checked his bank account first, he would realise just how much of an understatement that comment was. The Burning Forge was raking in an ungodly amount of money. After people realised the ubiquity and base strength of steel, they started to adopt it everywhere. Mercenary corps, sects, clans, businesses, heck even the Royal Family placed orders for steel weapons and armours, both enchanted and regular.
 
-For one, the West encouraged individuality and self-expression. Yet because of this mentality, the artists were forced to set out on their own and find opportunities by themselves. Although they could employ agents, the support they received from that side was limited to finding and landing auditions, negotiating pays, and so on. There was little to no support for growth and development, which was available in the agencies of the East.
+It got so out of hand that Karmin was forced to loosen the restrictions on purchase and sale of the alloy, which was preceded by an extremely heated negotiation with the Head of the Smithing and Enchanting Guild. Although a few concessions were made, there were no substantial losses. The Burning Forge, and Guy, still held the patents for the alloy and would receive a percent share from every unit mass of steel sold through the Guild and its channels. The guild and its members could sell steel as ingots and as forged weapons and armours, but enchanting was only allowed through The Burning Forge's stamp.
 
-When an actor failed an audition, or if an album flopped, they would rarely receive tangible feedback on how to improve. There was also little training on how to handle their fame and the media. His sister's goal was to create an agency that could fill in that role. To act as the incubator that nurtured artists and supported them through their journey. 
+Thanks to these events, Guy's account had ballooned significantly, and the bank had taken the initiative to upgrade his status to VVIP. Of course, Guy did not know of this yet since his registered address was expired and they could not correspond with him.
 
-Guy's sister pitched her company to many investors, most did not believe in her vision. They figured that investing heavily into unestablished talent was futile since they would simply jump ship when offered a better contract, which was understandable. But his sister did not give in regardless of the many denials she faced. Unltimately, one woman felt moved by his sister's proposal, and she offered her support. His sister would later marry this woman, but that was a different story.
+"Since it was I who needed a favour, it was only right that I approach you. Besides that, I don't qualify for the 'Teacher' title. You can just call me Guy," Guy said while waving his hands.
 
-During her time pursuing investors, his sister had conducted an unbelievably thorough research of the market. In the process, she had recruited Guy's assistance to help her put together the business proposal. Guy was more than willing to help his sister for free, but she insisted on paying him saying that, "Until I can prove my mettle, you aren't my brother. I am no Larks. I am simply an acquaintance hiring your services."
+"If that is what you prefer, then let's be casual. I believe we've earned this given our business entanglements. You can be comfortable with me and call me Karmin," the man responded jovially and gestured for Guy to take a seat. They were currently in The Burning Forge's office in Radiant City. Guy travelled to the commerce hub of the Maika Duchy to accomplish many things in preparation of setting up his Sect. One of which would require the involvement of a backer with a wide sales channel, an established and substantial business, and an open-mind with the willingess to take risks.
 
-Through this favour, Guy learned a great deal about business management from his sister. He accumulated many valuable skills that he never thought he would ever use again, until he died, transmigrated, and resolved to create his own sect.
+"I received your mail earlier, it indicated that you wanted to discuss something?" Karmin directed the conversation. After getting to know Guy, he understood that just like himself, the man wasn't a fan of useless small talk.
 
-Guy followed his sister's method by the book to put together the business proposal for his venture. He spent two weeks moving from place to place, stalking outside stores and shops, and even interviewed many folk both willing and irritated. It was hard, but it was necessary. 
+"That is true. Before I get to that, though, I would like to talk about a few prerequisite details that support my request," Guy responded and proceeded to explain his goal of starting a Sect.
 
-This is because noone wants to willingly give their money to others. The rich may throw their wealth willy-nilly, but that is only because they know that the expenditure will net a guaranteed return immediately. But such guarantees aren't present when investing.
+Now that Guy had a name for his Sect as well as a location where it could be established, he started to move down the checklist and addressed the next order of business which was income. A sect needed money to sustain itself. Escort missions were a sect's bread and butter, but those were hard to come by since most businesses preferred established sects over hedging their bets on fledgelings. Those that did commission new and less renowned sects wouldn't be able to pay as much. So Guy was sure that his sect wouldn't be able to recoup its expenses by relying only on escort missions. Furthermore, those were often dangerous and he wasn't sure if his students were strong enough to handle them so soon.
 
-With investing, what they get are probabilities. Probability of successfully recouping the amount invested, probability of amplifying their invested amount, and the dreaded possibility of making a loss. Based on how these probabilities are spread, an investor will decide to invest or pass on a proposal.
+An alternative that did not involve underage kids putting their lives on the line was through conducting business. This could involve providing a specialised service or selling unique products.
 
-The probabilities are generated in large part based on the data presented to the investors, and in minor part based on the entrepreneur's drive and vision with their business. A confident entrepreneur with a losing business model is the same as a money-making business model with a half-hearted or nervous entrepreneur. However, the former will be kicked out of the room immediately, while the latter can salvage the situation by selling their business model to the investor and work as an employee in the business.
+To that end, Guy found through research that there were exceedingly complex steps involved in starting a business affiliated with a Sect. Especially within the Solar Empire, where the market was heavily controlled, there were a plethora of requirements that needed to be fulfilled. The most stringent of said requirements was that any company spawned off a Sect could not have physical stores within any commercial district - purchases must be made directly with the Sect. To elaborate, if Guy created a company that provided a good or service, customers could only purchase that good or service by contacting the Sect's sales representative. They could not go to a storefront that acted as the point-of-sale. This was a massive disadvantage because it automatically removed the primary mode of promotion in this world. Essentially, it turns Sects into e-commerce businesses, but without the internet.
 
-To convince Karmin, Guy had to show that he was motivated with his business, and he had to present to him the data that supported the need for his business.
+Apart from this, Guy was faced with other roadblocks common to new businesses, most of which could be solved by building lucrative connections. This could be accomplished by bringing in investors. Investors hold stake in a business and have an active motivation to assure its success. This was Guy's purpose in approaching Karmin.
 
-After collecting a wide range of raw data through primary research, Guy took half a week to compile everything into human-readable form. At this point he was grateful that he had his computer in the RoK. With the help of the spreadsheet program, the word processor, and the printer, the process was trivial. His efforts definitely paid off as Karmin's eyes sparkled and latched on to the colourful graphs presenting the data visually. Rather than seeing abstract numerics sprawled accross the page, graphs are the easiest way to make sense of data so that even a layman can understand it.
+"I see," Karmin hummed once Guy finished speaking. "So I am guessing that your request has something to do with your Sect's possible revenue stream?"
 
-"While you bring forward good points, I am confused as to what your business will do. As in, what is the tangible output from this company?" Karmin asked.
+"That is correct," Guy affirmed.
 
-"Good question. To answer it, I would like to propose to you a series of questions, please entertain me," Guy requested as he pulled out a textbook from his satchel.
+"So?" Karmin inquired as he leaned into his table.
 
-"This is the 'Compendium of Common Metals and Alloys' from the Guild's library. I borrowed it for today's presentation. Only the Guilds have a copy of this book, why is that?"
+Guy smiled and reached into his bag, retrieving a half-inch thick, A4 sized, bound stack of papers and placed it in front of Karmin.
 
-"Because it is expensive to print. And it regularly gets updated," Karmin answered.
+"What's this?" Karmin asked with furrowed brows as he pulled the stack towards himself.
 
-"True, so if I wanted to purchase this book, how much would I have to spend?"
+"The business proposal," Guy explained.
 
-"At least a few gold coins. No one really bothers to purchase these," Karmin responded. "You would have to pay scribes to copy over the content and artists to copy the illustrations. It's a huge hassle."
+Karmin glossed the cover page, "Verum Trading Company? What's Verum?"
 
-"What if I told you that it was possible to reduce the cost to a few silver coins?" Guy probed mystically.
+"It means 'truth' in an extinct language," Guy answered. "If you peruse the Executive Summary on the subsequent page, you will see that my sect is called 'True World Sect'. Hence, to establish a relationship between the company and the Sect, I decided to name the company as such."
 
-Karmin narrowed his eyes and nearly snorted at what he perceived was a joke. But when he noticed Guy's confident smile, he realised that the man was being serious.
+Karmin hummed and proceeded to read through the proposal. Contrary to his expectations, going as far as to exceed beyond it, the report was thorough. Extremely so. It started off with a description of the company's purpose.
 
-"You're kidding!"
+"It says here that, 'The Verum Trading Company seeks to fulfil gaps in the market that the public isn't fully aware of.' This sounds a little vague, can you expand on it?"
 
-"I am here today to propose to you the first product envisioned and designed by Verum Trading Company, the Gutenberg Press," Guy declared. He then reached into his satchel again and pulled out a scroll the length of his forearm.
+"Surely. There is a saying where I come from that 'Necessity is the mother of creation.' People seek out solutions and invent when a vital need is found unfulfilled. People built carts when the need to travel over long distances while transporting heavy goods was found unfulfilled. People built roads when the need for said travel grew perilous and unstable," Guy started. He then shifted his tone and professed a few counterpoints, "But what happens when a large portion of these needs get fulfilled? This is where we encroach upon the territory of the 'wants'. This is a slippery slope, since satisfying wants is not crucial, but merely enjoyable. People needed clothing to protect themselves from the environment, but they wanted fashion to express their individuality and in some cases flaunt their wealth. But that is beyond the scope of our discussion."
 
-As he unfurled it, he revealed a descriptive diagram that presented, in Karmin's eyes, a grandiose machine that could take in sheets of paper and output uniform text.
+"Ironically, its is by satisfying wants is how business' thrive. This is also what separates the lucrative businesses from the ones that just get by. Through my research over the past few weeks in the commercial districts of Radiant City and Wayward Town, I found out that most, if not all businesses that cater to consumer 'wants' do so exclusively with a market segment that has an excess of disposable income and savings. I would like to draw your attention to-" Guy leaned forward and turned the pages of the report. "-here. In this page I have described my observation comparing a Carpenter's Shop in Wayward Town against a Furniture Emporium here in Radiant City. In the Shop, 88% of the clients were of a segment from the low-income bracket. I've defined my criteria for such labels in the reference page at the front. 8% were from businesses looking for cheap and disposable furniture while the rest were simply miscellaneous. However, the Emporium exclusively catered to wealthy clientele. And by wealthy, I mean in both money and power. In fact, I saw they kick out a man who had the finances to purchase their products but lacked sufficient fame."
 
-"This machine utilises a mechanism that we call the Gutenberg Mechanism to stamp text arranged in proper order in the form of blocks, into blank paper," Guy explained. "It utilises the same techniques people use to stamp their identity in official forms."
+"How did you get this information?" Karmin asked incredulously.
 
-"Can you explain how this process works?" Karmin inquired as he squinted at the paper.
+"I stalked outside the stores and took surveys. The people visiting the Shop were more forefront with their answers. For the Emporium, I had to rely solely on my observations, so they may be skewed or biased - just a fair warning," Guy clarified. "But I want to point out that the Emporium made a heck of a lot more out of their sparse sales as opposed to the Carpenter with his apprentices who outputted more units per order. I also noticed that the variety of products sold by the Carpented were sorely lacking, while the Emporium had a myriad of products with varying designs."
 
-"These are called letterpress blocks that contain singular letters extending outwards and reflected. To manufacture these, you can use casts with molten bronze. We can customise these and generate a myriad of typesetting fonts to match the nature of the text. For instance, this textbook is informative and needs to be devoid of flagrant embellishments. To accomplish that, we can utilise the following font which are called Simple Serif and Simple San Serif. For more vibrant text, we can use fonts like this one which I call Cursive," Guy explained while pointing out at sections on the scroll.
+"Well the Carpenter's clients don't really seek such ornamentations," Karmin pointed out.
 
-"The blocks can be arranged in a line, note that the text is backwards since when you print it the imprint reflects. You can arrange multiple lines to form a page."
+"Exactly!" Guy said while snapping his fingers. "Why is that?"
 
-"This seems to take a lot of time," Karmin commented. "Wouldn't it be easier for a scribe to write out the page?"
+"Why is what?"
 
-"That would be true if the intention is to write one page at a time. But the way this press works is by printing out multiple batches all at once. You see, after typesetting a page, all you need to do is affix it here and dab the ink over it like so. Finally, you place the paper over this and bring down the lever of the Gutenberg mechanism. After a few seconds, the lever can be pulled back and voila!" Guy finally gestured at the last diagram. "You get a completely typeset page immediately. While typesetting takes time, printing takes barely a minute. You can print over a hundred copies of a page within an hour. Then you set for the next page and repeat the same. Within a week you can output over a hundred copies of a book with only four people working the machine. The best part is that every book will be exactly the same. And if the workers are properly trained and educated, the margin of error is low. As a businessman, you should already be able to envision the benefits of this machine."
+"Why is it that the Carpenter's clients don't seek these ornamentations? Why is everyone - by that I am referring to the large segment of the market that fall under the middle to low income brackets - suddenly just content with mediocrity and living a mundane life?" Guy professed animatedly. 
 
-Karmin nodded enthusiastically as his eyes widened into saucers. "You no longer have to worry about variations in script due to differences in scribe habits. Heck, you don't have to hire droves of scribes in the first place! The unbelievable fact is that this miraculous machine doesn't even rely on magic or mana, so just about anyone can use it."
+Guy decided to pull a few tricks he learned from his sister from his past life, and blasted Karmin with a declaration that shook the man to his core.
 
-"This machine!" Karmin exclaimed as financial mathematics rattled off in his mind. "How much will it cost to manufacture?"
+"Everyone wants," he said with a weighty voice that started to crescendo as he spoke on. "Everyone wants, but most lack the frame of mind to pursue it. People believe that certain excesses are beyond their station - that they are solely for the rich and powerful - and that they don't deserve it. But the Verum Trading Company aims to disprove this mentality. A farmer can enjoy the luxury of owning their very own chaise longue without having to feel heartache over shelling out an inhuman amount of currency. And similarly, a Carpenter need not fret over being unable to fulfil that demand should the farmer approach them."
 
-"Through my research, I found that the issue does not lie in the cost of the materials but rather the time and expertise. Most of the parts needed to materialise this require some intricate tool work for which we will need some expert blacksmiths and woodworkers, which I am sure you have connections with. I have developed blueprints for these parts, which I will share in due time. But before that, I will need to hear your opinion and decision on the proposal," Guy concluded.
-
-"So, what do you say?"
+"Every need or want can be fulfilled by ingenuity and creativity. This is Verum Trading Company's motto. We seek to output products that address the overlooked gaps in the market that are wells of wealth waiting to be tapped."
 
 ____
 

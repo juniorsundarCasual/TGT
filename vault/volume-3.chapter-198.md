@@ -1,104 +1,98 @@
 ---
 id: dmi9pnuj3vi5qds5afhiaec
-title: Chapter 198 - Hitting up an Old Friend's Father
+title: Chapter 198 - Hitting up an Old Friend
 desc: ''
-updated: 1655704106107
+updated: 1656265220090
 created: 1655621401016
 ---
 
-"So let me get this straight," Furion interjected as he massaged his forehead. "You dropped out of the Academy because your Master, Mister Larks here, was, for the lack of a better word, kicked out?"
+Markus was in a perpetual state of heightened awareness and anxiousness.
 
-"I mean, there's a lot of better words to describe that situation," Guy muttered with a bitter smile. "Fired, let go of, dismissed, discharged..."
+"Can I get you anything, Sir?" A courteous feminine voice caused him to jolt in place. He turned to face the smiling facade of an objectively beautiful woman, garbed in a conservative yet elegant pastel-red robe. Her face was painted to accentuate her sharp features, and was made to look as natural as possible. Markus figured that was the theme they were going for, sincerity. Even the woman's smile looked real, her eyes were lax with folds forming by their sides complementing her slight smile.
 
-"And now, you're planning to start your own Sect?" The boy continued, ignoring that little aside.
+"I-I- No, thank you," Markus answered, swallowing an audible gulp. As he observed the woman recede out the room and slide the door close without turning her back to him, he violently tapped his belt satchel and sighed in relief after confirming something.
 
-"That summarises the situation," Markus affirmed.
+Markus wasn't used to being treated this way, with such deference. Especially given where he was right now.
 
-Furion released a sigh charged with a myriad of emotions, and shot a suspicious gaze at the Master-Disciple duo. "Where do I fit into all of this? Are you asking me to join your Sect?"
+During his time at the Academy, Markus had heard of a legendary restaurant in the entertainment district. In fact, he heard that it was a restaurant in name only and that in reality it was just as grand as the Emperor's palace. Markus never got the opportunity to verify these rumours at that time, given how he had more pressing issues to contend with. So he was shocked when his Master instructed him to book a private table for Sect business. At first he was apprehensive, he was sure that booking reservations in a restaurant most compared to the monarch's palace would be far from trivial. Before he could voice that thought, his Master plopped a luminescent bank account token in his palm. He then instructed Markus to visit the bank and withdraw some funds to "expedite" the reservation.
 
-At this stage, Guy stepped in, "Financing."
+It was when Markus pursued that side-task that the second bombshell collapsed on him. The moment he entered the bank and displayed the token, he was dragged inside by a small squadron of powerful mages who proceeded to interrogate him on how he got his hands on the token. After a rather charged inquiry, the bank performed a complete one-eighty. He was whisked out from a dreary prison-like setting to a luxurious lounge being waited on by an armada of servants and a butler ready to bring him anything he requested while they verified his transaction.
 
-Before Furion could speak up in denial, Guy raised his palm and expounded, "Dune Caravan Management."
+During his wait, Markus finally understood that his Master hadn't been jesting when he repeatedly warned him about his wealth. His Master was loaded! Legitimately loaded! Markus hadn't seen that many zeroes after a number in his entire life!
 
-"That's my father's business. I don't know if I can help you there," Furion replied shaking his head.
+He exited the bank with a small pouch filled with gold coins hidden in his satchel. The mere presence of that hot potato raised his anxiety levels to the max. Markus would intermittently tap his satchel to make sure that the coins remained there, unaware that his skittering behaviour had attracted the eyes of actual pickpockets. But before they could make their move, Markus turned a corner and arrived in front of The Golden Plate, the premier eatery in all of Radiant City, and possible the Solar Empire. No one wanted to get caught in these neck of the woods.
 
-"What we need is a foot through the door, that much you can do," Guy reinforced. He noticed the conflicted emotions flashing across Furion's face and added, "Don't worry. It is a lucrative offer. If you are interested, I can take you through it right now."
+Markus was so absorbed in protecting his booty that he failed to enjoy the visual before him. The Golden Plate was a marvel of modern architecture. By using marble to create intricately carved designs that evoked an imperious aura of exclusivity and wealth; it was the epitome of luxuriance. The restaurant was tall, seven storeys tall, and had balconies extending out from each floor which, if observed from above, gave the building an appearance of a blooming lily.
 
-Furion inhaled with a shaking breath as he mentally calculated the offer. "No, it's fine. I owe Boss Markus too much - this is the least I can do. Like you said, I can get your foot through the door, but I won't be able to stop it if my father decided to ignore it and brings the door down on your legs."
+The first person to greet Markus was a man garbed in a formal suit sporting a well-meaning smile. He welcomed Markus and led him to a reception area where another individual approached him and asked whether Markus had a reservation. Markus said no, to which the man immediately offered a possibility for an expedited reservation which was a but more expensive. Markus acquiesced since it was part of his Master's instructions and ended up paying, rather suspiciously, exactly a quarter of the gold coins in his pouch. It was exact because the prescribed fee went down to the copper denomination in its precision.
 
-"That's more than enough," Guy smiled back. "Now then, let's eat. I've booked a hearty lunch, would be a shame to not enjoy it."
+Markus shook his head with a wry smile and followed a third individual, the woman who would frequently greet him and ask him for his order, to a private dining room.
 
-That, Furion could get behind. He'd never actually eaten at The Golden Plate before. Even though his family was rich and well off, they rarely ate out in such luxurious establishments unless it was to wine and dine a potential client or business partner. Even then, his father actively avoided The Golden Plate due to its exorbitant prices.
+A few minutes after Markus settled into a seat, the doors to the room slid open. Suprisingly, Markus wasn't able to hear or even sense any presence from outside the room. He figured that the area was probably lined with a multitude of formations that isolated the private dining room.
 
-In fact, Furion was partly assuaged about introducing this Guy Larks to his father because the man could afford to dine him here. Just to test out the theory further, Furion made it a point to order one or two of the pricier dishes on the menu and gauged at the man's facial expressions. Noticing nary a ripple, Furion was sure that one, this man was serious and two, he had a lot of money to spare. Taking money from the rich was basically business 101!
+"Boss!" A cheerful voice boomed through as the hostess moved to the side, revealing a portly young man Markus' age.
 
-Furion patted his stomach after gulping down the last sip of the Jasmine-Infused Saffron Tea and exclaimed with a hearty, "Aaaah!"
+"Furion Stoll," Markus greeted and approached with open arms. The two friends embraced for a brief moment and separated. Markus immediately gestured for his companion to sit down, and they began conversing.
 
-"That was delicious," he added. "Let's get going then."
+"What happened? You just disappeared off the face of Gaea," the burly boy named Furion inquired as he squirmed into the comfortable cushion of his chair. 
 
-____
+"Circumstances required my departure," Markus answered rather vaguely. "How's everything going? How's the Academy? Oh, and how are Fenman, Fuegan and Fennis?"
 
-"Is my father in?" Furion inquired the rugged looking, beast of a man guarding the door to his father's office.
+Furion scratched his forehead and asnwered, "Things are moving as they always have back at the Academy. Though, there have been some positive changes since Teacher Way took the Vice Principal position-"
 
-"Little Boss Furion," the man greeted with a bow. "Boss Dune's inside, yes."
+"Didn't Teacher Way just recently achieve his license? How did he pull that off?"
 
-"Is he busy?"
+"There was an inter Academic Tournament against the Far Horizon Academy from down South, and Teacher Way and his Students pulled out some flashy victories that gained the Radiant Academy a hell of a lot of advantages," Furion shrugged. "There were a bunch of other stuff as well. He achieved two 2-star licenses in Painting and Alchemy, and then boosted through two a 2-star Teaching License within the span of a month."
 
-"He told me to not let anyone in. I dunno if he's busy or not 'cause he tells me that everytime, so..." The man answered while scratching his bald head.
+Furion frowned and commented, "Now that I'm saying it out loud, it doesn't make much sense... What kind of a monster is he?"
 
-Furion sucked in a fraught breath through his teeth as he contemplated on how to progress. After a rather momentous year, Furion had finally moved into his father's good graces. Prior to the turnabout Furion implemented to his worldview and persona, in large part due to Markus' intervention, his relationship with his father was quite strained. They rarely talked, and Furion always had the feeling that the man didn't really care about what happened to him.
+He paused to ponder on that tangent before waving his hands and continuing, "As for Fenman, Fuegan and Fennis, those three are doing well. If you have time, we should meet up later, Boss. Hit the entertainment districts, maybe visit a brothel or two!"
 
-He did care once, though. Many years back. His father would dote on him, buy him everything he wanted. Reprimand him when he made a mistake, and praise him when he did something commendable. But somewhere along the way, things started to go sour and their relationship diverged. Furion didn't know why back then, and it remained that way for a very long time since then. This was until Furion became properly acquainted with Markus, and changed his approach.
+Furion immediately bit his tongue and said, "I forgot that Fuegan got hitched! His new fiancée is a firecracker. She'd murder him if he got caught sniffing around such places. And then she'd castrate us for tempting him..." Furion gulped while suppressing a shudder.
 
-Furion thought that by acting out and getting into trouble, he could once again recapture his father's attention. Maybe that way he would care again? But that was the false path, since everything he did get into some mischief and had his father come bail him out, he could feel him moving further and further away. However, after a thorough searching of his memories, Furion figured out the reason and he realised that it had to do with why his father started pushing him away in the first place.
+Markus chuckled as Furion continued elaborating on the trivial goings on back at the Academy. Although Markus held no affection or nostalgia for that hell-hole, he definitely missed those four bully-turned-friends for all the hijinks and antics they got into.
 
-It happened one day when his father invited a client. Furion was told that the client was special. Yet, it was only a bit later that he learned to what extent they were 'special', and just how idiotic of an understatement the word 'special' was to describe them. These clients happened to be directly related to the Emperor, with just a few degrees of separation. Clamping them down would have been a massive deal for the business and for the family. Not only would it rake in a lot of potential revenue and extend their connections, it would also offer the family and opportunity to lose the dreaded "pravenu" label. Furion knew that this was his father yearned for the most. He'd earned enough money to put them in a veritable position financially, but it was still insufficient when pitted against the big hitters in society, the ancient clans. No matter how influential and wealthy they may be, when facing the clans that basically ran the Empire, they were just ants.
+If he were being completely honest, Markus was initially averse to forming a friendship with the four greatest miscreants who tormented most people back at the Academy. The F4, as every one called them, were one of the more prolific bullies in the Academy. Although his interaction with them was sparse, it wasn't pleasant either.
 
-However, wealth and an endorsement weren't the only barriers for entry into highborn society. There was a third, which was where Furion fit into his father's plan. What ensures the longevity of a clan? The mages affiliated with it. Not the ones in the family's bankroll, but the ones born into it with the clan's blood coursing through their veins.
+However, Master Larks told him that he should consider getting close to the F4 not with the intention of forming a sincere friendship, but one that was based on a give-and-take policy. He should assume a position where he could contribute something of advantage to them, and in turn they would involuntarily enter a favour-owing mindset when interacting with him.
 
-Furion was the third piece of the puzzle, alas he did not know of it at that time. He was always confused why his father hired so many personal tutors and Teachers after shelling out inordinate amounts of money. His father hoped that Furion would turn out to be talented in some way, and become the pillar that could help transition their business and family into a Clan.
+What could Markus contribute to people who could buy everything they wanted? Their fathers' approvals of course. After some research, stalking and spying, Markus found out that the four acted out mostly to attract their parents' attentions, which were usually distracted with their own businesses. 
 
-Nonetheless, Furion failed. When it came time to display their prowess, Furion fizzled out. This was because he never took his trainings seriously. He was perfectly happy living a life of indulgence.
+All four were second-generation rich brats of self-made businessmen. The parents were preoccupied with growing their fortune since they had personally experienced the pain of poverty. While the heirs, who were born with everything, lacked the one thing they sorely yearned for.
 
-After that instance, his father stopped paying him any attention. Although it wasn't the first time Furion had disappointed his father, it definitely became the last.
+Thus, Markus enacted his plan. Through some pretty basic social maneouvering and suggestion, he encouraged the F4 to shift their enthusiasm into their studies. By fooling them into learning stuff and applying their knowledge, their academic measureables started to rise incrementally.
 
-Furion lived in ignorance for many years, until one day, after acquiescing to a request from Markus, things started to turn around. As Furion started to apply himself more thoroughly in his training and in the Academy, he could gradually see his father's disinterested gaze softening. An infrequent word of encouragement and commendation here, a reward for good performance there. Furion could clearly see his father coming around.
+Within months, they were elevated into the top ten of the cohort, which immediately granted them their parent's attention and love. And thus Markus gained four valuable favours which was implicitly NQA (No Questions Asked).
 
-This was why he was feeling a little anxious about what he was about to do right now. On one hand, he owed Markus, and on the other, he didn't want to agitate his father. In the end, he felt that it was wrong to go back on one's words and threw caution to the wind. He knocked on his father's office door.
+Today, Markus was planning to cash in his first one for the benefit of the Sect.
 
-"Father, it's me Furion," he said with a cautious yet loud voice.
+"That's enough of my rattling," Furion threw out as he gulped down a mouthful of water to wet his parched throat from all the talking. "So Boss, how're things with you? Anything good happen?"
 
-"Come." His father answered from beyond the door.
+Markus nodded and released his control over his mana. The wave washed over Furion and nearly caused him to choke on his spit.
 
-____
+"Y-You broke through?" Furion exclaimed in shock, which turned into sincere awe. "As expected of Boss! That Gaige's been flaunting around the campus like he's the shit. He just got lucky. Are you here to teach him a lesson?"
 
-Garlin Dune, was exhausted. Nowadays, he'd close himself off in his office even if there was no work for him to do, and simply stare into the unblemished ceiling, without a thought roaming through his mind.
+Markus chuckled at the boy's enthusiasm and spirit. "Revenge can be exacted at any point in time. The more you let it cool, the sweeter it tastes."
 
-His company basically ran itself. There was always some work to do since people always had to transport goods between places. The logistics were unchanging, hiring the required escorts, charting the course and planning stops, all of it had turned into an automaton that no longer required his input. Garlin worked hard to get where he was. He wasn't ashamed to admit that he built the Dune Caravan Management company with his own blood, sweat and the occasional tears, and it was his proudest creation.
+"Well said," Furion agreed while flashing a thumbs-up.
 
-Yet why was he feeling so distraught and idle all the time?
+"By the way, Boss," Furion commented. "Why did you call me here? Before that, how can you afford this place? Not to be disrespectful or anything, but weren't you an orphan? Wait! Did your true family discover you? Are you a descendent of some rich royals? I knew it!"
 
-The question was answered by a series of knocks emanating from his doors and the voice of his son, his greatest disappointment.
+Markus smiled wryly as his companion's overactive imagination started to bloat the circumstance exponentially with each passing second.
 
-"Father, it's me Furion," the boy called out. There was apprehension in his voice. The boy required something. In fact, this was something Garlin was getting used to nowadays. When before, the boy used to act gung-ho and impertinent, he was slowly turning more polite and mature. Which did bring a smile to Garlin's face.
+Before he could interrupt and explain himself, the door to the room slid open once again, and the woman proclaimed, "The host has arrived."
 
-"Come," Garlin responded. He had nothing else to do anyways.
+"Master!" Markus greeted while standing up.
 
-The door opened gently, and his son's chubby face poked through. The boy bowed to as a greeting and inched closed.
+"Markus," his Master responded with a nod.
 
-"Sit," Garlin instructed. "Speak."
+"Master?" Furion blurted out in confusion.
 
-"Umm, Father," the boy said with a strained smile. "I'm... I was wondering if had some time. You see..."
+"Ah, you must be Mister Stoll, Markus's friend," his Master commented as he extended his arm towards Furion.
 
-Garlin growled and said, "Speak properly."
+"Master?" Furion repeated while alternating his gaze between Markus and his Master.
 
-The boy jerked in place and regurgitated his words, "I brought someone who wanted to talk to you about a business deal."
-
-Garlin's eyes narrowed and he had to physically hold himself back from unleashing a regretful sigh.
-
-'Well, at least the boy isn't downright asking to lend money to some miscreants. I can just deny thing after hearing what they have to say.'
-
-"Fine, call them in."
+Markus coughed, "Furion. Let me explain..."
 
 ____
 

@@ -1,54 +1,134 @@
 ---
 id: n0o3dgnca6op2mcgnxyb1ja
-title: Chapter 201 - Covering all of the Bases
+title: Chapter 201 - Securing an Investment and Gaining an Employee
 desc: ''
-updated: 1656245788805
+updated: 1656265168491
 created: 1656225192711
 ---
 
-Guy did not anticipate scoring an employee this early. Though it came as a surprise to him, it was a welcome one. To top it off, the employee brought with him a generous investment package. Unfortunately, Guy was unsure as to what Garlin expected with this engagement. What was Guy supposed to teach Furion?
+"This is fantastic," Garlin praised while pointing at the varied instances of graphs peppered accross the report. "It so accurately encasulates everything I want to know, without me having to sit down and deconstruct pages upon pages of unintelligible text and numbers."
 
-'There's still time to hash out those details,' Guy shrugged. He had other things to worry about at the moment.
+"What are these images?" He added while glancing between a pie, bar and line graph conveying three different sets of data.
 
-The 100000 gold that Garlin planned to invest was a bounteous cushion for Guy. Although Karmin's contribution would have been sufficient and Guy could have covered the rest with his own funds, it was always a welcome addition to have more capital when starting a venture.
+"They're called graphs. As you so rightly said, they are pictorial representations of data," Guy affirmed.
 
-Generally, it is important that one use the capital invested to its fullest potential. To that end, it was often discouraged to hold back large portions of the invested capital and leaving it stagnant. This did not mean that one had to fling money willy-nilly with no proper plan, rather to investigate and research further so that the unused capital could find some function and could lead to greater returns down the line. This was what Guy learned from his Elder Sister.
+"Wonderful! Did you invent these graphs?" Garlin responded, but then he caught himself and bit his tongue. "Apologies, I understand if these are trade-secrets of some kind."
 
-According to her, the greatest fear of any new entrepreneur was ending up destitute - or from where they started. It is always a rush to suddenly see money streaming into their bank accounts after a fruitful run at schmoozing investors. Especially when one could never fathom seeing so many zeroes following a significant figure. Thus, it hurt equally, if not more, to see those digits diminishing with each purchase, be it of natural resources, human resources or machinery.
+Guy waved his hand casually and said, "To answer your first question, I wasn't the one who invented them. I do teach about them, though."
 
-This was where she would repeat the worn-out phrase, "You need to spend money to make money."
+Garlin noticed Markus nodding along and asked the boy, "You know how to make these things?"
 
-Taking it at face value, one could easily scoff and dismiss at the blasé and downright prodigal nature of that sentence. However, taking a step back and deconstructing it yields a crucial insight. While the invested capital remains in the bank account, it does nothing. It doesn't grow, nor does it yield anything beneficial. Sure, it is safer there as there is no chance of losing it. But by taking some time to evaluate the business' opportunities and scope, one could use this stagnant capital to plant 'seeds' that could yield 'fruits' over a longer period of time, which in turn could exceed the capital at the time of investment. Better yet, these blooming 'plants' could proliferate and multiply! Agreed that there is always a chance of things falling apart and failing, but starting a business is anything but risk-free. As an entrepreneur, one needs to weigh these risks carefully and make smart and calculated moves. The ability to differentiate and evaluate the nature of these risks is a valuable skill that one is either born with or needs to cultivate through repeated trials and failures. 
+"Master has taught us how to collect, process and present data in human-readable format, yes," Markus answered. "Graphs and charts are included in this."
 
-Guy was anything but a risk-taker, which was why till now he'd only approached people he knew or had some connection with. Was he scare of failure, of course! Who wasn't?
+Garlin pushed out his lower lips and nodded with and impressed expression. His eyes darted to his son who was also perusing through the report, reading the pages he had already finished. A thought sprouted in his mind at that instant, but Garlin didn't actively pursue it for the time being. After a short half-minute, he quickly reverted to the situation at hand.
 
-But now he was about to step into new ground filled with failures and dismissals galore.
+"This Verum Trading Company, you intend to use it to finance the True World Sect which you will be leading," Garlin confirmed.
 
-As of this point, Guy had prepared most of the requirements to start a Sect. He'd secured a location, he'd decided on a name, he formulated a strategy for the Sect to sustain itself, heck he even had the backing of a mage powerhouse for safety. What remained was something of utmost importance to the Sect. In fact, without it the Sect would not have a physical identity.
+Upon receiving a nod from Guy he followed up, "To that end, I have a few questions regarding your Sect, since the two will be inevitably tied together."
 
-The only component left was the Sect's physical infrastructure - the buildings, setting, sanitation, and so on. A Sect could exist in name, encompassing the people that made it up. However, without a place to call their own and identify with, it would all be fleeting. Besides that, these infrastructures were necessary to organise the Sect.
+"Go ahead," Guy agreed.
 
-Guy had conferred with Twilight Village's Head, and they were all for hosting the Sect there. Even the villagers were welcoming the opportunity, primarily because having a sect in close vicinity was often beneficial for any settlement. For one, the settlement would become exempt from paying taxes to the governing body, as the Sect would now have to assume responsibility for the settlement. Although, Twilight Village didn't really pay taxes to the Duchy, which was evidenced by the decrepit nature of the transportation logistics leading to this place. So in general, this was a benefit in the Village's favour. The second reason why the villagers were for it was because when it came time to recruit new blood into the fold, sects would often pick from applicants in close-proximity. This meant that the locals had greater opportunities. Furthermore, While sect members weren't allowed to leave their sects without cause, being in close-proximity to family was always a boon.
+"I am sufficiently informed of the requirements to starting and maintaining a Sect," Garlin started. "How can you guarantee that the Solar Alliance will validate the creation of your Sect?"
 
-While the village was accommodating, Guy did not want his Sect's members to live in thatched and rickety housing, attend classes in unkempt fields or hills, wash themselves in the spring and relieve themselves in a poorly maintained communal outhouse. He wanted to cultivate a sense of pride and belonging amongst the members. They had to feel that they were part of something greater and that they could rely on the Sect at times of need. While this relationship could be developed over time, often times a strong first impression can be used to skip that process.
+"We have the support of a Tesseract Transformation realm mage," Guy declared openly.
 
-This was where the new influx of capital would come into use. Guy had already performed an anticipatory land survey and drafted a rough sketch of what he wanted the Sect to look like. His initial plan was to build the essentials such as the living accomodations, a lecture building, a place for practicing magic, and a public bath. He even plotted out the available land on the mountainside where he wanted these buildings to be placed after clearing the forestry in that area. Guy wasn't planning to introduce the Outer, Inner and Core sect divisions and wanted to utilise experience and knowledge as the factors the generated the hierarchy, thus the theme he went for was approachable and accessible. There were no gates that blocked passage between locations, nor did he plan to implement them in the future.
+Garlin's eyes nearly popped out of his sockets, and his son who was gulping down a glass of water took a legitimate spit-take.
 
-As the Sect generated revenue, Guy planned to build additional buildings that offered more functions. Such as a Library so that Guy could offload all the books in his RoK for the Sect members to read. Just like hoarding money, there was no benefit in keeping knowledge locked away. Guy also wanted to create an Idea Forge Building - something like a freewheeling makerspace where members could pursue whatever caught their fancy. He would populate that building with tools and resources useful for rapid prototyping and getting what was in their minds into reality. Guy wanted to establish multiple specialised Research Buildings, where members could pursue their interests in any field of study. They could investigate the wonders of nature in all its forms, biology, physics, chemistry and so on, whatever caught their fancy.
+"A T-T..." Garlin stuttered. "Tesseract Transformation? H-HOW? WHO?"
 
-Guy had many such ideas in his mind, but was lacking in the resources to implement them. But with this new influx of cash, Guy could extend from the necessities and requisition for some of the more specialised buildings like that Library and the Idea Forge.
+"I believe it would be in our best interest to not agitate them. Though I can provide guarantees of their support. If need be I can add it to the contract."
 
-What followed that day, and lasted for half a week, were a series of quotation inquiries from a myriad of different construction companies established in Radiant City. Before contracting a company to realise his Sect, Guy had to first find one who could cater to his needs at a realistic price. Even if he was quite literally swimming in money, Guy was an ardent believer of frugality. Rather, he believed that it was unnecessary to spend more than what was required - something hard to find amongst children of the rich. It was a personality built through experience roaming around the more impoverished parts of the world
+"Contract?"
 
-Needless to say, finding a suitable contractor was an onerous task, which Guy despised. The first few he visited happened to only cater to the high-end market segment. They didn't even let him get past the welcoming room. The ones that followed were more receptive, but started to flounder and inflate their ask as he started to put forth his ideas and requirements. To an extent, Guy understood their apprehension. After all, some unknown bloke from an unknown village asking to build a Sect with so many requests ought to raise some red flags.
+"Right!" Guy snapped his finger and retrieved the second monstrous paper pile from his satchel and dropped it before Garlin. "These documents are for our potential partnership in this venture. If you are interested in investing and holding a stake in this business, there are additional clauses," Guy added while sliding forward another set of documents.
 
-There were just too many expenditures the contractors had to endure such as transporting the resources to the required location, storage of those resources, hiring and transporting builders, and so on. Even with Guy's exhaustive promises and more than thorough contracts, those old souls with years of experience in their back pockets were quick to dismiss him either upfront or with an unmanageable bill.
+Compared to Karmin's response, Garlin's eyes sparkled with excitement. He rubbed his hands in anticipation, licked his right thumb in preparation of some aggressive page flipping. Guy swore that he saw the man salivating as he mouthed the clauses.
 
-It was the new and upcoming builders that offered manageable quotes. Guy wanted to use the same builder for all of the buildings in order to preserve a common signature. Thankfully one upcoming company, Blue's Constructions (a rather simple name given the owner was lastnamed Blue), took on the project along with all of Guy's requests. Guy then contracted two other companies, Dream Builders (whose owner was lastnamed Dream), and Brave Infrastructures (whose owner's wife was firstnamed Brave) to build a proper road and logistics for sanitation and necessities respectively. Of course, the latter two were of greater importance, since having a serviceable road would augment the ease with which the building resources could be transported back and forth.
+"Oh ho! Smart, smart, I would have missed that," the man commented with a sly chuckle. Every now and then, the man released a similar comment in contemplation or in commendation followed by a sound ranging between a thoughtful hum to a full-blown laugh.
 
-During this time, Guy also managed to lock down the investments from Karmin and Garlin, ammounting to a generous 250000 gold coins from them both, with Guy adding his own whopping 250000 gold coins to balance their investment so that he could secure the 51% of his company's majority shares. Though public trading and limited liability companies didn't exist in this world, it never hurt to be careful and cover all bases. After all, business isn't built on trust, but benefits.
+"Beautiful!" The man concluded as he finished reading the final clause. "I could not find a single lapse or exploitable clause. Every aspect I could think of was addressed and then some. Truly a magnificient contract, this one is. Did you write this, or was a third-pary consulted?"
 
-Overall, within a hectic month, Guy managed to set the development of his Sect into motion. Hopefully within the coming two months, it would all be finished just in time for them to attend the Solar Sect Alliance Conference in the Empire's capital to officially establish the True World Sect.
+"I wrote it, thank you for your kind words," Guy replied with a wry grin. He wasn't completely used to receiving compliments, especially if what he was getting it for wasn't something he was expressly good at. Guy had seen better contracts penned down in his past life, but people far more educated in the field than he was. This barely scratched the surface - Guy was sure that if a more ruthless capitalist with a top-notch legal team were to approach this self-admittedly haphazard contract, they could drill holes into it like a worm devouring a tasty fruit.
+
+"I must say that I am truly impressed by... well everything, really!" Garlin exclaimed. "The proposed venture is robust, and based on your research, which I must say has floored me in its meticulousness, it will be profitable. Although I have yet to see some of the products your company will develop and sell, I can infer from your confidence that you have some plans in motion?"
+
+"That I do," Guy affirmed. "I am currently in talks with Karmin Zola of The Burning Forge. Not only is he an investor, but The Burning Forge will also act as the manufacturer of our products."
+
+"You got Karmin in on this?" Garlin blurted out in suprise. The man and his company's name were in most people's lips these days. The advent of the Steel had changed the market landscape, shaking it to its core. The alloy was as durable as Dwarven metal with enchanting capacity close tot it as well. What really shattered the market was the affordability of the metal - it was nearly as cheap as iron for goodness’s sake! Steel weapons and armour had become commonplace in most places, it was just that good.
+
+"Yes, currently, we are at the prototyping stage of a device," Guy added. "The product is owned completely by Verum Trading Company. The Burning Forge only has the rights to manufacture. They don't have rights to sell it either, so a purchase of said products need to be validated through Verum Trading Company or True World Sect," he emphasised immediately after. That answered a question that was about to roll off of Garlin's tongue, which was 'Why should I invest in your company if I can get it from the manufacturer.'
+
+"That's a smart move," Garlin commended.
+
+"As for your earlier question about the products in our catalogue, let me introduce you to the Gutenberg Press," Guy started. He then went on to give an overview of how the device worked minus excessive technical details since he recognised that his audience wasn't as experienced in this field as Karmin. That, and because he wasn't fully sure if Garlin was on-board with the business. Unlike Karmin, Guy could not get a proper read on Garlin likely due to his years of experience in this ruthless environment.
+
+"I believe we can even start a publishing company after creating this product. All the while, a company under Verum's umbrella could take on publishing contracts for large scale manufacture and sales." this time it was Furion who spoke up. The boy had been silent this entire time, making himself as scarce as possible. However, his eyes gained a motivated glimmer as he blurted out his ideas. "Apart from that, instead of selling these machines, they could be leased to others at first."
+
+"What is your rationale behind the decision to lease instead of sell?" Garlin directed to his son calmly. The boy jerked in surprise.
+
+"Umm, I mean..." Furion stuttered.
+
+"Speak clearly," Garlin emphasised.
+
+"I-If, I mean if they sell the products from the beginning, there is little guarantee that the purchaser won't open up the product and steal its designs. Leasing can help avert those problems. First, a breakdown mechanism could be installed inside the machine that causes the product to malfunction if someone opens it. Then, when the product fails to work after being put together, Verum Trading Company can impose a penalty on the buyer. Maybe a clause can be added to the leasing contract?" Furion listed.
+
+Guy shuddered upon seeing the little capitalist's mind at work. Back on Earth, many corporations implemented such devious methods inside their own devices to avoid theft in cases where patent litigation could not be extended. Nonetheless, Guy was completely for Furion's suggestion. In this world, there were no such things as patents and copyrights. The only cases where intellectual property rights were respected occured when guilds became involved. Such as the deal Karmin had with the Smithing and Enchanting Guild.
+
+"You seem taken with this product," Garlin commented, directing it to his son.
+
+"Well, it seems fresh," the boy admitted.
+
+"What do you think of the company?" Garlin followed up.
+
+"The proposal presents a worthwhile investment," the boy answered. Although he'd spent most of his time before as an aimless schion, Furion had some knowledge through following his father.
+
+"It's decided then!" Garlin declared. "I will invest in Verum Trading Company. I will partner with the company for distribution. Though, I do have some conditions."
+
+"We can negotiate the deal, sure," Guy responded.
+
+"I am willing to invest 100000 gold coins," Garlin said. "But it will be in the name of my son."
+
+"What?!" Furion shrieked.
+
+"He will be your contact and facilitator at Dune Caravan Management. If there is anything you need done, it will go through him and him alone.," Garlin continued. "Essentially, I want him to become an employee at your Verum Trading Company."
+
+"Won't that be a conflict of interest?" Guy probed.
+
+"It would," Garlin answered. "But from the date of signing this contract, the boy will no longer be bankrolled by me."
+
+"Father?" Furion uttered in shock.
+
+"You will live in this house, your essentials will be funded by deducting a percentage of the salary you earn from your work at Verum. You will be responsible for every other expenditure of yours from this point on," Garlin declared.
+
+"Will that be a problem?" Garlin asked Guy. But the question felt rhetorical.
+
+"You wish to educate your son through this?" Guy rephrased.
+
+"I do," Garlin answered.
+
+"Why?"
+
+"Furion here and his group of wastrels spent less than a year with your Disciple and changed completely," Garlin started. "I was always intrigued by how a single boy could accomplish such a feat. But after meeting you in person, I can see your fingerprints on his personality."
+
+"Markus here managed to elicit changes in my son in months, where I failed over years," Garlin confessed with a sorrowful frown. "I won't be shameless and foist him upon you without renumeration. You can treat those 100000 gold coins less like an investment and more like fees to teach my boy. Treat him how you see fit, pay him what you feel is appropriate, just please do anything to fix my mistakes."
+
+"Father," Furion said with a wavering voice.
+
+"I made a mistake," Garlin continued while shaking his head, speaking to his son this time. His voice sounded aged and worn out. "I pushed my expectations upon you without taking your feelings into consideration. You are a talented and thoughtful boy, it's just that I wasn't good enough to nurture it well."
+
+Furion's eyes threatened to tear up, but he quickly dabbed them and looked away.
+
+"So, Sect Leader Larks. Do you find these conditions acceptable?" Garlin redirected. His face had mellowed out, and there was a pleading and hopeful intonation in his request.
+
+To that, Guy frowned and said, "So you're basically saying that you will invest in my company if I take in a new student, for an exorbitant fee at that?"
+
+As Garlin nodded, Guy said, "I don't accept."
+
+Before the man's face drooped in defeat, Guy warped with a sly smile and said, "I was here for an investment, and I will take your money as an investment. You will be eligible for the benefits that come with said investment as stipulated in the contract. Apart from that, I accept the employment of your son into Verum Trading Company in concordance with your conditions (to be amended into the contract). This employment will involve an extensive training phase which will intimate him with all the aspects of the business and will cover a wide range of skill."
+
+Guy extended his arm forward and concluded, "Are those conditions acceptable?"
+
+Garlin laughed uproariously as he interpreted Guy's words, "We have ourselves a deal then!"
 
 ____
 
