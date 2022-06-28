@@ -2,7 +2,7 @@
 id: l9vnstr3u6eacbswha9d5rq
 title: Chapter 194
 desc: ''
-updated: 1656356369710
+updated: 1656441767933
 created: 1654412176258
 ---
 
@@ -40,7 +40,49 @@ Grace waved a soap bar which she retrieved from her satchel hanging over her sho
 
 "Now, tell me. What's eating at you?" Grace asked casually.
 
-"I'm just feeling worried," Jean answered without hesitation. After settling her apprehension through the mundaneness of tending the plants, her mind was sufficiently unburdened and open to sharing.
+"I'm just scared," Jean answered without hesitation. After settling her apprehension through the mundaneness of tending the plants, her mind was sufficiently unburdened and open to sharing.
+
+"Why?" Grace retorted with a mild frown laced with concern.
+
+"Sect Leader Larks is planning to create his own Sect. He's calling it the True World Sect," Jean started. "It's great! I agree with his vision and goals, they are admirable, but..."
+
+"But?"
+
+Jean slowed her steps and lowered her gaze to the ground. Noticing a loose stone, she raised her leg and kicked ith hard - with all of her mana concentrated on it. Like a wild stallion released from its reins, the stone burst forward with unparalleled vigour. "But, I'm worried that there won't be any place for me there. I'm scared that I will no longer be able to learn under Sect Leader Larks, with Senior Brother and Big Sis. I'm terrified that I will be all alone again, left to my thoughts."
+
+Though her face remained unperturbed, Grace could feel the unshackled sorrow laced within those words. The girl was visible shaking, trying her hardest to release her pent-up emotions but failing miserably in the end. Grace stepped towards her trembling form and gently cradled her head into her welcoming bosom. With another hand, she patted the girls back.
+
+"It's okay," Grace murmured with a warm purr. "Let it out. Let it all out."
+
+A tense few seconds passed before - just like a pressure cooker releasing its accumulated steam - a long cathartic exhale escaped from Jean's mouth and nose.
+
+"A Sect is a Mercenary Corp at heart," Jean said with a low whimper. "That's how they function and make their money. But Matron Reva, I don't want to hurt anyone! I just can't do it. But I don't want to be kicked out because I cannot contribute to the Sect."
+
+"Is that what you're worried about?" Grace asked in disbelief as she pulled the girl away from the embrace by her shoulder. Grace looked deep into Jean's forlorn eyes and restated, "You're worried that just because you aren't a brute who hurts other people, Guy will discard you from the Sect?"
+
+Jean produced an imperceptible nod to which Grace scoffed and asked, "Do you think Guy would do that? Do you REALLY think he's that kind of a guy?"
+
+Jean hesitated, eliciting stern reprimand from Grace, "I'm disappointed that you still haven't comprehended what kind of a person your teacher is after studying under them for over a year."
+
+"But Sect Leader Larks HAS changed," Jean responded. She went on to explain how Guy's application cases and lessons had taken a more aggressive turn.
+
+"It's about time he did that," Grace commented, much to Jean's surprise. "He's learned that the world isn't so breezy as he'd taught it to be. Besides, Jean, people never change, they only grow. Take a look at this sapling here," Grace pointed at the subject a few metres away from the path.
+
+"It's sprouted in that location, it can't do anything else but grow there. Though, as it grows taller and wider, it can deviate in its trajectory to seek out the most abundant source of nutrition and greatest access to sunlight. Yet, it can never uproot itself and find new ground to call its home. Humans are just like that. When you scrape off all the surrounding layers, dig deeper, you will find out that our core character never changes," Grace returned her gaze to Jean and playfully rubbed the girls head. "Guy's still the same. He's just grown."
+
+With that, Grace picked up her steps and walked towards the orphanage. As she did so, she paused and threw out a final line of advise, "Don't think for a second that you aren't of any use, Jean."
+
+Grace retrieved the dried soap bar from her satchel and waved it around, "You have so much stuck inside your head that's just waiting to jump out."
+
+Jean revealed a rare, faint smile as she observed Grace's confident figure skipping down the path to the orphanage. The words Matron Reva told her resonated inside her mind, lulling the arguing voices to a silent halt. Her face formed a resolute expression as she trudged along. She continued without pause or hesitation until she arrived outside Sect Leader Larks' bedroom door. She exhaled and knocked his door mechanically.
+
+"Jean? Come in," Guy welcomed from inside.
+
+Right as Jean entered, Guy reminded, "Please leave the door open. Sit, sit!"
+
+"Now tell me, what's up?"
+
+Jean looked directly into Sect Leader Larks' eyes and noticed the same gaze that welcomed her into his tutelage a year back. Maybe things did change around here - Teacher Larks became Sect Leader Larks - but just like Matron Reva said, the man within hadn't changed. Now, without procrastinating any further, Jean opened her mouth and explained her concerns.
 
 ____
 
