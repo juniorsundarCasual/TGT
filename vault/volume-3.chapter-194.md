@@ -1,14 +1,14 @@
 ---
 id: l9vnstr3u6eacbswha9d5rq
-title: Chapter 194
+title: Chapter 194 - The Same Person
 desc: ''
-updated: 1656441767933
+updated: 1656443464142
 created: 1654412176258
 ---
 
 The class was dismissed and everyone went their way, except for Jean who remained in place for a while, silently chewing on her lips with a faint conflicted expression flashing forming on her face.
 
-'Maybe another time?' She concluded unassuredly. Seemingly, Sect Leader Larks had forgotten about the appointed discussion amidst the hectic naming debate. She wanted to remind him once again, but held back her tongue at the last minute because she was worried. Fear was brewing inside of her.
+'Maybe another time?' She concluded unassuredly. Seemingly, Mister Larks had forgotten about the appointed discussion amidst the hectic naming debate. She wanted to remind him once again, but held back her tongue at the last minute because she was worried. Fear was brewing inside of her.
 
 #Pathetic wimp!#
 
@@ -16,7 +16,7 @@ The class was dismissed and everyone went their way, except for Jean who remaine
 
 #Shut up!#
 
-Jean shook her head to silence the voices assaulting her mind. She exhaled a troubled breath and lamented silently. She'd taken a large step forward, but things were starting to regress. She was scared, but she didn't know how to bring it up in front of Sect Leader Larks. She empathised with his decision to create a Sect, but she also didn't want to disappoint him by being a hindrance.
+Jean shook her head to silence the voices assaulting her mind. She exhaled a troubled breath and lamented silently. She'd taken a large step forward, but things were starting to regress. She was scared, but she didn't know how to bring it up in front of Mister Larks. She empathised with his decision to create a Sect, but she also didn't want to disappoint him by being a hindrance.
 
 'What do I do?' She sighed. Amidst her anguish, the voices started to pick up steam once again. She had to spend a greater portion of her consciousness to appease them both. As she did so, she entered a preoccupied trance and her body ran on autopilot. She walked, and walked, and walked onwards, uncaring of where her feet took her. She continued moving at a steady and mechanical pace, until suddenly, a myriad of familiar fragrances assaulted her senses.
 
@@ -26,7 +26,7 @@ Jean bent down and inspected the flowers blooming in a systematic grid with a ge
 
 "You're in late?" Grace's voice commented from behind her. Jean jolted her neck and addressed the garden's owner and caretaker with as sincere of a smile her face could muster. Jean acknowledged Grace's question with pursed lips and an inattentive nod. It was close to sunset - Jean didn't usually visit the gardens during this part of the day. Usually, Jean frequented the gardens early in the morning.
 
-"If you're here now, it means something's bothering you," Grace deduced accurately. Once again, Jean was completely floored. There weren't that many people in this would who could read her so easily like a book, especially after her treatment. In fact, she could count the number of people with just one hand- no- just two fingers. The first, of course, was her teacher, Sect Leader Larks. The second, surprisingly, was Matron Reva.
+"If you're here now, it means something's bothering you," Grace deduced accurately. Once again, Jean was completely floored. There weren't that many people in this would who could read her so easily like a book, especially after her treatment. In fact, she could count the number of people with just one hand- no- just two fingers. The first, of course, was her teacher, Mister Larks. The second, surprisingly, was Matron Reva.
 
 Grace noticed Jean's eyes faltering and her lips moving up and down. Whatever the girl was struggling with, was something she found difficult to vocalise. No matter, "Help me survey the garden first. Tell me what's on your mind after. Okay?"
 
@@ -44,11 +44,11 @@ Grace waved a soap bar which she retrieved from her satchel hanging over her sho
 
 "Why?" Grace retorted with a mild frown laced with concern.
 
-"Sect Leader Larks is planning to create his own Sect. He's calling it the True World Sect," Jean started. "It's great! I agree with his vision and goals, they are admirable, but..."
+"Mister Larks is planning to create his own Sect. He's calling it the True World Sect," Jean started. "It's great! I agree with his vision and goals, they are admirable, but..."
 
 "But?"
 
-Jean slowed her steps and lowered her gaze to the ground. Noticing a loose stone, she raised her leg and kicked ith hard - with all of her mana concentrated on it. Like a wild stallion released from its reins, the stone burst forward with unparalleled vigour. "But, I'm worried that there won't be any place for me there. I'm scared that I will no longer be able to learn under Sect Leader Larks, with Senior Brother and Big Sis. I'm terrified that I will be all alone again, left to my thoughts."
+Jean slowed her steps and lowered her gaze to the ground. Noticing a loose stone, she raised her leg and kicked ith hard - with all of her mana concentrated on it. Like a wild stallion released from its reins, the stone burst forward with unparalleled vigour. "But, I'm worried that there won't be any place for me there. I'm scared that I will no longer be able to learn under Mister Larks, with Senior Brother and Big Sis. I'm terrified that I will be all alone again, left to my thoughts."
 
 Though her face remained unperturbed, Grace could feel the unshackled sorrow laced within those words. The girl was visible shaking, trying her hardest to release her pent-up emotions but failing miserably in the end. Grace stepped towards her trembling form and gently cradled her head into her welcoming bosom. With another hand, she patted the girls back.
 
@@ -64,7 +64,7 @@ Jean produced an imperceptible nod to which Grace scoffed and asked, "Do you thi
 
 Jean hesitated, eliciting stern reprimand from Grace, "I'm disappointed that you still haven't comprehended what kind of a person your teacher is after studying under them for over a year."
 
-"But Sect Leader Larks HAS changed," Jean responded. She went on to explain how Guy's application cases and lessons had taken a more aggressive turn.
+"But Mister Larks HAS changed," Jean responded. She went on to explain how Guy's application cases and lessons had taken a more aggressive turn.
 
 "It's about time he did that," Grace commented, much to Jean's surprise. "He's learned that the world isn't so breezy as he'd taught it to be. Besides, Jean, people never change, they only grow. Take a look at this sapling here," Grace pointed at the subject a few metres away from the path.
 
@@ -74,7 +74,7 @@ With that, Grace picked up her steps and walked towards the orphanage. As she di
 
 Grace retrieved the dried soap bar from her satchel and waved it around, "You have so much stuck inside your head that's just waiting to jump out."
 
-Jean revealed a rare, faint smile as she observed Grace's confident figure skipping down the path to the orphanage. The words Matron Reva told her resonated inside her mind, lulling the arguing voices to a silent halt. Her face formed a resolute expression as she trudged along. She continued without pause or hesitation until she arrived outside Sect Leader Larks' bedroom door. She exhaled and knocked his door mechanically.
+Jean revealed a rare, faint smile as she observed Grace's confident figure skipping down the path to the orphanage. The words Matron Reva told her resonated inside her mind, lulling the arguing voices to a silent halt. Her face formed a resolute expression as she trudged along. She continued without pause or hesitation until she arrived outside Mister Larks' bedroom door. She exhaled and knocked his door mechanically.
 
 "Jean? Come in," Guy welcomed from inside.
 
@@ -82,7 +82,7 @@ Right as Jean entered, Guy reminded, "Please leave the door open. Sit, sit!"
 
 "Now tell me, what's up?"
 
-Jean looked directly into Sect Leader Larks' eyes and noticed the same gaze that welcomed her into his tutelage a year back. Maybe things did change around here - Teacher Larks became Sect Leader Larks - but just like Matron Reva said, the man within hadn't changed. Now, without procrastinating any further, Jean opened her mouth and explained her concerns.
+Jean looked directly into Mister Larks' eyes and noticed the same gaze that welcomed her into his tutelage a year back. Maybe things did change around here - Teacher Larks became Mister Larks - but just like Matron Reva said, the man within hadn't changed. Now, without procrastinating any further, Jean opened her mouth and explained her concerns.
 
 ____
 
