@@ -2,7 +2,7 @@
 id: nsj01cdqmr6teifoepmp23h
 title: Chapter 203
 desc: ''
-updated: 1656530887380
+updated: 1656530949530
 created: 1656225206735
 ---
 
@@ -22,7 +22,7 @@ He moved from one and to the other, inspected the floor, the walls and even the 
 
 "This girl- You have no idea of the kind of powers we're dealing with. If what we're about to do in here gets out into the world..." Krish shuddered visibly at the thought.
 
-Marie shot a suspicious glare at Krish and quickly covered her chest with her hands. Krish noticed her movement and scoffed loudly, "Stop distracting me!"
+Marie squinted suspiciously at Krish and stuck out her tongue in challenge. Krish noticed her movement and scoffed loudly, "Stop distracting me!"
 
 "Fine, fine..." Marie muttered as she lay on her back and napped.
 
