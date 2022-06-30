@@ -2,7 +2,7 @@
 id: 3RiRBOJRDQ3vcOxpn2B6Z
 title: Chapter 060 - Change of Scenery
 desc: ''
-updated: 1643623446545
+updated: 1656566732465
 created: 1643569438449
 ---
 
@@ -162,7 +162,7 @@ Guy thought they would following the path which curved away from the large mount
 
 After a few minutes, Guy beheld the orphanage Markus was gushing about. It had a respectable look, much like a courtyard dwelling from the villages. It was built on a small, flat expanse on the sloping mountainside. And just as Markus had told him, there were steps leading down into the village right next to the orphanage.
 
-Guy approached the sign in front of the orphanage and read it out loud, "Taishan Orphanage?"
+Guy approached the sign in front of the orphanage and read it out loud, "Mount Tai Orphanage?"
 
 Markus walked up to Guy and clarified, "Our Matron came up with the name. It's named after the mountain."
 

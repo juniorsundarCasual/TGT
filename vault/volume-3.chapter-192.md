@@ -2,7 +2,7 @@
 id: hx1nee4jkb2enw7rs5we1oq
 title: Chapter 192 - Crowdsourcing
 desc: ''
-updated: 1656265696088
+updated: 1656566712436
 created: 1654412165093
 ---
 
@@ -86,7 +86,7 @@ In truth, Guy did have names, but given his modern sensibilities, they reeked of
 
 On top of that, most of the names he came up with that could hold water were derived from sect names he'd heard in his past life in novels. Although they were great, their significance stemmed from where the sects were located. Furthermore, in truth, Guy did not feel like plagiarising from others' works; even in this life, he would affiliate scientific theories and discoveries with the original scientists even if they did not exist in this world. It just didn't sit right with him to appropriate others' contributions, since Guy was an educator at heart. 
 
-To that end, referring to some classic wuxia novels written by Jin Yong, the Wudang Sect was called such due to it being situated in the Wudang Mountains. The same went for the Huasan Sect, which literally translated to Mount Hua. The Beggers' Sect was comprised of beggars, hence the creative name. Guy would have simply followed these conventions and named his sect Taishan Sect after the mountain the orphanage was built upon, but it also fell under the cringe-worthy category, AND it was also a sword-centric sect from Jin Yong's works.
+To that end, referring to some classic wuxia novels written by Jin Yong, the Wudang Sect was called such due to it being situated in the Wudang Mountains. The same went for the Huasan Sect, which literally translated to Mount Hua. The Beggers' Sect was comprised of beggars, hence the creative name. Guy would have simply followed these conventions and named his sect Mount Tai Sect after the mountain the orphanage was built upon, but it also fell under the cringe-worthy category, AND it was also a sword-centric sect from Jin Yong's works.
 
 So, Guy decided to let his students come up with something. At least if it fell from their mouths, he wouldn't shudder so frantically, and they would also provide a fresher perspective to his writer's block.
 

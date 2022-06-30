@@ -2,7 +2,7 @@
 id: 8FaO2G3Xe3DDoK2AOooUC
 title: Chapter 063 - Reversal of Fortune
 desc: ''
-updated: 1643623530526
+updated: 1656566755582
 created: 1643569446644
 ---
 
@@ -10,7 +10,7 @@ created: 1643569446644
 
 What could cause an invincible powerhouse in the Tesseract Transformation realm to shiver in their boots?
 
-An immensely auspicious golden aura had enveloped the village, a large portion of the Taishan mountain, as well as the forest in its immediate vicinity!
+An immensely auspicious golden aura had enveloped the village, a large portion of the mountain range containing Mount Tai, as well as the forest in its immediate vicinity!
 
 As a reference, the brighter the aura appears through the Heavenly Eye, the greater the fortune. And the golden aura hanging over the area was so bright Krish was having difficulty keeping his attention on it.
 

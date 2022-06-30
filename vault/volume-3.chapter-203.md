@@ -2,7 +2,7 @@
 id: nsj01cdqmr6teifoepmp23h
 title: Chapter 203
 desc: ''
-updated: 1656530949530
+updated: 1656566451382
 created: 1656225206735
 ---
 
@@ -24,9 +24,7 @@ He moved from one and to the other, inspected the floor, the walls and even the 
 
 Marie squinted suspiciously at Krish and stuck out her tongue in challenge. Krish noticed her movement and scoffed loudly, "Stop distracting me!"
 
-"Fine, fine..." Marie muttered as she lay on her back and napped.
-
-After a quick minute
+"Fine, fine..." Marie muttered as she lay on her back and napped - or at least she tried to. Her curiousity wouldn't allow her to relax just yet - it didn't help that her Master extremely vocal the entire time, confirming things out loud and constantly humming in contemplation.
 
 ____
 
