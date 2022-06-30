@@ -19,7 +19,6 @@ commands:
     insertNoteIndex:
         enableMarker: false
     copyNoteLink: {}
-    templateHierarchy: template
 workspace:
     vaults:
         -
@@ -58,7 +57,6 @@ workspace:
             - x
     graph:
         zoomSpeed: 1
-        createStub: false
     enableAutoCreateOnDefinition: false
     enableXVaultWikiLink: false
     enableRemoteVaultInit: true
