@@ -2,7 +2,7 @@
 id: vk25v1fontk397opj6gyndp
 title: Chapter 204
 desc: ''
-updated: 1656869485197
+updated: 1656938381132
 created: 1656265113335
 ---
 
@@ -26,7 +26,14 @@ The sound was guttral and reverberated with a mechanical grind. Truthfully, Mari
 
 "How many more sounds do we need to cover?" Marie groaned.
 
-""
+"Thirty-two," Krish answered. "That's just the start. You need to then cover over fifty compound sounds, vocabulary, grammar... All in all, it is an intensive process."
+
+Marie released a loud moan of defeat, "Why don't you write all the sounds down and we can go through all of them at once? It seems highly inefficient to go at it one at a time."
+
+"There is no textual form for the Ancient Tongue," Krish replied while shaking his head. "And even if I did transcribe it using the Common Tongue for ease of understanding, it would introduce bias which will cause you to deviate from the true pronunciation of the sounds."
+
+This was also the reason why it was essentially impossible to derive Ancient Tongue using modern chanting-based spells as reference. Through years of written transcription of the 
+
 
 ____
 
