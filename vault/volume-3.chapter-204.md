@@ -2,7 +2,7 @@
 id: vk25v1fontk397opj6gyndp
 title: Chapter 204 - Ancient Tongue
 desc: ''
-updated: 1656962444892
+updated: 1657019513489
 created: 1656265113335
 ---
 
@@ -38,13 +38,13 @@ This was also the reason why it was essentially impossible to derive Ancient Ton
 
 "You've met Dwarves?" Marie shot back.
 
-"The Age of Isolation was before my time. But our ancestors were present when the planes were conjoined. In fact, there have been a few Dwarves and Elves amongst our linear as well!"
+"The Age of Isolation was before my time. But our ancestors were present when the planes were conjoined. In fact, there have been a few Dwarves and Elves amongst our lineage as well!"
 
 Marie hummed in light contemplation before shaking her head and redirecting the converation "Be that as it may, how do you know the Ancient Tongue? By this, I mean how do we as practitioners of the Heavenly Eye know this?"
 
 "We've always known," Krish responded. "The Heavenly Eye has a rich and far-reaching lineage. Once it's time, I will show you just how ancient it is. We were there when Ancient Tongue was the norm!"
 
-"But do you know see the irony?" Marie exclaimed. Noticing Krish's confused frown, she coughed and expounded, "As long as someone still speaks the language it cannot be considered extinct. We still speak the Ancient Tongue, how could it go extinct>"
+"But do you know see the irony?" Marie exclaimed. Noticing Krish's confused frown, she coughed and expounded, "As long as someone still speaks the language it cannot be considered extinct. We still speak the Ancient Tongue, how could it go extinct?"
 
 "It just did," Krish shrugged. "I don't know what to tell you."
 
@@ -86,13 +86,13 @@ One story to note involved a Heavenly Eye practitioner, who found their skin bur
 
 On this particular day, which was exactly two weeks after she started learning the Ancient Tongue with her Master, Marie was back in her Master's cottage in the so-called upper dimension, holding a workable conversation.
 
-"[Today is a pleasant day,]" Marie said, and suddenly the room grew brighter as if the occluding clouds in the sky had all disappeared.
+"|Today is a pleasant day,|" Marie said, and suddenly the room grew brighter as if the occluding clouds in the sky had all disappeared.
 
-"[No, it seems that a light drizzle is just around the corner,]" the brightness dimmed as rain clouds manifested out of nothingness.
+"|No, it seems that a light drizzle is just around the corner,|" the brightness dimmed as rain clouds manifested out of nothingness.
 
-"What does [drizzle] mean?" Marie asked.
+"What does |drizzle| mean?" Marie asked.
 
-"A direct, and crude, translation would be a light rain. However, it has a much, much deeper meaning to it. Imagine that the surrounding temperature decreased suddenly causing the sudden formation of low-hanging clouds. A brisk wind picks up, causing these clouds to break and release their contained water like a light mist. Now that is what [drizzle] means," Krish clarified.
+"A direct, and crude, translation would be a light rain. However, it has a much, much deeper meaning to it. Imagine that the surrounding temperature decreased suddenly causing the sudden formation of low-hanging clouds. A brisk wind picks up, causing these clouds to break and release their contained water like a light mist. Now that is what |drizzle| means," Krish clarified.
 
 "That's a lot of meaning for just one word," Marie whistled.
 
