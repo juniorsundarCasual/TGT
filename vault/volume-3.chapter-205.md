@@ -1,8 +1,8 @@
 ---
 id: 82wjew670hdukpfhehp300s
-title: Chapter 205
+title: Chapter 205 - Opening the Heavenly Eye
 desc: ''
-updated: 1657047921922
+updated: 1657135140652
 created: 1656854575299
 ---
 
@@ -59,6 +59,42 @@ Marie nearly doubled over at the stabbing pain radiation all over her body. Howe
 Marie's body was on the verge of breaking at this point. This was because her body was begging for mana, but her surroundings were compeletely starved of it. Krish knew this would happen and immediately after Marie spoke the final word, he dissipated the formation and pulled them back out of the upper dimension. As the surrounding mana became replenished, it was immediately siphoned towards Marie hurriedly.
 
 The phenomenon known as perfected resonance manifested in her, bringing a satisfied and relieved smile in Krish's face. He would be lying if he said he wasn't nervous about how the procedure would turn out. Entangling oneself with Ancient Tongue was risky business - there was a reason why it was now extinct. If anyone could do anything they wanted by simply speaking their minds, imagine the chaos that would ensue! 
+
+Krish watched as Marie indulged in the surge of power coursing through her mana channels after the previous discomfort vanished. He revealed a tranquil smile as the agitating mana in and around her started to settle. It was always a pleasant feeling when one's hard work was rewarded and they grew stronger. It was even more pleasant to see one's pupils achieve successes - one could revel in the same uplifting emotion by proxy!
+
+"D-Did I just-" Marie mumbled, unable to complete her sentences due to her bubbling excitement.
+
+"Congratulations!" Krish answered with a proud smile. "You have achieved perfected resonance. Although it was a foregone conclusion, your pace is unprecedented within our lineage."
+
+As the final words left his mouth, he immediately recognised his folly. He had let an intimate detail slip in his haste. 
+
+"Did I beat you?" Marie blurted in disbelief.
+
+"Let's not get too conceited," Krish reminded as he tried to temper the girl's overconfidence. He knew that nothing was more dangerous for a practitioner of the Heavenly Eye than their own unbridled ego.
+
+"Just let me have this moment," she shot back with an exagerrated, scandalous look. "So... Do I have the Heavenly Eye now?"
+
+Krish pursed his lips and nodded with an intense gaze. "You are burdened with its power now. That's right, burden. Do not rely on it extensively, for doing so will make you grow dependent - addicted. But do not take what is shown to you lightly either."
+
+"How do I activate it?" Marie redirected.
+
+"Weren't you listening?" Krish exclaimed with an increased pitch. "I just told you to not use it casually."
+
+"But I just got this power! Come on, show me. Please? Please," Marie urged eagerly.
+
+Krish groaned loudly and said, "Fine, but please don't make me regret teaching you how to do it. You must ONLY use the Heavenly Eye in my presence, got it?!"
+
+Marie nodded hurriedly in response.
+
+"Pull the mana from your core towards your eyes. You should feel that they are different. The process should be intuitive from that point onwards," Krish instructed.
+
+His Disciple did as told and proceedly calmly. Although she was ecstatic after the recent events, she had the maturity and state of mind to not let it affect her technique. Krish kept his attention trained on his Disciple, looking out for any faults that may have remained after the forceful body restructuring session earlier. Sometimes the issue may not be evident at the time of implementation and would only show up later down the line. This was the perfect opportunity to pinpoint those issues.
+
+Thankfully, his Disciple's transformation was without any flaw as her mana started to congregate at her eyeballs. He noticed a brazen smile splitting her face, which he rightly deciphered as her properly activating the Heavenly Eye. With a quick motion, her lids parted and two pairs of golden-coloured pupils gaze towards him.
+
+Marie started to cackle maniacally and jolted her head to different places in the room, absorbing everything her new eyes could see.
+
+"It works!" She shouted amidst her laughter.
 
 ____
 
