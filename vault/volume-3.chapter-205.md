@@ -2,7 +2,7 @@
 id: 82wjew670hdukpfhehp300s
 title: Chapter 205 - Opening the Heavenly Eye
 desc: ''
-updated: 1657135140652
+updated: 1657275624103
 created: 1656854575299
 ---
 
@@ -92,7 +92,7 @@ His Disciple did as told and proceedly calmly. Although she was ecstatic after t
 
 Thankfully, his Disciple's transformation was without any flaw as her mana started to congregate at her eyeballs. He noticed a brazen smile splitting her face, which he rightly deciphered as her properly activating the Heavenly Eye. With a quick motion, her lids parted and two pairs of golden-coloured pupils gaze towards him.
 
-Marie started to cackle maniacally and jolted her head to different places in the room, absorbing everything her new eyes could see.
+Marie started to cackle exuberantly and jolted her head to different places in the room, absorbing everything her new eyes could see.
 
 "It works!" She shouted amidst her laughter.
 
