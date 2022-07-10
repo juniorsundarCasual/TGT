@@ -38,7 +38,7 @@ Marie's face froze in disbelief, "Damn it, I am, aren't I? When did this happen?
 
 "Its an unfortunate side-effect of future-sight, I'm afraid. When you know that things are about to happen, or have an idea that certain events will transpire, you tend to lose the motivation or urge to perform. It doesn't help that we have to constantly live on the edge, not knowing whether our actions will modulate the predetermined flow of events and come back to bite us," Krish explained.
 
-"Does it only get worse? I mean, if I'm like this after learning Divination which only shows be the Transcients, what will happen to me after I can observe the Constants?" Marie probed worriedly.
+"Does it only get worse? I mean, if I'm like this after learning Divination which only shows be the Transients, what will happen to me after I can observe the Constants?" Marie probed worriedly.
 
 "You will eventually start feeling detached from others," Krish answered honestly. "You may have already noticed it happening now. While in the beginning, you had the urge to help after forseeing negative events transpire, nowadays, you probably think twice about it. You question whether your interference is necessary or if it is better to just let them suffer through this one negative experience so that they can grow as people."
 
