@@ -2,7 +2,7 @@
 id: 8mt6uqc0lo7yl9qtz1kc95a
 title: Chapter 206 - Through the Heavenly Eye
 desc: ''
-updated: 1657395728374
+updated: 1657476876000
 created: 1656854577915
 ---
 
@@ -94,9 +94,9 @@ Marie followed the instructions and shifted her focus to the thickest string ori
 
 With a flourish, her vision gained clarity. At this instant, she no longer felt as though she was inhabiting a body - she felt like a disembodied head floating around. She was currently "floating" inside what looked like a luxurious carriage. It was rocking jerkily, which reminded her of the painful ride to the village.
 
-"I did not expect that we would return so soon, Master," Markus' voice hooked her attention. "It's been a little less than four weeks."
+"I did not expect that we would return so soon, Master," Markus' voice hooked her attention. "It's only been a month. I believe we still have some more work left?"
 
-"The builders will be stopping by very soon. I need to prepare the area and finish up the plans," Mister Larks' voice answered. Marie turned around and saw the two conversers shifting their weight between their buttocks to offset the ache brought upon by their ride.
+"The builders will be arriving very soon. I need to prepare the area and finish up the plans," Mister Larks' voice answered. Marie turned around and saw the two conversers shifting their weight between their buttocks to offset the ache brought upon by their ride.
 
 "Why hasn't anyone developed some form of suspension system for these carriages!" Mister Larks exclaimed as his head collided against the walls of the carriage.
 
