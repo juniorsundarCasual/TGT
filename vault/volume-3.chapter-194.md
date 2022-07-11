@@ -2,7 +2,7 @@
 id: l9vnstr3u6eacbswha9d5rq
 title: Chapter 194 - The Same Person
 desc: ''
-updated: 1656654155449
+updated: 1657562224601
 created: 1654412176258
 ---
 
@@ -66,7 +66,7 @@ Jean hesitated, eliciting a stern reprimand from Grace, "I'm disappointed that y
 
 "But Mister Larks HAS changed," Jean responded. She went on to explain how Guy's application cases and lessons had taken a more aggressive turn.
 
-"It's about time he did that," Grace commented, much to Jean's surprise. "He's learned that the world isn't so breezy as he'd taught it to be. Besides, Jean, people never change, they only grow. Take a look at this sapling here," Grace pointed at the subject a few metres away from the path.
+"It's about time he did that," Grace commented, much to Jean's surprise. "He's learned that the world isn't so breezy as he'd thought it to be. Besides, Jean, people never change, they only grow. Take a look at this sapling here," Grace pointed at the subject a few metres away from the path.
 
 "It's sprouted in that location, it can't do anything else but grow there. Though, as it grows taller and wider, it can deviate in its trajectory to seek out the most abundant source of nutrition and greatest access to sunlight. Yet, it can never uproot itself and find new ground to call its home. Humans are just like that. When you scrape off all the surrounding layers, dig deeper, you will find out that our core character never changes," Grace returned her gaze to Jean and playfully rubbed the girl's head. "Guy's still the same. He's just grown."
 
