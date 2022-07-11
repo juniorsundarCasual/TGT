@@ -2,7 +2,7 @@
 id: 8mt6uqc0lo7yl9qtz1kc95a
 title: Chapter 206 - Through the Heavenly Eye
 desc: ''
-updated: 1657476876000
+updated: 1657524481349
 created: 1656854577915
 ---
 
@@ -103,7 +103,6 @@ With a flourish, her vision gained clarity. At this instant, she no longer felt 
 And with that, the vision dissipated and Marie found herself back in the cottage with her Master. Before she could speak, though, she suddenly felt sapped of energy and collapsed on her back. She hadn't lost her consciousness yet, but she was exhausted.
 
 "As I said," her Master's voice spoke up. "It is immensely taxing, but equally precise."
-
 
 ____
 
