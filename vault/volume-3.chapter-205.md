@@ -50,11 +50,11 @@ Marie droned the words precisely, and she could now feel her body vibrating as a
 
 A burning sensation started to assault her pupils. Her core was vibrating even more maniacally and her mana was growing increasingly agitated.
 
-"|I am an observer of Fate. I exist outside its domain, though my actions are governed by its ebb and flow. My aberrance shifts the trajectory of Fate at the cost of my existence, and my compliance moves it in its current trajectory. The cost of my aberrance is exempted if I am ignorant, for my actions unforeseen by the Heavenly Eye are by definition predetermined by Fate.|"
+"|I am an observer of Fate's machinations. I exist outside its domain, though my actions are governed by its ebb and flow. My aberrance shifts the trajectory of Fate at the cost of my existence, and my compliance moves it in its current trajectory. The cost of my aberrance is exempted if I am ignorant, for my actions unforeseen by the Heavenly Eye are by definition predetermined by Fate.|"
 
 Marie nearly doubled over at the stabbing pain radiation all over her body. However, she grit her teeth and held herself together - she could feel herself nearing the cusp of something great and could not afford a mistake at this stage.
 
-"|Now, as I gain the power to change my Fate, my Fate is forever sealed. I can now see the future of everything around me, but my future ceases to exist, for now I am an apostle of Fate itself - a servant to its treacherous whims. I am an observer and an influencer of Fate. And finally, I am the bearer of the Heavenly Eye.|"
+"|Now, as I gain the power to change my Fate, my Fate is forever sealed. I can now see the future of everything around me, but my future ceases to exist, for now I am an apostle of Fate itself - a servant to its treacherous whims. I am an observer and an influencer of Fate's trajectory. And finally, I am the bearer of the Heavenly Eye.|"
 
 Marie's body was on the verge of breaking at this point. This was because her body was begging for mana, but her surroundings were compeletely starved of it. Krish knew this would happen and immediately after Marie spoke the final word, he dissipated the formation and pulled them back out of the upper dimension. As the surrounding mana became replenished, it was immediately siphoned towards Marie hurriedly.
 
