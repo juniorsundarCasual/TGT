@@ -1,6 +1,6 @@
 ---
 id: 485cgwuy4ibm4z1dc9p5xz5
-title: Chapter 208
+title: Chapter 208 - Divining the Fate of Schrödinger's Cat
 desc: ''
 updated: 1657651320751
 created: 1657377333010
