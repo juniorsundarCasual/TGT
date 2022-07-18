@@ -2,7 +2,7 @@
 id: yd1wkkw1wlkax8os82ny6hq
 title: Chapter 209 - Contesting the Ancestors
 desc: ''
-updated: 1658080978547
+updated: 1658137857124
 created: 1658039960243
 ---
 
@@ -46,7 +46,7 @@ Marie met up with Mister Larks and Markus outside the orphanage. Mister Larks wa
 
 "Who's this?" Marie inquired Markus.
 
-"This is my friend, Furion," Markus answered. "His father owns Dune Caravan Management."
+"This is my friend, Furion," Markus answered. "His father owns Dune Caravan Management. He'll be with us over the Summer break."
 
 Marie's eyes burst out her sockets in shock, "THE Dune Caravan Management? You're joking!"
 
