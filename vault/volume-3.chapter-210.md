@@ -1,8 +1,8 @@
 ---
 id: nj0k3j168dqzri7yhz46tcq
-title: Chapter 210
+title: Chapter 210 - Alternative to the Heavenly Eye
 desc: ''
-updated: 1658040098242
+updated: 1658254399225
 created: 1658039964619
 ---
 
@@ -70,9 +70,37 @@ Guy tapped the side of his head and spoke mysteriously, "My head is a steel trap
 
 ____
 
+Guy was never a fan of the myriad of cultivation manuals catching metaphorical dust in his Repository of Knowledge. Not only were they remnants of an unpleasant past of his after coming to this world as evidence of his failure, they were also a massive headache to decipher. Cultivation manuals had a penchant for dramatics and tended to obscure the teachings with cryptic and often unintelligible drivel - in Guy's point of view. However, he was pleasantly surprised to see Marie sharing his opinion though for a completely different reason.
 
+"There aren't any evidence or theories to back it up. Are we just supposed to believe them as is - take them for their word?" She argued as she slammed the manual onto the desk with an annoyed huff. For the past three days, Guy and Marie had gone through the cultivation manuals pertaining to divination and futuresight from both Guy's repository of knowledge and from a quick scouring of Krish's and Al's personal libraries. There were a substantial amount to go through, but with division of labour things progressed smoothly... in the beginning. After the first two manuals, both Guy and Marie started to exhibit outward irritation over their contents.
 
+"Since you have a Master to train you and indulge in your inquiries, you have it easy. Back at the Academy, you had to make do with these manuals," Guy explained. "The main reason why most students fail to advance in the Academy is BECAUSE they cannot decipher this garbage, and noone really goes out of their way to help unless the student shows some promise."
 
+"Markus must have had it tough, uh?" Marie commented, to which Guy affirmed with a hum.
+
+"That's it, I can't take this any more," Marie declared while throwing her hands in the air. "They're all the same. They just move words around, use alternate phrasing, play with semantics and vocabulary..."
+
+"How are they the same?" Guy targeted. "Be more analytical."
+
+"Well, they all revolve around the motion or organisation of inter- or extraplanetary bodies," Marie explained. She then spread her hands between two distinct stacks of books next to her and added, "This stack of manuals focuses on constellation arrangements, star clusters and so on, while this stack focuses on the planetary bodies within our solar system."
+
+"Now since we know for a fact that these cultivation methods are effective and CAN be used for futuresight, our goal is to determine how and why, and the bridge the gap between them and the Heavenly Eye," Guy laid out.
+
+"If I approach the reasoning from the other way: the Heavenly Eye directly gazes at the waves of fate, which is a fundamental law that governs the world. Waves of fate affect everything in and around us," Marie started.
+
+She then cradled her chin on her hand and hummed loudly while her mind ran through hypotheses. After an audible fifteen minutes, she opened her mouth and orated steadily, "The Heavenly Eye can gaze directly into the waves of fate, however those not pracitising cannot do so. In order to make up for this disadvantage, the contemporary seers utilise the behaviour of massive bodies as indicators. This is because the planets hold a greater influence in the grand scheme of things."
+
+"Elaborate," Guy urged.
+
+"Well, if you perform an action, the magnitude of the wave is negligible compared to if a planet suddenly shifts its orbital trajectory. Your singular action may not create large ripples in fate's machinations, but a planetary sized change might!" Marie spoke with vigour and her eyes started to sparkle. She was nearing a conclusion and she was getting agitated at that prospect.
+
+"So, there you have it," Guy beat her to the punch. "Your solution to the alternative to the Heavenly Eye."
+
+"But will it be effective?" Marie muttered out loud.
+
+"Not quite," a voice answered. A series of measured clacks of wood against the ground followed as it approached their position. Marie immediately recognised her Master's voice and readied a seat for him in anticipation.
+
+"The books in front of you are evidence of the fact that they aren't as accurate as the Heavenly Eye is deciphering the future. I don't believe it will be possible," Krish said with an unsure frown as he entered the classroom.
 
 ____
 
