@@ -1,8 +1,8 @@
 ---
 id: pp39nkujysxofng4hisuip4
-title: Chapter 211
+title: Chapter 211 - Deterministic Chaos
 desc: ''
-updated: 1658343597160
+updated: 1658426899993
 created: 1658039974598
 ---
 
@@ -59,6 +59,50 @@ Guy mouthed, 'See what I mean?' to Krish as he approached his struggling student
 "It all feels like a cohesive system," Marie commented. "The other cultivation methods use astrological positions as some sort of initial conditions that can be used to predict the state of the system in the future. However, what if there is an error in the initial state estimate? Is this why the other methods are inaccurate?"
 
 As Guy absorbed Marie's words, an idea started to bloom in his mind. The whole explanation and her diagrammatic representation on the blackboard started to tug at a long forgotten memory of his from his past life. He'd read of something like this before.
+
+"Chaos theory..." Guy muttered. Although it wasn't explicitly stated on the board, Guy could make the connection to it.
+
+"What's that?" Marie asked with an intrigued expression.
+
+Guy's smile twitched. He knew what it was, or had a recollection of an example of chaos theory, but he could not formalise it with a definition - at least not with a definition Marie would be satisfied with. After pausing to think, Guy decided to make use of a resource accessible to him. "I believe it will be easier to just show you what I mean."
+
+Marie's eyes shone with a cognisant lustre, and she nodded affirmatively. Krish could read between the line and immediately knew that Guy was about to perform his brand of |Soul Imprint|. He frowned bitterly since he could not follow his Disciple in her adventure.
+
+For the other two, entering the Church was a familiar and trivial task. Guy had perfected it through repeated use and Marie had got used to the disorienting sensation that deposited her into the ethereal chapel. With another set of practised motion, Guy brought for the void-black screen hovering in front of the alter and pulled Marie's consciousness into it.
+
+Guy followed a minimalistic approach this time, opting for a simple cubed room with white all around. Without distracting details assaulting the senses, Guy could immerse Marie to what he was about to show. With a snap of his fingers, a rope dropped from the ceiling and a heavy circular mass attached itself at the free end - it was a simple pendulum.
+
+"You should have seen a pendulum before, played around with it even. When you displace the pendulum's mass - the bob - from its rest position by a little and then release it, you can observe a familiar reaction of it oscillating. If we were to plot the pendulum's displacement from the centre, we receive a waveform with is a simple sinusoid," as Guy narrated, a moving graph appeared to his side with a black line snaking up and down, above and below the time-axis as the pendulum oscillated back and forth.
+
+"Note that no matter where you release it from," Guy explained as he stopped the pendulum and raised it to a slightly higher starting point, "the resulting behaviour of the pendulum is predictable, as you can see a similarly shaped graph forming."
+
+"This is a property of linear systems. As long as this pendulum's initial displacement angle isn't too egregious, the resulting behaviour is predictable."
+
+Guy then snapped his fingers and caused another rope and bob to attach itself from the existing bob, "This is a double pendulum. I have tightened the strings so that they neither compress or extend - they can be likened to rods. This is a nonlinear system."
+
+Guy pulled back the lower pendulum, and released it. "This time, we will plot the displacement of the lower bob only. Observe at its irregular behaviour. A nonlinear system is one where the change in output is not proportional to the change of its input. That is, if I displace the lower bob by a little, and if it were a linear system, I should expect a proportional increase in the outputs magnitude, however that isn't the case as seen in this graph."
+
+On the graph in question, there were wild peaks and troughs forming in seemingly random shape. "Now you would think that nonlinear systems are unpredictable, but that is not true since I am graphing it for you here. As long as the model of the system is known, we can plot the behaviour of the nonlinear system like a linear one. The key difference that I want to point out here is as follow."
+
+Guy clapped his hands and pulled them outwards. In doing so, the double pendulums multiplied; there were now ten identical double pendulums hanging off of the ceiling.
+
+"I am now going to pull the lower bob back by the same amount for all ten, however before releasing them, I am going to slightly - by a negligible amount - change their displacement," as he finished, Guy released all the bobs together.
+
+"Nonlinear systems are chaotic, but also predictable. They are predictable as mentioned before as long as we know their model. They are chaotic because just knowing their present behaviour does not determine their future behaviour."
+
+The ten graphs were displaying similar behaviour, with the same peaks and troughs. However, somewhere around the four-second mark, a small change started to materialise, the graphs started to deviate from each other. Guy let the graphs progress for a while longer before bringing them all together in the same set of axes. In doing so, Marie was able to clearly see how, while the graphs were similar in the beginning, they started to differ wildly near the later stage and, after a certain point, failed to look anything like each other at all.
+
+"A small change in initial condition of a nonlinear system can elicit unpredictable changes in the system's expected behaviour in the future, just like how a butterfly's wingbeat can cause a typhoon on the other end of the planet." Guy coughed mirthfully before adding, "That last part was just an idiom, of course."
+
+Marie's eyes narrowed at the graph presented before her, "The world is a nonlinear system... Having the incorrect initial conditions causes massive deviations. These deviations represent the Transients. But this should lead to instability... unless..."
+
+Suddenly, Marie snapped her fingers as a breakthrough hit her. She rushed towards the graph and with her fingers, pinched the ten graphs at the twenty-second mark where they had completely deviated from each other. "Constant events are fixed in the tapestry of fate. They exist to ensure that a butterfly's wingbeat doesn't elicit a tropical storm. This is it! As long as I can model fate, I can find the constants at the points where each of the parallel transient behaviours of the universe merge into one."
+
+The location were Marie pinched the graphs started to shine with a golden hue, as a bounteous change took place inside her.
+
+____
+
+Not half an hour passed by, before Krish was brought out of his sulking and bore witness to something that had never happened before, at least not successfully, in the history of cultivation. His dearest Disciple was undergoing another perfected resonance!
 
 ____
 
