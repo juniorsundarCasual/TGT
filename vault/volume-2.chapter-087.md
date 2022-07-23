@@ -2,7 +2,7 @@
 id: a6VmX9jTKwAmHxZcnA4cR
 title: Chapter 087 - Pulled to Safety
 desc: ''
-updated: 1643656758789
+updated: 1658569930437
 created: 1643652552243
 ---
 
@@ -116,7 +116,7 @@ Al looked towards Markus and with a mix of awe and bitterness, he said, "Your un
 
 Almost everyone in the room gasped in unison. To them, Al was a peak they could only ever dream of reaching in their lifetime. And hearing that the man they looked up to nearly lost his life...
 
-All eyes within the room turned towards Markus, who was casually putting on his shirt. Noticing the pieces gazes, Markus froze comically. The tips of his ears reddened in embarrassment, and he shrunk his head into his neck.
+All eyes within the room turned towards Markus, who was casually putting on his shirt. Noticing the piercing gazes, Markus froze comically. The tips of his ears reddened in embarrassment, and he shrunk his head into his neck.
 
 Al exhaled out loud one last time, and asked, "Tell me honestly -" He alternated his gaze between Markus and Guy and continued, "What exactly have you been doing here?"
 
