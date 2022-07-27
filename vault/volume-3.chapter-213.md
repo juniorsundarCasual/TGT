@@ -2,7 +2,7 @@
 id: npszam6wq9ywlycccqbddxr
 title: Chapter 213
 desc: ''
-updated: 1658854191478
+updated: 1658907278265
 created: 1658426944998
 ---
 
@@ -88,7 +88,25 @@ Marie chuckled along with Krish as they exited the vicinity of the village.
 
 "Why are we going there exactly?"
 
-"Well, remember how I told you that a few of our ancestor have already tried to find alternatives and improve upon the Heavenly Eye? My Master's Master happened to be a part of that group, and happened to follow a similar line of reasoning such as yourself, barring the whole model part," Krish narrated. "Therefore, he accumulated a few favours with an upstart Sect that "
+"Well, remember how I told you that a few of our ancestor have already tried to find alternatives and improve upon the Heavenly Eye? My Master's Master happened to be a part of that group, and happened to follow a similar line of reasoning such as yourself, barring the whole model part," Krish narrated. "Therefore, he accumulated a few favours with an upstart Sect that practice an arcane body cultivation method that relies on tracking the movement of heavenly bodies."
+
+"How does that work?" Marie voiced her intrigue.
+
+"You can ask them when we get there. Any way it's not our concern. What matters to us is that they've aggregated highly accurate and precise records of the movement of heavenly bodies for at least the last two millennia."
+
+"How are you so sure that they wouldn't have gone extinct by now? A lot of time has passed, after all," Marie responded dubiously.
+
+"I've checked," Krish responded. "They're still up and running. My Grandmaster was thorough in his intervention, do not think that we are half-hearted in our assistance just because we callously provide it for out own benefit."
+
+"Do you think I will succeed, Master?" Marie voiced her uncertainty. Although she exuded an air of confidence when she declared her resolve to create a dynamic model of the world, she was still just a teenage youth stepping into the vast expanse of cultivation. She was filled with worry and uneasiness.
+
+"I have confidence in you," Krish hummed. "You achieved something that generations of our ancestors deemed impossible. Therefore, my confidence in you isn't insincere. You have proven time and time again that you can accomplish anything you set your mind to."
+
+"Know this, it is my duty as your Master to support you through everything. Even if this venture does not pan out as you expect it to, worry not. Everything will work out as it is supposed to, you just do what you deem necessary," Krish added.
+
+"It will all work out eventually," Marie parroted. "I am fated with the Heavenly Eye, after all," she said with a chuckle.
+
+Krish's stopped in place and looked at his Disciple's cheeky grin. After a second, he joined her in her mirthful laugh and continued in their journey.
 
 ____
 
