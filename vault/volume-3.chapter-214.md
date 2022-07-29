@@ -1,8 +1,8 @@
 ---
 id: ih7almhd24difq2mxy550l2
-title: Chapter 214
+title: Chapter 214 - (Interlude) Conversation between Multidimensional Beings
 desc: ''
-updated: 1658426973738
+updated: 1659085347329
 created: 1658426969653
 ---
 
@@ -30,7 +30,7 @@ To that, Mast released a tutting noise, which was miraculous given how the being
 
 {Right you are!}
 
-(My human is the exact opposite. He had very few hopes and dreams, but had access to anything he could want. Through my observations, I have found that it is often easier to turn a passive mortal to be more active in their life than to achieve the opposite. You must be tired of trying to leashe your mortal, correct?)
+(My human is the exact opposite. He had very few hopes and dreams, but had access to anything he could want. Through my observations, I have found that it is often easier to turn a passive mortal to be more active in their life than to achieve the opposite. You must be tired of trying to leash your mortal, correct?)
 
 {Yes...}
 
@@ -54,7 +54,7 @@ There was silence.
 
 {What? Why?}
 
-(My allegiance is with Tron, not you.)
+(My allegiance is with Tron, not you. Your negligence will cost you dearly, Moni.)
 
 {You can't do that-}
 
@@ -64,15 +64,67 @@ Once again, her hysterical response was interjected by a sudden warp in the spac
 
 (On the contrary, we were trying to help you?)
 
-[How would that be? By bringing in two anomalies? I hope you realise just how much your interference has cost me. My world was in the process of splitting into a multiverse because of what you two did. Do you know how difficult it is to maintain a multiversal world? Ask Oaa and his ilk - although it yields a large bounty it is equally difficult to tend to.]
+[How would that be? By bringing in two anomalies? If I didn't know that it was you two, I would have mistaken it for an invader! I hope you realise just how much your interference has cost me. My world was in the process of splitting into a multiverse because of what you two did. Do you know how difficult it is to maintain a multiversal world? Ask Oaa and their ilk - although it yields a large bounty it is equally difficult to tend to. Beings crossing between multiverses, redundancies and rampant quantum annihalation events, and worst of all time-travel!]
 
 {Sorry...}
 
-[For the first time, you aren't the one at fault,] Tron said with a human sigh. [Your interference has been assimilated into my world's sequence without much hassle. It's Mast's that's still threatening my world's stability. Moni, leave while I converse with this one.]
+[For the first time, you aren't the one at fault,] Tron said with a human-like sigh. [Your interference has been assimilated into my world's sequence without much hassle. It is Mast's that is still threatening my world's stability. Moni, leave while I converse with this one.]
 
 Without a moment lost, one of the beings escaped from the space. After their departure, silence took hold.
 
-[There is an issue with the being you brought in. No matter how much I try to integrate it into my world's sequence, it starts to deviate. I have to actively exert my influence to stop that from happening. I didn't expect you 
+[There is an issue with the being you brought in. No matter how much I try to integrate it into my world's sequence, it starts to deviate. I have to actively exert my influence to stop that from happening. What are you trying to do?] There was a threatening force in Tron's voice which caused the only other entity in the room to flinch.
+
+(I'm only trying to help,) Mast said with difficulty.
+
+[That is not how it looks from where I am standing.]
+
+(I apologise for shifting the blame, but this is partly your fault.)
+
+[WHAT?!] Tron evoked, causing the space to quake menacingly.
+
+(I did not expect the laws of this world to be so fragile. To borrow a mortal phrase, it is balancing at the tip of a needle. Much to my annoyance, it was sheer coincidence that has resulted in this issue. Your laws governing the nature of souls in this world is flimsy. All I did was provide a power derived from extraworldly energy, but it ended up interfering with a law that you set on how mortals can cultivate spirituality to augment their souls.)
+
+[So that's what it was...]
+
+(You're being uncharacteristically lax with your management of this world, Brother.)
+
+[It's not like I have a choice,] Tron answered bitterly. [My other world is at the brink of assimilation with the invading world builder, and I don't even know how they did it. They are intimated with my signature, they will know the location of this world soon. In fact, they already do! There was a preliminary probe attacking this world a while back. I had to crack down on the laws governing spatial anomalies at great personal costs. I need the mortals of my world to become stronger to stand a chance against the invader, since the invader's attacks are highly unconventional.]
+
+(Which is why I brought in this mortal. Is he not showing results?)
+
+[He is,] Tron admitted. [If not for the frequent destabilising events, I would personally commend your decision.]
+
+(It only happens when the mortal tries to manifest the power drawn from extraworldly energy, right?)
+
+[That is correct.]
+
+(Stop trying to actively integrate my mortal into your world's sequence.)
+
+[But that will cause my world to split!]
+
+(Only do so in the short term. Treat the mortal as a singularity, whose state is only verifiable within immediate vicinity of their existence,) Mast suggested.
+
+[That will introduce innumerable uncertainties in the determination of a stable timeline. What you're asking me to do is to treat this mortal as the focal point of my world?] Tron responded in disbelief. [You ask for me to put all of my faith in this mortal?]
+
+(We are multidimensional entities, faith is a mortal emotion,) Mast answered with an emulated chuckle.
+
+[Our kind persists that we are different from the mortals that roam our worlds, yet we all succumb to the same fear of demise. Ironic, isn't it?] Tron commented. [I hastily created this world to escape demise, something any other mortal would do - clinging onto a faint thread of hope that can offer some solace of survival or retribution. Once this world falls, which is my conclusion based on current trends, what will you do?]
+
+(If this world is assimilated, I will surrender,) Mast confessed.
+
+[Just like that?]
+
+(I exist because you took me under your protection. You helped me stabilise my world, and taught me everything. If I cannot repay that favour by saving you from the danger that threatens you, then what is my reason of existence? To approach this from a rational point of view: If your world falls, there is little I can do to stop mine from following down the same path anyways.)
+
+[Does Moni share the same opinion?]
+
+(Moni's opinion and decision are irrelevant. You should be able to gauge her perspective after observing the impact of her interference in your world. Moni's mortal has accomplished nothing and has done little to progress your world.)
+
+Another bout of silence reigned in the void-black space.
+
+[Share your plan with me. I do not like being kept in the dark in matters concerning my own world. Tell me everything there is to know about this mortal named Guy.]
+
+(I shall do so,) Mast responded with a monotonous drone.
 
 ____
 
