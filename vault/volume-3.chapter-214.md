@@ -1,8 +1,8 @@
 ---
 id: ih7almhd24difq2mxy550l2
-title: Chapter 214 - (Interlude) Conversation between Multidimensional Beings
+title: Chapter 214 - (Interlude) Conversation between Multidimensional Beings (Part One)
 desc: ''
-updated: 1659085347329
+updated: 1659267744677
 created: 1658426969653
 ---
 
@@ -124,7 +124,7 @@ Another bout of silence reigned in the void-black space.
 
 [Share your plan with me. I do not like being kept in the dark in matters concerning my own world. Tell me everything there is to know about this mortal named Guy.]
 
-(I shall do so,) Mast responded with a monotonous drone.
+(I shall do so,) Mast responded with a monotonous drone that betrayed a sense of excitement.
 
 ____
 
