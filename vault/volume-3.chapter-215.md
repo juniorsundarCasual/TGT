@@ -2,13 +2,13 @@
 id: p2ssr345vvyhjznnsyfr5u6
 title: Chapter 215 - (Interlude) Conversation between Multidimensional Beings (Part Two)
 desc: ''
-updated: 1659267766680
+updated: 1659337627805
 created: 1659189701926
 ---
 
 [Why did you select this human- this... Guy?]
 
-(To provide a proper explanation, I will start from the very beginning when you hinted at the trouble you were facing with this world having reached a state of stagnation. Of course, this was after we learned of the invasion and assimilation taking place in your previous world,) Mast replied. (Thanks to the privilege you provided Moni and I, it was easy for me to grasp the crux of the issue. In your attempt to fuel development by creating the transient particle called mana, you forgot to place a hard upper limit on how powerful a mortal can become by harnessing its powers. You see, a mortal with a strong control of mana and with the ability to manifest its true potential becomes inherently detached from his base species. By referring to your previous world, which is a lot closer to my own, even though certain mortals had greater power in terms of tangible and intangible assets, they were still relateable to their base species. There was still some incentive motivating them to assist those they considered beneath them. This connection is lacking in your current world.)
+(To provide a proper explanation, I will start from the very beginning when you hinted at the trouble you were facing with this world having reached a state of stagnation. Of course, this was after we learned of the invasion and assimilation taking place in your previous world,) Mast replied. (Thanks to the privilege you provided Moni and I, it was easy for me to grasp the crux of the issue. In your attempt to fuel development by creating the transient particle called mana, you forgot to place a hard upper limit on how powerful a mortal can become by harnessing its powers. You see, a mortal with a strong control of mana and with the ability to manifest its true potential becomes inherently detached from his base species. By referring to your previous world, which is a lot closer to my own, even though certain mortals had greater power in terms of tangible and intangible assets, they were still relatable to their base species. There was still some incentive motivating them to assist those they considered beneath them. This connection is lacking in your current world.)
 
 [I can see that now.]
 
@@ -18,7 +18,7 @@ created: 1659189701926
 
 (Now came the problem of how to provide power to the weak in this world. After understanding the base workings of the particle called mana, I found out that you created it as a quick way for mortals to tamper with the natural laws we program when building and managing a world without causing the world to fall apart. Thus, I posited that an easy method to get stronger would be to become more intimate with the natural laws of this world. The greater the mortal's understanding of how a certain phenomenon transpired, the easier it would be for them to harness the mana to replicate the same phenomenon. Hence, I added on another requirement to my soul, which would be that they needed to have a strong grasp of the natural laws.)
 
-[That should have been difficult for you, since your world is many millenia behind my original world. And the mortals in my original world barely understood 35% of the laws I had programmed into it.]
+[That should have been difficult for you, since your world is many millennia behind my original world. And the mortals in my original world barely understood 35% of the laws I had programmed into it.]
 
 (I would like to point out that the mortals in this world only understand 0.3% of the natural laws of this world, and this world has existed just as long as my own.)
 
@@ -32,7 +32,7 @@ created: 1659189701926
 
 [Moving back to our discussion, it makes sense why you chose this soul given his expertise in teaching, his penchant to assist the weak and moderate intelligence. However, I am intrigued as to why you chose this soul in particular? Knowing your modus operandi, there must have been additional factors in play here?]
 
-(As a matter of fact, there were. You see, after applying the aforementioned filters as search parameters, I was left with 34201 possible qualified souls. However, this only applied when evaluated from a rational point-of-view. You see, no two mortal souls can be the same, even if their growth environments are identical, or if they are from the same biological mating pair, the growth trajectory of the newborn soul can deviate greatly after a certain point in time. Hence my next challenge was to determine which of the 34021 possible entities stood a chance in accomplishing the task.)
+(As a matter of fact, there were. You see, after applying the aforementioned filters as search parameters, I was left with 34201 possible qualified souls. However, this only applied when evaluated from a rational point-of-view. You see, no two mortal souls can be the same, even if their growth environments are identical, or if they are from the same biological mating pair, the growth trajectory of the newborn soul can deviate greatly after a certain point in time. Hence, my next challenge was to determine which of the 34021 possible entities stood a chance in accomplishing the task.)
 
 [That notion seems rife with uncertainties.]
 
@@ -40,7 +40,7 @@ created: 1659189701926
 
 [What were these new parameters?]
 
-(There were many, but I will provide a non-exhaustive list of the primary parameters. The mortal must be mature and rational, so that they can evaluate their decisions before acting upon them. They must be non-confrontational, so that they don't actively or unwittingly seek conflict and dying before making a difference. They need to be kind and honest to be able to endear themselves with others. They must be hardworking and dedicated to their work, to be able to tackle tough situations. They need to be fulfilled and passive, free of wild hopes and dreams that can derail their purpose. And finally, they need to be mentally robust, so that they don't deflate when assaulted with adversities.)
+(There were many, but I will provide a non-exhaustive list of the primary parameters. The mortal must be mature and rational, so that they can evaluate their decisions before acting upon them. They must be non-confrontational, so that they don't actively or unwittingly seek conflict and dying before making a difference. They need to be kind and honest to be able to endear themselves with others. They must be hard-working and dedicated to their work, to be able to tackle tough situations. They need to be fulfilled and passive, free of wild hopes and dreams that can derail their purpose. And finally, they need to be mentally robust, so that they don't deflate when assaulted with adversities.)
 
 [Though I agree with some of those parameters, I don't see the importance of some such as 'non-confrontational' and 'passive'. It looks counterintuitive to your purpose?]
 
@@ -52,7 +52,7 @@ created: 1659189701926
 
 Mast proceeded to explain the innumerable additional details he had to take into consideration prior to migrating Guy's soul.
 
-(After bringing the soul in, my next task was to steer him in a particular direction. Due to the mistruths I fed him prior to transmigration, he already held a positive opinion about me thanks to his predosposition towards kindness. This helped me shape his perspective early on without much opposition. Then, I waited to see if the soul would be effective in solving our problems. After confirming that, I shifted my focus towards changing his passive and non-confrontational character and moved on to phase two of my operation. I found that the most optimal way to motivate humans to assume an active role is by introducing an antagonistic character that contradicts them. I chose to assume that role with Guy. By pointing out the folly of his weak mentality and his incapacity in his past life, I evoked a mental breakdown inside him. This was further exacerbated by a harrowing revelation from the mortal who he shares the emotional bond with. From this point onwards, Guy will function like a programmed machine.)
+(After bringing the soul in, my next task was to steer him in a particular direction. Due to the mistruths I fed him prior to transmigration, he already held a positive opinion about me thanks to his predisposition towards kindness. This helped me shape his perspective early on without much opposition. Then, I waited to see if the soul would be effective in solving our problems. After confirming that, I shifted my focus towards changing his passive and non-confrontational character and moved on to phase two of my operation. I found that the most optimal way to motivate humans to assume an active role is by introducing an antagonistic character that contradicts them. I chose to assume that role with Guy. By pointing out the folly of his weak mentality and his incapacity in his past life, I evoked a mental breakdown inside him. This was further exacerbated by a harrowing revelation from the mortal who he shares the emotional bond with. From this point onwards, Guy will function like a programmed machine.)
 
 [What are your predictions towards his success?]
 
