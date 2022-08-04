@@ -1,8 +1,8 @@
 ---
 id: wld5f4bvhgg1i03ld2gqqc0
-title: Chapter 216
+title: Chapter 216 - The First Sale
 desc: ''
-updated: 1659345048674
+updated: 1659531897160
 created: 1659268378290
 ---
 
@@ -60,9 +60,11 @@ The kid was being too reasonable... Rove hated it! He wanted to continue flingin
 
 "Fine!" Rove declared half-heartedly, while waving for the kid to enter the backroom.
 
-The kid followed Rove inside and immediately beelined towards the machine. He started to move around it, tapping and grasping it in different places. Finally, he approached the unopened boxes stacked next to the machine and opened each of them, taking notes on the state of the contents.
+The kid followed Rove inside and immediately beelined towards the machine. He started to move around it, tapping and grasping it in different places. The deliverers had actually set up four mechanisms in a spaced out fashion. The first, and most prominant, was the machine called the Gutenberg Press. The second, which was near the flat section of the Press, was like a shallow reservoir. The third appeared to be a large storage compartment with multiple cubbies and drawers, as well as a stand place on top at eye-level. The fourth, and final, was something Rove was familiar with and was a standard bookbinding mechanism albeit with a few more moving parts.
 
-"This machine is best operated in a three-person cell," the boy narrated while counting bags of metal tablets of some sort. "Which three employees will I be training?"
+After inspecting all the assembled devices, the boy finally approached the unopened boxes stacked next to the machine and opened each of them, taking notes on the state of the contents.
+
+"These machines are best operated in a three-person cell," the boy narrated while counting bags of metal tablets of some sort. "Which three employees will I be training?"
 
 "Training?"
 
