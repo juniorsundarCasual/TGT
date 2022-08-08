@@ -1,8 +1,8 @@
 ---
 id: onv2e24fy9v3ur7plx9fqp6
-title: Chapter 219
+title: Chapter 219 - Road to Upper Management
 desc: ''
-updated: 1659899462516
+updated: 1659951365678
 created: 1659860906973
 ---
 
@@ -108,7 +108,7 @@ Guy moved his hand towards Furion, who flinched by instinct. Guy's approach falt
 
 "T-Thank you...?" Furion did not exactly understand any of what was said, but the nature of Guy's tone implied it was a good thing. 'I heard there was a raise, so it must be a good thing... I guess?'
 
-Guy smiled wholeheartedly while whooping in relief on the inside. He did not enjoy business management. Not one bit. He hoped to hand off everything to someone more capable as soon as possible so that he could return to what he enjoyed doing most, which was teaching. Furion appeared to have the proper business acumen, all that was left was to unearth it.
+Guy smiled wholeheartedly while whooping in relief on the inside. He did not enjoy business management. He hated it. Despised it. Deplored it. Resented it immensely. He planned to hand off everything to someone more capable as soon as possible so that he could return to what he enjoyed doing most, which was teaching. Furion appeared to have the proper business acumen, all that was left was to unearth it. Guy was doing his best to guide Furion down that path.
 
 ____
 
