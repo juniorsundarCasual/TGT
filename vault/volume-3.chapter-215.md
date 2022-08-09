@@ -2,7 +2,7 @@
 id: p2ssr345vvyhjznnsyfr5u6
 title: Chapter 215 - (Interlude) Conversation between Multidimensional Beings (Part Two)
 desc: ''
-updated: 1659337627805
+updated: 1660066541683
 created: 1659189701926
 ---
 
@@ -70,7 +70,11 @@ Mast proceeded to explain the innumerable additional details he had to take into
 
 (It seems that the anomalous compartment has spawned an alter ego of sorts that draws into the repressed characteristics of Guy's soul. Where he is calm and reasonable, the alter ego is wild and fanatical. What Guy lacks, the alter ego has in spades and vice versa. My updated calculations have shown that if used properly, the alter ego can increase the rate of advancement of this world by a few decades.)
 
-[The downsides?]
+[I don't like uncertainties, Mast,] Tron warned with a stern voice. [You know that I cannot intervene with any soul living in my world.]
+
+(If the anomaly exceeds the bounds of my predetermined limits, I shall cull it immediately. I brought it into your word, I have the power to take it out just as easily,) Mast assuaged. (If this experiment fails, we shall start again. Although the next won't be as optimal as this one, it shouldn't be too difficult to stack the field in our favour.)
+
+Tron remained silent while considering everything discussed till this point before asking, [The downsides?]
 
 (Nothing for us to worry about. The mortal soul will fulfil its purpose. And once its purpose is achieved, it can be disposed of.)
 
