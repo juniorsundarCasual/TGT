@@ -2,7 +2,7 @@
 id: 82wjew670hdukpfhehp300s
 title: Chapter 205 - Opening the Heavenly Eye
 desc: ''
-updated: 1659086226334
+updated: 1660070183751
 created: 1656854575299
 ---
 
@@ -16,7 +16,7 @@ created: 1656854575299
 
 Krish snorted playfully and said, "Stop putting it off. You're well-prepared for this."
 
-"Am I?" Marie responded, displaying a rare instance of her vulnerability. Krish often forgot the girl was only fifteen-years-old.
+"Am I?" Marie responded, displaying a rare instance of her vulnerability. Krish often forgot the girl was only sixteen-years-old.
 
 'My goodness! We've only been together for a year?' Krish shuddered upon recollecting their unfathomable progress. Even in his youth, it took him three years to reach this point, and his Master praised him as a prodigy who broke many records amongst the ancestors of the Heavenly Eye. Nonetheless, the tinge of jealousy that flashed in his thoughts was immediately drowned by an overwhelming sense of pride. 'This is my Disciple!'
 

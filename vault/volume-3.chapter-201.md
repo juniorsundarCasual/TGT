@@ -2,7 +2,7 @@
 id: n0o3dgnca6op2mcgnxyb1ja
 title: Chapter 201 - Securing an Investment and Gaining an Employee
 desc: ''
-updated: 1658257196662
+updated: 1660070329131
 created: 1656225192711
 ---
 
@@ -28,7 +28,7 @@ Upon receiving a nod from Guy he followed up, "To that end, I have a few questio
 
 "Go ahead," Guy agreed.
 
-"I am sufficiently informed of the requirements to starting and maintaining a Sect," Garlin started. "How can you guarantee that the Solar Alliance will validate the creation of your Sect?"
+"I am sufficiently informed of the requirements to starting and maintaining a Sect," Garlin started. "How can you guarantee that the Solar Sect Alliance will validate the creation of your Sect?"
 
 "We have the support of a Tesseract Transformation realm mage," Guy declared openly.
 

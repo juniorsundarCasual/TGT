@@ -2,7 +2,7 @@
 id: 0mc7ullxkzeov70n324g0pq
 title: Chapter 183 - (Interlude) Leaving the Cloudstrider Sect
 desc: ''
-updated: 1654886943953
+updated: 1660070314890
 created: 1652597774156
 ---
 
@@ -12,7 +12,7 @@ He was satisfied that he managed to consume all the books present within the tim
 
 He was disgusted by some of the unethical practices endorsed by the Sect. The Archives didn't go into much detail, but Guy was able to infer things by piecing together hints from multiple documents. One of the most horrendous actions Guy found was when an inheritance ground, which is a type of inheritance artefact that takes the form of a micro-dimension, opened up in the middle of the Vast Blue Expanse to the East.
 
-It was discovered by a gaggle of crab fishermen whose ship got stranded on the island where the inheritance ground existed due to a wild hurricane. Word got out, and all the sects around the world rushed to claim it for their own. After a series of conflicts between members up the hierarchy, the rights to the ground were won by the Solar Alliance of Sects.
+It was discovered by a gaggle of crab fishermen whose ship got stranded on the island where the inheritance ground existed due to a wild hurricane. Word got out, and all the sects around the world rushed to claim it for their own. After a series of conflicts between members up the hierarchy, the rights to the ground were won by the Solar Sect Alliance.
 
 Members from the various sects of the alliance arrived in droves. It was commonly known that inheritance grounds were treacherous domains filled with dangers of many kinds. It was very rare for an Ascended mage to leave behind a benign artefact due to the volatile nature of cultivation and magic. Thus, the Sects would send in the grunts from the Outer Domain as cannon fodder to clear out and map the regions inside the grounds. Many would die, some painlessly while others not so much. Those that survived would live to see another day, albeit scarred for life. Those that were lucky and found something beneficial would ultimately lose it to those higher up the ladder.
 
