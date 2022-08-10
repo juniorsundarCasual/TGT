@@ -71,7 +71,6 @@ workspace:
     maxNoteLength: 204800
     dendronVersion: 0.83.0
     enableFullHierarchyNoteTitle: false
-    enableHandlebarTemplates: false
     templateHierarchy: template
     enableSmartRefs: false
 preview:
