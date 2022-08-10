@@ -2,7 +2,7 @@
 id: pu10658yqkdicvtvotvnhkg
 title: Chapter 220
 desc: ''
-updated: 1660072474288
+updated: 1660138616658
 created: 1659860911723
 ---
 
@@ -12,7 +12,7 @@ The peculiarity of the mountain range stemmed from the fact that its lowest peak
 
 Many had tried to start a sect in the strategically fortified inner regions of the Serrated-Peaks Mountain Range, yet none succeeded. This was because in trying to secure the most mana abundant locations on the range, one would need to compete with other mages and sentient beasts that roamed in the Core Condensation Realms and above, such as the notorious Thunderbird couple and their offspring that practically ruled the mountain range. To that end, there were always a few eyes pasted warily on the range looking out for upstarts looking to establish a base there, or harvesting some of the more arcane and rare magical resources that sprouted in the range and the surrounding forestry. After all, the world of cultivation was a crucible...
 
-It was because of this mentality that everyone missed the spawn of a new sect in the Serrated-Peaks Mountain Range. No one suspected that a group would choose Mount Taishan, one of the tallest peaks in the range known to be notoriously mana scarce, would become the birth-place of the True World Sect.
+It was because of this mentality that everyone missed the spawn of a new sect in the Serrated-Peaks Mountain Range. No one suspected that a group would choose Mount Tai, one of the tallest peaks in the range known to be notoriously mana scarce, would become the birth-place of the True World Sect.
 
 The days passed swiftly, turning into months until finally, an entire year had passed since Guy resolved to start a Sect of his own. Within the past year, much had changed in Twilight Village. Although the rustic mud, thatch and wood architecture remained the same, a few additional building had sprouted within the village. A public bath with a sauna that routed fresh water from the stream and filtered it through a very simple ritual formation now stood at the village centre. 
 
@@ -22,7 +22,11 @@ Therefore, after some brainstorming with Guy, Jean decided to go forward with th
 
 The bath was gender segregated and followed the Roman design by having a large pool at the centre, which was temperature and climate controlled by very simple ritual formations that were self-sustaining. The water was siphoned from the stream through some ingenious terraforming contributed by Markus, and passed through another filtering ritual formation that killed bacteria and separated the residuals from the water. As Guy saw the bath taking shape, he decided to contribute as well and redirected some builders to help make the bath larger and added saunas. Guy figured that by doing so, he could then have Sect members visit the village's Public bath to cleanse themselves and form friendlier relations with the villagers. Guy did not want his Sect to isolate itself and grow distant from the regular, non-magical folk like the other sects in this world. By having these opportunities for Sect members to revisit their roots, he could stop such detrimental stigmas from forming.
 
-After its completion, the public bath had turned into a sort of hangout spot for all ages. The youngsters would swim and play in the pool while the elders soaked themselves or cooked themselves in the pleasurable steam sauna. As this slowly turned into the norm, Jean was relieved to see her project reach fruition. To top it off, there really was an overall improvement in the villager's health as Jean observed reduced cases of common ailments.
+After its completion, the public bath had turned into a sort of congregation spot for all ages. The youngsters would swim and play in the pool while the elders soaked themselves or cooked themselves in the pleasurable steam sauna. As this slowly turned into the norm, Jean was relieved to see her project reach fruition. To top it off, there really was an overall improvement in the villager's health as Jean observed reduced cases of common ailments.
+
+However, the greatest change that transpired in Twilight Village, ironically, wasn't within the village itself. Rather, if one were to follow the road leading from Wayward Town to Twilight Village, they would note the sudden increase in the path's quality. The jerky, muddy path was now flattened and layered with cobblestones to ensure unhindered travel via carriage, horseback, or foot. This cobblestone path wove from Wayward Town till Twilight Village, turned sideways and rose up an incline until it halted at True World Sect's brand-new campus.
+
+In place of the old Mount Tai Orphanage, now stood the official Welcoming Centre to the True World Sect.   
 
 ____
 
