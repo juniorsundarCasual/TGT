@@ -1,8 +1,8 @@
 ---
 id: pu10658yqkdicvtvotvnhkg
-title: Chapter 220
+title: Chapter 220 - State of the True World Sect
 desc: ''
-updated: 1660138616658
+updated: 1660154389099
 created: 1659860911723
 ---
 
@@ -26,7 +26,29 @@ After its completion, the public bath had turned into a sort of congregation spo
 
 However, the greatest change that transpired in Twilight Village, ironically, wasn't within the village itself. Rather, if one were to follow the road leading from Wayward Town to Twilight Village, they would note the sudden increase in the path's quality. The jerky, muddy path was now flattened and layered with cobblestones to ensure unhindered travel via carriage, horseback, or foot. This cobblestone path wove from Wayward Town till Twilight Village, turned sideways and rose up an incline until it halted at True World Sect's brand-new campus.
 
-In place of the old Mount Tai Orphanage, now stood the official Welcoming Centre to the True World Sect.   
+What was originally a quaint plain with a rundown building doubling as the Mount Tai Orphanage, was now a sprawling, walled compound. Newcomers following the newly built cobblestone path to the location would first face a set of large metal framed wooden doors embedded into the stone walls with two stone pillars framing the doors on either side. Hanging above the doors, in line with the wall's roof tiles was a stone tablet with the words "True World Sect" engraved on it. On the wooden door, a large symbol was engraved and painted which resembled the Sect's logo - the azimuthal equidistant projection of Earth from Guy's old world.
+
+Going past the Sect's entrance, one would then stumble upon the new and improved Mount Tai Orphanage, which was now the official Welcoming Centre to the True World Sect. Similar to the assessment made by Mylo when surveying the orphanage, the builders hired to implement upgrades on the building concluded that the structure was robust and did not need additional reinforcement. A series of remodeling attempts and a basic refurbishment later, the building how projected its ancient majesty with full force.
+
+The Welcoming Centre was where most, if not all the administrative work for the Sect and its affiliated business was set to take place. To that end, the housing of its previous occupants was moved further back in after clearing up more of the woods behind the orphanage. Guy insisted for a seamless marriage between nature and the Sect's campus, thus a significant portion of the surrounding foliage was preserved while ensuring that the campus did not get crowded with trees and shrubbery. Thus, a constant stream of pleasant breeze swam through the campus grounds.
+
+Guy opted for a more community oriented living arrangement, while also adhering to Grace's strict request that the male and female youths be separated to opposite wings of the campus. To that end, Guy did not want a large fissure to form between members of the Sect standing in different positions. Hence, he planned for the Sect's faculty and administrative staff to live amidst the regular members.
+
+The steps leading down to the village also went a thorough overhaul. The loose stones were fixed, and broken steps were remade. A similar gate was placed at the location of the wall leading to the steps with the Sect's name and logo emblazoned on it.
+
+Additional buildings were erected with the Sect's campus, with more available space and funds to work with, Guy managed to build a lecture building, which was filled with six average-sized classrooms - matching the classrooms he'd make in rural villages in his past life - with an open lecture hall adjacent to the building. He also managed to fit the Maker-Space into his budget, which was a single-storey building that was mostly empty barring a machinery such as a large Gutenberg Press, a mana-powered lathe, milling machine and bench saw. There were large tables with simple tools slotted into them and high-benches to sit on while working. Even with this installed, there was till half of the room left empty for future additions. A basic forge was established outside and adjacent to the Maker-Space, for the more adventurous and hands-on inventors. The store-room inside the building was filled with a fresh medley of resources such as wood, metals, fabrics and so on.
+
+To accommodate the combat aspect of the Sect, two regulation size combat fields were installed close to the centre of the campus. At the centre of both was another building that extended into the ground and housed the weapons and training equipment.
+
+The functional buildings were positioned in the region of the Sect's campus closer to downhill of Mount Tai. The leisure buildings, including the dorms and living arrangements, were placed at the rear of the Sect closer to the rising section of Mount Tai. A Community Centre, which contained a Mess Hall, a Play Room, and an open Playground outside was positioned between the two dorm wings.
+
+Behind the Community Centre a new set of stairs was built that rose higher up the mountainside to another plain at an even higher elevation. On this elevation lay the pride and glory of the True World Sect- the Sect's Library. Although Guy did not want to have knowledge hidden away from the Sect members, he didn't want to trivialise its importance. He wanted his Sect's members to respect the knowledge and information stored within the Sect's library, which was now filled with all the books Guy had in his RoK, both from this world and his own. The altitude separation between the Sect and the Library was meant to evoke a passive sense of deference amongst his Sect's members - that to gain said knowledge they would have to physically trek up the steps as an act of penance to temper their hubris.
+
+The Library itself had a design mimicking the Great Library of Alexandria as recreated from historical texts (before it was burned down). This was decided because the architecture matched that of the other buildings of the Sect. Since the Library was filled with books from the RoK, including those from his past life, there could only be a singular copy of them. Therefore, he established a rule that no book could be taken out from the library. If knowledge was to be transported out, it had to be transcribed in the building itself by hand (or typewriter as soon as Guy figured out the convoluted contraption). Guy wanted to use this Library as the physical manifestation of the RoK, thus any book that was added to the RoK would be physically added here immediately after.
+
+Apart from these key structures, additional inclusions in the Sect's campus were a Science Lab that bordered the path leading to Grace's newly expanded garden. This was a three-tiered building behind the Maker-Space, with each tier corresponding to a branch of the three overarching fields of physical science. There were also miscellaneous buildings for personal hygiene scattered accross the campus. With some ingenious plumbing, Guy managed to finally install a proper flushing mechanism and a basic squatting toilet. He didn't splurge excessively for these structures since advancing in cultivation would ultimately render them redundant.
+
+This was the current state of the True World Sect. Even with all of these buildings and structures in place, the campus was only half built. There were vast patches of empty space to accommodate new additions as opportunities presented themselves and the Sect grew - Guy wanted to hold on to that optimism. Regardless, Guy was proud of everything that was accomplished within the tight time frame. The Sect's foundations were in-place, now all that was left was to officially register it with the Solar Sect Alliance and then fill the Sect up with people. Coincidentally, the moment to check those boxes was within arms reach.
 
 ____
 
