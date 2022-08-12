@@ -1,8 +1,8 @@
 ---
 id: pu10658yqkdicvtvotvnhkg
-title: Chapter 220 - State of the True World Sect
+title: Chapter 220 - Hitch-hiking
 desc: ''
-updated: 1660154389099
+updated: 1660333535618
 created: 1659860911723
 ---
 
@@ -12,43 +12,149 @@ The peculiarity of the mountain range stemmed from the fact that its lowest peak
 
 Many had tried to start a sect in the strategically fortified inner regions of the Serrated-Peaks Mountain Range, yet none succeeded. This was because in trying to secure the most mana abundant locations on the range, one would need to compete with other mages and sentient beasts that roamed in the Core Condensation Realms and above, such as the notorious Thunderbird couple and their offspring that practically ruled the mountain range. To that end, there were always a few eyes pasted warily on the range looking out for upstarts looking to establish a base there, or harvesting some of the more arcane and rare magical resources that sprouted in the range and the surrounding forestry. After all, the world of cultivation was a crucible...
 
-It was because of this mentality that everyone missed the spawn of a new sect in the Serrated-Peaks Mountain Range. No one suspected that a group would choose Mount Tai, one of the tallest peaks in the range known to be notoriously mana scarce, would become the birth-place of the True World Sect.
+Nonetheless, Marie had just stepped foot into this crucible, and she was giddy with excitement. The Master-Disciple duo had travelled from Twilight Village to their first stop, Wayward Town. Usually, this would take someone a day or two to complete via carriage or horseback, but the two had completed this journey by foot. Ofcourse pedestrian travel should have taken much longer, given the abysmal condition of the road connecting the village and the town, yet the duo took exactly a day and a half after a continuous trek.
 
-The days passed swiftly, turning into months until finally, an entire year had passed since Guy resolved to start a Sect of his own. Within the past year, much had changed in Twilight Village. Although the rustic mud, thatch and wood architecture remained the same, a few additional building had sprouted within the village. A public bath with a sauna that routed fresh water from the stream and filtered it through a very simple ritual formation now stood at the village centre. 
+"How do you walk so quickly with a messed up leg?!" Marie exclaimed as she noticed her Master literally gliding over the ground while still walking with a limp. In response, he chuckled mischevously and overtook her.
 
-This was Jean's latest project which was positively received by the villagers. Ever since the successful birthing procedure of Chiani Lane, the villagers viewed Jean as a deific figure capable of saving people at the brink of death. Her words regarding personal and public hygiene had become gospel. Guy was sure that if the girl told the villagers that cutting off the tip of their toes would increase their life expectancy by a year, they would do it blindly. Thankfully, the girl was rational, benevolent and a pacifist at heart. Through observation and primary research, Jean found that even with the advent of soap, the level of personal hygiene in the village was abysmal. People regularly suffered from avoidable illnesses due to infections. As an aspiring healer, and one enlightened to the 'truths' of the world, Jean firmly believed that "prevention is better than the cure" - if a disease can be prevented then it must be done so.
+"Try to keep up, girl," he joked.
 
-Therefore, after some brainstorming with Guy, Jean decided to go forward with the rather controversial idea of a public and communal bath. Now although the general architecture followed by the Solar Empire could be found similar to the Ancient Greco-Roman designs from Earth, the people here were conservative to an uncomfortable degree. Jean was apprehensive that the idea for a public bath would be met with hesitance and distaste by the villagers, but Guy convinced her that with some innovative marketing she could skew the public opinion. Furthermore, Guy was sure that the village-folk wouldn't be so averse to communal bathing compared to city-folk. In fact, normally the men and woman of the village bathed in the stream, though they did it at different times - the public bath differed in that they could bathe simultaneously.
+"This Movement Art is extremely-" she stumbled over her own feet, stopped to catch herself and resumed gliding forward just like her Master. "-difficult! There are so many processes happening at the same time - breathing, muscle control, timing the steps... And it's so tiring!"
 
-The bath was gender segregated and followed the Roman design by having a large pool at the centre, which was temperature and climate controlled by very simple ritual formations that were self-sustaining. The water was siphoned from the stream through some ingenious terraforming contributed by Markus, and passed through another filtering ritual formation that killed bacteria and separated the residuals from the water. As Guy saw the bath taking shape, he decided to contribute as well and redirected some builders to help make the bath larger and added saunas. Guy figured that by doing so, he could then have Sect members visit the village's Public bath to cleanse themselves and form friendlier relations with the villagers. Guy did not want his Sect to isolate itself and grow distant from the regular, non-magical folk like the other sects in this world. By having these opportunities for Sect members to revisit their roots, he could stop such detrimental stigmas from forming.
+"If you're already getting tired with this short trek, how do you expect to travel all the way to our destination?"
 
-After its completion, the public bath had turned into a sort of congregation spot for all ages. The youngsters would swim and play in the pool while the elders soaked themselves or cooked themselves in the pleasurable steam sauna. As this slowly turned into the norm, Jean was relieved to see her project reach fruition. To top it off, there really was an overall improvement in the villager's health as Jean observed reduced cases of common ailments.
+"We're going to walk all the way there?" Marie blurted out while stopping in her track. "Nope! Not doing that! Nuh-uh."
 
-However, the greatest change that transpired in Twilight Village, ironically, wasn't within the village itself. Rather, if one were to follow the road leading from Wayward Town to Twilight Village, they would note the sudden increase in the path's quality. The jerky, muddy path was now flattened and layered with cobblestones to ensure unhindered travel via carriage, horseback, or foot. This cobblestone path wove from Wayward Town till Twilight Village, turned sideways and rose up an incline until it halted at True World Sect's brand-new campus.
+"Then what's the alternative?" Her Master shot back.
 
-What was originally a quaint plain with a rundown building doubling as the Mount Tai Orphanage, was now a sprawling, walled compound. Newcomers following the newly built cobblestone path to the location would first face a set of large metal framed wooden doors embedded into the stone walls with two stone pillars framing the doors on either side. Hanging above the doors, in line with the wall's roof tiles was a stone tablet with the words "True World Sect" engraved on it. On the wooden door, a large symbol was engraved and painted which resembled the Sect's logo - the azimuthal equidistant projection of Earth from Guy's old world.
+"We'll hitch a ride with a caravan or convoy," Marie responded matter-of-factly.
 
-Going past the Sect's entrance, one would then stumble upon the new and improved Mount Tai Orphanage, which was now the official Welcoming Centre to the True World Sect. Similar to the assessment made by Mylo when surveying the orphanage, the builders hired to implement upgrades on the building concluded that the structure was robust and did not need additional reinforcement. A series of remodeling attempts and a basic refurbishment later, the building how projected its ancient majesty with full force.
+"Just so you know, I'm not going to involve myself in these shenanigans," Krish snorted while waving his hands. "I can walk all the way there. I don't need a ride."
 
-The Welcoming Centre was where most, if not all the administrative work for the Sect and its affiliated business was set to take place. To that end, the housing of its previous occupants was moved further back in after clearing up more of the woods behind the orphanage. Guy insisted for a seamless marriage between nature and the Sect's campus, thus a significant portion of the surrounding foliage was preserved while ensuring that the campus did not get crowded with trees and shrubbery. Thus, a constant stream of pleasant breeze swam through the campus grounds.
+"Yeah, yeah," Marie evoked sarcastically and resumed the arduous yet hasty glide towards Wayward Town.
 
-Guy opted for a more community oriented living arrangement, while also adhering to Grace's strict request that the male and female youths be separated to opposite wings of the campus. To that end, Guy did not want a large fissure to form between members of the Sect standing in different positions. Hence, he planned for the Sect's faculty and administrative staff to live amidst the regular members.
+____
 
-The steps leading down to the village also went a thorough overhaul. The loose stones were fixed, and broken steps were remade. A similar gate was placed at the location of the wall leading to the steps with the Sect's name and logo emblazoned on it.
+Marie hummed contemplatively as her eyes scanned over the many caravans parked in Wayward Town.
 
-Additional buildings were erected with the Sect's campus, with more available space and funds to work with, Guy managed to build a lecture building, which was filled with six average-sized classrooms - matching the classrooms he'd make in rural villages in his past life - with an open lecture hall adjacent to the building. He also managed to fit the Maker-Space into his budget, which was a single-storey building that was mostly empty barring a machinery such as a large Gutenberg Press, a mana-powered lathe, milling machine and bench saw. There were large tables with simple tools slotted into them and high-benches to sit on while working. Even with this installed, there was till half of the room left empty for future additions. A basic forge was established outside and adjacent to the Maker-Space, for the more adventurous and hands-on inventors. The store-room inside the building was filled with a fresh medley of resources such as wood, metals, fabrics and so on.
+"So many choices," she voiced out loud.
 
-To accommodate the combat aspect of the Sect, two regulation size combat fields were installed close to the centre of the campus. At the centre of both was another building that extended into the ground and housed the weapons and training equipment.
+"Just pick one already," her Master sighed from behind her. "They're all Eastward bound anyways."
 
-The functional buildings were positioned in the region of the Sect's campus closer to downhill of Mount Tai. The leisure buildings, including the dorms and living arrangements, were placed at the rear of the Sect closer to the rising section of Mount Tai. A Community Centre, which contained a Mess Hall, a Play Room, and an open Playground outside was positioned between the two dorm wings.
+"Patience, Master," Marie responded. "Only one of the three here stands a chance to make it all the way past the Serrated-Peaks Mountain Range and into Whispering-Woods."
 
-Behind the Community Centre a new set of stairs was built that rose higher up the mountainside to another plain at an even higher elevation. On this elevation lay the pride and glory of the True World Sect- the Sect's Library. Although Guy did not want to have knowledge hidden away from the Sect members, he didn't want to trivialise its importance. He wanted his Sect's members to respect the knowledge and information stored within the Sect's library, which was now filled with all the books Guy had in his RoK, both from this world and his own. The altitude separation between the Sect and the Library was meant to evoke a passive sense of deference amongst his Sect's members - that to gain said knowledge they would have to physically trek up the steps as an act of penance to temper their hubris.
+"So? If the answer's clear, just pick it and go along with it," her Master retorted plainly.
 
-The Library itself had a design mimicking the Great Library of Alexandria as recreated from historical texts (before it was burned down). This was decided because the architecture matched that of the other buildings of the Sect. Since the Library was filled with books from the RoK, including those from his past life, there could only be a singular copy of them. Therefore, he established a rule that no book could be taken out from the library. If knowledge was to be transported out, it had to be transcribed in the building itself by hand (or typewriter as soon as Guy figured out the convoluted contraption). Guy wanted to use this Library as the physical manifestation of the RoK, thus any book that was added to the RoK would be physically added here immediately after.
+"It's not time yet. They won't take us on if we go now. We must wait for-" Marie elongated the syllable while observing the chosen caravan with increased vigour, until eventually, a large procession of individuals started to leave the procession and moved towards another. "-that!"
 
-Apart from these key structures, additional inclusions in the Sect's campus were a Science Lab that bordered the path leading to Grace's newly expanded garden. This was a three-tiered building behind the Maker-Space, with each tier corresponding to a branch of the three overarching fields of physical science. There were also miscellaneous buildings for personal hygiene scattered accross the campus. With some ingenious plumbing, Guy managed to finally install a proper flushing mechanism and a basic squatting toilet. He didn't splurge excessively for these structures since advancing in cultivation would ultimately render them redundant.
+Marie noted that the people leaving were clearly the escorts originally hired by the caravan. Their leaving meant that either they weren't being paid enough or they were being paid an even greater amount by the other party hiring them. She looked on as the leader of the escorting group walked out briskly while a frantic figure of a merchant familiar to her jogged behind him and tried to convince him animatedly.
 
-This was the current state of the True World Sect. Even with all of these buildings and structures in place, the campus was only half built. There were vast patches of empty space to accommodate new additions as opportunities presented themselves and the Sect grew - Guy wanted to hold on to that optimism. Regardless, Guy was proud of everything that was accomplished within the tight time frame. The Sect's foundations were in-place, now all that was left was to officially register it with the Solar Sect Alliance and then fill the Sect up with people. Coincidentally, the moment to check those boxes was within arms reach.
+"Let's go," Marie called out to her Master as she moved towards the merchant.
+
+"Jory! How are you?" Marie greeted the troubled man with a smile. The person in question, Jory, was a stout middle-aged individual with a jutting belly. Although, the worry plastered across his face had scrunched his skin and exacerbated his age.
+
+The man jerked his neck to track the person calling his name, his hands instinctively twirling his thin and well-trimmed mustache.
+
+"Marie? Is that you?" He asked incredulously as him mind retrieved the name attached to the face before him.
+
+"What was that all about?" Marie asked while gesturing her head towards the now distant escort leader.
+
+The man sighed in defeat and said, "Those bastards at Roving stole my escort by paying them an outrageous amount. Can't trust these new Sects, I tell ya! They'll leave you at the drop of a hat - no loyalty at all."
+
+"So what're you going to do?" Marie probed.
+
+"What can I do?" He groaned in response. "We gotta get through the pass one way or another. And I can't delay the delivery. I guess I'll just have to bite the arrowhead and go at it without an escort."
+
+"Isn't it dangerous?"
+
+"Of course it is!" The man shrieked. "But what can I do?"
+
+"You can take us along?"
+
+"'Us'? You and who else?" The man shot back with a raised brow.
+
+"Me and my Master here- Where is he?" Marie craned her neck and bellowed. "MASTER! Here!"
+
+Jory noticed a destitute man hobbling over with a limp, responding to Marie's call.
+
+"This is your Master? What is he teaching you?" Jory probed.
+
+"Magic, of course," Marie answered proudly.
+
+"Really?" Jory voiced his scepticism audibly. "I don't know Marie-"
+
+"You said it yourself!" Marie quickly interjected. "You said that you have no other choice. Here, I just gave you one and that too for free. Don't be so stubborn and think about it. You know me! Do you think I'd throw my eggs into a cracked basket?"
+
+Jory revealed a bitter smile and admitted, "Fine. I'll let you come along. But no funny business, okay? And I ain't doing it for free either. Standard hitchhiking prices."
+
+"I promise you that you will waive our fees soon," Marie declared mysteriously as she guided her Master into the front-most caravan.
+
+Jory sighed once again as the two walked away. He then continued to lament his misfortune internally and prayed dearly to the ancient spirits so that his trip would go without a hitch. Although, the current turn of events had definitely affected the sincerity of his prayers.
+
+____
+
+"Stop!" Marie yelled out, loud enough that the entire caravan heard it. In doing so, the entire moving unit came to a sudden halt. Marie could see that the horses were unnerved, even before her call. They were simply moving forward due to the command of their masters, if given the opportunity they would have fled without thought.
+
+"What?!" Jory shot back instinctively. "Hey! You don't order my caravan around!"
+
+"If you don't want to die, I recommend that you stop this very instant. Another step and your life is forfeit," Marie declared morosely.
+
+"Are you threatening me?" Jory growled.
+
+"No, I'm trying to save you," Marie corrected. "If you take another step forward from here, you will be in a condition where you can actually play with your guts."
+
+"Huh?" Jory exclaimed with a shudder.
+
+"Let us wait here for... exactly two hours," Marie added.
+
+"Two hours?! You can't just stop a caravan on the road for two hours like this. What if someone comes from behind? We're like sitting ducks here, what if beasts or bandits attacK?" Jory started to rattle questions one after the other, without pause. Marie raised her palm and stopped the man's rambling.
+
+"If anything goes wrong, I will compensate you," Marie assured.
+
+"How? You're just a poor orphan," Jory snapped instinctively, only to bit his tongue apologetically.
+
+"Trust me one more time, why don't you? I haven't led you poorly before. Remember that time I caught the thief siphoning off money from your business?" Marie reminded. "Consider this stopping request as paying back for that."
+
+"Paying back? I paid you handsomely back then for your efforts, our debt is cleared," Jory snorted.
+
+"Stop arguing for a second and look around you," Marie said. "Do you hear anything? Do you hear any birds? Insects?"
+
+At that moment, Jory noticed the eerie silence lingering around them. Although it was broad daylight, the ambience was spinechilling.
+
+"Look at your horses! They're practically shaking," Marie said. At that instant, Jory could glean that there was definitely something fishy going around. Like any living being, his sense of self-preservation took hold, and he immediately ordered a two-hour break.
+
+____
+
+"W-What happened here?" Jory gasped as he saw the gruesome massacre before him. After the two hours had elapsed the group continued their journey. Within half and hour, they stumbled upon a scenery that would agitate one's lunch to make a sudden exit through the oral cavity.
+
+"Thunderbird attack," the old man who Marie referred to as her Master opened his mouth for the first time. "Highly territorial and equally protective of their offspring. Sometimes even more so than Griffins."
+
+"A Thunderbird did this?" Jory pulled his eyes away from half a body of a man perched awkwardly on a branch with his intenstines snaking downwards.
+
+"Two to be exact," the old man corrected.
+
+"Why would they do this? I thought they never attacked caravans passing through here?" Jory inquired.
+
+"That would be the case. But the caravan before you folk were transporting a Thunderbird egg," Krish answered.
+
+"A fucking Thunderbird egg? Through Thunderbird territory? Are they insane?" Jory scoffed.
+
+"They were under orders," Marie chimed in with a dejected shake of her head as she levitated the body down from the branch and piled it up with a large pile of eviscerated, charred and crushed bodies of the casualties from the Thunderbird attack. Amidst the pile, Jory managed to pick out the distinctive attire of the Sect members who were initially part of his own escort group.
+
+"Couldn't they have just travelled around the mountains?" Jory asked.
+
+"The egg was close to hatching, they wouldn't have made it in time. They couldn't risk the hatchling imprinting on a random person other than the tamer it was meant for," Krish clarified.
+
+Jory gulped audibly and probed, "Is this why you asked us to wait back there?"
+
+Marie nodded as she pulled out a piece of wood from her bag. She pointed at the pile of bodies and shot forward a steady stream of fire, engulfing all of them, "The beasts were at Core Condensation realm. The range of their mana sense ended near that location. If we moved closer, we would have entered their radar and succumbed to their rampage."
+
+Jory instructed his caravan to move around the burning pile. "Thank you."
+
+Marie walked back to the leading carriage and hopped on. Her morose face cleared up and revealed a sly smile. "As thank you, why don't you waive our fees?"
+
+Jory choked on his spit and descended into a coughing fit. "You sneaky girl! Fine. But only on the condition that we make it to our destination in one piece."
+
+"Deal!" Marie declared while pushing her palm forward for a shake.
 
 ____
 
