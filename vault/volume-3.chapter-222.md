@@ -1,13 +1,9 @@
 ---
 id: 90oqcwgtybsbyrishusdcxp
-title: Chapter 222
+title: Chapter 222 - Setting off for the Capital
 desc: ''
-updated: 1660476456949
+updated: 1660644966238
 created: 1660325144814
-status: ''
-due: ''
-priority: ''
-owner: ''
 ---
 
 "Looks magnificent, don't it?" Guy evoked with evident pride as he stood facing the entire campus from the entrance to the True World Sect.
