@@ -2,7 +2,7 @@
 id: rmpqve0byab7ei0fayjttrr
 title: Chapter 223
 desc: ''
-updated: 1660654733266
+updated: 1660728888017
 created: 1660476424411
 ---
 
@@ -26,7 +26,15 @@ ____
 
 The Palace was both a magnificent architectural masterpiece and an exquisite work of art combined into one august and imposing structure that commanded respect and awe from those observing it. 
 
+A significant portion of the Palace was made off of a special kind of enchanted glass, capable of converting solar rays and enriching the ambient mana, raising the mana density of the Palace to match, and even exceed, the levels of large sects.
 
+In the recent years, that is since the reign of the current Solar Emperor, the Palace underwent a second expansion. Although the style and theme of this new section matched that of the old visually, the similarity did not extend into its percieved aura. Every excellent piece of work is defined as such because it transcends the superficial - it holds a special meaning that enraptures the observer in some way. The original Palace was the culmination of the works of many professionals accross different fields. With free-reign and nigh endless resources, they were given a wide berth in terms of how the Palace could be built. All they were told by the First Emperor was that "it must be timeless!"
+
+And timeless it was. Every nook and cranny of the Palace tells a story, about its history, all the efforts that went into the formation of the Empire, the contribution of various people along the way, and so on. Every coloured pane stood out by itself, every painting and ceramic adorning the halls told a story.
+
+Unfortunately, the architects of the new wing could not capture this timelessness. In some ways, it wasn't their fault either. The current Emperor had commissioned the new expansion out of necessity. There was just not enough space within the Palace to house his Empress, Consorts and Concubines!
+
+Ultimately, this callous and imperceptibly depraved intention behind building the extension seeped into its walls. A faint aura of decadence prevailed in this region of the Palace. Kin fighting against kin through clandestine means, infanticide, poisoning, every possible 
 
 ____
 
