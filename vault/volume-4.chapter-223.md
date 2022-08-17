@@ -1,8 +1,8 @@
 ---
 id: rmpqve0byab7ei0fayjttrr
-title: Chapter 223
+title: Chapter 223 - Darkness Dwelling in the Light
 desc: ''
-updated: 1660728888017
+updated: 1660733562901
 created: 1660476424411
 ---
 
@@ -34,7 +34,25 @@ And timeless it was. Every nook and cranny of the Palace tells a story, about it
 
 Unfortunately, the architects of the new wing could not capture this timelessness. In some ways, it wasn't their fault either. The current Emperor had commissioned the new expansion out of necessity. There was just not enough space within the Palace to house his Empress, Consorts and Concubines!
 
-Ultimately, this callous and imperceptibly depraved intention behind building the extension seeped into its walls. A faint aura of decadence prevailed in this region of the Palace. Kin fighting against kin through clandestine means, infanticide, poisoning, every possible 
+Ultimately, this callous and imperceptibly depraved intention behind building the extension seeped into its walls. A faint aura of decadence prevailed in this region of the Palace. Kin fighting against kin, infanticide, poisoning, every possible vicious act imaginable, barring maybe cannibalism, occurs within these walls. The Inner Court, as it is called, is a battlefield where no flashy spells and martial attacks are exchanged yet blood is spilled nonetheless.
+
+Again, the fact that this wing had turned into a den of sin could not be foisted upon its inhabitants, which were the many consorts and concubines, because this was the only avenue they could take to gain an advantage. The name of the game was attracting the "favour" of the Emperor. The standard strategy would be to express one's brilliance and beauty and pull in the attention of a man whose libido is in overdrive. Laudable strategy, except what if every other person around you is exactly like you?
+
+A man has a type of woman he is attracted to. Because of that, the entire Inner Court is saturated with similar women, with similar appearances, specialities and characteristics. Even those unique few that catch the Emperor's eye and enter his harem either succumb to the depravity and change, or get evicted from the Inner Court in a coffin. What then?
+
+When tugging at one's heartstrings and genitals just doesn't cut it, and the women fail to push themselves forwards amidst their so-called "sisters" the only option is to pull the competition down... through any means necessary. Because gaining the Emperor's favour not only benefits the women and their offspring, but it also affects their families. A favoured consort or concubine from a Clan can eke out benefits for their Clan through strategic pillow talk. 
+
+Of course, the greatest source of advantage to hold the Emperor's favour is birthing a male offspring. At that point the attack gains two-prongs and the woman no longer needs to alternate between the man's heart and genitals. She can focus her entire attention on the genitals while the Prince can target the Emperor's heart. This is why no woman in the Inner Court wished to yield that advantage to their competitor. The moment the news of pregnancy of a consort or concubine is known, the conceiving woman becomes the target. Thanks to the arrays lining the courtyard that prevents scrying and probing of the pregnant woman's womb, it is impossible to predict the gender of the child before birth. Thus, every pregnancy is a threat that needs to be neutralised.
+
+The Capital city is known to be a den of vipers. Danger lurks around every corner. Yet no one could predict that the most dangerous place in the Capital would be within the Palace itself.
+
+Inside the Inner Court, where a life could be lost through the most innocuous of means, in the farther corners, ignored by everyone and rarely visited by the inhabitants of the palace, existed a courtyard whose name was forgotten. Its original occupant, the Consort to whom it belonged to, no longer lived. In that instance, the courtyard should have been reassigned, demolished or rebuilt. However, prior to her passing, the woman had birthed an offspring. Therefore, by the rules of the Inner Court, the courtyard was handed over to the offspring.
+
+The child that was forgotten, lived in a courtyard that was forgotten, tended to by no one, visited by no one.
+
+Tragic... But it was all intentional. Because to survive in a den of vipers one must douse their existence. They won't know you exist if you don't make any noise, if you don't make any moves, if you remove every indication that you could be a threat.
+
+As for the identity of this forgotten child - the survivor? Her name was Shuri Sol.
 
 ____
 
