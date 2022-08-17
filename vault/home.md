@@ -2,7 +2,7 @@
 id: hsfwh1drgon77m1i871e0g7
 title: Introduction
 desc: ''
-updated: 1649917641466
+updated: 1660657944944
 created: 1649916401463
 ---
 
@@ -24,7 +24,8 @@ In this new world, Guy rediscovered his life's true calling! Ride along on Guy's
 * [[miscellaneous]]
 * [[volume-1]] [COMPLETED][FREE]
 * [[volume-2]] [COMPLETED][LOCKED]
-* [[volume-3]] [ONGOING][LOCKED]
+* [[volume-3]] [COMPLETED][LOCKED]
+* [[volume-4]] [ONGOING][LOCKED]
 
 **Discord**:
 https://discord.gg/PKbqtembQJ

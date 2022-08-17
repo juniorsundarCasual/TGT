@@ -2,23 +2,23 @@
 id: npszam6wq9ywlycccqbddxr
 title: Chapter 213 - Start of an Unexpected Journey
 desc: ''
-updated: 1659085330836
+updated: 1660729469710
 created: 1658426944998
 ---
 
-The sight within Marie's core matched the descriptions from Krish's records. A world, the entire cosmos encompassing everything observed and unobserved, compressed into a tiny and immaterial space within Marie's soul. Every aspect of the world was connected, with threads of gold forming a net tethering everything into one intricate tapestry. The fact that everything was within Krish's expectations indicated that in its core, Marie's cultivation had not deviated - she was still a practitioner of the Heavenly Eye.
+The sight within Marie's core matched the descriptions from Krish's records. A world, the entire cosmos encompassing everything observed and unobserved, compressed into a tiny and immaterial space within Marie's soul. Every aspect of the world was connected, with threads of gold forming a net tethering everything into one intricate tapestry. The fact that everything was within Krish's expectations indicated that at its core, Marie's cultivation had not deviated - she was still a practitioner of the Heavenly Eye.
 
-However, a difference started to manifest itself within the very next second, when a golden thread split off from the cosmos and attached to his hand. The thread pulsed as a wave was transmitted back into the cosmos. Then, before his very eyes, the cosmos started to change. Heavenly bodies were rearranged, removed, and added in real time. Once the rearrangement settled, he saw the cosmos shake unhappily and reset itself to the initial state. Then the pulse repeated once again, reiterating through the 'rearrange, remove and add' cycle to a new configuration only to disintegrate and reset after an unhappy shake.
+However, a difference started to manifest itself within the very next second, when a golden thread split off from the cosmos and attached to his hand. The thread pulsed as a wave was transmitted back into the cosmos. Then, before his very eyes, the cosmos started to change. Heavenly bodies were rearranged, removed, and added in real-time. Once the rearrangement settled, he saw the cosmos shake unhappily and reset itself to the initial state. Then the pulse repeated once again, reiterating through the 'rearrange, remove and add' cycle to a new configuration only to disintegrate and reset after an unhappy shake.
 
 It looked as though the world was trying to make sense of his existence, but was failing miserably to do so. This should not be the case because, after all, Krish was supposed to be detached from fate - an observer.
 
-The iterative cycle repeated for a hundred tries, each more intriguing than the next. There were unique and novel configurations of the universe Krish could never dream of - one in particular had all the stars in space congregated into a single massive ball of fire with heavenly bodies orbiting at a manic speed around it.
+The iterative cycle repeated for a hundred tries, each more intriguing than the next. There were unique and novel configurations of the universe Krish could never dream of - one, in particular, had all the stars in space congregated into a single massive ball of fire with heavenly bodies orbiting at a manic speed around it.
 
-After the hundredth repeat, the world shook angrily and started a new approach. Since it could not accommodate him into its tapestry, it was time for him to change to fit in. With that, an attack was launched towards him that started to deconstruct his hand. Krish could anticipate where this was going and immediately retreated. His spiritual cultivation was strong enough to resist the attack, and then some.
+After the hundredth repeat, the world shook angrily and started a new approach. Since it could not accommodate him into its tapestry, it was time for him to change to fit in. With that, an attack was launched toward him that started to deconstruct his hand. Krish could anticipate where this was going and immediately retreated. His spiritual cultivation was strong enough to resist the attack, and then some.
 
-Before Krish exited his Disciple's core space he took a few seconds to summarise his observations. Her cultivation wasn't exactly as it was supposed to be. While the overaching nature of her cultivation was similar, there were minor differences here and there that set it apart, making it more personal to his Disciple. Was this a good thing or a bad thing?
+Before Krish exited his Disciple's core space he took a few seconds to summarise his observations. Her cultivation wasn't exactly as it was supposed to be. While the overarching nature of her cultivation was similar, there were minor differences here and there that set it apart, making it more personal to his Disciple. Was this a good thing or a bad thing?
 
-For one, it meant that her path to advancement was no longer laid out as descriptively; quite possibly, she could no longer go through the same steps as he had to advance in her cultivation. This could be disadvantageous, since uncertainty came with risks. On the other hand, this also meant that there was room for improvement in the Heavenly Eye, a cultivation method which had stagnated for many millennia.
+For one, it meant that her path to advancement was no longer laid out as descriptively; quite possibly, she could no longer go through the same steps as he had to advance in her cultivation. This could be disadvantageous since uncertainty came with risks. On the other hand, this also meant that there was room for improvement in the Heavenly Eye, a cultivation method which had stagnated for many millennia.
 
 Nonetheless, as he exited his Disciple's core, he wore a concerned demeanour truthful to his opinion.
 
@@ -30,7 +30,7 @@ Nonetheless, as he exited his Disciple's core, he wore a concerned demeanour tru
 
 "I need to model the world," Marie answered, though Krish didn't understand her meaning.
 
-"Just like how other cultivation methods use the movement of planetary bodies to divine the future, I must do the same. However, it needs to be accurate and dynamic not the snapshot-method everyone else uses. It needs to be responsive to changes as they transpire and must correct itself in real0-time," Marie elaborated. "Thus I need to devise a strategy to, and successfully model the world."
+"Just like how other cultivation methods use the movement of planetary bodies to divine the future, I must do the same. However, it needs to be accurate and dynamic not the snapshot-method everyone else uses. It needs to be responsive to changes as they transpire and must correct itself in real-time," Marie elaborated. "Thus I need to devise a strategy to, and successfully model the world."
 
 "And how will you go about doing that?" Krish probed.
 
@@ -50,23 +50,23 @@ With a bitter smile, "To do that, I will need a large data set of movement of he
 
 "We will be going on a trip to fetch the information you need," Krish explained. "I hope you can explain this to the Matron," he said to Guy. "I don't wish to aggravate her... trauma."
 
-Guy nodded with a morose frown. He knew that Krish was observing everything happening around him, and the fact that he intruded in on Grace's confession did breach a few privacy laws. However, he was right in this regard. A male Master suddenly whisking away a female Disciple from her family might draw a lot of parallels with her own life experience, and she would need to be eased into it.
+Guy nodded with a morose frown. He knew that Krish was observing everything happening around him, and the fact that he intruded on Grace's confession did breach a few privacy laws... in his past life. However, he was right in this regard. A male Master suddenly whisking away a female Disciple from her family might draw a lot of parallels with Grace's own life experience, and she would need to be eased into it.
 
 "I will handle things on my end," Guy responded. "However I will need assurances."
 
-"I don't think we will encounter anyone stronger than I," Krish said with a bemused smile. "Besides that, she is my resposibility too. I am not going to rush her into trouble."
+"I don't think we will encounter anyone stronger than I," Krish said with a bemused smile. "Besides that, she is my responsibility too. I am not going to rush her into trouble."
 
 Guy hummed contemplatively and in half affirmation. He recognised that the trip would be important for Marie to advance and he was all for it. He also had a good read on Krish and knew that the man only held good intentions for Marie. The issue, though, was getting Grace on board which he expected to be a steep uphill rise.
 
 Contrary to Guy's expectations, it did not take much to convince Grace. To quote her exact words, "Marie won't let the man get an inch near her if she doesn't want to."
 
-Her confidence in Marie was staggering. Then again, the girl had practically lived alone for most of her life with her work. And thus, with haste efficiency, the Master-Disciple duo were prepped up and ready to set off on their journey at the crack of dawn.
+Her confidence in Marie was staggering. Then again, the girl had practically lived alone for most of her life with her work. And thus, with haste and efficiency, the Master-Disciple duo were prepped up and ready to set off on their journey at the crack of dawn.
 
 ____
 
 "We didn't pack any food," Marie commented with an irate scowl.
 
-"It's all part of the plan, my little Disciple," Krish answered with a mysterious intonation. Seeing as his Disciple wasn't in a mood for jokes, he added, "It will be part of practice. When I started my journey with my Master, the only things we carried was a set of clothes and a canteen of water."
+"It's all part of the plan, my little Disciple," Krish answered with a mysterious intonation. Seeing as his Disciple wasn't in a mood for jokes, he added, "It will be part of the practice. When I started my journey with my Master, the only things we carried was a set of clothes and a canteen of water."
 
 "Why?"
 
@@ -88,15 +88,15 @@ Marie chuckled along with Krish as they exited the vicinity of the village.
 
 "Why are we going there exactly?"
 
-"Well, remember how I told you that a few of our ancestor have already tried to find alternatives and improve upon the Heavenly Eye? My Master's Master happened to be a part of that group, and happened to follow a similar line of reasoning such as yourself, barring the whole model part," Krish narrated. "Therefore, he accumulated a few favours with an upstart Sect that practice an arcane body cultivation method that relies on tracking the movement of heavenly bodies."
+"Well, remember how I told you that a few of our ancestors have already tried to find alternatives and improve upon the Heavenly Eye? My Master's Master happened to be a part of that group, and happened to follow a similar line of reasoning such as yourself, barring the whole model part," Krish narrated. "Therefore, he accumulated a few favours with an upstart Sect that practice an arcane body cultivation method that relies on tracking the movement of heavenly bodies."
 
 "How does that work?" Marie voiced her intrigue.
 
-"You can ask them when we get there. Any way it's not our concern. What matters to us is that they've aggregated highly accurate and precise records of the movement of heavenly bodies for at least the last two millennia."
+"You can ask them when we get there. Anyway, it's not our concern. What matters to us is that they've aggregated highly accurate and precise records of the movement of heavenly bodies for at least the last two millennia."
 
 "How are you so sure that they wouldn't have gone extinct by now? A lot of time has passed, after all," Marie responded dubiously.
 
-"I've checked," Krish responded. "They're still up and running. My Grandmaster was thorough in his intervention, do not think that we are half-hearted in our assistance just because we callously provide it for out own benefit."
+"I've checked," Krish responded. "They're still up and running. My Grandmaster was thorough in his intervention, do not think that we are half-hearted in our assistance just because we callously provide it for our benefit."
 
 "Do you think I will succeed, Master?" Marie voiced her uncertainty. Although she exuded an air of confidence when she declared her resolve to create a dynamic model of the world, she was still just a teenage youth stepping into the vast expanse of cultivation. She was filled with worry and uneasiness.
 
@@ -106,7 +106,7 @@ Marie chuckled along with Krish as they exited the vicinity of the village.
 
 "It will all work out eventually," Marie parroted. "I am fated with the Heavenly Eye, after all," she said with a chuckle.
 
-Krish's stopped in place and looked at his Disciple's cheeky grin. After a second, he joined her in her mirthful laugh and continued in their journey.
+Krish stopped in place and looked at his Disciple's cheeky grin. After a second, he joined her in her mirthful laugh and continued on their journey.
 
 ____
 
