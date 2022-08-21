@@ -2,7 +2,7 @@
 id: a6zxCUyIdFrGK9wvaQJ87
 title: Chapter 064 - All a Coincidence
 desc: ''
-updated: 1643626354585
+updated: 1661110479414
 created: 1643569448683
 ---
 
@@ -16,7 +16,7 @@ Guy stared incredulously at the visage glaring back at him. The resemblance was 
 
 "Master? Markus, who's this?" Grace interjected.
 
-"You're name's Grace?" Guy exclaimed.
+"Your name's Grace?" Guy exclaimed.
 
 "Yes. Who're you?"
 
