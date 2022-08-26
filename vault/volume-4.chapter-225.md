@@ -2,7 +2,7 @@
 id: s6ln2hfnjcz0y2bpxq7d123
 title: Chapter 225
 desc: ''
-updated: 1661454955530
+updated: 1661536111248
 created: 1661363898285
 ---
 
@@ -58,7 +58,29 @@ Eunuch Bang nodded affirmatively and continued, "An exiled Baron from the Solar 
 
 "That's sub-optimal," Shuri commented.
 
-"Very much so. The delicate balance is slowly tilting in favour of the Kingdom, because of just one man. The Empire is not in a critical juncture. We can continue with the current wait-and-watch strategy - given the Kingdom's current trajectory, its downfall is imminent. However, this also allows for Ziva to build up power and plan a counter attack. Worse yet, now that he has joined hands with the Kingdom, he can now bolster the Kingdom's strikes with his morbid branch of magic. Alternatively, we could undertake an all out war, which as established is economically detrimental but ensures that Ziva does not cook up "
+"Very much so. The delicate balance is slowly tilting in favour of the Kingdom, because of just one man. The Empire is not in a critical juncture. We can continue with the current wait-and-watch strategy - given the Kingdom's current trajectory, its downfall is imminent. However, this also allows for Ziva to build up power and plan a counter attack. Worse yet, now that he has joined hands with the Kingdom, he can now bolster the Kingdom's strikes with his morbid branch of magic. Alternatively, we could undertake an all out war, which as established is economically detrimental but could possibly ensure that Ziva does not cook up some troubling calamity in the meantime."
+
+Shuri scratched her forehead lightly and bit her lips in distress, "Neither sounds attractive."
+
+"That is so," Eunuch bang affirmed. "Thus the Peace Agreement was stitched up. The Emperor and his Advisors believe that a middle ground is achievable. The Empire has found it increasingly difficult to place spies close to the King and Ziva, thus making it harder to track their movements. If it were possible to gauge their position, a suitable countermeasure could be formalised from the Empire's end. Hence, if it is imposssible to move spies through clandestine means, why not try it through a more transparent strategy. This can be achieved by openly moving a valuable piece from the Empire into the Kingdom, which in turn will warrant the movement of additional supports along with it. Then, amidst the support pieces, one could sneak in a few spies who will now have an easier time moving about in the Kingdom."
+
+"But the Kingdom won't just let anyone from the Empire get close to the throne," Shuri surmised. "Which means that- Damn it!"
+
+"Exactly, Your Highness," Eunuch Bang confirmed Shuri's suspicion with a fractic nod. "The Emperor intends to move for a political marriage between a Princess of the Empire and a Prince of the Kingdom."
+
+"I know the man. He won't send my elder sisters, he cares and dotes on them to much. I on the other hand am an expendable piece. I have nothing to offer, he has nothing to gain from keeping me around either..." Shuri's legs gave way and she collapsed onto the floor. Her eyes glazed over as her imminent demise surfaced in them.
+
+"Irony is cruel," she muttered in defeat.
+
+Eunuch Bang rushed forward and descended onto his knees in front of Shuri, "It is time, Your Highness. If we do not make a move now, you will be sent to the Kingdom which is equal to sending you to your death."
+
+Shuri's anxious gaze tightened with unwavering seriousness. "You realise what needs to be done? There is no turning back if we walk down this road, not for me and definitely not for you."
+
+Eunuch Bang revealed a bitter smile and said, "All my life I've walked facing forward. I don't have the luxury of choice to regret my past. All that matters is that this is the only way you can escape this hell-hole with your life intact."
+
+"In that case, proceed with the preparations. I don't believe I need to emphasise the importance of secrecy in this matter?"
+
+Eunuch Bang nodded gravely and receded towards the exit with his head lowered and facing the Princess. Shuri, in turn, folded her arms and grasped her shimmering pendant contemplatively while looking out the dusty window.
 
 ____
 
