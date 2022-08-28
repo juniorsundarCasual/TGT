@@ -1,8 +1,8 @@
 ---
 id: 4ujedu14w2zi4a0cgdjijxt
-title: Chapter 226
+title: Chapter 226 - Final Goodbye
 desc: ''
-updated: 1661630330696
+updated: 1661677896724
 created: 1661363901835
 ---
 
@@ -50,7 +50,31 @@ Eunuch Bang revealed a wry smile and continued, "Thankfully, the blood magic rit
 
 "It's not like I have a choice in this matter anyways," Shuri evoked with a sigh. "What of my escape strategy? I am guessing I'll be switching my attire with this maid?"
 
-""
+"Actually..." Eunuch Bang drawled as he yanked his pupils towards a folded set of clothes hidden amidst the crease of the carpet. With brows cocked up with curiously, Shuri bent over and unfolded them only to instinctively recoil with irritation and disgust.
+
+"It is easier and markedly safer to travel disguised as a boy," Eunuch Bang said assuringly.
+
+"I'm not wearing this," Shuri declared while crumpling the simple male commoner attire consisting of a basic cotton shirt and roughspun trousers.
+
+"I implore you to reconsider," Eunuch Bang tried again, only to recieve a resolute denial in the form of a blank stare from Shuri. Releasing a sigh, Eunuch Bang pulled out his hand from his loose cuffs and flicked forward a circular plate in his palms. From it, another set of outfit spawned out, this time it belonged to a commoner girl.
+
+"I shall prepare the spell while you change," Eunuch Bang said.
+
+Within ten minutes, Eunuch Bang drew out two large spell circles that intertwined at their circumferences. At the centre of one, he lay the comatose maid and on the other lay a conscious Shuri. The man released a long breath of air to clear his airways and then pulled in a lungful of fresh breath. Following that, a rumble of unintelligible words left his lips.
+
+As the spell chanting progressed, the drawn circles started to gain an ethereal purple glow, which started to turn a dangerous shade of red progressively. The ethereal circles rose up from the ground and started to rotate like two gears meshing. With a hiss followed by a pop, a gushing cloud of red droplets started to rush out from the comatose maid and Shuri synchronously. Both their skin started to turn paler as a mirrored human form of scarlet-red, undulating blood took shape above their bodies. The change was significantly more visible on Shuri's face since she lacked the olive tan the maid had as she lacked regular exposure to the sun. As the extraction progressed further, the women's hair started to change shade as well and assumed an aged silver colour. Finally, once the undulating blood human above their bodies gained a substantially sold form, Eunuch Bang stopped his incantation and rotated his arms clockwise. He stopped as his right arm was above his head palm facing downwards, and his left arm was by his abdomen palm facing upwards. In achieving this posture, the two blood humans switched positions above their respective sources. Finally, with an echoing clap, Eunuch Bang brought his hands together causing the blood humans to pop like a pressurised vessel. The red particles started to dissipate and rushed back into the bodies of the humans below them, bringing back the tint and life to their aged skin, though their discoloured hair remained as is.
+
+"Did it work?" Shuri asked between heavy breaths.
+
+"It did," Eunuch Bang confirmed.
+
+"In my life in the Inner Palace, I have learned that curiousity can often lead to a quicker end - that knowing little is a boon. The only way to survive here is to care about one person and that is yourself - I treated affection and empathy as poison. Because of that, I find it difficult to fathom how my mother could go through everything she did for my sake. I cannot fathom why you are walking down this path for me either," Shuri confessed. "You do realise what lies at the end of this road for you, right?"
+
+To that, Eunuch Bang revealed a mirthful laugh and said, "There will come a time when the truth will reveal itself. You will meet a person- no I pray dearly that you do meet a person who will burst through all the barriers you have in place to shield your heart and soul. I pray dearly that you find a person who connects with you, makes you feel all the emotions you have repressed, makes you smile everyday, makes you want to spill out all of your secrets without withholding anything. Because only then will you realise that maybe, just maybe, drinking a chalice full of this poison called affection and empathy for their sake may not be so bad after all. Because even if you succumb to this poison and die an untimely death it will all be worth it, since there will no longer be any regrets tying your soul down and eating you up from within."
+
+Shuri absorbed Eunuch Bang's final words, though she could not understand all of it. With a morose nod, she said, "Today, Shuri Sol has died. I thank you for everything you have done, and everything you have sacrificed for me and my mother, Eunuch Bang. My final order as the Princess shall be this: Do not suffer in your death."
+
+Eunuch Bang lowered his head in assurance, and did not look up at the girl's face that reminded his so dearly of his deceased Mistress. While he suppressed his whimpers and tears, Shuri turned around and make her way towards the secret exit at the back of the kitchen. Her face and gaze remained unwavering, and her heart was resolute. No emotion barring an unassailable tranquillity overtook her mind.
 
 ____
 
