@@ -2,7 +2,7 @@
 id: 18y227lz3py7x5ybgusrx48
 title: Chapter 227
 desc: ''
-updated: 1661678074772
+updated: 1661862677745
 created: 1661363903985
 ---
 
@@ -14,7 +14,9 @@ She was immediately drawn out of her sombre thoughts as a large explosion shook 
 
 ____
 
+As Eunuch Bang watched the all too familiar figure of Shuri turning past the door frame and recede into the corridor, a forlorn smile graced his lips. Today he would breathe his last, for the second time. He had already died once before, clinically, thus he did not fear death's morbid embrace as it approached him with open arms.
 
+He remembered his first death vividly. He was just a little boy, seven years of age, 
 
 ____
 
