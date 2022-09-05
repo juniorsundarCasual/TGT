@@ -1,8 +1,8 @@
 ---
 id: 6sz0r46bmf2fuk0zdqmw61u
-title: Chapter 229
+title: Chapter 229 - Lost and Gained
 desc: ''
-updated: 1662318575219
+updated: 1662399005861
 created: 1662123580943
 ---
 
@@ -64,11 +64,39 @@ The Head Eunuch bowed even lower and retreated through the door while facing for
 
 "Y-Your-?"
 
-With an audible crack, the Royal Healer was dead and with him died a shocking revelation: that the Emperor was now a eunuch.
+With an muffled crack, the Royal Healer was dead and with him died a shocking revelation: that the Emperor was now a eunuch.
 
 ____
 
+Assimilate. Grow. Propagate.
 
+Those were the first words the being recognised. Those words kept ringing inside it the moment it understood what it was. Those words defined its purpose - it was all it knew.
+
+Assimilate.
+
+It found itself amongst its kind. An evergrowing den of familiar furry forms skittering in all directions with haste. Though there was little thought to this matter. All that its kind every focused on was to search for sustenance and to survive against its environment. Tedious. Inefficient. Foolish. It did not wish to assimilate itself with its sort, but one of its prime directives - its instincts - urged it to do so. No matter, the being could take things into its own hands. Assuming a position of leadership amongst its less evolved kin was a trivial task, one that required it to subjugate all opposition and suppress disobedience. It found motivation through fear to be an excellent strategy.
+
+Grow.
+
+The being felt urged to grow. Was it to grow stronger? Was it to grow larger? Was it both? Probably. Maybe. The problem, though, was that the being was hard-pressed on how to go about achieving it. Through some rudimentary reasoning and some grotesque trial and error, it realised that its directive to grow did in fact overlap its two earlier assumptions. Controlling its kind grew tougher as the den grew larger, there were far too many brains to organise. The solution? Consume the excess brains and bring them into the fold. The being grew larger as more of its kind were absorbed into its aberrant fleshy form. As it did so, a pleasant heat started to course through its body. It felt good. It wanted more! It absorbed, and absorbed, and absorbed. Its kind were nigh endless - more fuel for its growth. And grow it did. It grew larger. It grew stronger.
+
+Propagate.
+
+This was a tough nut to crack. As it gained further sentience, the being was sceptical over its existence. Why was it so different from its kind? Why did it seem like the others of its kind weren't seeking the same goals as itself? Did they not want to grow stronger? Why were they so satisfied with their station? When the slithering worms breached the den and ate a bunch of its brethren, all they did was flee in fear. Why did they not fight back? Why did they not feel the drive to subjugate and eradicate those trifling wretches?
+
+This would not do! The being yearned for revenge. The heat coursing through its body agreed. The being lured in the worms by placing a juicy bait of its own engorged form in their path. When those hapless scum slithered closer and prepared to strike and inject it with their venom, the being released the pent-up heat all at once. A murky black wave oozed out of its undulating flesh, overpowering the venom entering its body and making its way into the attacker's body. In turn, boil filled with pus started to grow out of the worm's slimy skin, growing larger, blacker, until it popped and released a cloud of black vapour. The venomous worms death was slow and painful. The being was satisfied.
+
+The heat that the being felt, growing inside its core seeked release once again. Thankfully, there were more of those venomous worms roaming around its domain.
+
+Many moons later, the venomous worms, which it learned were called snakes, were no more. The being had thoroughly eradicated them within many footsteps from its den. Though the being should have felt satisfied, since this was the largest domain every controlled by its kind, the subconscious urge to assimilate, grow and propagate continued to beat within its mind with increased vigour. With each circulation of the heat in its core, the beating grew stronger. The being could not stop.
+
+As its domain grew wider, the being happened upon a new group of interlopers. They were two-legged and communicated in a convoluted tongue. They killed a group of its kind as they were foraging for food. Unacceptable! Those curs had to die. The being would ensure it.
+
+Those curs, which it learned were called humans, died a slow and painful death. The being found their death throes to be especially more gruesome. Was its power more potent against their kind? Interestingly, the being grew stronger upon killing humans. Why was that? Was this its true purpose?
+
+Trivial thoughts! All that mattered was strength, and the being had found a faster way to achieve it. It would continue assimilating, growing and propagating, and maybe a kill a few more humans along the way?
+
+If this was its purpose, then this is what the Rat King would do!
 
 ____
 
