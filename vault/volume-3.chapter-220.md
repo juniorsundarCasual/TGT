@@ -2,19 +2,19 @@
 id: pu10658yqkdicvtvotvnhkg
 title: Chapter 220 - Hitch-hiking
 desc: ''
-updated: 1660333535618
+updated: 1662549649955
 created: 1659860911723
 ---
 
-East of Radiant City, the commerce capital of the Solar Empire, lay the vast and dense Green-Sky Forest. It's sprawling and undisciplined woods extended for many kilometres before facing their first obstacle in the form of the Serrated-Peaks Mountain Range which hugs the forest from its northern to its southern limits in a crescent shape. To pass through this mountain range, one must follow the path which cut right through its centre, leading into the Whispering-Trees Forest on the other side.
+East of Radiant City, the commerce capital of the Solar Empire, lay the vast and dense Green-Sky Forest. Its sprawling and undisciplined woods extended for many kilometres before facing their first obstacle in the form of the Serrated-Peaks Mountain Range which hugs the forest from its northern to its southern limits in a crescent shape. To pass through this mountain range, one must follow the path which cut right through its centre, leading into the Whispering-Woods Forest on the other side.
 
-The peculiarity of the mountain range stemmed from the fact that its lowest peaks were found right at the centre of the crescent while the highest were at its tips at the north and south. On the contrary, the mana density followed an inversely proportional trend, with greater mana concentration near the centre of the mountain range and decreasing as one moved north or southwards. Hence, one would find magical resources, and powerful and intelligent beasts in abundance at that centre, which also happened to be where most foot traffic fell, since caravans could only take this road to cut through the mountain range, unless they decided to waste additional time to take the safer path around the mountains.
+The peculiarity of the mountain range stemmed from the fact that its lowest peaks were found right at the centre of the crescent while the highest was at its tips at the north and south. On the contrary, the mana density followed an inversely proportional trend, with greater mana concentration near the centre of the mountain range and decreasing as one moved north or southwards. Hence, one would find magical resources, and powerful and intelligent beasts in abundance at that centre, which also happened to be where most foot traffic fell, since caravans could only take this road to cut through the mountain range unless they decided to waste additional time to take the safer path around the mountains.
 
-Many had tried to start a sect in the strategically fortified inner regions of the Serrated-Peaks Mountain Range, yet none succeeded. This was because in trying to secure the most mana abundant locations on the range, one would need to compete with other mages and sentient beasts that roamed in the Core Condensation Realms and above, such as the notorious Thunderbird couple and their offspring that practically ruled the mountain range. To that end, there were always a few eyes pasted warily on the range looking out for upstarts looking to establish a base there, or harvesting some of the more arcane and rare magical resources that sprouted in the range and the surrounding forestry. After all, the world of cultivation was a crucible...
+Many had tried to start a sect in the strategically fortified inner regions of the Serrated-Peaks Mountain Range, yet none succeeded. This was because in trying to secure the most mana-abundant locations on the range, one would need to compete with other mages and sentient beasts that roamed in the Core Condensation Realms and above, such as the notorious Thunderbird couple and their offspring that practically ruled the mountain range. To that end, there were always a few eyes pasted warily on the range looking out for upstarts looking to establish a base there or harvesting some of the more arcane and rare magical resources that sprouted in the range and the surrounding forestry. After all, the world of cultivation was a crucible...
 
-Nonetheless, Marie had just stepped foot into this crucible, and she was giddy with excitement. The Master-Disciple duo had travelled from Twilight Village to their first stop, Wayward Town. Usually, this would take someone a day or two to complete via carriage or horseback, but the two had completed this journey by foot. Ofcourse pedestrian travel should have taken much longer, given the abysmal condition of the road connecting the village and the town, yet the duo took exactly a day and a half after a continuous trek.
+Nonetheless, Marie had just stepped foot into this crucible, and she was giddy with excitement. The Master-Disciple duo had travelled from Twilight Village to their first stop, Wayward Town. Usually, this would take someone a day or two to complete via carriage or horseback, but the two had completed this journey by foot. Of course, pedestrian travel should have taken much longer, given the abysmal condition of the road connecting the village and the town, yet the duo took exactly a day and a half after a continuous trek.
 
-"How do you walk so quickly with a messed up leg?!" Marie exclaimed as she noticed her Master literally gliding over the ground while still walking with a limp. In response, he chuckled mischevously and overtook her.
+"How do you walk so quickly with a messed up leg?!" Marie exclaimed as she noticed her Master literally gliding over the ground while still walking with a limp. In response, he chuckled mischievously and overtook her.
 
 "Try to keep up, girl," he joked.
 
@@ -40,21 +40,21 @@ Marie hummed contemplatively as her eyes scanned over the many caravans parked i
 
 "Just pick one already," her Master sighed from behind her. "They're all Eastward bound anyways."
 
-"Patience, Master," Marie responded. "Only one of the three here stands a chance to make it all the way past the Serrated-Peaks Mountain Range and into Whispering-Woods."
+"Patience, Master," Marie responded. "Only one of the three here stands a chance to make it past the Serrated-Peaks Mountain Range and into Whispering-Woods."
 
 "So? If the answer's clear, just pick it and go along with it," her Master retorted plainly.
 
-"It's not time yet. They won't take us on if we go now. We must wait for-" Marie elongated the syllable while observing the chosen caravan with increased vigour, until eventually, a large procession of individuals started to leave the procession and moved towards another. "-that!"
+"It's not time yet. They won't take us on if we go now. We must wait for-" Marie elongated the syllable while observing the chosen caravan with increased vigour until eventually, a large procession of individuals started to leave the caravan and moved towards another. "-that!"
 
-Marie noted that the people leaving were clearly the escorts originally hired by the caravan. Their leaving meant that either they weren't being paid enough or they were being paid an even greater amount by the other party hiring them. She looked on as the leader of the escorting group walked out briskly while a frantic figure of a merchant familiar to her jogged behind him and tried to convince him animatedly.
+Marie noted that the people leaving were the escorts originally hired by the caravan. Their leaving meant that either they weren't being paid enough or they were being paid an even greater amount by the other party hiring them. She looked on as the leader of the escorting group walked out briskly while a frantic figure of a merchant familiar to her jogged behind him and tried to convince him animatedly.
 
-"Let's go," Marie called out to her Master as she moved towards the merchant.
+"Let's go," Marie called out to her Master as she moved toward the merchant.
 
 "Jory! How are you?" Marie greeted the troubled man with a smile. The person in question, Jory, was a stout middle-aged individual with a jutting belly. Although, the worry plastered across his face had scrunched his skin and exacerbated his age.
 
-The man jerked his neck to track the person calling his name, his hands instinctively twirling his thin and well-trimmed mustache.
+The man jerked his neck to track the person calling his name, his hands instinctively twirling his thin and well-trimmed moustache.
 
-"Marie? Is that you?" He asked incredulously as him mind retrieved the name attached to the face before him.
+"Marie? Is that you?" He asked incredulously as his mind retrieved the name attached to the face before him.
 
 "What was that all about?" Marie asked while gesturing her head towards the now distant escort leader.
 
@@ -62,7 +62,7 @@ The man sighed in defeat and said, "Those bastards at Roving stole my escort by 
 
 "So what're you going to do?" Marie probed.
 
-"What can I do?" He groaned in response. "We gotta get through the pass one way or another. And I can't delay the delivery. I guess I'll just have to bite the arrowhead and go at it without an escort."
+"What can I do?" He groaned. "We gotta get through the pass one way or another. And I can't delay the delivery. I guess I'll just have to bite the arrowhead and go at it without an escort."
 
 "Isn't it dangerous?"
 
@@ -92,7 +92,7 @@ Jory sighed once again as the two walked away. He then continued to lament his m
 
 ____
 
-"Stop!" Marie yelled out, loud enough that the entire caravan heard it. In doing so, the entire moving unit came to a sudden halt. Marie could see that the horses were unnerved, even before her call. They were simply moving forward due to the command of their masters, if given the opportunity they would have fled without thought.
+"Stop!" Marie yelled out, loud enough that the entire caravan heard it. In doing so, the whole moving unit came to a sudden halt. Marie could see that the horses were unnerved, even before her call. They were simply moving forward due to the command of their masters, if given the opportunity they would have fled without thought.
 
 "What?!" Jory shot back instinctively. "Hey! You don't order my caravan around!"
 
@@ -106,29 +106,29 @@ ____
 
 "Let us wait here for... exactly two hours," Marie added.
 
-"Two hours?! You can't just stop a caravan on the road for two hours like this. What if someone comes from behind? We're like sitting ducks here, what if beasts or bandits attacK?" Jory started to rattle questions one after the other, without pause. Marie raised her palm and stopped the man's rambling.
+"Two hours?! You can't just stop a caravan on the road for two hours like this. What if someone comes from behind? We're like sitting ducks here, what if beasts or bandits attack?" Jory started to rattle questions one after the other, without pause. Marie raised her palm and stopped the man's rambling.
 
 "If anything goes wrong, I will compensate you," Marie assured.
 
-"How? You're just a poor orphan," Jory snapped instinctively, only to bit his tongue apologetically.
+"How? You're just a poor orphan," Jory snapped instinctively, only to bite his tongue apologetically.
 
 "Trust me one more time, why don't you? I haven't led you poorly before. Remember that time I caught the thief siphoning off money from your business?" Marie reminded. "Consider this stopping request as paying back for that."
 
-"Paying back? I paid you handsomely back then for your efforts, our debt is cleared," Jory snorted.
+"Paying back? I paid you handsomely back then for your efforts, our debt is cleared," Jory rasped.
 
 "Stop arguing for a second and look around you," Marie said. "Do you hear anything? Do you hear any birds? Insects?"
 
-At that moment, Jory noticed the eerie silence lingering around them. Although it was broad daylight, the ambience was spinechilling.
+At that moment, Jory noticed the eerie silence lingering around them. Although it was broad daylight, the ambience was spine-chilling.
 
 "Look at your horses! They're practically shaking," Marie said. At that instant, Jory could glean that there was definitely something fishy going around. Like any living being, his sense of self-preservation took hold, and he immediately ordered a two-hour break.
 
 ____
 
-"W-What happened here?" Jory gasped as he saw the gruesome massacre before him. After the two hours had elapsed the group continued their journey. Within half and hour, they stumbled upon a scenery that would agitate one's lunch to make a sudden exit through the oral cavity.
+"W-What happened here?" Jory gasped as he saw the gruesome massacre sprawled before him. After the two hours had elapsed the group continued their journey. Within half an hour, they stumbled upon a scenery that would agitate one's lunch to make a sudden exit through the oral cavity.
 
 "Thunderbird attack," the old man who Marie referred to as her Master opened his mouth for the first time. "Highly territorial and equally protective of their offspring. Sometimes even more so than Griffins."
 
-"A Thunderbird did this?" Jory pulled his eyes away from half a body of a man perched awkwardly on a branch with his intenstines snaking downwards.
+"A Thunderbird did this?" Jory pulled his eyes away from half a body of a man perched awkwardly on a branch with his intestines snaking downwards.
 
 "Two to be exact," the old man corrected.
 
@@ -138,7 +138,7 @@ ____
 
 "A fucking Thunderbird egg? Through Thunderbird territory? Are they insane?" Jory scoffed.
 
-"They were under orders," Marie chimed in with a dejected shake of her head as she levitated the body down from the branch and piled it up with a large pile of eviscerated, charred and crushed bodies of the casualties from the Thunderbird attack. Amidst the pile, Jory managed to pick out the distinctive attire of the Sect members who were initially part of his own escort group.
+"They were under orders," Marie chimed in with a dejected shake of her head as she levitated the body down from the branch and piled it up with a large mound of eviscerated, charred and crushed bodies of the casualties from the Thunderbird attack. Amidst the pile, Jory managed to pick out the distinctive attire of the Sect members who were initially part of his earlier escort group.
 
 "Couldn't they have just travelled around the mountains?" Jory asked.
 
@@ -146,7 +146,7 @@ ____
 
 Jory gulped audibly and probed, "Is this why you asked us to wait back there?"
 
-Marie nodded as she pulled out a piece of wood from her bag. She pointed at the pile of bodies and shot forward a steady stream of fire, engulfing all of them, "The beasts were at Core Condensation realm. The range of their mana sense ended near that location. If we moved closer, we would have entered their radar and succumbed to their rampage."
+Marie nodded as she pulled out a piece of wood from her bag. She pointed at the pile of bodies and shot forward a steady stream of fire from the wooden stick's tip, engulfing all of them, "The beasts were at Core Condensation realm. The range of their mana sense ended near that location. If we moved closer, we would have entered their radar and succumbed to their rampage."
 
 Jory instructed his caravan to move around the burning pile. "Thank you."
 
@@ -154,7 +154,7 @@ Marie walked back to the leading carriage and hopped on. Her morose face cleared
 
 Jory choked on his spit and descended into a coughing fit. "You sneaky girl! Fine. But only on the condition that we make it to our destination in one piece."
 
-"Deal!" Marie declared while pushing her palm forward for a shake.
+"Deal!" Marie declared as she pushed her palm forward for a shake.
 
 ____
 
