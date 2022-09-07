@@ -2,7 +2,7 @@
 id: 90oqcwgtybsbyrishusdcxp
 title: Chapter 222 - Setting off for the Capital
 desc: ''
-updated: 1660644966238
+updated: 1662571993514
 created: 1660325144814
 ---
 
@@ -24,7 +24,7 @@ This was one-upped by Dora who recited, "Me too! Me too!"
 
 "I'd like to share in that appreciation," Grace said with a smile while hugging Jean by her arm.
 
-"It is adequate. I have seen better," Josie stated flatly, breaking the reverie hanging in the air. All heads turned face the woman, who wore a stoic expression matching her mistress. [Josie]
+"It is adequate. I have seen better," Josie stated flatly, breaking the reverie hanging in the air. All heads turned face the woman, who wore a stoic expression matching her mistress.
 
 "Josie!" Jean reprimanded hurriedly, her eyes flitting between her attendant and Guy with a faint hint of worry ekeing out.
 
@@ -88,7 +88,7 @@ Guy's rational evaluation convinced Grace. She recognised that she was powerless
 
 ____
 
-Two days passed as the members of the True World Sect hustled to pack up their belongings for travel. The group leaving for the Capital now consisted of Guy, Markus, Jean and Dora. Of course with Jean coming along, Josie was in tow as they were a package deal. At the crack of dawn on the third day, the quintet assembled at the entrance to the Sect, where a simple carriage awaited them. The cart was driven by the Kannan Lane. The man volunteered to transport Guy and his posse to Wayward Town to express his gratitude, and borrowed a simple cart from his employer to do so.
+Two days passed as the members of the True World Sect hustled to pack up their belongings for travel. The group leaving for the Capital now consisted of Guy, Markus, Jean and Dora. Of course with Jean coming along, Josie was in tow as they were a package deal. At the crack of dawn on the third day, the quintet assembled at the entrance to the Sect, where a simple carriage awaited them. The cart was driven by Kannan Lane. The man volunteered to transport Guy and his posse to Wayward Town to express his gratitude, and borrowed a simple cart from his employer to do so.
 
 "Good morning Uncle Lane," Dora greeted as she hopped onto the cart with difficulty. The bag hanging over her shoulders inhibited her entry, so the girl removed it, tossed it in, and leapt on with a practised motion.
 
