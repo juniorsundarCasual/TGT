@@ -2,7 +2,7 @@
 id: 90oqcwgtybsbyrishusdcxp
 title: Chapter 222 - Setting off for the Capital
 desc: ''
-updated: 1662571993514
+updated: 1662626619453
 created: 1660325144814
 ---
 
@@ -36,7 +36,7 @@ Josie cleared her throat, recognising her misspoken words and admitted, "Young M
 
 "Well, we will be travelling to the Capital of the Solar Empire for the Solar Sect Alliance Conference to officially register our Sect and recruit a few members. We need at least fifteen members in the Sect including the Sect's Leader and Elders for it to be recognised as functioning. To qualify as an official member, the individual must be older than twelve years of age, so we cannot include Dora and Kano. Grace cannot cultivate, so although she is a part of the Sect she is recognised as an Auxiliary member. This means that including Marie and Mage Nara, there are only five people in our Sect at the moment. Unfortunately for us, there will only be three members joining us from the Village - not all parents want their child to grow up to be a mage which is admittedly a dangerous path to take. This means that we will be short of seven members. Although we can register under the Alliance, our state will be in limbo until we meet this requirement."
 
-After GUy finished, Grace was quick to point out the growing number of checkpoints in the road to set up a Sect. "So many rules and regulations!"
+After Guy finished, Grace was quick to point out the growing number of checkpoints in the road to set up a Sect. "So many rules and regulations!"
 
 After all, the whole fifteen member quota was not part of the initial set of prerequisites she was informed of by Guy. To that Guy sighed sympathetically and said, "I can understand their point of view in this matter. Without all of these regulations in place, just about anyone can start a Sect. In doing so, it would attract conflict as Sects fought against each other for superiority. It would be a bloodbath. So, although some of the rules may seem excessive and others equally as pretentious, but they are necessary... for the time being anyways."
 
