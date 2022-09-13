@@ -73,7 +73,6 @@ workspace:
     dendronVersion: 0.83.0
     enableFullHierarchyNoteTitle: false
     templateHierarchy: template
-    enableSmartRefs: false
 preview:
     enableFMTitle: true
     enableNoteTitleForLink: true
