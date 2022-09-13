@@ -96,6 +96,7 @@ publishing:
         - volume-1
         - volume-2
         - volume-3
+        - volume-4
     enableSiteLastModified: true
     siteRootDir: docs
     siteUrl: https://juniorsundar.github.io
