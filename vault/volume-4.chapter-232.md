@@ -2,41 +2,67 @@
 id: tvwuvat47agbfehxlb3qqt1
 title: Chapter 232
 desc: ''
-updated: 1663182231287
+updated: 1663250353055
 created: 1662630769001
 ---
 
-Krish and Marie travel via a bullock cart that transits people from a nearby village to Dawnbreak Town.
+"Awww, you got me again," Marie said with a playful whine, puffing up her cheeks in an exagerrated show of frustration, which elicited a giggle from the girl seating opposite her. The girl was petite, much smaller than she should be for a six-year-old. To Marie, it reminded her of the state Kano and Dora were in before Mister Larks' arrival. She had a greatly tanned skin, probably a result of excess exposure to the sun, and a feeble frame. Though none of those hingered the gush of innocent and excited light shining from the girl's eyes. There was preciousness in there, that Marie had the urgent need to protect.
 
-Their travelling companion is an overtly friendly 43 year old man who owns the cart and makes a living off of moving people back and forth. The other passenger are a mother-daughter pair. The twenty-two year old mother frequently travels to the town to sell rice dumplings. She takes her eight-year old daughter with her since there is no one at home to take care of the child.
+"Again! Again!" The girl chanted excitedly, hopping up-and-down on the wooden bench of the precariously moving and aged bullock cart, causing it to rock and release a rickety groan.
 
-Marie decided to hitch this particular ride because she anticipated them getting intercepted by a horde of wild boars and dying a horrible death.
+"Yumi, sit still! And stop disturbing the nice elder sister," her mother, who looked barely over twenty-two, warned the child sternly while tightening her grasp on the stacks of woven baskets placed before her. "And how many times have I told you to sit still when on the cart? You'll cause it to tip, and then everyone will be in trouble."
 
-Krish warn Marie of the danger of excessively interfering with the lives of others. That since they are in such a position to make lasting and drastic changes in other people's lives, what happens as a result of their interference is their responsibility.
+"No trouble at all, Lea," a mature voice assuaged the passengers up front. The driver, a middle-aged man, tapped the veteran oxen driving the cart and muttered a few baritone words between clicks of his tongue.
 
-Marie argues that not doing something in spite of knowing that someone else will face harm is worse. Krish remains silent.
+The woman revealed a wry smile, alternating her gaze between Marie and Krish, before finally apologising to the older-looking man, "I'm truly sorry for my daughter's behaviour. It must hurt your back to sit all the way in the back, why don't you take the seat closer to the front?"
 
-The duo arrive at the Town around when the dock workers take their break time.
+At Lea's offer, Marie couldn't help but let out an instinctive snort which inevitably bubbled into a hearty laugh.
 
-Marie takes the time to inquire Krish about the next leg of their travel. Knowing that their destination is somewhere out into the sea, how were they to get there?
+"D-Did I say something wrong?" Lea voiced her confusion.
 
-Krish tells her that the first step is to get into the sea and to worry about what comes after later. He then drags them to a mansion belonging to a merchant famous in the region for his vast fleet of trading ships. Krish manages to bypass all the security mysteriously, as though they couldn't see or hear him. He walks right into the main office deep within the mansion, where the owner, an aged man possibly in his late fifties, sat perusing through stacks of reports and financial statements at a measured pace.
+"No, not at all," Marie pondered whether she should out her Master's true age and power. But after a quick calculation, she felt it wasn't necessary. "I'm just surprised that you even offered. Not many people act so selflessly around these parts," Marie said as a quick evasive strategy.
 
-Krish releases his occluding spell, revealing himself and Marie to the startled man. Instinctively, the man proceeds to yell for security, but Krish tells him that no one can hear him. The man tries to rush towards the nearest exit, but is further restrained in place.
+Marie nudged for her Master to shift positions with Lea, but Krish grunted and returned to his meditation.
 
-Before the man can proceed further, Krish holds up his hand and pulls out a scroll from his bag. The man narrows his gaze in recognition. He stands up, without opposition this time, moves towards a bookshelf and uncovers an elaborately hidden box from behind a bookstack. He unlocks it by placing his hands on the lid. The box opens to reveal another identical scroll. The man takes the scroll and locks it in place with Krish's scroll, allowing both of them to unravel simultaneously.
+"He's just cranky from the lack of sleep," Marie said with a click of her tongue.
 
-The man reveals an intrigued smile and comments that none of the experts he'd consulted could open the scroll. They all told him that it was a part of a pair, and that only with the other half would the scroll open. Applying brute force would have destroyed the scroll.
+"If you don't mind me asking: what takes you two to Dawnbreak Town? Relatives? Business?" Lea asked while correcting Yumi's loosly worn cotton shirt. The attire's size was larger than the girl's body, probably a hand-me-down, and the collar often rolled off the girl's shoulders.
 
-The man reads the scroll in its entirety. Once finished, he chortles with laughter and says: "So you're the mysterious man grandpa told me about! Well, what can ____ do for you, Master Mage?"
+"A bit of both," Marie answered. "We're meeting a distant relative in hopes of support in a business venture." Not technically a lie, but not the whole truth.
 
-____
+"What about you two?" Marie redirected.
 
-Marie keeps stealing glances from Krish as they walked through the streets of Dawnbreak Town. Krish lets out an amused chuckle and proceeds to satisfy his Disciple's curiosity of how he earned the eternal favour of one of the largest overseas trader of the Solar Empire. He tells then of how he saved the man drowning in death with a few investment opportunities.
+"Lea here makes the best rice dumpling in the region," the driver answered in Lea's stead. The woman, in turn, blushed with embarrassment and quickly denied those claims, "That's not true! Liam!"
 
-Though while Krish is explaining, he suddenly stops speaking and gazes down a dark alley. Marie follows his gaze and inquires what's going on. Krish releases a tired sigh and leads her into the alley.
+The man, Liam, exhaled mirthfully and said, "She makes these dumplings overnight and sells them at the docks when the workers take their breaks."
 
-Marie follows cautiously, until the heavy smell of blood assaults her senses. Narrowing her gaze, she suddenly gazes upon tw
+"My customers appreciate and like the taste of my dumplings," Lea took over with a modest smile. "We make enough to support ourselves, don't we Yumi?"
+
+The girl absent-mindedly nodded while biting down on a rice dumpling. The implication of the woman's final statement wasn't missed by Marie. They made enough to support themselves, because that was all they had. There was no father in the picture as far as Marie could discern, and for that she respected Lea greatly. Instead of wallowing in pity and depression, the woman had taken the initiative and worked towards supporting her family and that was something Marie could relate with. To top it off, the woman probably had Yumi when she was 16 - just a year older than Marie was right now. What would Marie have down were she in a similar situation?
+
+"Though Liam does help us a lot," Lea admitted. "He was the one who suggested that we sell in the town. He also offers us discounted rides to and fro - which I had to argue for by the way since his first offer was to do it for free!" Lea's reverence and praise caused the man to blush in return. In fact, Marie could feel the respect and gratitude Lea held for the man just by the way she looked at him.
+
+Marie returned to her previous game of 'React' with Yumi as she entered a fugue state, gazing out into the sprawling flatlands and sparse forestry all around them. The sun had only recently risen, its rays refracting and reflecting off the jewel-like morning dew coating the grass and leaves to create small, contained and dazzling rainbows. The heat was manageable, although it was peak summer, probably due to the pleasant winds blowing in from the ocean nearby. All in all, it was a tranquil cart-ride... thanks to Marie, of course.
+
+The Master-Disciple duo's journey from Twilight Village was basically a sequence of cashing in of favours immediately to get to a new destination. On that note, it was only Marie who indulged in this activity since her Master was of the opinion that they could very easily make their way to the destination on foot using movement arts. Their current mode of transport wasn't technically through a favour since the other passengers and driver were unaware of the fact that Marie had effectively saved their lives.
+
+While Marie searched for their next transport in their previous stop, she happened to observe that Liam, Lea and Yumi would perish during their cart ride to Dawnbreak Town due to a stampede of wild boars endemic to the region. In Marie's opinion, it was an easily avoidable predicament that could potentially save three lives. So for her, it was basically a no-brainer to interfere. By hitching a ride with them, Marie managed to delay the trip a few kilometres before the predicted area of interception by requesting a stop to relieve herself. Evidently, her maneuvre succeeded. Just a while back, Marie's senses had caught the tracks of a large group of boars crossing through the cart's trajectory. 
+
+'Your actions to save these people from their impending death wasn't missed by me,' her Master's voice jolted her from her blank trance. 'I fear that you are interfering excessively. Was this even necessary?'
+
+Marie narrowed her gaze as a frown warped her countenance. She extricated herself from the impromptu game she was in with Yumi and scooted over to her Master.
+
+"Why shouldn't I have helped them?" Marie whispered.
+
+"Because it isn't your responsibility to help everyone," Krish answer with an equally low whisper.
+
+"I saw that they were going to die. It was within my power to assist. Hence, it becomes my responsibility to do so," Marie defended.
+
+Krish shook his head and corrected, "The moment you shift their fate from what is laid in their trajectory, they become your responsibility, not before. These three were set to die here, gored and trampled by a horde of wild boars - that was their fate. Without you here, this is what would have happened to them, how does that become your responsibility?"
+
+"I disagree. If we follow your logic, then our power is meaningless in the grand scheme of things. We can't even use it to help ourselves since we don't exist in fate's tapstry. Who are we supposed to use it for?" Marie argued.
+
+With a 
 
 ____
 
