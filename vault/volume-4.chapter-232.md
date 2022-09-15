@@ -2,7 +2,7 @@
 id: tvwuvat47agbfehxlb3qqt1
 title: Chapter 232
 desc: ''
-updated: 1663250353055
+updated: 1663270464600
 created: 1662630769001
 ---
 
@@ -60,9 +60,15 @@ Marie narrowed her gaze as a frown warped her countenance. She extricated hersel
 
 Krish shook his head and corrected, "The moment you shift their fate from what is laid in their trajectory, they become your responsibility, not before. These three were set to die here, gored and trampled by a horde of wild boars - that was their fate. Without you here, this is what would have happened to them, how does that become your responsibility?"
 
-"I disagree. If we follow your logic, then our power is meaningless in the grand scheme of things. We can't even use it to help ourselves since we don't exist in fate's tapstry. Who are we supposed to use it for?" Marie argued.
+"I disagree. If we follow your logic, then our power is meaningless in the grand scheme of things. We can't even use it to help ourselves since we don't exist in fate's tapestry. Who are we supposed to use it for?" Marie argued.
 
-With a 
+With a bitter sigh, Krish presented his thoughts, "I just... Look, every being has the autonomy to make choices that will affect their lives in a particular way. You may argue that said beings don't have true agency since most of what they experience in life is predetermined, but that is only because we have the luxury of being able to observe how these beings will react and behave in the face of adversity. For all intents and purposes, we are anomalies. So, when a being performs an action, there is always an opportunity cost - there is something lost or gained from making that choice. We as outside observers remove the being's choice by forcing them down a path we deem superior. Who are we to judge which is better and which is worse? Maybe, the forgone outcome from choosing option A over option B might have been more alluring or more beneficial down the line for said being."
+
+Krish let the point sink in before bringing it all together, "What I'm trying to say is that you are free to interfere in the lives of others as you deem fit. But know that you are doing it out of selfishness rather than selflessness. Know that what happens because of your interference is on you and you alone. It may seem warped in your head as I am saying this, but sometimes it is better to not interfere at all."
+
+With that said, Krish returned to his meditative state. Although, he could see his Disciple's expression turning from disbelief to mild annoyance, until it finally settled at disregard. It didn't irritate or agitate Krish, though. He knew his Disciple's character by now. He knew that she wasn't one to internalise anything unless it was backed up sufficiently with fact. He sighed internally at that thought.
+
+'I just hope that when the time comes, she doesn't break down too much,' he prayed. Most times experience is the greatest teacher. Sometimes, the trauma incurred through said experience trounces the teachings that can be absorbed from it. This case in particular was a tightrope walk that Krish was not looking forward to. Unfortunately, it would be something he'd have to walk and that too much sooner than preferred.
 
 ____
 
