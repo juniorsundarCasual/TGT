@@ -2,43 +2,19 @@
 id: iscq05hi6cp9ca7ff09wx35
 title: Chapter 233
 desc: ''
-updated: 1663223399362
+updated: 1663354567323
 created: 1662631127525
 ---
 
-----
+The duo arrived at Dawnbreak Town right as the dockworkers were leaving for their lunch breaks. Lea proceeded to offload her goods, a process Liam inserted himself into going against Lea's repeated insistence. He carried the stack of baskets all by himself and deposited it at Lea's usual spot. Marie and Krish split off around that point, noticing that Liam had also insisted upon managing the sales of the dumplings before they parted ways.
 
-Krish and Marie travel via a bullock cart that transits people from a nearby village to Dawnbreak Town.
+"He's a kind man," Marie commented.
 
-Their travelling companion is an overtly friendly 43 year old man who owns the cart and makes a living off of moving people back and forth. The other passenger are a mother-daughter pair. The twenty-two year old mother frequently travels to the town to sell rice dumplings. She takes her eight-year old daughter with her since there is no one at home to take care of the child.
+"Kindness borne of selfishness," Krish responded cryptically.
 
-Marie decided to hitch this particular ride because she anticipated them getting intercepted by a horde of wild boars and dying a horrible death.
+"He doesn't seem interested in receiving a payment, though," Marie countered with a frown. Krish stopped in place and gazed pointedly at his Disciple. It looked as though he intended to say something, but he swallowed his words and simply moved past her.
 
-Krish warn Marie of the danger of excessively interfering with the lives of others. That since they are in such a position to make lasting and drastic changes in other people's lives, what happens as a result of their interference is their responsibility.
-
-Marie argues that not doing something in spite of knowing that someone else will face harm is worse. Krish remains silent.
-
-The duo arrive at the Town around when the dock workers take their break time.
-
-Marie takes the time to inquire Krish about the next leg of their travel. Knowing that their destination is somewhere out into the sea, how were they to get there?
-
-Krish tells her that the first step is to get into the sea and to worry about what comes after later. He then drags them to a mansion belonging to a merchant famous in the region for his vast fleet of trading ships. Krish manages to bypass all the security mysteriously, as though they couldn't see or hear him. He walks right into the main office deep within the mansion, where the owner, an aged man possibly in his late fifties, sat perusing through stacks of reports and financial statements at a measured pace.
-
-Krish releases his occluding spell, revealing himself and Marie to the startled man. Instinctively, the man proceeds to yell for security, but Krish tells him that no one can hear him. The man tries to rush towards the nearest exit, but is further restrained in place.
-
-Before the man can proceed further, Krish holds up his hand and pulls out a scroll from his bag. The man narrows his gaze in recognition. He stands up, without opposition this time, moves towards a bookshelf and uncovers an elaborately hidden box from behind a bookstack. He unlocks it by placing his hands on the lid. The box opens to reveal another identical scroll. The man takes the scroll and locks it in place with Krish's scroll, allowing both of them to unravel simultaneously.
-
-The man reveals an intrigued smile and comments that none of the experts he'd consulted could open the scroll. They all told him that it was a part of a pair, and that only with the other half would the scroll open. Applying brute force would have destroyed the scroll.
-
-The man reads the scroll in its entirety. Once finished, he chortles with laughter and says: "So you're the mysterious man grandpa told me about! Well, what can ____ do for you, Master Mage?"
-
-____
-
-Marie keeps stealing glances from Krish as they walked through the streets of Dawnbreak Town. Krish lets out an amused chuckle and proceeds to satisfy his Disciple's curiosity of how he earned the eternal favour of one of the largest overseas trader of the Solar Empire. He tells then of how he saved the man drowning in death with a few investment opportunities.
-
-Though while Krish is explaining, he suddenly stops speaking and gazes down a dark alley. Marie follows his gaze and inquires what's going on. Krish releases a tired sigh and leads her into the alley.
-
-Marie follows cautiously, until the heavy smell of blood assaults her senses. Narrowing her gaze, she suddenly gazes upon tw
+"Hey, wait up!" Marie jogged after her elusive Master who glided over the ground while still walking with a visible hobble.
 
 ____
 

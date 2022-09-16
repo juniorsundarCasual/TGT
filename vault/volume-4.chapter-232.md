@@ -1,8 +1,8 @@
 ---
 id: tvwuvat47agbfehxlb3qqt1
-title: Chapter 232
+title: Chapter 232 - Opportunity Cost
 desc: ''
-updated: 1663270464600
+updated: 1663354783509
 created: 1662630769001
 ---
 
@@ -66,7 +66,7 @@ With a bitter sigh, Krish presented his thoughts, "I just... Look, every being h
 
 Krish let the point sink in before bringing it all together, "What I'm trying to say is that you are free to interfere in the lives of others as you deem fit. But know that you are doing it out of selfishness rather than selflessness. Know that what happens because of your interference is on you and you alone. It may seem warped in your head as I am saying this, but sometimes it is better to not interfere at all."
 
-With that said, Krish returned to his meditative state. Although, he could see his Disciple's expression turning from disbelief to mild annoyance, until it finally settled at disregard. It didn't irritate or agitate Krish, though. He knew his Disciple's character by now. He knew that she wasn't one to internalise anything unless it was backed up sufficiently with fact. He sighed internally at that thought.
+With that said, Krish returned to his meditative state. Although, he could see his Disciple's expression turning from disbelief to mild annoyance, until it finally settled at disregard. It didn't irritate or agitate Krish, though. He knew his Disciple's character by now. His Disciple wasn't like Markus, who took his Master's words as gospel. He knew that she wasn't one to internalise anything unless it was backed up sufficiently with fact. He sighed internally at that thought.
 
 'I just hope that when the time comes, she doesn't break down too much,' he prayed. Most times experience is the greatest teacher. Sometimes, the trauma incurred through said experience trounces the teachings that can be absorbed from it. This case in particular was a tightrope walk that Krish was not looking forward to. Unfortunately, it would be something he'd have to walk and that too much sooner than preferred.
 
