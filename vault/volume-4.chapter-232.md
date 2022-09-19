@@ -2,7 +2,7 @@
 id: tvwuvat47agbfehxlb3qqt1
 title: Chapter 232 - Opportunity Cost
 desc: ''
-updated: 1663354783509
+updated: 1663591876850
 created: 1662630769001
 ---
 
