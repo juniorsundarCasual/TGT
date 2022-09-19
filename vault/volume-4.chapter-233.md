@@ -1,8 +1,8 @@
 ---
 id: iscq05hi6cp9ca7ff09wx35
-title: Chapter 233
+title: Chapter 233 - Next Stop
 desc: ''
-updated: 1663528945625
+updated: 1663591840802
 created: 1662631127525
 ---
 
@@ -56,7 +56,41 @@ At that moment, three silver coins whizzed past Marie and landed expertly upon t
 
 "Actually, the Jehakans are a rather hospitable folk. They never let a guest leave without having a meal. And their cuisine is one of the best I've ever eaten in my entire life. The things they can do with camel meat- Oh we're here!"
 
-Marie halted alongside her Master and laid her eyes upon their destination.
+Marie halted alongside her Master and laid her eyes upon their destination. "Isn't this the head-office of the Raynor Ship Management?"
+
+Marie was familiar with the organisation known as Raynor Ship Management - every merchant worth their salt knew of Raynor Ship Management. It was one of the longest running businesses in the Solar Empire. In an ecosystem where a business' survival balances at the edge of a cliff every single day, finding a business that had survived for over two hundred years without the backing of a clan or sect and was still thriving was as rare as finding a Unicorn out in the wild. That is to say, Raynor Ship Management was a Unicorn of the business world.
+
+"Are we going in there?" Marie inquired while pointing at the heavily guarded entrance. A large wall surrounded the compound which acted as the head office for Raynor Ship Management. Like most head offices, it also doubled as the domicile of the business' owner. To that end, a heavy battery of security systems protected the compound and the buildings within. A small squadron of guards, around six in total, was stationed at the entrance whose cultivation Marie could not observe using her mana sense - they were definitely beyond her, but by how much? Furthermore, as she extended her senses beyond the wall, her perception experienced emptiness - as though nothing existed on the other side, not even air.
+
+Marie gulped audibly and probed, "I don't think we can enter without an invitation-"
+
+Before she could finish, she noticed Krish strolling nonchalantly towards the gate into the compound. Marie bit down a scream of surprise and followed her Master. As Krish approached the entrance Marie braced for an impending halt initiated by the guard, but contrary to her expectation, they simply passed through without a hindrance.
+
+"What's happening?" Marie whispered.
+
+"You can speak normally," Krish said with a chuckle. "They can't hear you, see you, smell you-"
+
+Krish immediately yanked his hands to his chest, pulling Marie away from an approaching guard's path, "They can still feel you, so be mindful of that."
+
+"How can they not sense me? My presence should trigger something in them, right? The movement of the wind, the tremors from my footsteps... something?!" Marie just could not understand how someone could just erase their presence so easily and selectively.
+
+"You seriously underestimate the gap in power between a Tesseract Transformation realm mage such as myself and these unsuspecting saps in the Foundation Establishment realm," Krish said while gazing exhaustedly at his hyperventilating Disciple. "For reference, it would take at least ten Al Jeeves-es to take me down!"
+
+Marie grabbed her head in distress and said, "What kind of nonsensical conversion is this? If it takes ten Teacher Jeeves-es to defeat you, how many Josies would it take to take down one Teacher Jeeves?"
+
+"What the hell are you talking about?" Krish said while narrowing his eyes in disbelief. "Stop trying to quantify power with maths! It's not like you can just look at someone and read out their level?"
+
+"You're the one who defined the ratio of 1:10!" Marie argued. "Hey, you haven't answered my question! How can they not sense us?"
+
+Krish didn't entertain his Disciple any further and continued his hobbling walk through the front garden - a beautifully maintained ecosystem filled with flora from all around the world that also evoked a sense of age and antiquity. Weaving past the period patrols and workers managing the courtyards, the duo finally landed upon the mansion at the centre of the compound. It was a luxurious structure built of marble carved with painstaking precision. It was largely open, taking advantage of the pleasant breeze blowing in from the ocean.
+
+Before Marie could pause and appreciate the ingeniously symmetric architecture (from all cardinal directions), her Master glided forward and beelined through the corridors to the centre-most room. Approaching the door leading into the room, Krish rested his hands on the carved wooden board. From his palm, multiple spell circles flashed out in quick succession, faster than Marie's perception. Then, with an apathetic push, he swung the door open and entered.
+
+The door slammed shut behind Marie, causing the aged and wiry man seated behind the desk at the centre of the room to jolt in panic. His eyes ran all accross the room, searching for something, at which point Krish released the occluding spell surrounding them.
+
+"Who are you?!" The man yelped in shock and moved his hands instinctively towards a plate underneat his desk. Yet at that instant, he found his entire body grapsed in place rendering him completely immobile.
+
+"W-What do you want?" The man eked out through the chattering of his teeth.
 
 ____
 
