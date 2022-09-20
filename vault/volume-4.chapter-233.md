@@ -2,7 +2,7 @@
 id: iscq05hi6cp9ca7ff09wx35
 title: Chapter 233 - Next Stop
 desc: ''
-updated: 1663591840802
+updated: 1663700819396
 created: 1662631127525
 ---
 
@@ -86,7 +86,7 @@ Krish didn't entertain his Disciple any further and continued his hobbling walk 
 
 Before Marie could pause and appreciate the ingeniously symmetric architecture (from all cardinal directions), her Master glided forward and beelined through the corridors to the centre-most room. Approaching the door leading into the room, Krish rested his hands on the carved wooden board. From his palm, multiple spell circles flashed out in quick succession, faster than Marie's perception. Then, with an apathetic push, he swung the door open and entered.
 
-The door slammed shut behind Marie, causing the aged and wiry man seated behind the desk at the centre of the room to jolt in panic. His eyes ran all accross the room, searching for something, at which point Krish released the occluding spell surrounding them.
+The door slammed shut behind Marie, causing the aged and wiry man, who was approaching his late fifties, seated behind the desk at the centre of the room to jolt in panic. His eyes ran all across the area, searching for something, at which point Krish released the occluding spell surrounding them.
 
 "Who are you?!" The man yelped in shock and moved his hands instinctively towards a plate underneat his desk. Yet at that instant, he found his entire body grapsed in place rendering him completely immobile.
 
