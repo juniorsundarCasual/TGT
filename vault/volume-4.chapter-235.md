@@ -2,26 +2,45 @@
 id: wt2vdscf0e2xuyzqh9ogbw9
 title: Chapter 235
 desc: ''
-updated: 1663649523814
+updated: 1663930766046
 created: 1663649427534
 ---
 
-Krish releases his occluding spell, revealing himself and Marie to the startled man. Instinctively, the man proceeds to yell for security, but Krish tells him that no one can hear him. The man tries to rush towards the nearest exit, but is further restrained in place.
+Krish and Marie exited from the Raynor Family's mansion without any commotion; their detour through it made less of a ripple than a speck of dust falling upon a still water surface. 
 
-Before the man can proceed further, Krish holds up his hand and pulls out a scroll from his bag. The man narrows his gaze in recognition. He stands up, without opposition this time, moves towards a bookshelf and uncovers an elaborately hidden box from behind a bookstack. He unlocks it by placing his hands on the lid. The box opens to reveal another identical scroll. The man takes the scroll and locks it in place with Krish's scroll, allowing both of them to unravel simultaneously.
+While they walked past the entrance gate and turned the corner, Marie could barely take her eyes off of the pristine new ceramic canister in her hands, which she now knew was called a Contract Seal, and her Master. Her eyes darted periodically between the static seal in her grasps and Krish's hobbling form, and her expression started to become unreadable.
 
-The man reveals an intrigued smile and comments that none of the experts he'd consulted could open the scroll. They all told him that it was a part of a pair, and that only with the other half would the scroll open. Applying brute force would have destroyed the scroll.
+At this point Krish could easily ascertain that his precious Disciple's mind was probably working in overdrive trying to come up with outrageous theories and explanations of everything she had observed up to this point. Rather than leaving the girl to her devices, Krish decided that it was best to intervene and entertain her queries.
 
-The man reads the scroll in its entirety. Once finished, he chortles with laughter and says: "So you're the mysterious man grandpa told me about! Well, what can ____ do for you, Master Mage?"
+"What's with the face?" Krish inquired, and slowed his movement to a steady walking pace.
 
-____
+"This!" She immediately shot back, pushing the canister in her hands forward. "What- Why- No! Just explain this."
 
-Marie keeps stealing glances from Krish as they walked through the streets of Dawnbreak Town. Krish lets out an amused chuckle and proceeds to satisfy his Disciple's curiosity of how he earned the eternal favour of one of the largest overseas trader of the Solar Empire. He tells then of how he saved the man drowning in death with a few investment opportunities.
+"Where do you want me to start?" Krish said with a weak smile, he could already predict where this was going, and right on queue-
 
-Though while Krish is explaining, he suddenly stops speaking and gazes down a dark alley. Marie follows his gaze and inquires what's going on. Krish releases a tired sigh and leads her into the alley.
+"From the beginning!"
 
-Marie follows cautiously, until the heavy smell of blood assaults her senses. Narrowing her gaze, she suddenly gazes upon tw
+"It's a really long story," Krish sighed. "Narrow it down for me."
 
+Marie grunted in distress and scratched her head in frustration. "Fine! This Contract Seal - what is it really?"
+
+"By that do you mean, 'What is a Contract Seal?' or 'What is the purpose of this Contract Seal?' or-" Krish's word halted in their tracks as he received a pointed glare from his Disciple.
+
+He coughed to erase his hesitation and restarted. "The Contract Seal, as its name implies, is a soul-binding contract between two entities that runs on Dwarven magic. Although the seal is verbal, it only works if the spoken and unspoken intention of the two contractees match perfectly."
+
+"That seems kind of finicky, doesn't it? Why can't it be written?" Marie commented.
+
+"Because Dwarves don't have a written script of any kind," Krish dropped a bombshell that nearly caused Marie's eyeballs to pop off their sockets.
+
+"What about these, then?" Marie questioned while pointing at the intricately embedded symbols along the sides of the canister.
+
+"Similar, but not entirely so. They don't read those symbols, they feel them, hear them, smell them... experience them," Krish explained, although it did not fully satisfy Marie's curiousity.
+
+"Exploring Dwarven culture and tradition is another rabbit hole that I don't wish to go down at this moment-"
+
+Marie waved her hand and shot out, "Fine! Fine! Let's get back to what you were saying before."
+
+"Anyways, not many Contract Seals exist in circulation on Gaea, for obvious reasons. Many years past, though, these were the most prefe"
 
 ____
 
