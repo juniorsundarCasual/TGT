@@ -111,6 +111,7 @@ publishing:
     seo:
         title: The Good Teacher
         description: Repository of chapters
+        author: Junior Sundar
     github:
         enableEditLink: true
         editLinkText: Edit this page on GitHub

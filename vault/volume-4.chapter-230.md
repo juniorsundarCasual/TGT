@@ -2,7 +2,7 @@
 id: yssfffe22z9gxhm58u1n1l8
 title: Chapter 230 - True World Sect's Debut
 desc: ''
-updated: 1662630693844
+updated: 1663955212933
 created: 1662123583966
 ---
 
