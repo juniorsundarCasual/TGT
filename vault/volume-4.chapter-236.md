@@ -2,7 +2,7 @@
 id: i0ksel0h0e5oetp7rww1li8
 title: Chapter 236
 desc: ''
-updated: 1664133772205
+updated: 1664200759225
 created: 1663909674926
 ---
 
@@ -60,7 +60,53 @@ She then brought had hand towards Liam's face and grabbed him by his chin. "You 
 
 With that said, Marie did not falter in breaking off the man's right index finger. While the man screamed in pain, she moved on to his middle, and then his ring. Right as her hand grasped his little finger, the man screamed at the top of his voice, "WAIT! WAIT! I'LL TALK!"
 
+The man released shaky, tired breaths before revealing a spiteful smile. Coming to terms with his death, the man realised that he had nothing to lose and his tongue loosened automatically, "Do you know how much support I've given that whore?"
 
+"Whore?"
+
+"That's right! A fatherless, motherless cur, what else could she do but sell her body?" The man justified. "How else does she have a daughter but no man?"
+
+The man sought for some understanding from Marie's part, hoping that his accusation would at least offer him some. Alas he saw nothing of that sort from her face.
+
+"I-I helped her everyday. Drove her to and frofrom the village, helped her set-up stalls once in a while, even helped attract customers to her stall!"
+
+"She asked you for this assistance?"
+
+"Well no... I did it out of the goodness of my heart!" The man defended.
+
+"What does this have to do with your crime?" Marie drew the conversation back irritatedly.
+
+"Even after all the help I offered, she never showed her gratitude!" The man shrieked. "I've supported her for almost five years now! Still, nothing!"
+
+"Gratitude..." Marie murmured. "Did she thank you for your help?"
+
+"Y-Yes-"
+
+"Did she offer payment or compensation for your help?"
+
+"Yeah, but I never accepted-"
+
+"Did she assist you in return in any way she could?"
+
+"She did. But-"
+
+"So the truth here is that she DID express her gratitude, however it wasn't in the way you wanted," Marie summarised. To which the man nodded with a loud gulp. "If this is the case then you didn't, in fact, help her out of the 'goodness' of your heart."
+
+"I'm a man! Is it so hard to understand?" Liam declared righteously.
+
+"Hmm, I see," Marie muttered. "You're right. Because you are a man, you deserve specific forms of compensation over others. Of course!"
+
+Liam's eyes gained a faint spark of hope, seeing how Marie finally agreed with him on a point.
+
+"This can be fixed," Marie said immediately after while grabbing Liam by his legs, spreading them apart and, before Liam had the opportunity to register what was happening, her foot descended upon his nether region with unflinching resolve. The sound of flesh grinding and tearing was overshadowed by an ear-piercing screen from the flailing man. Liam could do nothing to quench the pain radiating from his crotch - it got so bad that he nearly lost consciousness. Blood and urine escaped from what remained, dousing his trousers with an unpleasant smell.
+
+"You forced yourself on a woman because you thought your act of kindness for her obligated her to satisfy your carnal needs. You claim that it is your right as a man. Now, you are a man no more," Marie sneered. She approached the immobile man and clasped his skull between her hands.
+
+"Yumi died after you threw here against the wall, while she tried to stop you from defiling her mother. The girl died a slow and painful death," Marie said through gritted teeth. Incrementally, Marie started to increase the pressure by squeezing her hands together, with Liam's skull in between. The man's screams grew in a crescendo, until eventually his voice cracked and no sound escaped his gaping mouth. 
+
+At that moment, Marie's ears caught the sound of wood clacking against wood, approaching the room. When she saw her Master's form t
+
+""
 
 ____
 
