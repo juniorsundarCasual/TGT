@@ -1,8 +1,8 @@
 ---
 id: i0ksel0h0e5oetp7rww1li8
-title: Chapter 236
+title: Chapter 236 - Fated to Die
 desc: ''
-updated: 1664200759225
+updated: 1664216164145
 created: 1663909674926
 ---
 
@@ -104,9 +104,21 @@ Liam's eyes gained a faint spark of hope, seeing how Marie finally agreed with h
 
 "Yumi died after you threw here against the wall, while she tried to stop you from defiling her mother. The girl died a slow and painful death," Marie said through gritted teeth. Incrementally, Marie started to increase the pressure by squeezing her hands together, with Liam's skull in between. The man's screams grew in a crescendo, until eventually his voice cracked and no sound escaped his gaping mouth. 
 
-At that moment, Marie's ears caught the sound of wood clacking against wood, approaching the room. When she saw her Master's form t
+At that moment, Marie's ears caught the sound of wood clacking against wood, approaching the room. When she saw her Master's form, Marie's grip loosened allowing the man to collapse once again onto the floor. His consciousness was teetering, he was clearly in shock.
 
-""
+"Hmm. You're hesitating," Krish commented, staring emotionlessly at the figure sprawled on the floor. "I figured you might have ended him already."
+
+"Must he die?" Marie asked exasperatedly.
+
+"That is his fate," Krish affirmed. "Why? Do you want him to live?"
+
+Marie nodded with a morbid frown and said, "I want him to suffer the consequences of his actions. Death is too quick an end for him. I shouldn't have saved scum like him."
+
+Krish hummed noncommitedly and retrained his focus on his Disciple, who was cradling her head in dismay. From the corner of his eyes, he noticed the man's legs twitching and his pupils running around furiously beneath his closed lids. Krish moved sideways, clearing up a path towards the exit.
+
+On queue, the collapsed man leapt into motion. He worked through his disorientation and rushed towards the exit. However, two steps in, his leg got caught in the heavy rug at the centre of the room. He tripped while conserving his momentum and hurtled uncontrollably towards the doors frame.
+
+A loud crash echoed within the room, and two heads simultaneously turned towards the source of the sound. Liam had unwittingly turned sideways in his trajectory and had hit his head at an odd angle against the door frame. The force yanked his neck at an egregious angle, essentially snapping the connection between his spinal cord and brain.
 
 ____
 
