@@ -1,14 +1,14 @@
 ---
 id: 0in31b14h4yrbg63s1xujee
-title: Chapter 237
+title: Chapter 237 - Unbreakable
 desc: ''
-updated: 1664307187467
+updated: 1664368700947
 created: 1664117904271
 ---
 
 Hesitance. Second thoughts. Doubt.
 
-In the past eight-hundred or so years, Krish never once felt those emotions. He had his life figured out. The actions he took were calculated, the risks expected, thus the consequences... well... inconsequential. It wasn't like he lives a life free of mistakes. In fact, his early years were rife with one blunder after another. Most were simply in passing, while others left lasting scars. At first, he regreted his actions and he wallowed over the repercussions. Yet over the years, he'd learned to move past them - it wasn't like he could do anything about it.
+In the past thousand or so years, Krish never once felt those emotions. He had his life figured out. The actions he took were calculated, the risks expected, thus the consequences... well... inconsequential. It wasn't like he lives a life free of mistakes. In fact, his early years were rife with one blunder after another. Most were simply in passing, while others left lasting scars. At first, he regreted his actions and he wallowed over the repercussions. Yet over the years, he'd learned to move past them - it wasn't like he could do anything about it.
 
 However, in the recent year, Krish found himself asking, "Did I do the right thing?" or "Was this the correct action?" a lot more... uncomfortably so. Where did all this hesitation come from?
 
@@ -30,11 +30,57 @@ Much like how a horse is broken to be ridden, a mage must be broken to take a li
 
 People, once broken, either remain broken or are rebuilt. However, just like any piece of ceramic, once they are shattered no amount of adhesive can get rid of the cracks. Even with the strongest of glues, the crack lines will remain the first point of failure under any application of excessive force.
 
-Krish's Master broke him in very early, maybe a year earlier than Marie's current age. The man had actually engineered a scenario to force Krish's hand to kill someone. Worse yet, it was Krish's childhood friend. Krish didn't know that the confrontation that resulted in his friend's death was the result of his Master's machinations until much, much later, when his Master was in his deathbed. At that time, Krish had already forgotten or overwritten that incident in his memories as a little short of a millennium had passed since then.
+Krish's Master broke him in very early, maybe a year earlier than Marie's current age. The man had actually engineered a scenario to force Krish's hand to kill someone. Worse yet, it was Krish's childhood friend. Krish didn't know that the confrontation that resulted in his friend's death was the result of his Master's machinations until much, much later, when his Master was in his deathbed. At that time, Krish had already forgotten or overwritten that incident in his memories as over a millennium and three-quarters had passed since then.
 
 For a long time, Krish figured that it was the optimal path - that his Master had done the right, albeit horrible thing. Yet within the last year, Krish had come to question his Master's methods in more ways than one. Especially now as he saw Marie absent-mindedly board the ship which would be their rides.
 
-Krish knew that he would have to break Marie in eventually. The path of a Mage was wraught with dangers, and queasiness towards killing would only end up getting her killed. However, Krish did not want to orchestrate the procedure for Marie like his Master did to him. This was why he'd taken a hands-off approach when an opportunity presented itself, specifically in the way she handled the trio destined for death. He already saw the ending when Marie first beckoned for a ride in their cart.
+Krish knew that he would have to break Marie in eventually. The path of a Mage was wraught with dangers, and queasiness towards killing would only end up getting her killed. However, Krish did not want to orchestrate the procedure for Marie like his Master did to him. This was why he'd taken a hands-off approach when an opportunity presented itself, specifically in the way she handled the trio destined for death. He already saw the ending when Marie first beckoned for a ride in their cart. He saw the girl drowning in her blood while her skull depressurised. He saw the woman's spirit shattering as her eyes met her dying daughter's and the man forced himself on her. Though he could not see how the man would die, rather he saw an image of his death. This usually meant that an anomaly was involved in his demise. Barring Guy, who Krish was still struggling to figure out, there was only one other anomaly close to the man - Marie. With that information, Krish was fairly certain the Marie would play a role in the man's death.
+
+In Krish's mind, it was all perfect. Not only would the sequence work to temper Marie against using her powers haphazardly, but it would also break her into the concept of killing.
+
+What Krish didn't account for was the vast difference in psychology between himself and his Disciple. As someone who'd lived for over 2000 years, what he percieved to be mundane or trivial wasn't necessarily so for another who'd lived for a hundredth of that man. Krish realised too late that Marie's brain and psyche was overloaded with the weight of the events from the 'incident'. She was broken, but Krish was growing increasingly anxious over the fact that she had yet to recover or reestablish a proper baseline since then. Luckily, she hadn't taken a life, or she may have truly fallen over the edge.
+
+Marie stood at the helm of the ship and gazed out into the horizon. Krish observed her steady breathing, and practised circulation of mana - she was meditating. It was a good sign.
+
+"Pleasant weather. Do you know if it will remain as such?" Krish asked while approaching his Disciple.
+
+"I don't," she answered without averting her gaze from the rising sun. "I've decided to give my abilities a little rest for a while."
+
+Krish hummed affirmatively. "Would you like to talk about what happened?" He probed with a tinge of hopefulness in his voice."
+
+"What is there to talk about?" Marie responded. "I made a mistake and two innocent lives were lost because of it. This will stay with me for as long as I live. The best I can do is to not fail another innocent in the future."
+
+"You do realise there was nothing you could have done back there. If you hadn't-"
+
+"If I hadn't scryed the future and intervened, though the circumstances at the time of death would have been better, three innocent lives would have been lost," Marie said with a sneer. "If anything, I reduced the amount of innocent casualties."
+
+Krish narrowed his eyes and gazed pointedly at his Disciple.
+
+"Don't worry, Master," Marie assuaged while tapping Krish's hand. "I've met men worse than him during my time travelling around with various merchant caravans. I will lose little sleep over his death. On the other hand, Lea and Yumi's death did teach me something."
+
+She turned around and leaned her back against the ship's wooden rails. "My mistake, and only regret, was using my powers while they were still incomplete. I should have used The Heavenly Eye."
+
+"Must I remind you of the consequences of that decision?" Krish droned.
+
+"Exactly!" Marie shot back with a raised voice. "Have you never wondered why you have this power? You can't use it for yourself since we aren't part of fate's sequence, and we can't use it to save others since stopping a guaranteed death requires an equivalent payment in exchange - its basically useless! What use is having this power if there is nothing to be gained from it?"
+
+"Lea and Yumi's death has affirmed one thing. The Heavenly Eye is an incomplete art," Marie declared. 
+
+Her gaze hardened and she looked resolutely at Krish. "I will complete it. That is my fate."
+
+Krish's brows rose in surprise at his Disciple's declaration. "Is that so?"
+
+"You don't believe me?"
+
+"No," Krish said while chuckling mirthfully. "You have proven time and time again that you can achieve even the most implausible of tasks through sheer determination, willpower, and ingenuity. My reaction wasn't disbelief, it was anticipation."
+
+He then rubbed Marie's head playfully and said, "In fact, I am very much looking forward to it, my dear Disciple."
+
+Marie slapped Krish's hand away from her head and pouted annoyedly, though the light rosiness on her cheeks didn't hide away her embarrassment. Krish revealed a warm smile and walked towards the ship's interior.
+
+As he retreated, he noticed his hands shaking visibly as an overwhelming surge of pride and excitement welled up from within. 
+
+'I've picked up an exceptional Disciple. That's for sure!'
 
 ____
 
