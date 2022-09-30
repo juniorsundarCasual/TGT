@@ -1,8 +1,8 @@
 ---
 id: bay5gkm1y8w34tpq2qlrulm
-title: Chapter 238
+title: Chapter 238 - About Taking Another Life
 desc: ''
-updated: 1664481498185
+updated: 1664535168383
 created: 1664117907476
 ---
 
@@ -30,11 +30,57 @@ Guy held back a sneer over the man's callous disregard for the sanctity of a lif
 
 "What's the point of all this?" Korren inquired with narrowed eyes filled with confusion.
 
-"What I'm trying to say is that a person who fears you will follow your commands, but you will always have to worry about being stabbed in the back. However, a person who respects you will follow your command, and will have your back at your time of need," Guy elaborated. "The reign of a person ruling with fear is on borrowed time, while a person reigning with respect will succeed to creating a Dynasty that can transcend time."
+"What I'm trying to say is that a person who fears you will follow your commands, but you will always have to worry about being stabbed in the back. However, a person who respects you will follow your command, and will have your back at your time of need," Guy elaborated. "You see if actions are motivated by emotions in the positive spectrum, the process AND outcome are generally better."
 
-"I still don't get where this is going."
+Guy released a long breath to let Korren stew on that notion before asking, "Would you rather have people fearing the Whispering Dusk Sect or respecting it?"
 
-<!-- "A functioning society is built on order. Order is maintained with rules and laws. If enforced in a uniform manner irrespective of a person's background, these rules and laws can ensure that order doesn't crumble to the ground. " -->
+"It would be better if they respected us," Korren affirmed.
+
+"The greater respect held by the Whispering Dusk amidst the mortal folk, the better your chances of attracting more members, retaining existing members, and raising overall morale, amongst other factors," Guy summarised.
+
+"Since this is established, how does one gain respect?" Guy scoffed mirthfully and said, "Sounds easy enough to achieve, right?"
+
+Korren nodded back blankly.
+
+"They say that one must treat others the way they themselves expect to be treated," Guy quoted. "Back then, we could have followed your strategy and meted out our own personal justice. But then this could become our own future. Maybe, someone stronger would execute us for being plain inconveniences. What do you think about that?"
+
+"It is their right by virtue of their superior strength-" Korren answered instinctively. "-but I'll admit that it would really suck!"
+
+"How would you feel if the stronger mage, instead treated us like a fellow human - on an equal footing?"
+
+Guy didn't need to hear Korren or see his face to know the man's answer. The line of discussion only had one possible conclusion. At this point, Guy walked forward and joined his Disciple and Jean, leaving Korren to ponder on what was said. He knew that a simple half-an-hour discussion would do little to change the mind of a man so deeply entrenched in a mentality that appeals to the base animalistic instinct of submission to power.
+
+Furthermore, the discussion had unearthed some apprehensions and troubles inside Guy's mind that he had suppressed for a while now. It was on the matter of killing as a whole.
+
+Guy's birth was in the late 20th Century back on Earth. It was a time when the Information Age was just kicking off, with Internet quickly becoming ubiquitous. Although conflicts still persisted in his past life, the average person never had to grow accustomed to the act of taking a life - humanity had advanced by quite a bit since they first huddled together and formed hunting communities.
+
+To kill was wrong, immoral, unnecessary. That was what he was taught, and what he preached to all the kids he taught. Could he still continue his teaching of pacifism and civil conflict management in this world?
+
+One thing he learned was that in this world, there were, in fact, some cases that words and civil procedures just could not solve. Take the instance with the thug leader who controlled those refugees to attack the caravan as an example. Guy had clearly asked the man to release his control over his enslaved men, to which the man's immediate action was to kill himself. Guy did not ask him to kill himself, that was nowhere close to his intention. So in this scenario, Guy could surmise that killing the man was the only possible outcome. If there was an alternative, it would require subduing the individual, interrogating him, researching, and many more hitherto unknown steps.
+
+'But what would the cost be of that alternative?' How many of the people under the man's control would have to be crippled or worse killed before cuffing the man? How many would they lose from their own side?
+
+It was never tractable to run these cost-benefit analyses every time an impromptu conflict such as this was faced.
+
+'I never thought I, as a teacher, would have to ponder on such morbid decisions,' Guy thought wryly.
+
+Sometimes, people would lose their lives in Guy's hand. Sometimes, people would lose their lives in his students' and Sect members' hands. It wasn't something he could stop from happening, but it was something he could curtail.
+
+'I should probably start introducing updated versions of morals and philosophy into the course outline,' Guy decided.
+
+He didn't want his Sect members to get rolled over by everyone they met. For that, they would need to be ready to take a stand and fight. But, he also did not want his Sect members to discount the sanctity of a human life all for the sake of convenience or selfishness.
+
+'Beyond that, taking a human life can bear a heavy toll on the soul.'
+
+In some countries on Earth, police officers were required to undergo regular therapy after experiencing certain acts of violence while on-duty. Guy did not want his Sect members to become desensitised to killing, and he did not want them to enter a self-destructive spiral after taking a life. It would be a good idea to introduce this in his Sect as well.
+
+Guy's mind started to branch off and brainstorm various ideas and additions that he could implement with his Sect that would be necessary to keep up with this the society in this world.
+
+A few hours later, right as Guy mentally did the equivalent of dotting the i's and crossing the t's, something breached the banal horizon that drew everyone's attention. As they moved forward and approached the discrepancy, it started to grow larger, and larger, and larger...
+
+Guy could not stop his mouth from dropping in awe - an action that was mimicked by Markus and Dora.
+
+"Welcome to Sunspear," Jean said from his side. "The Capital of the Solar Empire."
 
 ____
 
