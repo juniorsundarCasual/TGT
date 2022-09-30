@@ -2,7 +2,7 @@
 id: 2p3em52w0gq9x1rz8lcjusz
 title: Chapter 228 - Grandest of Finales
 desc: ''
-updated: 1664537311189
+updated: 1664565343956
 created: 1662123577080
 ---
 
@@ -40,11 +40,11 @@ Yor wasn't technically at a disadvantage due to his inherently shorter engagemen
 
 As attacks were exchanged, the two combatants actively wrestled for control over their domains. The little surrounding mana they could gain control over was immediately recruited for their purpose, thus there was an infrequent exchange of spells. The Emperor recognised that this fight was one of attrition - he could not afford to deplete his core's mana early on. Yor was on a shorter fuse, the Emperor could tell. Yor's mana felt unstable, vigorous, but unstable. If he could outlast him then-
 
-An opportunity presented itself, and the Emperor capitalised on it. Just as he predicted, Yor's movement stumbled possibly due to a miscalculation of the amount of mana utilised causing an overextended punch. The Emperor shuffled forward and brought his heels down on Yor's head with a guillotine, Yor managed to block it but the momentum from the attack was too much. Yor was forced to use all of his arms, which allowed the Emperor to proceed with a chained barrage of spinning kicks. With each attack delivered that made contact, Yor's control of the surrounding mana faltered, turning over to the Emperor. The surrounding temperature started to rise again, and the Emperor's legs burned brighter and brighter, with the energy of the sun. The Emperor started to chain in spells with his attacks.
+An opportunity presented itself, and the Emperor capitalised on it. Just as he predicted, Yor's movement stumbled possibly due to a miscalculation of the amount of mana utilised causing an overextended punch. The Emperor shuffled forward and brought his heel down on Yor's head with a guillotine, Yor managed to block it but the momentum from the attack was too much. Yor was forced to use all of his arms, which allowed the Emperor to proceed with a chained barrage of spinning kicks. With each attack delivered that made contact, Yor's control of the surrounding mana faltered, turning over to the Emperor. The surrounding temperature started to rise again, and the Emperor's legs burned brighter and brighter, with the energy of the sun. The Emperor started to chain in spells with his attacks.
 
 |Solar Spear|, a ball of concentrated combusted gas pressurised into a thin arrow-like form that followed a push kick. |Solar Wave|, a spherical release of pure heat that pulsed periodically as the Emperor attacked with spinning kicks. |Immolation| the passive burning modifier that augmented each of the Emperor's attacks.
 
-The Emperor brought his heels down on Yor's right knee, shattering it and staggering his balance. He then twisted and raised his leg above Yor, bringing it down toe first as a pointed hammer towards Yor's head. Like a comet, a trail of superheated gas followed the immolated foot's trajectory, only to face a final and desperate opposition from Yor's four arms blocking its motion. The Emperor started to push all of his power towards the attack forcing it downwards in an attempt to crush through Yor's defence and obliterate him completely.
+The Emperor brought his heel down on Yor's right knee, shattering it and staggering his balance. He then twisted and raised his leg above Yor, bringing it down toe first as a pointed hammer towards Yor's head. Like a comet, a trail of superheated gas followed the immolated foot's trajectory, only to face a final and desperate opposition from Yor's four arms blocking its motion. The Emperor started to push all of his power towards the attack forcing it downwards in an attempt to crush through Yor's defence and obliterate him completely.
 
 "You cannot defeat me!" The Emperor declared mockingly as an audible crack emanated following the destruction of one of Yor's wooden hands. The immolated foot was now right in front of Yor's eyes, who was now on his last knee, boiling the skin of his face at a visible rate. 
 
