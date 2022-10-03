@@ -2,7 +2,7 @@
 id: oxhjgdadhtgoyt8w4ap4si3
 title: Chapter 239
 desc: ''
-updated: 1664739796105
+updated: 1664800507640
 created: 1664479152525
 ---
 
@@ -24,7 +24,11 @@ At that moment, Guy saw one of the guards punch a grovelling man garbed in tatte
 
 "Are they allowed to do that?" Guy could not help by blurt out. He couldn't stand the sight at all!
 
-As he followed the men carrying the groaning man, he found a large congregation of haphazard tents and 
+As he followed the men carrying the groaning man, he found a large congregation of haphazard tents and a short distance away from the walls, going along it. The tents were made of simple cloth, leather for select few who had the Within this congregation, Guy caught a horde of men, women and a few children wearing equally deteriorating clothes and living in overall squalor. An aura of loss and despondance hung over this horde; just one look and Guy could tell that these were refugees. Guy's heart ached seeing the kids running barefoot and extremely malnourished, scooping and shoving handful of mud into their mouths.
+
+"That's not hygienic!" Jean said worriedly. She also saw the sad state of affairs and her healer heart screamed with sorrow. "Why are they being coralled here like this? It is unsafe, unhealthy and improper..." She droned on.
+
+"It is a multi-faceted issue"
 
 ____
 
