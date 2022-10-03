@@ -1,8 +1,8 @@
 ---
 id: oxhjgdadhtgoyt8w4ap4si3
-title: Chapter 239
+title: Chapter 239 - Squalor Outside the Capital
 desc: ''
-updated: 1664800507640
+updated: 1664821220551
 created: 1664479152525
 ---
 
@@ -28,7 +28,37 @@ As he followed the men carrying the groaning man, he found a large congregation 
 
 "That's not hygienic!" Jean said worriedly. She also saw the sad state of affairs and her healer heart screamed with sorrow. "Why are they being coralled here like this? It is unsafe, unhealthy and improper..." She droned on.
 
-"It is a multi-faceted issue"
+"It is a multi-faceted issue, Young Mistress. For one, the Capital is fairly dense and integrating such a large influx of people into it will be difficult without additional government spending to accommodate them," Josie explained. "Furthermore, it's not like assimilating them into the Capital will make any difference. For better or worse, their living conditions inside will be no better than what it is out here. If I were them, I'd probably go somewhere else."
+
+"It's because they have nowhere else to go that these people are flocking here," Guy explained. "No other place will accept them due to their origins. The fact that they have nothing to their names provides little in terms of confidence. Handling and resettling refugees is a monumental task, one that requires a hands-on and empathetic approach."
+
+"Is there something we can do?" Markus asked.
+
+"There might be," Guy muttered as his sights narrowed on a particular group of kids sneaking over to a caravan. While one of them distracted the occupants by loudly begging for food, the rest of the kids silently crawled below the caravan and grabbed onto to carriage from below, hanging on like monkeys.
+
+Guy couldn't contain his incredulity as he asked, "Won't they just end up getting caught by the guards?"
+
+After all, mana sense basically worked like an X-Ray scanner - even the most basic of mages could detect the presence of additional lifeforms below the carriage by approaching and extending their senses in that direction.
+
+"The guards won't catch them because, most likely, those kids might be affiliated with the Beggar's sects operating in this region," Josie explained.
+
+"There's a sect for beggars?" Guy's first thought was to affiliate them with the similarly named Beggar's Sect from Wuxia novels in his past life.
+
+"They mostly operate in the grey and black markets. Some categorise them unorthodox, others don't, its a very fine line," Josie explained with an uncharacteristic groan. "Their speciality lies in the... 'vocational' practices."
+
+Noticing Markus and Jean's blank gazes, Josie sighed and said, "Information gathering, smuggling, theft and in some cases kidnapping. They are also known to take on unusual tasks such as luring, distraction, and in even rarer cases, murder."
+
+"How haven't they been expelled or destroyed? They sound dangerous!" Markus exclaimed.
+
+Josie shrugged and explained, "The Beggar's sects are named such because there is a powerhouse in their back. Although they don't advertise martial strength, they are by no means a weak organisation. Additionally, the Beggar's sects mostly dabble in minor crimes, nothing too egregious to require heavy action. Truthfully, annhilating crime from a region is a myth - even the cleanest of cities can espouse villains of some kind. So, it is better to have an evil that you know and can negotiate with than one you cannot. Finally, any Beggar's sect can never be truly destroyed as they do not have a monolithic structure to call their base like regular sects. The saying goes that 'whereever beggars roam shall one find a Beggar's Sect'."
+
+"They seem quite young to participate in such dangerous activities," Guy commented as the caravan the kids were hiding under passed through the gate with nary a word from the guard.
+
+"These are the kinds of folk the Beggar's sects recruit from. People, mostly kids, with nothing and hoping to find a way to crawl out of the pit they've been buried in. The desperate ones! The Sect in the city probably pays them a few measly coppers to pickpocket, collect information, and spread rumours. Those kids then use that money to support their families struggling outside."
+
+Guy hummed thoughtfully as Josie finished her explanation. He wasn't comfortable with the casual exploitation of children for crime. He really wanted to help them out - if he were in his past life once again he'd rush out and do so without question. However, Guy had more responsibilities now.
+
+'This can be done later,' Guy said to himself as he tried to swallow the metaphorical bile surging out his mouth. He never thought that there would come one day when he'd wave away the suffering of innocent children for something else!
 
 ____
 
