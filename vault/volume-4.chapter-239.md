@@ -2,7 +2,7 @@
 id: oxhjgdadhtgoyt8w4ap4si3
 title: Chapter 239 - Squalor Outside the Capital
 desc: ''
-updated: 1664821220551
+updated: 1664903541310
 created: 1664479152525
 ---
 
@@ -24,7 +24,7 @@ At that moment, Guy saw one of the guards punch a grovelling man garbed in tatte
 
 "Are they allowed to do that?" Guy could not help by blurt out. He couldn't stand the sight at all!
 
-As he followed the men carrying the groaning man, he found a large congregation of haphazard tents and a short distance away from the walls, going along it. The tents were made of simple cloth, leather for select few who had the Within this congregation, Guy caught a horde of men, women and a few children wearing equally deteriorating clothes and living in overall squalor. An aura of loss and despondance hung over this horde; just one look and Guy could tell that these were refugees. Guy's heart ached seeing the kids running barefoot and extremely malnourished, scooping and shoving handful of mud into their mouths.
+As he followed the men carrying the groaning man, he found a large congregation of haphazard tents and a short distance away from the walls, going along it. The tents were made of simple cloth, leather for select few who had the Within this congregation, Guy caught a horde of men, women and a few children wearing equally deteriorating clothes and living in overall squalor. An aura of loss and despondance hung over this horde; just one look and Guy could tell that these were refugees. Guy's heart ached seeing the kids running barefoot and extremely malnourished, scooping and shoving handful of mud into their mouths. There was no proper sanitation - a sense-rending stench prevailed in the air that worsened the already dour aura hanging over the area.
 
 "That's not hygienic!" Jean said worriedly. She also saw the sad state of affairs and her healer heart screamed with sorrow. "Why are they being coralled here like this? It is unsafe, unhealthy and improper..." She droned on.
 
@@ -34,7 +34,7 @@ As he followed the men carrying the groaning man, he found a large congregation 
 
 "Is there something we can do?" Markus asked.
 
-"There might be," Guy muttered as his sights narrowed on a particular group of kids sneaking over to a caravan. While one of them distracted the occupants by loudly begging for food, the rest of the kids silently crawled below the caravan and grabbed onto to carriage from below, hanging on like monkeys.
+"There might be," Guy muttered as his sights narrowed on a particular group of kids sneaking over to a caravan with no escorts. While one of them distracted the occupants by loudly begging for food, the rest of the kids silently crawled below the caravan and grabbed onto to carriage from below, hanging on like monkeys.
 
 Guy couldn't contain his incredulity as he asked, "Won't they just end up getting caught by the guards?"
 
@@ -58,7 +58,7 @@ Josie shrugged and explained, "The Beggar's sects are named such because there i
 
 Guy hummed thoughtfully as Josie finished her explanation. He wasn't comfortable with the casual exploitation of children for crime. He really wanted to help them out - if he were in his past life once again he'd rush out and do so without question. However, Guy had more responsibilities now.
 
-'This can be done later,' Guy said to himself as he tried to swallow the metaphorical bile surging out his mouth. He never thought that there would come one day when he'd wave away the suffering of innocent children for something else!
+'This can be done later,' Guy said to himself as he tried to swallow the bile surging out his mouth. He never thought that there would come one day when he'd wave away the suffering of innocent children for something else!
 
 ____
 

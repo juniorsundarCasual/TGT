@@ -2,7 +2,7 @@
 id: jjhn0etrry3ft2zgwx2laf1
 title: Chapter 133 - (Interlude) Overcoming Roadblocks
 desc: ''
-updated: 1648144657562
+updated: 1664907736944
 created: 1648144657562
 status: ''
 due: ''
@@ -26,7 +26,7 @@ Myron was born with everything anyone could ever ask for. Money? He had loads of
 
 Yet, even with all of this, he kept losing against Goran!
 
-Myron's ego bubble had burst years back after his public loss against Goran in the contest to decide the next clan patriarch. Coincidentally, it also happened to be the time when he felt he was at his peak. He was strong, he had all the backing of the clan, he had it all! And then... he lost everything, in one fell swoop. Myron couldn't accept that. He couldn't, because his heart didn't want to recognise that he - the man who had everything - lost to Goran - who had nothing! Because Myron knew, deep down in his heart, that if he recognised his loss, it meant that he was worthless and that everything he grew up believing was all a lie. Of course, Myron wasn't conscious enough to make those logical connections. He was moving based purely on the human instinct to absolve all blame off oneself and offload it onto others. That is, create a straw man that embodies all of your insecurities and weaknesses, and attack it until satisfied.
+Myron's ego bubble had burst years back after his public loss against Goran in the contest to decide the next clan leader. Coincidentally, it also happened to be the time when he felt he was at his peak. He was strong, he had all the backing of the clan, he had it all! And then... he lost everything, in one fell swoop. Myron couldn't accept that. He couldn't, because his heart didn't want to recognise that he - the man who had everything - lost to Goran - who had nothing! Because Myron knew, deep down in his heart, that if he recognised his loss, it meant that he was worthless and that everything he grew up believing was all a lie. Of course, Myron wasn't conscious enough to make those logical connections. He was moving based purely on the human instinct to absolve all blame off oneself and offload it onto others. That is, create a straw man that embodies all of your insecurities and weaknesses, and attack it until satisfied.
 
 Myron curled his hands into a shaking fist, raised it towards the skies and declared that he would get back at Goran for this slight. The passerby simply ignored him as the rambling of a mentally unwell individual.
 
