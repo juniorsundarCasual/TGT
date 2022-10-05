@@ -1,8 +1,8 @@
 ---
 id: olhqa0pjj12yltcy3roetam
-title: Chapter 240
+title: Chapter 240 - First Steps Into the Capital
 desc: ''
-updated: 1664909148195
+updated: 1664994988439
 created: 1664650966028
 ---
 
@@ -22,7 +22,37 @@ Dora released a loud yawn and fell into a deep slumber on Guy's shoulders. The j
 
 Nonetheless, since the primary sightseer was out of commission, Guy decided to call it an early day since it was already an hour past noon. He was certain that if they explored the Capital today without Dora in tow, the girl would throw another tantrum and force them to revisit all the places again for her sake. Jean and his Disciple agreed, so the all followed Jean as she guided them to the Rasmus Mansion.
 
-The building was in the most affluent sections of the Capital which was within the walled layer closest to the centre. To get there from the warehousing district, they had to take a path leading up the walls containing the Capital.
+The building was in the most affluent sections of the Capital which was within the walled layer closest to the centre. To get there from the warehousing district, they had to take a path leading up the walls that contained the Capital - it was like a short cut. Not just anyone could ascend the walls though. Due to the sheer size of the Capital, constant vigilance is required to keep the city from falling into chaos and bursting at its seams. To streamline response of emergency services such as in the event of a crime, fire, or disaster, the responder services are relegated into the walls of the Capital. To get from one location to the other, the walls offer an unhindered pathway. To ensure that nothing inhibits this, no one apart from strictly authorised government and military personnel are allowed to roam the walls. High-born Clans and Royals are an exception to this rule. Once again, due to Jean's ancestry, Guy and the True World Sect were allowed uninhibited movement from the warehousing district to the Rasmus Mansion.
+
+It was an icky feeling for Guy. In his previous life, his parents had drilled into him and his siblings that utilising personal connections to get ahead in business was fair play, but to do the same with governmental structures was wrong.
+
+"To compete in the battleground known as capitalism, using every single advantage that one has is necessary for success. However, the public sector works under the assumption that everyone be treated equally and fairly. It would be too easy for us to bend that assumption, but doing so is wrong. It would be like stealing candy from a baby - there is no honour in it."
+
+However, his discomfort was sufficiently suppressed after his eyes landed on the absolute clusterfuck taking place in the neighbouring district. From his viewpoint up the wall, it was all too clear! It looked like a nasty horde of ants all moving around in a frenzy around, over and sometimes under each other. Guy was certain that if he dropped a pin into the area, it wouldn't hit the ground.
+
+"This is the thirteenth Flea Market," Jean explained. "It contains goods that have been purchased and returned from the twelfth, which in turn is stocked with returned goods purchased from the eleventh, and so on."
+
+"So you're saying these goods have been used by at least twelve previous owners?" Markus retorted instinctively.
+
+"Thirteen," Guy corrected.
+
+"Master?"
+
+Guy chuckled and said, "You forgot to count the owners who returned the clothes to the first Flea Market."
+
+Looking at the state of the products on the various stalls, as well as the general condition of the customers roaming the area, Guy could tell that this place was probably frequented by the poorest of the poor. It also confirmed Josie's earlier declarations that those living within the Capital may not be faring any better than those refugees settled outside. If anything, it was much worse. On one particular instance, and updraft of air carried with it an unbearably pungent smell that nearly woke Dora from her slumber. Guy had witnessed many scenes of horror in his past life, but none had assaulted him with such a ghastly smell.
+
+Jean was observant of this and quickly guided her fellow sect members away from the region, and moved briskly towards the central walled sections. As they approached the centre, Guy felt an almost imperceptible rise in elevation - the centre was physically higher than the periphery. Considering that the Capital was built upon an impossibly flat plain, this indicated that the Capital was artificially raised during its construction. The symbolism of such a decision wasn't missed by Guy.
+
+The group descended from the walls and entered the High-Residential District. Unlike the commotion and crowd in the Flea Market and subsequent slums where the density of people was inhumane, the houses in this district were enormous and thoroughly spaced out. Guy could not understand the criminal waste of space! Within the gap between the Rasmus Mansion and their neighbours, one could fit more than twenty smaller households each filled with a family of four.
+
+Guy was pulled out of his thoughts by a familiar voice greeting him. "Welcome to the Rasmus Mansion of Sunspear," Josie said with a low bow. "This slave has prepared the premises for the Young Miss and her guests."
+
+"Where can I lay Dora down? She's fallen asleep," Guy indicated while raising Dora's head on his shoulders.
+
+"Please follow Reen here," Josie said while pointing at a primly dressed female maid behind her.
+
+"Dinner will be ready in an hour, please get yourselves comfortable till then," Josie said before retreating behind a small army of servants prepared to care for the True World Sect's needs.
 
 ____
 
