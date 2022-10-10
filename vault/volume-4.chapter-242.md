@@ -2,7 +2,7 @@
 id: 5xv4snhx0gtysvq28oigyjt
 title: Chapter 242
 desc: ''
-updated: 1665339384670
+updated: 1665423866288
 created: 1664651019972
 ---
 
@@ -37,6 +37,18 @@ She bought a matching set of boy and girl clothes for herself and Kano. Her reas
 Dora also wanted to purchase a writing set for Marie. Since she didn't know how to judge if a set was good or not, she deferred to Josie as, "she is the eldest amongst us and must know more than everyone." Guy did not want to argue or refute that statement as it was true. Josie sorted through different stores and their products before finally deciding on a simple yet highly functional one. It had a brush with very thin hairs, perfect for numerics and fast writing - a total match for Marie's character.
 
 After a round of shopping, the group transferred their loot to a set of servants following them so that it would be delivered back to the mansion, and continued their tour.
+
+With that secured, and their selves unburdened, the group moved on to the next district, which was the Entertainment District. Due to it being close to the shopping district, they could transition from one to the next without ascending the walls. Instead, they took a carriage.
+
+Now one could assume that a carriage is faster than walking along the city's walls, but in doing so they're ignoring the massive throng of people obstructing their paths. Of course, a carriage ride is many times more comfortable and leisurely.
+
+Upon entering the Entertainment District, Guy's senses were assaulted with a myriad of stimuli encompassing his sight, smell, hearing and weirdly, taste. The central, most eye-catching structure in the district was a theatre meant for plays, exhibitions, and other audiovisual presentations. At the moment, a famous play about a boy who lost everything to a raid conducted by an unorthodox sect, found a wandering mage who took him in, trained him and went on to get his revenge while saving his childhood love in the process - your basic hero's journey. It had a little bit of everything to attract a wide variety of viewers from both the male and female demographic. Guy wanted to check out the nature of the plays in this world and hoped to book a few tickets for a viewing, but was dismayed to learn that the theatre was fully booked for every subsequent showing of that play. It seemed that this particular Entertainment District catered to the rich and was thus highly exclusive in its clientele. Thus, Guy would have to visit the other entertainment districts scattered across the capital to satiate his thirst for knowledge.
+
+Of course, he wouldn't be able to visit those districts with Dora or his Disciple. With the lowering of the class level the entertainment district caters to, the nature of the type of entertainment obtainable in said districts also grows a bit... promiscuous. That isn't to say that the high-class districts was lacking in entertainment of the carnal variety. It was just packaged differently. When you have whorehouses and brothels in the low-class districts, you have escort agencies and cabarets. Guy didn't have to explain why a woman's breast was half-hanging out her blouse to Dora in the high-class entertainment district.
+
+This was also why Guy expressly stuck to touring the well-off districts of the Capital with Dora. The world is a sad, horrible and painful place. Dora has experienced enough of this unpleasantness in her lifetime. Guy wanted her life to be more colourful from now on. After all, through her own admission, Guy was now officially Dora's father. What father would want their child to get jaded and lose faith in the world?
+
+Once her curiosity and excitement is quenched, Guy would explore the other districts with Markus. Guy wasn't going to put on a blindfold and watch the world with rose-tinted lenses. He wanted to change the world for the better, and to do that he needed to first see how bad this world was with his very own eyes.
 
 ____
 
