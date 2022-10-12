@@ -1,6 +1,6 @@
 ---
 id: 5xv4snhx0gtysvq28oigyjt
-title: Chapter 242 - Touring the Capital
+title: Chapter 242 - Touring the Capital (Part One)
 desc: ''
 updated: 1665423991563
 created: 1664651019972
