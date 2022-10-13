@@ -2,7 +2,7 @@
 id: tsljaq7vbt71r1y95575a2o
 title: Chapter 231 - Cleaning Up After
 desc: ''
-updated: 1665143378916
+updated: 1665682620148
 created: 1662630737275
 ---
 
@@ -66,7 +66,7 @@ Even Jean's impassive face warped slightly as she struggled to complete that sen
 
 "More refugees?" Guy tagged with an intrigued eyebrow raise.
 
-Jean released a troubled sigh and said, "When I said their stories matched, it was because all of them were displaced from their villages for a similar reason. A new plague has afflicted the regions of the Balen Duchy bordering the Blackstar Kingdom. It only affects the regular folk, thus there has been no response from the Solar Alliance of Sects. As for the government..."
+Jean released a troubled sigh and said, "When I said their stories matched, it was because all of them were displaced from their villages for a similar reason. A new plague has afflicted the regions of the Balen Duchy bordering the Blackstar Kingdom. It only affects the regular folk, thus there has been no response from the Solar Sect Alliance. As for the government..."
 
 "Bureaucracy and corruption," Korren filled in the blanks. "I will file a petition in this Conference. The True World Sect can co-sign this - since the Whispering Dusk Sect is more storied I believe it will be taken more seriously."
 
