@@ -2,7 +2,7 @@
 id: w87ij7jztncp3g5983nvat3
 title: Chapter 243 - Touring the Capital (Part Two)
 desc: ''
-updated: 1665514097956
+updated: 1665904772287
 created: 1665334904785
 ---
 
@@ -68,7 +68,7 @@ Josie narrowed her gaze incredulously. "What in the-"
 
 And with that, the group started to eat the delectable dinner. As they exited, Dora complained that she couldn't see more of the vast Capital. After some back and forth, Guy finally convinced the girl that he would take her to more places once the workload from the Sect's registration died down. However, he was surprised to learn that some of the staff members from the Rasmus Mansion were prepared to take the girl along with them and show her around the Capital. Although he was uncomfortable leaving his wards in the hands of strangers, Jean and Josie vouched for them and promised that a small security detail would tail Dora at all times. That was enough to placate Guy's worries.
 
-'So one to-do accomplished,' Guy said with a relaxed exhale as he stared into his room's ceiling. "Now comes the hectic part!"
+'So one to-do accomplished,' Guy said while releasing a tenuous breath and staring at his room's ceiling. "Now comes the hectic part!"
 
 ____
 
