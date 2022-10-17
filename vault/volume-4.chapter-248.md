@@ -4,10 +4,6 @@ title: Chapter 248
 desc: ''
 updated: 1665946706133
 created: 1665946693629
-status: ''
-due: ''
-priority: ''
-owner: ''
 ---
 
 Arriving at the capital. Long line. The Cooperative of Teachers set-up a tournament and selection to compete with the Sects.
