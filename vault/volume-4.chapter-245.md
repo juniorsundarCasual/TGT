@@ -2,7 +2,7 @@
 id: 21081yqr8yp6k3cxbm8hor5
 title: Chapter 245
 desc: ''
-updated: 1665946756797
+updated: 1666079352652
 created: 1665334911663
 ---
 
@@ -12,11 +12,13 @@ Following common trope logic, there should have been a heated exchange of some s
 
 He was just impressed that they could be convinced and sated with a few carefully crafted words. 'I guess if you appeal to their common sense, speak logically and do not agitate others excessively, things won't have to devolve into a round of uncivilized fisticuffs.'
 
-Guy returned his attention to the now unlocked doors, through which a well-dressed woman with an appealing frame walked out swaying her hips.
+Guy returned his attention to the now unlocked doors, through which a well-dressed woman with an appealing frame walked out swaying her hips. Her attire had a base of pure white with a pastel shade of indigo lining it. Guy was certain he'd seen it somewhere before, and seeing the gold clouds hiding behind a thin veil covering her chest further affirmed his certainty.
 
-"The registration will now begin, please enter one at a time," she said with a demure voice that resounded amidst the sudden silence. She was a mage, and another one whose cultivation Guy could not fathom.
+'It's the Cloudstrider Sect's insignia!'
 
-Guy lowered his gaze, gestured for Markus to do the same, and quickly scuttled passed the woman and entered the hall 
+"The registration will now begin, please enter one at a time," she said with a demure voice that resounded amidst the sudden silence. She was a mage, and another one whose cultivation Guy could not fathom. Her eyes swiped past everyone and landed on Guy. Outwardly, there was nonchalance in her gaze. However, Guy could feel an inquisitive and evaluating glint in her pupils. Was it borne of some kind of familiarity, animosity or plain interest? Ultimately, it wasn't a question Guy was seeking the answer to.
+
+Guy lowered his head, gestured for Markus to do the same, and quickly scuttled passed the woman and entered the hall 
 
 ____
 
