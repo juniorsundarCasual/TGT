@@ -2,7 +2,7 @@
 id: 21081yqr8yp6k3cxbm8hor5
 title: Chapter 245 - Sect Registration
 desc: ''
-updated: 1666110067417
+updated: 1666289088639
 created: 1665334911663
 ---
 
@@ -46,9 +46,9 @@ That did not satiate Guy's apprehension. Just being from the same village did no
 
 "Secret?" Guy probed.
 
-"Well," the woman voiced while elongating the syllable. "One day, while we were still Outer Division members, I visited his quarters in the middle of the night hoping to seduce him with my charms. However, the moment I forced his hands onto my bare chest, he darted out and threw up so violently that my self-esteem shattered into a million pieces. Of course, it didn't affect me too poorly since he wasn't a woman."
+"Well," the woman voiced while elongating the syllable. "One day, while we were still Outer Division members, I visited his quarters in the middle of the night hoping to seduce him with my charms. However, the moment I forced his hands onto my bare chest, he darted out and threw up so violently that my self-esteem shattered into a million pieces. Of course, it didn't affect me too poorly... since he wasn't a woman."
 
-The woman winked suggestively, which was enough for Guy to fill in the blanks. Marek was homosexual, and so was she.
+The woman winked at Guy. She then formed scissors with her index and middle finger on both her hands and brought them together, causing the valley between the fingers to cross, which was enough for Guy to fill in the blanks.
 
 "Why are you telling me this?" Guy uttered shakily. In this world, these were the kinds of secrets that fell under the "if I told you, then I'd have to kill you" category.
 
