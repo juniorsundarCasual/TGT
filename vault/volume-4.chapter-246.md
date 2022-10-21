@@ -1,8 +1,8 @@
 ---
 id: 73ivcy7v8gfd5vyfgh1olrb
-title: Chapter 246
+title: Chapter 246 - Sect Registration (Part One)
 desc: ''
-updated: 1666291108070
+updated: 1666348660890
 created: 1665946688090
 ---
 
@@ -58,11 +58,55 @@ Guy sputtered and let out a strained laugh.
 
 "Now that all the formalities are covered. The True World Sect is now officially part of the Solar Sect Alliance. All that is left for you is to fill up the minimum member quota within one year."
 
-Guy nodded. "We are planning to join in on the recruitment event taking place over the coming days."
+Guy nodded. "We are planning to join in on the Recruitment Event taking place over the coming days."
 
 The woman halted in her steps, turned, and hinted, "Do you know how spots are assigned?"
 
+"We have to register our Sect for a stall, is it not?" Guy responded with a confused intonation.
 
+"Registering is one thing, but actually holding the stall is a whole another matter," the woman hinted with a raised pitch as she disappeared into the shadows.
+
+"What did she mean, Master?" Markus asked worriedly.
+
+Guy let out a hum while processing the statement and retraced his steps out of the registration hall. He was so involved in his thoughts that the many insults, jeers and scowls sent his way by the long line of grumbling, prospective Sect Leaders. He remained in a thoughtful trance and kept walking forward, causing Markus to intervene and alter his Master's trajectory to avoid hitting a wall or making a wrong turn. The boy knew the direction to where they needed to be to book a stall for themselves for the Recruitment Event, and so he gently he guided his Master in that direction.
+
+Right as they reached the location, Guy snapped his fingers and halted in his steps. "Shit!"
+
+"Master?"
+
+"How did I miss it? It was practically right up against my face!" Guy groaned. He immediately noticed that he was right next to his destination and took a few hurried steps forward.
+
+The Recruitment Event, as its name suggested, was an event held during the Conference in which the Sects present could openly recruit members into their fold in a much larger scale. It is one of the most anticipated segments of the Conference since it is the only time that sects have a truly open recruitment. Otherwise, to become part of a sect, some form of connection or a fortuitous encounter is necessary. Sects aren't strictly prohibited from having open recruitments of their own, but location and logistics often prohibit their effectiveness.
+
+As a result, the Event is the only way the sects can effectively pull in a lot of members in one go. After digging through his memories of what he'd read at the Cloudstrider Sect's Archives, Guy remembered one key detail. Rather than selecting a few members, unearthing their talents and training them up to be extraordinary, sects preferred to cast a wide net, hoping that the incoming horde of ordinaries would contain a few individuals with talents at the cusp of breaking into the extraordinary.
+
+Because of this mentality, the competition to secure the most visible stall location would be brutal. And just as he thought, the very first thing he witnessed upon entering the Event's location was the tail-end of a fight between two teenaged youths.
+
+"They even have a combat arena for goodness’s sake!" Guy blurted out as a bruised body flew out from the arena and slid to a halt in front of his feet.
+
+"Damn it!" A man rushed over to the body.
+
+"F-Forgive me... Master..." The injured boy said with a shaking voice amidst groans.
+
+"Is this the best that the Vibrant Spear Sect can do?" A condescending voice of a woman spoke up. "Now scram! Anyone else want to challenge the Thundering Limb Sect for our stall?"
+
+The source of the jeer was from a woman who was standing behind a skeletal setup of a stall right in front of the entrance to the Event's location. From the combat arena, a girl around Markus' age walked down its steps with her chin held eye and carrying the same disdainful gaze as the woman.
+
+"We won't forget this slight!" The man said through gritted teeth as he supported the downed youth. "Let's go!"
+
+"Damn it!" Guy spat out.
+
+"Do you want that stall, Master?" Markus asked.
+
+"Are you kidding me? This location is too visible and will likely become too crowded. We need a spot where we can evaluate our applicants without being rushed, and a place that has just enough foot traffic to avoid hitting a slump. Besides, its already taken," Guy said with a shake of his head.
+
+Markus nodded along and followed Guy as he waded through the other sects trying to fight for their spot. If Guy could draw a heatmap of the conflicts taking place, the highest density was right up front. Everyone wanted the prime spot. Things started to get cooler moving away from it, but it then grew warmer at locations where there were crossroads and junctions. The more well-established sects had their own guaranteed stalls near the centre, and the density also grew warmer in those areas since people generally swarmed there first to try their luck.
+
+Guy paused in front of a location near the second junction from the entrance, which was also close to the Cloudstrider Sect's stand, and evaluated the stall. It wasn't too far from the entrance, and it wasn't smack dab in the middle of the junction like the ones a few sects were fighting over nearby. It would work perfectly. Unfortunately...
+
+"Its taken..." Guy sighed. There were already two groups quarrelling over the location. Right as he was about to move away, Markus briskly walked forward, picked up the fallen sign board, wrote down 'True World Sect' on it and shoved it forcefully into the ground.
+
+"This stall now belongs to the True World Sect. Those that wish to contest this claim, please leave your name, and we shall address it in proper order," he declared without a waver in his voice.
 
 ____
 

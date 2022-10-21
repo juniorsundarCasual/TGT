@@ -1,6 +1,6 @@
 ---
 id: 21081yqr8yp6k3cxbm8hor5
-title: Chapter 245 - Sect Registration
+title: Chapter 245 - Sect Registration (Part One)
 desc: ''
 updated: 1666289088639
 created: 1665334911663
