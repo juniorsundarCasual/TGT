@@ -1,6 +1,6 @@
 ---
 id: ktsd4gs995nc0ytnfevwnv4
-title: Chapter 247
+title: Chapter 247 - Weakest Link
 desc: ''
 updated: 1666615129525
 created: 1665946691140
@@ -30,7 +30,43 @@ Noticing his Disciple's fervour, Guy placed a hand on his shoulder and said, "Do
 
 Although Guy trusted his Disciple, he did not want the kid to exhaust and expend himself, and end up with a serious injury. "If things grow beyond your control, and you chance of victory becomes less than certain, just give up and prepare yourself for the next one. Since we do not have many members in our Sect just yet, we need to play it smart."
 
-Markus nodded pensievely without moving his gaze away from the arena.
+Markus nodded pensively without moving his gaze away from the arena. It was a valuable opportunity for him to improve his ability to cope with new combat scenarios. However, what he saw did little to assuage his troubles, rather it increased in complexity with each fight.
+
+"The fights are less about skill, and more about playing the field to one's advantage," his Master vocalised Markus' thoughts. "If you remember in the last fight, all seven first ganged up on the obviously stronger combatant. Once the boy was out of the picture, it was basically a chaotic free-for-all with spells flying willy-nilly until only one happened to remain standing... barely. However, in the fight before that, everyone took out the girl who was quaking in her boots in fear first."
+
+Markus hummed in response and said, "To an extent it is also about understanding the human psychology. We don't want to appear too strong to draw the attention of everyone, but also not appear too weak to avoid getting dog-piled on for convenience's sake. We need to find the location of the line that separates those two scenarios."
+
+"Appear confident but not arrogant," Guy said. "Do you know the difference between the two?"
+
+The boy shook his head, though he appeared absent-minded with his attention trained at the upcoming bout, his ears were completely dedicated to his Master's teachings.
+
+"When I know that regardless of what the world throws my way, I can handle it, I am confident. But if I believe that there is nothing in the world that can derail me from my goals, I am arrogant," Guy stated.
+
+"They sound the same to me, Sect Leader," Jean chimed in.
+
+"It's about being certain of oneself versus being certain of one's environment. You can never be certain of what can happen to you, unless you're Mage Nara or Marie, but that is beside the point. To assume certainty of the environment is being arrogant. However, it is possible to be certain about yourself. To trust in your skills and ability to handle troubles as they become known is confidence," Guy expounded.
+
+Guy nudged his head towards the still unconscious boy from the previous fight and reiterated, "He assumed that there wouldn't be anyone on that stage who could be his match - he was arrogant. That, in turn, agitated his opponents and made them overestimate his skills. Therefore, they opted for the 'better to be safe than sorry' approach and took him out first."
+
+"How would it be different if Senior Brother exuded an aura of confidence, instead?" Jean inquired.
+
+"If you are confident, you will naturally not underestimate your opponents," Guy answered. "That in turn reflects in your posture and expressions. It may not seem obvious, but the simple act of taking a poised stance makes your opponents feel that you respect them. And as I've taught you guys, what you give is what you will receive, even if it is unintentional."
+
+Guy mused over his words in silence. A fight was equally a contest of the mind as it was a contest of martial might. Half the fight is won or lost simply based on a combatant's mentality as they entered the match - similar to most other sports. For mages, it is even more important to have the right frame of mind since the power of one's magic and their control over the mana in their domain is directly proportional to the integrity of their will.
+
+Once it was time for the fight before Markus', the boy immediately closed his eyes and started to circulate his mana. Jean noticed this and proceeded to assist him by applying the basic artificial stimulation exercises she'd been learning from Josie. In the recent months, as she'd slowly come into her skills in medicine and healing, Jean started to take additional lessons from Josie to round off her skill list. Amongst the techniques she'd been learning from Josie, artificial stimulation was on the top of the list.
+
+Jean's focus right now was to help guide her Senior Brother's mana to work his muscles. She hoped to initiate glycolysis by mimicking the effects of high-intensity exercises so that her Senior Brother's body actively starts to produce energy. One disadvantage of this is that if the muscles do not have enough oxygen in them, the glycolysis process can cause a build up of lactic acid that can cause a burning sensation in the muscles. This is easily averted since her Senior Brother knew how to enrich his muscles with oxygen using the mana circulating in his body.
+
+"I got this from here," Markus said while flexing his joints, releasing a pleasing harmony of crackles as the nitrogen bubbles trapped in them popped.
+
+"Next up, Stall 23. Combatants, enter the arena!" The same detached voice droned.
+
+Seven combatants swaggered forward, including Markus, and ascended the open arena from its sides. The stage had suffered some wear and tear from the previous match, but it was immediately repaired with the wave of the hand from the mage that called the match.
+
+Markus' six opponents consisted of four girls and two boys. Of the boys, one was shivering like a leaf in a precarious autumn wind, while the other looked extremely shifty. Three of the four girls all assumed a combat-ready stance, eyeing every other person on stage. The last girl, quite literally had her nose pointing upwards and oozed a palpable aura of arrogance. Her arms were crossed, she hadn't even grasped her weapon which was a whip wrapped around her waist.
+
+Right at that moment, Markus knew who the first person to be ejected would be. Luckily she was standing on the opposite side of the stage, far away from him.
 
 ____
 
