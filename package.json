@@ -1,7 +1,6 @@
 {
   "name": "tgt",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "directories": {
     "doc": "docs"
@@ -21,6 +20,7 @@
   },
   "homepage": "https://github.com/juniorsundar/TGT#readme",
   "dependencies": {
-    "@dendronhq/dendron-cli": "^0.85.0"
-  }
+    "@dendronhq/dendron-cli": "^0.116.1"
+  },
+  "description": ""
 }
