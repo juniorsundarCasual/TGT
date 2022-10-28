@@ -1,8 +1,8 @@
 ---
 id: 1wx9uw0y9ygpakag67od6nr
-title: Chapter 248
+title: Chapter 248 - Formidable Display
 desc: ''
-updated: 1666857730903
+updated: 1666980791828
 created: 1665946693629
 ---
 
@@ -59,6 +59,28 @@ The eyes of many audience members nearly burst out of their sockets upon witness
 "To fly or levitate is to oppose the natural behaviour of falling," a demure voice intervened, cutting through the din like a hit knife through butter. Guy followed the sound and saw the same woman who'd registered his sect!
 
 "That boy, however... It's almost like the world just doesn't want him to fall down," she said with an amused chuckle. "I would do something about his opponent, though. It looks like he cannot continue."
+
+All eyes darted towards the suppressed boy whose consciousness was teetering. The immense pressure acting on him had shattered a few bones, and they were poking into his organs, he was finding it hard to breathe with his lungs struggling to oppose the crushing weight, the pain and the oxygen deprivation had pushed him to the edge.
+
+The person refereeing the fights sputtered and reddened in embarrassment for getting distracted like that.
+
+"Stall number 23 goes to the True World Sect," the referee called out, and just like that the weight lifted off of the boy. The boy deflated and lost consciousness as his body rebounded. Markus bowed and started to walk out the arena.
+
+Jean rushed forward and caught Markus as he stumbled over the last step. He was breathing heavily, sweating, and pale all over. Jean immediately reached into her satchel and retrieved a phial. She undid the stopper and immediately jabbed it into Markus' lips.
+
+"Senior Brother, drink it quickly! You are suffering from mana exhaustion!" She demanded worriedly. Markus hummed and started to gulp down the liquid.
+
+"What was that attack?" Guy asked with a stern whisper. It was a rhetorical question as he immediately followed it up with, "What were you thinking? Look at what you did to yourself!"
+
+"I-It was necessary, Master," Markus responded. The colour was returning to his cheeks, though his breath was still staggered. "We need to show our strength. People will remember this display and will approach our stand over the recruitment period. This will also stop others from looking down on us."
+
+Guy agreed with this statement, but couldn't help but mutter, "But at what cost?"
+
+Markus was right in one thing. The display did attract the attention of a lot of people. For one, the way Markus utterly dominated the field had shaken the attitudes of a lot of sects.
+
+With strength came freedom. Those with power had the liberty to choose and take what they wanted, that was the law that governed this world. Markus had shown that the True World Sect was formidable. He proved that he could have competed for any stand, even the heavily contested ones in prominent locations. But the True World Sect chose one that was in a moderately traversed area. This behaviour had earned the acknowledgement of many sects present.
+
+A barracuda is a formidable predator. It is ferocious and fearsome, and highly proficient in hunting. However, if a barracuda chooses to compete amongst sharks, it will only get eaten instead. However, this did not mean that a shark would treat the barracuda as a joke, since it is still a predator.
 
 ____
 
