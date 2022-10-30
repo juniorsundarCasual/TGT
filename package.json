@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/juniorsundar/TGT.git"
+    "url": "git+https://github.com/juniorsundarCasual/TGT.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/juniorsundar/TGT/issues"
+    "url": "https://github.com/juniorsundarCasual/TGT/issues"
   },
-  "homepage": "https://github.com/juniorsundar/TGT#readme",
+  "homepage": "https://github.com/juniorsundarCasual/TGT#readme",
   "dependencies": {
     "@dendronhq/dendron-cli": "^0.116.1"
   },

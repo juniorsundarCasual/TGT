@@ -97,7 +97,7 @@ publishing:
         - volume-4
     enableSiteLastModified: true
     siteRootDir: docs
-    siteUrl: https://juniorsundar.github.io
+    siteUrl: https://juniorsundarCasual.github.io
     enableFrontmatterTags: true
     enableHashesForFMTags: false
     enableRandomlyColoredTags: true
