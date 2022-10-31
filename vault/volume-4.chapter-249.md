@@ -2,7 +2,7 @@
 id: lntwok1r096ku17el4pqodv
 title: Chapter 249 - (Interlude) Tampering with Gravity, and Hurtful Dreams
 desc: ''
-updated: 1667235411891
+updated: 1667239728529
 created: 1666356530683
 ---
 
@@ -103,6 +103,10 @@ The woman's gaze flickered before her hand dropped limply. The imperceptible ris
 Shuri's mother had died. However, Shuri didn't feel anything. She didn't feel regret, nor did she feel sorrow.
 
 There is seldom time to pause and lament over loss in the Inner Court if one wishes to live here. What is beneficial for survive must be kept, what isn't must be discarded. Familial affection isn't necessary for survival, hence it is discarded.
+
+____
+
+Shuri awoke with a start, hitting her head against the wooden side of the caravan she was currently in. The whole vehicle shook jerkily, causing her to lurch to the side.
 
 ____
 

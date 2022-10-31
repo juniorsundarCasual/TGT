@@ -2,11 +2,9 @@
 id: xw6m63h6v4kdn5skphkpo2a
 title: Chapter 250
 desc: ''
-updated: 1667147288050
+updated: 1667239771384
 created: 1666356537099
 ---
-
-Shuri awoke with a start, hitting her head against the wooden side of the caravan she was currently in. The whole vehicle shook jerkily, causing her to lurch to the side.
 
 "Is something wrong?" Shuri asked the driver up front.
 
