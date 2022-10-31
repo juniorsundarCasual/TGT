@@ -1,8 +1,8 @@
 ---
 id: lntwok1r096ku17el4pqodv
-title: Chapter 249
+title: Chapter 249 - (Interlude) Tampering with Gravity, and Hurtful Dreams
 desc: ''
-updated: 1667147257160
+updated: 1667235411891
 created: 1666356530683
 ---
 
@@ -26,13 +26,89 @@ The solution to the problem was simple... on paper. In truth, it involved a lot 
 
 The outcome was as follows. Designate a spherical region around himself. Within this region, he could modulate the gravitational field however he wished as long as moving from any point on the sphere's periphery to another point on its periphery expended the same mount of mechanical energy. Ultimately it was a balancing act. Markus could increase the gravitational field strength at one point in the region as long as he offset it by decreasing it across another. The problem was doing this quickly. He had to both rely on the mana refined by his core and a plethora of spell circles to activate the spell. All of this had to be achieved in combat. Furthermore, although there was a sharp reduction in mana consumed to sustain the spell, it still left him drained when utilised for a long time period. Finally, the designated spherical region could not be moved once established. This was because activating the spell required excessive mathematical calculations in the backend, and changing the region would warrant a recalculation.
 
-Markus named this new attack, |Gravity Field|. He never thought he would get the opportunity to debut it so publicly. He never thought the spell would be so brutal either - he was close enough to physically hear a few of his opponent's bones shatter.
+Markus named this new attack, |Gravity Field|. It was powerful, but it wasn't without cost. It was still not close enough to the truth and thus guzzled his mana like a man stranded in the middle of the desert, though its voraciousness was less than the spell's he'd devised before. After casting it for the first time against an opponent, he was thoroughly depleted, hanging barely by a thread - if not for his Junior Sister's timely supply of Mana Rejuvination potion he would have passed out into a coma through mana exhaustion.
+
+Markus never thought he would get the opportunity to debut it so publicly. He never thought the spell would be so brutal either - he was close enough to physically hear a few of his opponent's bones shatter.
 
 But like he said to his Master, it was necessary. The True World Sect needed to show its strength, even briefly. A tall tree must bear the brunt of a heavy storm, but one that doesn't rise to meet the canopy will wither away without sunlight.
 
 ____
 
-"That was far too close for comfort. Your mana reserves were nearly empty!" Jean scolded with an imperceptible edge to her voice.
+A hissy and spite-filled curses emanated from the hidden courtyard at the seldom visited part of the Palace of the Sun's Inner Court. The sound barely made it out the open windows before it was intercepted by the ever-growing forest of Sun-Sapping Creepers.
+
+Following the source of the sound, inside the largest bedroom in the courtyard, a woman mumbled unintelligibly with a raspy voice, "Those whores! That degenerate! They should all die! Die!"
+
+She lay motionless on a bed of the most expensive of goose-down, her eyes blazing with a madness but filled with emptiness as they stared blankly into the ceiling.
+
+She was only thirty years old, yet her face had gained wrinkles and turned pale like a woman twice her age. Her hair had grown silver, and was withering away like her frail and emaciated form.
+
+"Shuri... Shuri..." the woman droned while turning her head slightly to the side.
+
+"I am here, mother," the girl answered from her seat at the bed's side.
+
+"You must kill them! Kill them all... Burn them... Flay them... Castrate that man-whore!" She bellowed with a hoarse shriek.
+
+Shuri sighed and blurted out, "How will I do that, mother?"
+
+"Doesn't matter how. But you must do it. MUST! That is your purpose. The filthy blood of that man flows through your veins. It needs to be exterminated, all of it!"
+
+'But I wish to live.' Shuri wanted to say it out loud, but held her tongue. There was no use arguing with someone devoid of reason, especially as they lay in their death-bed.
+
+"You must kill him. Then, you must kill his spawn. THEN, those depraved prostitutes that lust after him like cats in heat. Their deaths must be slow and painful. Poison them all! Just like they did to me," the woman screeched amidst coughs. Her voice grew weaker, and her breath grew heavier as she spoke.
+
+"They never poisoned you, mother," Shuri said flatly.
+
+"THEY DID! How else did I end up like this? Ever since I entered this palace my life has turned into... a hellscape of suffering... and... agony!"
+
+Shuri could agree that her mother was poisoned, not the alchemical kind by that of the mind and heart. From the beginning, since Shuri'd known her mother, all she ever saw in her eyes were fear, paranoia, rage, envy, despair and a plethora of other negative emotions. Not once did she see the woman smile, not even facetiously. Every word she spoke was filled with venom and hate.
+
+The woman was devoid of love. Even the gaze she sent Shuri's way was filled with disgust. The woman hated Shuri from the bottom of her heart. There was only one time Shuri recollected warmth flashing past the woman's face, and that was at the time of Shuri's birth, when she laid eyes on the baby for the first time. But it was merely momentary - a fleeting expression.
+
+Ever since then, all Shuri ever got from the woman were perfunctory words of acknowledgement and an endless barrage of conditioning statements that highlighted Shuri's "purpose".
+
+She was to be a weapon of her mother's revenge. Her goal in life was to eradicate the Sol Clan and everything with it. A tall order, but one that her mother made her promise every day. Even in her death, the woman didn't fail to bring it up.
+
+The woman's deranged mumbling paused. Her lips stopped moving. She was alive, but only barely.
+
+"Did you ever love me?" Shuri inquired with a blank expression that suppressed the sense of unease growing within her.
+
+The woman did not answer, but she turned her head to face Shuri.
+
+"Why did you live like this? Why?!" Shuri asked forcefully. Again, no response was received.
+
+Just as Shuri was about to leave in exasperation, her mother whispered, "I did love you. But... my love pales in comparison... to the hatred and loathing... I feel for the man... who did this to me!"
+
+"It isn't the man that you hate, but yourself," Shuri spat back. "Your self-loathing ruined you. You yearned for revenge but lacked the guts and strength to achieve it. All of that rot ruined you and turned you into this!"
+
+"Aren't you the one who always told me to survive at all costs? Why couldn't you?!" Shuri bellowed while suppressing a choke in her voice. Her eyes turned red as water started to flow out from her sinuses.
+
+"I never wanted to live... after that day," he mother answered with a voice filled with guilt and sadness. "I tried... to kill myself... everyday. Failed... Tried again... Until I became pregnant... I gave birth... Looked at you... Couldn't raise a hand against myself... But I hated my life..."
+
+Shuri could not feel sympathy in hearing her mother's words. They were all empty and meaningless. The woman ruined two lives by not killing herself.
+
+The woman raised a shaking hand and reached for Shuri's neck. Her bony fingers rested on the pendant hanging there, and caressed in gently.
+
+"Mother... is... sorry... For everything..." The woman grabbed the pendant and tugged it lightly. "I... want... to... see... your... face... one... last... time... before... I... go."
+
+Shuri grabbed the woman's hand and lowered it hurriedly.
+
+"You are already looking at my face," Shuri said sternly.
+
+"Not-"
+
+"This is my face, mother. Look carefully," Shuri reiterated.
+
+The woman's gaze flickered before her hand dropped limply. The imperceptible rise and fall of her chest seized. The room stilled.
+
+____
+
+Shuri awoke with a start, hitting her head against the wooden side of the caravan she was currently in. The whole vehicle shook jerkily, causing her to lurch to the side.
+
+"Is something wrong?" Shuri asked the driver up front.
+
+"Sorry 'bout that, miss," the man responded. "The main road's a bit crowded given the whole debacle at the Capital. Thought about taking a shortcut."
+
+Shuri hummed in thought as she saw the sparse scenery turn into a dense forest. A sense of unease gnawed at her. A foreboding premonition spawned in her mind. Things never went well whenever she dreamt of her mother.
 
 ____
 
