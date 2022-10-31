@@ -1,6 +1,6 @@
 ---
 id: 6sz0r46bmf2fuk0zdqmw61u
-title: Chapter 229 - Lost and Gained
+title: Chapter 229 - (Interlude) Lost and Gained
 desc: ''
 updated: 1664775919427
 created: 1662123580943

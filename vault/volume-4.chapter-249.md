@@ -100,15 +100,9 @@ Shuri grabbed the woman's hand and lowered it hurriedly.
 
 The woman's gaze flickered before her hand dropped limply. The imperceptible rise and fall of her chest seized. The room stilled.
 
-____
+Shuri's mother had died. However, Shuri didn't feel anything. She didn't feel regret, nor did she feel sorrow.
 
-Shuri awoke with a start, hitting her head against the wooden side of the caravan she was currently in. The whole vehicle shook jerkily, causing her to lurch to the side.
-
-"Is something wrong?" Shuri asked the driver up front.
-
-"Sorry 'bout that, miss," the man responded. "The main road's a bit crowded given the whole debacle at the Capital. Thought about taking a shortcut."
-
-Shuri hummed in thought as she saw the sparse scenery turn into a dense forest. A sense of unease gnawed at her. A foreboding premonition spawned in her mind. Things never went well whenever she dreamt of her mother.
+There is seldom time to pause and lament over loss in the Inner Court if one wishes to live here. What is beneficial for survive must be kept, what isn't must be discarded. Familial affection isn't necessary for survival, hence it is discarded.
 
 ____
 
