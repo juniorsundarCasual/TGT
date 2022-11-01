@@ -2,7 +2,7 @@
 id: lntwok1r096ku17el4pqodv
 title: Chapter 249 - (Interlude) Tampering with Gravity, and Hurtful Dreams
 desc: ''
-updated: 1667239728529
+updated: 1667325603524
 created: 1666356530683
 ---
 
@@ -70,7 +70,7 @@ She was to be a weapon of her mother's revenge. Her goal in life was to eradicat
 
 The woman's deranged mumbling paused. Her lips stopped moving. She was alive, but only barely.
 
-"Did you ever love me?" Shuri inquired with a blank expression that suppressed the sense of unease growing within her.
+"Did you ever care for me?" Shuri inquired with a blank expression that suppressed the sense of unease growing within her.
 
 The woman did not answer, but she turned her head to face Shuri.
 
@@ -80,9 +80,9 @@ Just as Shuri was about to leave in exasperation, her mother whispered, "I did l
 
 "It isn't the man that you hate, but yourself," Shuri spat back. "Your self-loathing ruined you. You yearned for revenge but lacked the guts and strength to achieve it. All of that rot ruined you and turned you into this!"
 
-"Aren't you the one who always told me to survive at all costs? Why couldn't you?!" Shuri bellowed while suppressing a choke in her voice. Her eyes turned red as water started to flow out from her sinuses.
+"Aren't you the one who always told me to survive at all costs? Why couldn't you?!" Shuri bellowed while suppressing a choke in her voice. Her eyes turned red as water started to flow out.
 
-"I never wanted to live... after that day," he mother answered with a voice filled with guilt and sadness. "I tried... to kill myself... everyday. Failed... Tried again... Until I became pregnant... I gave birth... Looked at you... Couldn't raise a hand against myself... But I hated my life..."
+"I never wanted to live... after that day," he mother answered with a voice filled with guilt and sadness. "I tried... to kill myself... every day. Failed... Tried again... Until I became pregnant... I gave birth... Looked at you... Couldn't raise a hand against myself... But I hated my life..."
 
 Shuri could not feel sympathy in hearing her mother's words. They were all empty and meaningless. The woman ruined two lives by not killing herself.
 
