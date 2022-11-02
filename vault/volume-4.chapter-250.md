@@ -2,13 +2,13 @@
 id: xw6m63h6v4kdn5skphkpo2a
 title: Chapter 250
 desc: ''
-updated: 1667329553674
+updated: 1667376998045
 created: 1666356537099
 ---
 
 The carriage jerked violently once again, causing the sole passenger to get squished amidst the mountain of cargo. Shuri cursed her poor luck silently before crawling around the precarious stack of wooden crates. It did not help that she was still reeling from the rude awakening from an unpleasant dream.
 
-"I-Is something wrong?" Shuri asked the carriage driver through an opening in the carriage's frontal walls. This was her first time hitch-hiking and it wasn't a pleasant experience at all!
+"I-Is something wrong?" Shuri asked the carriage driver through an opening in the carriage's frontal walls. This was her first time hitch-hiking, and it wasn't a pleasant experience at all! As a princess, she grew up in a protective environment where the assigned carriages were chock-full of comfort, safety and protective enchantments - it was all-encompassing such that the passenger barely recognised any movement. One must note that this was the most basic carriage available at the Palace since Shuri wasn't favoured enough to use anything better. Transitioning to her current mode of transport, where the whole world seemed to shake as the carriage moved forward, Shuri was suddenly missing her old life.
 
 "Sorry 'bout that, miss," the man responded respectfully. "The main road's a bit crowded given the whole debacle at the Capital. Thought about taking a shortcut."
 
@@ -28,13 +28,23 @@ After careful evaluation, she settled on this man whose name she did not ask, wh
 
 "It's perfectly safe. I've taken this route many times," the man said casually with a wave of his palm.
 
-Shuri hummed in acceptance, though the scepticism did not leave her face. An eerie sense of foreboding pervaded her thoughts as the surrounding treeline grew taller and closer. She instinctively reached for her pendant and rubbed it anxiously. 
+Shuri hummed in acceptance, though the scepticism did not leave her face. The man appeared confident... maybe too confident. It was attitudes like this that got one killed back at the Palace. It was always the eunuch that believed his backing to be unshakeable that lost his head first; it was the palace maid who earned the passing favour of His Highness but thought it permanent that found her face melting soon after.
+
+An eerie sense of foreboding pervaded her thoughts as the surrounding treeline grew taller and closer. She instinctively reached for her pendant and rubbed it anxiously. 
 
 It wasn't often that Shuri dreamed of her mother. Those memories were vivid just like everything else she experienced in her life, but they were unpleasant to say the least. She tried her hardest to suppress them, but once in a while something would sneak its way through her fortress of a mind. Whenever it did, something bad always followed.
 
 ____
 
+Marie closed her eyes and inhaled the energising air as a light mist hung over the unduluating ocean water. The sun peaked over the horizon, which was just plain water as far as the eye could see. She and her Master had been travelling for three whole days without stop. The journey was pleasant and fairly uneventful which may have been a result of her Master's machinations... or not.
 
+She turned her head and observed her Master, who was mimicking her with his eyes closed but facing Southward. She approached him and asked, "How much longer do you anticipate this journey will take?"
+
+"We're almost there," he answered, to which Marie scoffed derisively.
+
+"That's what you said yesterday, and the day before!" She complained.
+
+Krish revealed a sly smile and 
 
 ____
 
