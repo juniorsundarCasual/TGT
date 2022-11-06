@@ -2,7 +2,7 @@
 id: dpshimd7btwgh0vdpcsog0z
 title: Chapter 251 - Identification
 desc: ''
-updated: 1667589605925
+updated: 1667753142247
 created: 1667147122575
 ---
 
@@ -70,11 +70,11 @@ Marie released a high-pitched chuckle in response to what she thought was a joke
 
 "Excuse me for trying to look appealing and timeless," the man answered with an offended scoff. "You broke through in your late twenties, you didn't even look this old. You forcefully aged yourself to look like this. Think about that, what does it say about you?"
 
-"It's because I was thinking of the future. Why would I want to look like a little sissy when I turned a thousand?" Krish stood his ground. "Any ways, enough of all this nonsense. Let me introduce you to my Disciple, Marie Reva."
+"It's because I was thinking of the future. Why would I want to look like a little dandy when I turned a thousand?" Krish stood his ground. "Any ways, enough of all this nonsense. Let me introduce you to my Disciple, Marie Reva."
 
 Krish pulled Marie forward and placed her between himself and the man, "Marie, meet one of my oldest and still living friends, Jace Krune."
 
-Jace's eyebrows rose in suprise. "So you finally found one, huh? Pleasure to make your acquaintance"
+Jace's eyebrows rose in surprise. "So you finally found one, huh? Pleasure to make your acquaintance"
 
 Marie warily grabbed the man's extended hand and shook it.
 
