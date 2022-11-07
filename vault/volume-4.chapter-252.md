@@ -1,8 +1,8 @@
 ---
 id: qx7t8w69798pqi8416ln4n9
-title: Chapter 252
+title: Chapter 252 - Myth of Immortality
 desc: ''
-updated: 1667821072690
+updated: 1667843179525
 created: 1667147132782
 ---
 
@@ -98,7 +98,37 @@ While Marie was led out of the room towards her destination by a sect member, Ja
 
 Jace cocked his brows in disbelief.
 
-"There is no shame in learning something from someone who is more skilled in it than you are."
+"There is no shame in learning something from someone who is more skilled in it than you are. There's always more room to learn, isn't that how we keep ourselves alive?" Krish hinted.
+
+A light chuckle escaped Jace's lips, following which a spontaneous silence descended on the room. Krish's demeanour turned dour.
+
+"Let's address the erumpent in the room," Krish's gaze narrowed - his attention focused on Jace in his entirety. His face changed into a concerned frown.
+
+Jace tried to put on a jovial front, but his smile faltered and dissipated as the silence dragged on. "Of course, there's no hiding it from you," he said with a sigh. At the same time, he released his grasp on his presence and revealed his cultivation and, by extension, his soul for a cursory glance
+
+Krish's frowned deepened upon noticing Jace's deteriorating state as his cultivation and soul started to escape as wispy strands. "Ten more years," he declared with certainty.
+
+"Sounds about right," Jace agreed. "You don't see any way, do you?"
+
+With a decisive shake of his head, Krish said, "You tell me! You must have tried every possible avenue for reigniting your cultivation. Did you succeed?"
+
+"It's frustrating," Jace admitted. "My grandmother died at the age of 2034. My father lasted a hundred more years. I didn't even exceed his by a hundred. I experimented with weird quirks with my cultivation, I tried to relearn my cultivation method by segmenting my memories to suppress some of my pre-existing knowledge, I even forcefully tried out-of-the-box strategies to cultivation and magic at the expense of damaging myself. I tried everything! But nothing, fucking worked!"
+
+"It isn't fair," Jace complained with a growl. "Why do we call ourselves immortal if we have to live with the constant fear of death?!"
+
+"It's because immortality is a myth," Krish shrugged. "Everyone must die, that is how the world works. Old must give way for the new which in turn pushes the world forward for better or worse."
+
+"It is the new generation that innovates and develops. It is in immersing ourselves in these innovations that we gain the boon of a few additional years of life. The moment we reach the point of diminishing returns, it is the world indicating to us that there is nothing left for us to contribute," Krish orated.
+
+"I've reached my saturation point already. No amount of teaching or Discipleship is helping me," Jace complained. He then shot back enviously, "Your Disciple must have stimulated your cultivation by quite a bit."
+
+"Far more than I expected. That girl's mind works in ways unlike mine. For her, the world operates through infallible lines of reasoning. If there is a shortfall in said reasoning, there is a cause that introduces an exception. If she identifies the existence of an exception she makes it her life's goal to formalise it quantitatively or qualitatively," Krish gushed.
+
+Without pause, he continued, "Even though she comes off as abrasive and negative, her optimism is uparallelled. She believes that anything is achievable given the proper resources and knowledge. She never gives up, never compromises, and never takes anything at face value."
+
+"This is another reason why I disdain the orthodox Master-Disciple relationship," Krish decried.
+
+"The orthodox strategy shoves down a Disciple's character and moulds it to fit the Master's needs. If I did the same with Marie, I would be robbing the world of a revolutionary mage."
 
 ____
 

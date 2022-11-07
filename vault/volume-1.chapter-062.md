@@ -2,7 +2,7 @@
 id: lBvrSwcrAlLgK4NDwo9hg
 title: Chapter 062 - Travelling Soothsayer
 desc: ''
-updated: 1643623504985
+updated: 1667842545662
 created: 1643569444211
 ---
 
@@ -22,7 +22,7 @@ Thus, after drowning his sorrows and regrets in strong alcohol, of which he had 
 
 His master before him had also Ascended and left him with a single cowrie shell, an inheritance artefact. In fact, his master had also suffered from the same problem as he himself was facing. Lack of stimulation!
 
-Fortunately, his master found some stimulation in training a disciple and eked out an additional 1000 years in the process. Unfortunately, Krish was unable to benefit from this as he had thoroughly failed to find a suitable disciple in the last 1000 years.
+Fortunately, his master found some stimulation in training a disciple and eked out an additional 200 years in the process. Unfortunately, Krish was unable to benefit from this as he had thoroughly failed to find a suitable disciple in the last 1000 years.
 
 That's right! He could not find a single suitable soul to carry forward his school's legacy in the last 10 mortal lifetimes.
 
