@@ -2,7 +2,7 @@
 id: qx7t8w69798pqi8416ln4n9
 title: Chapter 252
 desc: ''
-updated: 1667759994407
+updated: 1667821072690
 created: 1667147132782
 ---
 
@@ -60,7 +60,45 @@ Marie scratched her ching in thought as she digested the hasty revelations.
 
 "Alright, it sounds useful for my purposes," Marie declared while tapping her laps earnestly. "How do I get access to it?"
 
+____
 
+While Marie was led out of the room towards her destination by a sect member, Jace and Krish returned to their catch-up session that was over five-hundred years overdue.
+
+"An interesting Disciple, you've got yourself there," Jace commented. "She's quite..."
+
+"Caustic? Blunt? Frustrating?" Krish listed.
+
+"All of the above, I guess," Jace said with a wry smile. "Though it seems you're enjoying it."
+
+"It's that obvious, huh?"
+
+"The entire time we've known each other, you've never smiled so much for all those years combined compared to how much you've done in the last few hours," Jace declared. "That is to say that you, my friend, have truly changed. The Krish I knew would have dropped such an argumentative person at the first sign of opposition."
+
+"I was close to doing it, I won't lie," Krish confessed while shaking his head. "In the beginning, a part of me was this close to just ending it and leaving."
+
+"Why didn't you?"
+
+"There were a lot of factors. The greatest contributor towards me staying, though, was when I realised that a Master-Disciple relationship was a two-way street," Krish emphasised. "Both the Disciple and Master have expectations of each other. While the Disciple strives to meet their Master's, so must a Master attempt to match their Disciple's. It is unfair for me to expect my Disciple to suddenly become a perfect fit for myself because in doing so, I am asking them to turn into another me. Furthermore, it also inhibits my opportunity for growth."
+
+"So in meeting midway, both you and your Disciple come out of the relationship as better people," Jace completed the sentence.
+
+"It was hard for me - I've lived for two millenia after all. Certain characteristics of mine were far too ingrained to change. But as I kept at it, I found myself adjusting. Thanks to the assistance from the Leader of the Sect I am affiliated with now, the process became easier," Krish continued.
+
+"Tell me more about that," Jace interjected. "Which lucky sect managed to tie you down?"
+
+"It's a new one. It is called the True World Sect," Krish answered.
+
+"Sounds kind of pretentious," Jace grumbled.
+
+"Less pretentious than the Hidden Celestial Sect," Krish countered.
+
+"Hey! That name wasn't my decision to make. My Grandmother wasn't particularly gifted in the creativity department," Jace said with a groan.
+
+"The Leader of my Sect is a natural when it comes to getting through to the youths," Krish said to divert the conversation. "I learned a lot from him."
+
+Jace cocked his brows in disbelief.
+
+"There is no shame in learning something from someone who is more skilled in it than you are."
 
 ____
 
