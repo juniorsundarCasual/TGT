@@ -1,8 +1,8 @@
 ---
 id: bwizbu9vs4dwl3tn6ss4js8
-title: Chapter 253
+title: Chapter 253 - Hidden Celestial Sect
 desc: ''
-updated: 1667935745967
+updated: 1668020028892
 created: 1667750290570
 ---
 
@@ -49,6 +49,62 @@ Marie chuckled and said, "I don't need to fight, because people are their own wo
 The sect's campus was massive and so was its population - it was like a city. It because evident very quickly that the sect specialised in martial arts of many kinds, including unarmed and armed styles. Their toured passed by many such practising grounds with ordered hordes of people going through Forms both simple and complex. There were facilities for Alchemy and other magical ventures, but their scope was measly compared to the martial departments.
 
 But what really poked at Marie's curiosity was, "How do you guys recruit and get so many people here? Do you know how many hoops we had to jump through to hitch a ride? And the damn thing didn't even reach this place!"
+
+"We have teleportation anchors hidden all over Gaea. Every mage entering the Foundation Establishment Realm is expected to leave on a journey of self-development into the world during which time they must find themselves at least one junior to train and bring back into the fold," the woman explained.
+
+"So all this time, there was a teleportation anchor," Marie spat maliciously. While her mind spun up malicious pranks to throw her Master's way, she stated, "That's quite different from how the sects back at the empire maintain their strength."
+
+"The Hidden Celestial Sect is an isolationist sect at its core. Having rampant internal strife can hinder the integrity of the sect. Therefore, we like to promote camaraderie amongst the sect members. This initiative is just one of the many ways we do so."
+
+The sect had many other miscellaneous facilities that did not pertain to cultivation or martial arts. There were centres for the arts, recreation rooms, relaxation spaces and many more. All in all, there was everything a person could need to live a beyond comfortable life available here.
+
+"Doesn't it get claustrophobic and boring? Staying here like this, it feels like a prison," Marie pointed out. "I mean, all these facilities sure can keep life dynamic, but if every day of your life is the same, I bet things would become really dull - your days would just start blending into each other."
+
+The woman raised her shoulders indifferently and countered, "Worldly afflictions like that are just distractions. The pursuit of every member of the Hidden Celestial Sect is to advance and grow stronger so that we can take control of our lives."
+
+Marie could hear the zeal and conviction in the woman's words, which was something only achieved if these thoughts were drilled into her from a very raw age. "You say that, yet you still succumb to worldly afflictions of lust."
+
+The woman sputtered and turned as red as a ripe apple. Just as she was about to retort with a comeback, a cacophony of sounds coming from the direction of the nearest sparring field caught her attention. A large crowd was forming and a charged ambience started to hang above them.
+
+"What's going on here," the woman asked the person at the periphery of the crowd surrounding the field, when suddenly the voice of a youth pierced through the hubbub.
+
+"Senior Brother Royce! Please act with the behaviour befitting a gentleman and confess to Senior Sister Magi if your transgressions. She deserves better, and you know it," the youth declared with vigour.
+
+"And why do I need to do that? She knew what she was getting into when she accepted my advances," a much elder voice, with the gravelly texture characterised by a man in his mid- to late-thirties, scoffed. "Besides, boy, I hope you know who you're challenging."
+
+The youth didn't respond and readily entered a combat ready stance. Marie already knew who these two were as she'd seen them in the vision pertaining to the woman guiding her, who happened to have a last name Magi. Marie turned to her left, to look at Mage Magi's reaction, but she was no longer there. While Marie was musing over the spectacle, Mage Magi had already arrived on stage.
+
+"Senior Sister Magi!" The youth called out with a longing sparkle flashing past his puppy-dog eyes.
+
+"Magi," the other man, Mage Royce, grunted. "Call of your barking dog this instant before it loses a leg or two!"
+
+"Did you just say that I 'knew what I was getting into'?" Mage Magi said with a dangerous growl that caused the bombastic man to shrink lightly.
+
+"W-Well-"
+
+"We cannot just call off a spar once it's been initiated. That is the rule of the sect, and you know it," Mage Magi shot back without letting the man continue. A venomous grin started to cut across Mage Royce's face. Although he and the boy were in similar realms, he had experience on his side. The annoying genius of a boy was advancing quickly, but he was still green in combat.
+
+"BUT, the rules also state that a combatant may switch with another willing participant under the condition that the replacement is willing to place their own honour on the line based on the outcome of the spar," Mage Magi continued with a smirk.
+
+"Shay-Hade!" Mage Magi turned to the ebony-skinned youth and demanded, "Tag me in."
+
+"B-But Senior Sister-"
+
+"Don't argue with me," Mage Magi interjected with a murderous screech. "Training this sex-obsessed cretin to think with his brains for once is my responsibility as a senior of the Sect. We don't want the newbies to turn out like this, do we?"
+
+"No Ma'am," Shay-Hade bellowed with a smile before declaring his replacement and jumping off the stage.
+
+"Who do you think will win?" Someone in the audience murmured.
+
+"Obvious it will be Mage Royce. He's older and more experienced," another answered.
+
+"But we cannot discount Mage Magi. She may be younger, but she advanced to her current realm faster than Mage Royce."
+
+"Speed doesn't matter. What matters is if the cultivation is stable and if the mage can handle their cultivation to its maximum potential. I think Mage Royce will win."
+
+A girl's cough cut the conversation and the two conversationalists turned to its source.
+
+"What is the sect's opinion on betting?" Marie asked with a twitching pair of lips as she excersised her complete will power to suppress a chuckle from bursting forth.
 
 ____
 
