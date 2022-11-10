@@ -2,11 +2,11 @@
 id: qx7t8w69798pqi8416ln4n9
 title: Chapter 252 - Myth of Immortality
 desc: ''
-updated: 1667843179525
+updated: 1668099401267
 created: 1667147132782
 ---
 
-"So let me get this straight, you want for your Disciple to gain access to the Hidden Celestial Sect's historic archives and records of the states of the known and observable celestial bodies? Why, exactly?" Jace inquired while sipping from his cup of tea.
+"So let me get this straight, you want for your Disciple to gain access to the Mystic Celestial Sect's historic archives and records of the states of the known and observable celestial bodies? Why, exactly?" Jace inquired while sipping from his cup of tea.
 
 "It's for her cultivation," Krish answered,
 
@@ -26,7 +26,7 @@ Jace hummed contemplatively before raising a finger, "You said 'she needs' and '
 
 With raised brows, Jace trained his complete attention towards Marie. "Excuse me?"
 
-"Allegedly," she shot a side-eye towards her Master before returning Jace's gaze, "I was told that I would be able to find the information that I need here. I trust my Master. I trust that he has my best interests at heart. If my Master were to tell me something, I will believe it because I know where he's coming from. I cannot say the same for you, or for the Hidden Celestial Sect."
+"Allegedly," she shot a side-eye towards her Master before returning Jace's gaze, "I was told that I would be able to find the information that I need here. I trust my Master. I trust that he has my best interests at heart. If my Master were to tell me something, I will believe it because I know where he's coming from. I cannot say the same for you, or for the Mystic Celestial Sect."
 
 Jace released a hum that echoed within the room with an uneasy reverb. "I hope you realise that you are the one who is in need of this information."
 
@@ -36,7 +36,7 @@ From the corner of his eyes Jace caught Krish holding back a smirk with great di
 
 "No," Krish said amidst a gleeful snort. Jace sighed at his friend's uncharacteristic mischevious demeanour and scratched his forehead in vexation.
 
-Seeing this, Krish coughed and took over. "The Hidden Celestial Sect follow a special kind of cultivation method that relies on the precise state of the celestial bodies for specific effects."
+Seeing this, Krish coughed and took over. "The Mystic Celestial Sect follow a special kind of cultivation method that relies on the precise state of the celestial bodies for specific effects."
 
 "How so?" Marie asked back.
 
@@ -90,7 +90,7 @@ While Marie was led out of the room towards her destination by a sect member, Ja
 
 "Sounds kind of pretentious," Jace grumbled.
 
-"Less pretentious than the Hidden Celestial Sect," Krish countered.
+"Less pretentious than the Mystic Celestial Sect," Krish countered.
 
 "Hey! That name wasn't my decision to make. My Grandmother wasn't particularly gifted in the creativity department," Jace said with a groan.
 

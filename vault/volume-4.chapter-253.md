@@ -1,18 +1,18 @@
 ---
 id: bwizbu9vs4dwl3tn6ss4js8
-title: Chapter 253 - Hidden Celestial Sect
+title: Chapter 253 - Mystic Celestial Sect
 desc: ''
-updated: 1668020028892
+updated: 1668105574188
 created: 1667750290570
 ---
 
-Marie was assigned a liaison from the Hidden Celestial Sect, who guided her from the innermost guest entertainment room towards their destination - the Sect's Historic Archives and Celestial Records, the entrance to which was literally at the foot of the central peak. Unfortunately, there was no direct path from the top of the mountain to its base; its slope was far too steep and slippery due to the sea spray and moss. As a result, their trajectory was a winding one that took her all the way around the Sect, from one peak to the other through the stone or rope bridges connecting the island-mountains together at different levels.
+Marie was assigned a liaison from the Mystic Celestial Sect, who guided her from the innermost guest entertainment room towards their destination - the Sect's Historic Archives and Celestial Records, the entrance to which was literally at the foot of the central peak. Unfortunately, there was no direct path from the top of the mountain to its base; its slope was far too steep and slippery due to the sea spray and moss. As a result, their trajectory was a winding one that took her all the way around the Sect, from one peak to the other through the stone or rope bridges connecting the island-mountains together at different levels.
 
 Not that Marie was complaining about the long detour. Knowing that her bounty was just a few kilometres away and wasn't going anywhere assuaged some of her antsiness. This in turn allowed her to appreciate the sights the sect had to offer. The overall theme prevailing in the sect's design was "age and majesty". Marie could feel the history radiating from every nook and cranny of the sect's exterior and interior. And it made sense, because if this sect was created was established during her Great-Grandmaster's time, then it was at least five-thousand years old which would predate the Solar Empire!
 
 An ear-shattering harmony of bellows cracked through the air, followed by the sound of feet stomping the ground and muscles tightening. Marie looked over the low wall and saw a formation of youths moving through a choreographed sequence of punching and kicking. Her brows furrowed as she observed their actions in greater detail. It bugged her just how telegraphed and loud it all was - it didn't seem practical for combat applications.
 
-As though she were reading Marie's thoughts, the liaison, who was somewhere in her mid-twenties, expounded, "The initiates are practising their Forms for unarmed combat as per the Hidden Celestial Sect's Exclusive Martial Arts Suite."
+As though she were reading Marie's thoughts, the liaison, who was somewhere in her mid-twenties, expounded, "The initiates are practising their Forms for unarmed combat as per the Mystic Celestial Sect's Exclusive Martial Arts Suite."
 
 "Does fighting like this even work?" Marie probed with a doubtful tone.
 
@@ -46,7 +46,7 @@ The woman's already contorted expression twitched and warped even more at the sh
 
 Marie chuckled and said, "I don't need to fight, because people are their own worst enemies. Any ways, we should probably get moving."
 
-The sect's campus was massive and so was its population - it was like a city. It because evident very quickly that the sect specialised in martial arts of many kinds, including unarmed and armed styles. Their toured passed by many such practising grounds with ordered hordes of people going through Forms both simple and complex. There were facilities for Alchemy and other magical ventures, but their scope was measly compared to the martial departments.
+The sect's campus was massive and so was its population - it was like a city. It because evident very quickly that the sect specialised in martial arts of many kinds, including unarmed and armed styles. Their toured passed by many such practising grounds with ordered hordes of people going through Forms both simple and complex. There were facilities for Alchemy and other Magical ventures, but their scope was measly compared to the martial departments.
 
 But what really poked at Marie's curiosity was, "How do you guys recruit and get so many people here? Do you know how many hoops we had to jump through to hitch a ride? And the damn thing didn't even reach this place!"
 
@@ -54,13 +54,13 @@ But what really poked at Marie's curiosity was, "How do you guys recruit and get
 
 "So all this time, there was a teleportation anchor," Marie spat maliciously. While her mind spun up malicious pranks to throw her Master's way, she stated, "That's quite different from how the sects back at the empire maintain their strength."
 
-"The Hidden Celestial Sect is an isolationist sect at its core. Having rampant internal strife can hinder the integrity of the sect. Therefore, we like to promote camaraderie amongst the sect members. This initiative is just one of the many ways we do so."
+"The Mystic Celestial Sect is an isolationist sect at its core. Having rampant internal strife can hinder the integrity of the sect. Therefore, we like to promote camaraderie amongst the sect members. This initiative is just one of the many ways we do so."
 
 The sect had many other miscellaneous facilities that did not pertain to cultivation or martial arts. There were centres for the arts, recreation rooms, relaxation spaces and many more. All in all, there was everything a person could need to live a beyond comfortable life available here.
 
 "Doesn't it get claustrophobic and boring? Staying here like this, it feels like a prison," Marie pointed out. "I mean, all these facilities sure can keep life dynamic, but if every day of your life is the same, I bet things would become really dull - your days would just start blending into each other."
 
-The woman raised her shoulders indifferently and countered, "Worldly afflictions like that are just distractions. The pursuit of every member of the Hidden Celestial Sect is to advance and grow stronger so that we can take control of our lives."
+The woman raised her shoulders indifferently and countered, "Worldly afflictions like that are just distractions. The pursuit of every member of the Mystic Celestial Sect is to advance and grow stronger so that we can take control of our lives."
 
 Marie could hear the zeal and conviction in the woman's words, which was something only achieved if these thoughts were drilled into her from a very raw age. "You say that, yet you still succumb to worldly afflictions of lust."
 
@@ -68,29 +68,29 @@ The woman sputtered and turned as red as a ripe apple. Just as she was about to 
 
 "What's going on here," the woman asked the person at the periphery of the crowd surrounding the field, when suddenly the voice of a youth pierced through the hubbub.
 
-"Senior Brother Royce! Please act with the behaviour befitting a gentleman and confess to Senior Sister Magi if your transgressions. She deserves better, and you know it," the youth declared with vigour.
+"Senior Brother Royce! Please act with the behaviour befitting a gentleman and confess to Senior Sister Maddi if your transgressions. She deserves better, and you know it," the youth declared with vigour.
 
 "And why do I need to do that? She knew what she was getting into when she accepted my advances," a much elder voice, with the gravelly texture characterised by a man in his mid- to late-thirties, scoffed. "Besides, boy, I hope you know who you're challenging."
 
-The youth didn't respond and readily entered a combat ready stance. Marie already knew who these two were as she'd seen them in the vision pertaining to the woman guiding her, who happened to have a last name Magi. Marie turned to her left, to look at Mage Magi's reaction, but she was no longer there. While Marie was musing over the spectacle, Mage Magi had already arrived on stage.
+The youth didn't respond and readily entered a combat ready stance. Marie already knew who these two were as she'd seen them in the vision pertaining to the woman guiding her, who happened to have a last name Maddi. Marie turned to her left, to look at Mage Maddi's reaction, but she was no longer there. While Marie was musing over the spectacle, Mage Maddi had already arrived on stage.
 
-"Senior Sister Magi!" The youth called out with a longing sparkle flashing past his puppy-dog eyes.
+"Senior Sister Maddi!" The youth called out with a longing sparkle flashing past his eyes.
 
-"Magi," the other man, Mage Royce, grunted. "Call of your barking dog this instant before it loses a leg or two!"
+"Maddi," the other man, Mage Royce, grunted. "Call of your pup this instant before it loses a leg or two!"
 
-"Did you just say that I 'knew what I was getting into'?" Mage Magi said with a dangerous growl that caused the bombastic man to shrink lightly.
+"Did you just say that I 'knew' what I was getting into?" Mage Maddi said with a dangerous growl that caused the bombastic man to shrink lightly.
 
 "W-Well-"
 
-"We cannot just call off a spar once it's been initiated. That is the rule of the sect, and you know it," Mage Magi shot back without letting the man continue. A venomous grin started to cut across Mage Royce's face. Although he and the boy were in similar realms, he had experience on his side. The annoying genius of a boy was advancing quickly, but he was still green in combat.
+"We cannot just call off a spar once it's been initiated. That is the rule of the sect, and you know it," Mage Maddi shot back without letting the man continue. A venomous grin started to cut across Mage Royce's face. Although he and the boy were in similar realms, he had experience on his side. The annoying genius of a boy was advancing quickly, but he was still green in combat.
 
-"BUT, the rules also state that a combatant may switch with another willing participant under the condition that the replacement is willing to place their own honour on the line based on the outcome of the spar," Mage Magi continued with a smirk.
+"BUT, the rules also state that a combatant may switch with another willing participant under the condition that the replacement is willing to place their own honour on the line based on the outcome of the spar," Mage Maddi continued with a smirk.
 
-"Shay-Hade!" Mage Magi turned to the ebony-skinned youth and demanded, "Tag me in."
+"Shay-Hade!" Mage Maddi turned to the ebony-skinned youth and demanded, "Tag me in."
 
 "B-But Senior Sister-"
 
-"Don't argue with me," Mage Magi interjected with a murderous screech. "Training this sex-obsessed cretin to think with his brains for once is my responsibility as a senior of the Sect. We don't want the newbies to turn out like this, do we?"
+"Don't argue with me," Mage Maddi interjected with a murderous screech. "Training this sex-obsessed cretin to think with his brains for once is my responsibility as a senior of the Sect. We don't want the newbies to turn out like this, do we?"
 
 "No Ma'am," Shay-Hade bellowed with a smile before declaring his replacement and jumping off the stage.
 
@@ -98,13 +98,13 @@ The youth didn't respond and readily entered a combat ready stance. Marie alread
 
 "Obvious it will be Mage Royce. He's older and more experienced," another answered.
 
-"But we cannot discount Mage Magi. She may be younger, but she advanced to her current realm faster than Mage Royce."
+"But we cannot discount Mage Maddi. She may be younger, but she advanced to her current realm faster than Mage Royce."
 
 "Speed doesn't matter. What matters is if the cultivation is stable and if the mage can handle their cultivation to its maximum potential. I think Mage Royce will win."
 
 A girl's cough cut the conversation and the two conversationalists turned to its source.
 
-"What is the sect's opinion on betting?" Marie asked with a twitching pair of lips as she excersised her complete will power to suppress a chuckle from bursting forth.
+"What is the sect's opinion on betting?" Marie asked with a twitching pair of lips as she exercised her complete power of will to suppress a chuckle from bursting forth.
 
 ____
 

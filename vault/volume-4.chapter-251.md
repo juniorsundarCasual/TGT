@@ -2,7 +2,7 @@
 id: dpshimd7btwgh0vdpcsog0z
 title: Chapter 251 - Identification
 desc: ''
-updated: 1667753142247
+updated: 1668099401272
 created: 1667147122575
 ---
 
@@ -32,7 +32,7 @@ Her Master kept up the field for a minute, just long enough for the hapless wate
 
 "W-Who are you?" This time, the chubby man asked with an audible gulp.
 
-"Now you're asking the right question!" Krish commended with an insincere with a clap. "If I am not mistaken, holding the Access Plate to the Hidden Celestial Sect means that I am an honoured guest."
+"Now you're asking the right question!" Krish commended with an insincere with a clap. "If I am not mistaken, holding the Access Plate to the Mystic Celestial Sect means that I am an honoured guest."
 
 Before the duo could nod, Krish followed up with, "Are you planning to keep your honoured guest waiting like this?"
 
