@@ -1,8 +1,8 @@
 ---
 id: ihfywo0owkgmrugy5evchnj
-title: Chapter 255
+title: Chapter 255 - Celestial Recording Platform
 desc: ''
-updated: 1668366116836
+updated: 1668428616441
 created: 1667751959864
 ---
 
@@ -24,9 +24,9 @@ Imagine a mountain, and then hollow it out from within. "Is it me or is the inte
 
 Marie released a long whistle as that fact settled in her mind. "I couldn't help but notice the change in your records over there."
 
-Marie pointed her finger some hundred rows (a distance where her eyes could barely register and decipher the visuals) up where the shelves suddenly shifted from storing books to some type of thin, rectangular obsidian slab. They were all uniform with a gold coloured etching on their outward facing side labelling the date.
+Marie pointed her finger some hundred rows (a distance where her eyes could barely register and decipher the visuals) up where the shelves suddenly shifted from storing books to some type of thin, rectangular obsidian plate. They were all uniform with a gold coloured etching on their outward facing side labelling the date.
 
-"This is how we record the celestial states," Mage Maddi answered as she walked forward. She stopped in front of a levitating basin smack dab at the centre of the room, above which an obsidian slab was hovering and rotating with a steady velocity. A high intensity and thin beam of light collided against the surface of the rotating slab, the source of which came from another hovering object which was a massive convex lens with a pinkish-gold frame inlaid with a veritable mine of mana gems. A faint mist of white rained down upon this convex lens from way up, where Marie predicted the mountain's tip to be.
+"This is how we record the celestial states," Mage Maddi answered as she walked forward. She stopped in front of a levitating basin smack dab at the centre of the room, above which an obsidian plate was hovering and rotating with a steady velocity. A high intensity and thin beam of light collided against the surface of the rotating plate, the source of which came from another hovering object which was a massive convex lens with a pinkish-gold frame inlaid with a veritable mine of mana gems. A faint mist of white rained down upon this convex lens from way up, where Marie predicted the mountain's tip to be.
 
 "Where did this come from? I swear I feel like I'm going blind! How did I not notice this earlier?" Marie waved her hands frantically.
 
@@ -34,7 +34,7 @@ Marie pointed her finger some hundred rows (a distance where her eyes could bare
 
 "It's... magical," Marie agreed with a chuckle, which was supported in turn by Mage Maddi. "Anyways, I know your time is limited. So please continue - does this thing do what I think it does?"
 
-Mage Maddi nodded and moved towards the nearest shelf. Her fingers slid over the backs of the obsidian plates and stopped over one with a date from last week. She removed it carefully and transported it to one of the quadropods (which Marie also apparently missed) placed in each cardinal direction of the central basin. The slab slotted into the quadropod snugly, and as the last latch snapped and held it in place, a thin beam of light collided against the slab from beneath it which, as though it were passing through the lustrous black slab, dispersed into a beautiful burst of colours and visuals. Right above the slab, an exact yet scaled recreation of the night sky took form in three-dimensional space.
+Mage Maddi nodded and moved towards the nearest shelf. Her fingers slid over the backs of the obsidian plates and stopped over one with a date from last week. She removed it carefully and transported it to one of the quadropods (which Marie also apparently missed) placed in each cardinal direction of the central basin. The plate slotted into the quadropod snugly, and as the last latch snapped and held it in place, a thin beam of light collided against the plate from beneath it which, as though it were passing through the lustrous black plate, dispersed into a beautiful burst of colours and visuals. Right above the plate, an exact yet scaled recreation of the night sky took form in three-dimensional space.
 
 "Beautiful, isn't it?" Mage Maddi commented as she raised one palm and swiped it sideways causing the projected night sky to skip forward through a time-lapse.
 
@@ -51,6 +51,38 @@ Mage Maddi nodded and moved towards the nearest shelf. Her fingers slid over the
 "No," Mage Maddi denied. "Even if I knew how this worked, and I can honestly say that I don't, I don't think I can share our Sects most prided secret. This device effectively captures and stores the state of the world all by itself!"
 
 "Can you at least tell me how the information about the night sky is transported to such a secluded place deep underground?" Marie redirected.
+
+"The old observatory was rehauled after the Sect Leader developed the Celestial Recording Platform. There is a triad of pylons at the peak of the mountain that channel the ambient mana, imprint the visuals of the night sky into it and direct it towards the Inscribing Lens. The Lens is enchanted to extract the visual image from the torrent of mana and etch it into the Obsidian Plate. In the Deciphering Platform, a concentrated stream of mana is fired onto the Obsidian Plate which is naturally directed through the inscription channels, converting it back into the visual image. The underlying details that govern the way this whole setup functions is well beyond my level of understanding. You must understand that this was at least half a century in the making, one cannot expect to understand it over a cup of tea!" Mage Maddi responded.
+
+"How do you get access to so much obsidian?"
+
+"There is an underwater volcano not too far from here. Though this won't work with just any ordinary obsidian, mind you," Mage Maddi added with a smirk.
+
+"There must be a rich mithril deposit in this area," Marie blurted out matter-of-factly. "The obsidian must have a reasonable concentration of mithril in it."
+
+"W-What? How did you know?"
+
+"Lucky guess," Marie shrugged. "I can see the faint silver lines forming on the obsidian as the mana beam activates the mithril molecules locked inside it. Honestly, mithril as a metal makes zero sense to me."
+
+"What are molecules?"
+
+"Never mind, please continue," Marie hurriedly waved her hands.
+
+Mage Maddi scratched the side of her head for a moment and said, "Well, that's about it."
+
+"How am I supposed to get the plates out of my reach?" Marie groaned. "I don't know if you noticed, but I can't fly."
+
+Mage Maddi chuckled and said "If you need to access any of the records inscribed in obsidian, you can either retrieve them manually or place both your hands on the tripod and call out the date three times."
+
+Marie did as instructed and placed her hand over the currently active tripod. She loudly called out a random date off the top of her head, and after the third call out, the image projected around her dissipated and the plate levitated away from the tripod. In its place, another one with the date Marie called out inscribed on its side landed on the tripod. The concentrated stream of mana restarted and a three-dimensional image of the night sky was projected around her.
+
+"That's amazing!"
+
+Before she could complete her exclamation, the ground beneath her started to shake. Her surge of anxiousness at the sudden earthquake was reduced slightly upon noticing the nonchalant expression on Mage Maddi's face. Evidently this was a common thing, which made sense if there really was an active underwater volcano close by. However, her assumptions were proven incorrect as the surrounding shelves started to rise higher. Incrementally with, every rumble, the cubbies creeped higher, until a new and empty row of shelves was revealed at the very base. Then, from the Celestial Recording Platform, the current levitating obsidian plate turned along a perpendicular axis. The lens inscribed the current date on the plate's thin side, following which the plate flew towards the new row and found its new home. A new obsidian plate descended from a stack near the Platform and replaced the old one.
+
+Marie yanked up her agape jaw and swallowed a tense mouthful of saliva. "Did the ground go lower or did the walls move higher?"
+
+Mage Maddi turned to face her and, with an unwaveringly serious expression, answered, "Yes."
 
 ____
 
