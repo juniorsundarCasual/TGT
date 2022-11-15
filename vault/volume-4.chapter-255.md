@@ -2,7 +2,7 @@
 id: ihfywo0owkgmrugy5evchnj
 title: Chapter 255 - Celestial Recording Platform
 desc: ''
-updated: 1668428616441
+updated: 1668511436769
 created: 1667751959864
 ---
 
@@ -72,9 +72,9 @@ Mage Maddi scratched the side of her head for a moment and said, "Well, that's a
 
 "How am I supposed to get the plates out of my reach?" Marie groaned. "I don't know if you noticed, but I can't fly."
 
-Mage Maddi chuckled and said "If you need to access any of the records inscribed in obsidian, you can either retrieve them manually or place both your hands on the tripod and call out the date three times."
+Mage Maddi chuckled and said "If you need to access any of the records inscribed in obsidian, you can either retrieve them manually or place both your hands on the quadropod and call out the date three times."
 
-Marie did as instructed and placed her hand over the currently active tripod. She loudly called out a random date off the top of her head, and after the third call out, the image projected around her dissipated and the plate levitated away from the tripod. In its place, another one with the date Marie called out inscribed on its side landed on the tripod. The concentrated stream of mana restarted and a three-dimensional image of the night sky was projected around her.
+Marie did as instructed and placed her hand over the currently active quadropod. She loudly called out a random date off the top of her head, and after the third call out, the image projected around her dissipated and the plate levitated away from the quadropod. In its place, another one with the date Marie called out inscribed on its side landed on the quadropod. The concentrated stream of mana restarted and a three-dimensional image of the night sky was projected around her.
 
 "That's amazing!"
 
