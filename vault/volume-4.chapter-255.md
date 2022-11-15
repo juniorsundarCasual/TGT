@@ -2,7 +2,7 @@
 id: ihfywo0owkgmrugy5evchnj
 title: Chapter 255 - Celestial Recording Platform
 desc: ''
-updated: 1668511436769
+updated: 1668534605996
 created: 1667751959864
 ---
 
@@ -34,13 +34,13 @@ Marie pointed her finger some hundred rows (a distance where her eyes could bare
 
 "It's... magical," Marie agreed with a chuckle, which was supported in turn by Mage Maddi. "Anyways, I know your time is limited. So please continue - does this thing do what I think it does?"
 
-Mage Maddi nodded and moved towards the nearest shelf. Her fingers slid over the backs of the obsidian plates and stopped over one with a date from last week. She removed it carefully and transported it to one of the quadropods (which Marie also apparently missed) placed in each cardinal direction of the central basin. The plate slotted into the quadropod snugly, and as the last latch snapped and held it in place, a thin beam of light collided against the plate from beneath it which, as though it were passing through the lustrous black plate, dispersed into a beautiful burst of colours and visuals. Right above the plate, an exact yet scaled recreation of the night sky took form in three-dimensional space.
+Mage Maddi nodded and moved towards the nearest shelf. Her fingers slid over the backs of the obsidian plates and stopped over one with a date from last week. She removed it carefully and transported it to one of the quadropods (which Marie also apparently missed) placed in each cardinal direction of the central basin. The plate slotted into the quadropod snugly, and as the last latch snapped and held it in place, a thin beam of light collided against the plate from beneath it which, as though it were passing through the lustrous black plate, dispersed into a beautiful burst of colours and visuals. Right above the plate, an exact yet scaled recreation of the sky took form in three-dimensional space.
 
-"Beautiful, isn't it?" Mage Maddi commented as she raised one palm and swiped it sideways causing the projected night sky to skip forward through a time-lapse.
+"Beautiful, isn't it?" Mage Maddi commented as she raised one palm and swiped it sideways causing the projected sky to skip forward through a time-lapse moving from day all the way to night.
 
-"It's amazing!" Marie exclaimed as she hopped forward to join Mage Maddi. She followed the woman's gestures and controlled her personal night sky. A rotation clockwise moved the time forward and a rotation counterclockwise moved it backwards.
+"It's amazing!" Marie exclaimed as she hopped forward to join Mage Maddi. She followed the woman's gestures and controlled her personal sky. A rotation clockwise moved the time forward and a rotation counterclockwise moved it backwards.
 
-"Our current Sect Leader came up with this new method to store celestial states after he found the archaic brush-and-paper method inefficient and prone to erroneous interpretation," Mage Maddi elaborated. Noticing Marie's inquisitive gaze, she obliged with a continuation, "Basically, before this new method was conceptualised, the sect assigned individuals called Observers whose sole purpose was to gaze into the night sky and jot down the states and movements of celestial bodies. It is inarguable that there are an incalculable number of celestial bodies in the night sky, thus the Observers used a special note-taking strategy that shorthanded the details to cover only the major points. While this method worked for a very long time, in the recent millennium our Sect Leader noted that a lot of inherent bias had eked into the notes causing certain details that may hold importance to be omitted."
+"Our current Sect Leader came up with this new method to store celestial states after he found the archaic brush-and-paper method inefficient and prone to erroneous interpretation," Mage Maddi elaborated. Noticing Marie's inquisitive gaze, she obliged with a continuation, "Basically, before this new method was conceptualised, the sect assigned individuals called Observers whose sole purpose was to gaze into the sky and jot down the states and movements of celestial bodies. It is inarguable that there are an incalculable number of celestial bodies in the sky, thus the Observers used a special note-taking strategy that shorthanded the details to cover only the major points. While this method worked for a very long time, in the recent millennium our Sect Leader noted that a lot of inherent bias had eked into the notes causing certain details that may hold importance to be omitted."
 
 "Second hand sources often suffer from that issue," Marie affirmed.
 
@@ -50,9 +50,9 @@ Mage Maddi nodded and moved towards the nearest shelf. Her fingers slid over the
 
 "No," Mage Maddi denied. "Even if I knew how this worked, and I can honestly say that I don't, I don't think I can share our Sects most prided secret. This device effectively captures and stores the state of the world all by itself!"
 
-"Can you at least tell me how the information about the night sky is transported to such a secluded place deep underground?" Marie redirected.
+"Can you at least tell me how the information about the sky is transported to such a secluded place deep underground?" Marie redirected.
 
-"The old observatory was rehauled after the Sect Leader developed the Celestial Recording Platform. There is a triad of pylons at the peak of the mountain that channel the ambient mana, imprint the visuals of the night sky into it and direct it towards the Inscribing Lens. The Lens is enchanted to extract the visual image from the torrent of mana and etch it into the Obsidian Plate. In the Deciphering Platform, a concentrated stream of mana is fired onto the Obsidian Plate which is naturally directed through the inscription channels, converting it back into the visual image. The underlying details that govern the way this whole setup functions is well beyond my level of understanding. You must understand that this was at least half a century in the making, one cannot expect to understand it over a cup of tea!" Mage Maddi responded.
+"The old observatory was rehauled after the Sect Leader developed the Celestial Recording Platform. There is a triad of pylons at the peak of the mountain that channel the ambient mana, imprint the visuals of the sky into it and direct it towards the Inscribing Lens. The Lens is enchanted to extract the visual image from the torrent of mana and etch it into the Obsidian Plate. In the Deciphering Platform, a concentrated stream of mana is fired onto the Obsidian Plate which is naturally directed through the inscription channels, converting it back into the visual image. The underlying details that govern the way this whole setup functions is well beyond my level of understanding. You must understand that this was at least half a century in the making, one cannot expect to understand it over a cup of tea!" Mage Maddi responded.
 
 "How do you get access to so much obsidian?"
 
@@ -74,7 +74,7 @@ Mage Maddi scratched the side of her head for a moment and said, "Well, that's a
 
 Mage Maddi chuckled and said "If you need to access any of the records inscribed in obsidian, you can either retrieve them manually or place both your hands on the quadropod and call out the date three times."
 
-Marie did as instructed and placed her hand over the currently active quadropod. She loudly called out a random date off the top of her head, and after the third call out, the image projected around her dissipated and the plate levitated away from the quadropod. In its place, another one with the date Marie called out inscribed on its side landed on the quadropod. The concentrated stream of mana restarted and a three-dimensional image of the night sky was projected around her.
+Marie did as instructed and placed her hand over the currently active quadropod. She loudly called out a random date off the top of her head, and after the third call out, the image projected around her dissipated and the plate levitated away from the quadropod. In its place, another one with the date Marie called out inscribed on its side landed on the quadropod. The concentrated stream of mana restarted and a three-dimensional image of the sky was projected around her.
 
 "That's amazing!"
 
