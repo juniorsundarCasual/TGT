@@ -1,8 +1,8 @@
 ---
 id: qf4b3vv3tpbnr2pgg0s8pr8
-title: Chapter 256
+title: Chapter 256 - Burdened by Expectations
 desc: ''
-updated: 1668537551687
+updated: 1668625595565
 created: 1668358019303
 ---
 
@@ -22,11 +22,63 @@ The data she was working with was raw. Unadulterated, unaltered, raw. She wanted
 
 How does one define the position of celestial bodies? What is the frame of reference that is most apt?
 
-The next set of questions tackled higher level probleems, such as: "How much needs to be considered to define the correct model? Should constellations and clusters visible in the night sky be considered as part of the model as well?"
+The next set of questions tackled higher level problems, such as: "How much needs to be considered to define the correct model? What line of reasoning must be followed to define the correct model? Should constellations and clusters visible in the night sky be considered as part of the model as well?"
 
-Especially with the last question, Marie found that with each new celestial body taken into consideration for the model, she would be introducing an additional set of parameters and a whole other equation. Planetary dynamics was already highly nonlinear, this would just make it a hundred times worse.
+Especially with the last question, Marie found that with each new celestial body taken into consideration for the model, she would be introducing an additional set of parameters and a whole other equation. Planetary dynamics was already highly nonlinear, this would just make it a hundred times worse!
 
-After taking half an hour to sit in silence, meditate and plan out her next move.
+And then there was the matter of tying it all in with The Heavenly Eye... How to go about that?
+
+Marie's eyes drifted upwards, beyond the projection of the sky, and into the seemingly endless tunnel, with its walls lined with lustrous black obsidian and aged books, leading to the peak of the mountain. Her sight started to grow woozy as the previously vast vault started to shrink around her. It was suffocation! She had to get out!
+
+As she started to spontaneously run out of breath, she staggered her way towards the exit. Her vision was flickering to black, and she was starting to lose strength in her legs.
+
+Just as she passed the membranous force field protecting the entrance and filled her lungs with fresh air enriched with ions expelled from the crashing waves, her body rapidly depressurised, and she collapsed onto her back.
+
+"What do we have here?" A familiar voice brought her out of her stupor. Marie tilted her head backwards and found her Master's face peaking into her sight. "I'd assumed that you would be knee-deep in research by now."
+
+Krish expected a witty retort of some kind by this point, but then none came. All he saw was his Disciple's face turning dourer by the second. That was never a good sign.
+
+"What's the matter? Actually, what are you doing here, laying outside the entrance?" Krish probed in rapid succession. He kneeled and approached his Disciple as he did so.
+
+"I'm scared..." Marie murmured.
+
+"You? Scared?" Krish blurted out instinctively, but he immediately tapped his lips apologetically and gestured for his Disciple to continue.
+
+"It's all just so overwhelming, Master. When I went into it, I falsely assumed that everything would be straightforward. Manageable. Within my realm of expertise. But I couldn't have been more wrong," Marie responded.
+
+"Is there any way I can help?" Krish asked sincerely.
+
+"Unless you can sift through centuries worth of data and can make proper sense out of it..." Marie muttered wryly.
+
+Krish proceeded to lay on the ground and joined his Disciple. "You don't have to carry the burden of our lineage all on your shoulders, you know?"
+
+Marie turned her head and faced her Master.
+
+"In truth, my only expectation from you is to survive as long as I have and hopefully with all your body parts intact. All of this is secondary for me. If you fail in this endeavour, know that there is no shame in failing as people far more knowledgeable than you and more experienced have also tried and failed," Krish continued.
+
+"Thanks for the vote of confidence," Marie shot back sarcastically.
+
+"People feel scared for many reasons," Krish ignored his Disciple and followed up. "People fear the unknown, people fear uncertainy, and people fear failure."
+
+He turned to meet his Disciple's gaze and asked, "Are you afraid of failing?"
+
+Once he received a light nod as a response, he revealed a warm smile and said, "People fear failure because they fear disappointing those they care about and not being able to meet the expectations set upon them by others."
+
+Krish rubbed Marie's head assuringly and said, "When you do something for yourself, you don't fear failure since your mind knows that the failure is an opportunity to learn something new. Without anyone to disappoint, your mind is unburdened of the need to succeed in the first try."
+
+He then released a light chuckle before pointing out, "You do realise that we have all the time in the world. You are allowed- no- encouraged to fail as many times as you want. Follow what Sect Leader Larks taught you about approaching any problem. Break it down into bite size pieces and go about it slowly. If it still feels overwhelming, then ask me for help. I'm practically idle so take advantage of that fact. If need be, we can even pull in a few of the members of this sect. I know that Jace will be least bothered about it."
+
+Marie released a long breath that she didn't know was holding in.
+
+"Though it fills me with immense joy that my dearest Disciple cares so much about my opinions and expectations," Krish joked to take advantage of the brightening atmosphere.
+
+"Yeah, I didn't realise that I cared about your expectations of me either," Marie reiterated with a surprised rise in pitch at the tail end of the conjectural phrase. Then, without allowing her Master any time to respond with a quip, she kipped up and clapped her hands excitedly. "I will take you up on your offer for support, Master."
+
+"So, what is it that you need me to do?"
+
+"We have a lot of data to cycle through and take note of. It will ease my workload if you could help scribe as I dictate," Marie explained.
+
+"Sounds manageable. Alright! Let's get to it!" Krish encouraged loudly while crossing the threshold into the archives. With each step, his excitement and giddiness started to grow as his dream of working and guiding his Disciple like Guy did started to approach reality.
 
 ____
 
