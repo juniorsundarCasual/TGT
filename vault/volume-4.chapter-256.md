@@ -2,7 +2,7 @@
 id: qf4b3vv3tpbnr2pgg0s8pr8
 title: Chapter 256 - Burdened by Expectations
 desc: ''
-updated: 1668625595565
+updated: 1668664809571
 created: 1668358019303
 ---
 
@@ -78,7 +78,7 @@ Marie released a long breath that she didn't know was holding in.
 
 "We have a lot of data to cycle through and take note of. It will ease my workload if you could help scribe as I dictate," Marie explained.
 
-"Sounds manageable. Alright! Let's get to it!" Krish encouraged loudly while crossing the threshold into the archives. With each step, his excitement and giddiness started to grow as his dream of working and guiding his Disciple like Guy did started to approach reality.
+"Sounds manageable. Alright! Let's get to it!" Krish encouraged loudly while crossing the threshold into the archives. With each step, his excitement and giddiness started to grow as his dream of working and guiding his Disciple, like Guy did, started to approach reality.
 
 ____
 
