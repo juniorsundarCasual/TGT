@@ -2,7 +2,7 @@
 id: qf4b3vv3tpbnr2pgg0s8pr8
 title: Chapter 256 - Burdened by Expectations
 desc: ''
-updated: 1668664809571
+updated: 1668921493432
 created: 1668358019303
 ---
 
@@ -62,9 +62,9 @@ Marie turned her head and faced her Master.
 
 He turned to meet his Disciple's gaze and asked, "Are you afraid of failing?"
 
-Once he received a light nod as a response, he revealed a warm smile and said, "People fear failure because they fear disappointing those they care about and not being able to meet the expectations set upon them by others."
+Once he received a light nod as a response, he revealed a warm smile and said, "People fear failure because they fear disappointment. They fear disapointing those they care about and not being able to meet the expectations set upon them by others, and worse still, they fear disappointing them."
 
-Krish rubbed Marie's head assuringly and said, "When you do something for yourself, you don't fear failure since your mind knows that the failure is an opportunity to learn something new. Without anyone to disappoint, your mind is unburdened of the need to succeed in the first try."
+Krish rubbed Marie's head assuringly and said, "When you do something for yourself - for the sheer joy and experience of trying and learning something new - you don't fear failure since your mind knows that the failure is just another opportunity. Without anyone to disappoint, your mind is unburdened of the need to succeed in the first try."
 
 He then released a light chuckle before pointing out, "You do realise that we have all the time in the world. You are allowed- no- encouraged to fail as many times as you want. Follow what Sect Leader Larks taught you about approaching any problem. Break it down into bite size pieces and go about it slowly. If it still feels overwhelming, then ask me for help. I'm practically idle so take advantage of that fact. If need be, we can even pull in a few of the members of this sect. I know that Jace will be least bothered about it."
 
