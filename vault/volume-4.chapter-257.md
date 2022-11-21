@@ -2,7 +2,7 @@
 id: 04iy0l41cc7hi0he3ma6938
 title: Chapter 257 - Outsourcing
 desc: ''
-updated: 1668778940822
+updated: 1669025043662
 created: 1668358024893
 ---
 
@@ -24,7 +24,7 @@ Her Master was quick on the uptake. All she had to do was drill in the fact that
 
 Now, her Master could measure the light-years within seconds. All he did was zoom the projection at a constant speed while mentally measuring the distance. To measure the distance from the Sun to Gaea took him half a second - all Marie saw was the projection expanding and rebounding with a nearly imperceptible flicker. The sceptic that she was, Marie verified the measurements and was surprised to find that her Master's measurements were far more precise than her own.
 
-Her Master was thus assigned the task to record the coordinates of all the planets and moons in the solar system for every day recorded starting from the most recent one (a single reading of position of the celestial bodies for every day). A daily reading was sufficient since going into the hourlies would be equivalent to splitting hairs.
+Her Master was thus assigned the task to record the coordinates of all the planets and moons in the Solar System for every day recorded starting from the most recent one (a single reading of position of the celestial bodies for every day). A daily reading was sufficient since going into the hourlies would be equivalent to splitting hairs.
 
 Before they started, Marie pointed out one issue gnawing away at her.
 

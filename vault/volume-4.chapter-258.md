@@ -2,7 +2,7 @@
 id: gw0f1vmsogtdk61jrj119sx
 title: Chapter 258
 desc: ''
-updated: 1668970797369
+updated: 1669026055858
 created: 1668358027925
 ---
 
@@ -34,8 +34,11 @@ Without wasting another moment, she rushed to find her Master and asked for a la
 
 Incrementally, a large tapestry started to take shape on the ground of the combat field. Marie's hand danced mechanically while the chalk deposited its residue on the ground. She ran through on stick, then another, then another... very soon she lost track of how many chalks she'd consumed. It all started to blend in together.
 
-Marie remembered Mister Larks' talk about Chaos Theory. Of how changing the initial conditions can greatly affect the behaviour of a nonlinear system down the line. It was all starting to make sense now. Her approach to the modelling problem was to collate all her known theories for planetary motion and try to apply them against the collected data to see if a close enough plot can be obtained.
+A system is another word to describe a dynamic process. A mass attached to a spring is a system. A closed room with an air-conditioner running in it is a system. A pipe to transport fluids from one place to another is a system. Within a system there are a myriad of interconnected components that elicit a behaviour of some sort, which is the focus of observation. A system can be a complex mechanism, or it can be extremely trivial. To make sense of a system and predict its behaviour, one needs to first identify it and build a working mathematical model of it.
 
+Marie's goal was to identify and build a model of the universe. Needless to say, that it is an incomparably complex system, and was impossible for her to achieve given her current capabilities. For that reason, she drew a metaphorical dotted line around the Solar System and designated it as her sub-system of interest. The Solar system is in no way simpler to model, but it is inarguably simpler than the Universe as a whole. Another reason why she decided to limit the scope of her model was because she realised that the formulae and theorem she knew that describe behaviour of celestial bodies was not exhaustive enough to handle complex inter-system interactions and were fairly basic in describing the known behaviours.
+
+For instance, Kepler's Laws of Planetary Motion provide a robust set of rules to define planetary behaviour and orbit. It states that the orbit of planets about the Sun is elliptical with the Sun at the focal point. It also states that the area swept by a line connecting a planet with the Sun is constant per unit time. These are simple mathematical definitions which, by adding on Newton's Laws of Gravitation, produce a palatable model of the Solar System.
 
 ____
 

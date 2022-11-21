@@ -2,7 +2,7 @@
 id: qx7t8w69798pqi8416ln4n9
 title: Chapter 252 - Myth of Immortality
 desc: ''
-updated: 1668099401267
+updated: 1669025048324
 created: 1667147132782
 ---
 
@@ -44,7 +44,7 @@ Seeing this, Krish coughed and took over. "The Mystic Celestial Sect follow a sp
 
 "What kind of information do you record, then?" Marie rephrased.
 
-"Location of the planets of our solar system in the night sky every day since the inception of the Sect. We also include specific constellar formations, stellar clusters, and so on. Basically, if it exists in the night sky, it exists in our records," Jace answered casually.
+"Location of the planets of our Solar System in the night sky every day since the inception of the Sect. We also include specific constellar formations, stellar clusters, and so on. Basically, if it exists in the night sky, it exists in our records," Jace answered casually.
 
 "How do you record this information?" Marie followed up. "What kind of methods do you use to describe this information. Is it all diagrammatic? Or are you using some kind of unique unit of measurement?"
 
