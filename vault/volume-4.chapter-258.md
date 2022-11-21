@@ -1,8 +1,8 @@
 ---
 id: gw0f1vmsogtdk61jrj119sx
-title: Chapter 258
+title: Chapter 258 - Modelling
 desc: ''
-updated: 1669026055858
+updated: 1669055668700
 created: 1668358027925
 ---
 
@@ -38,7 +38,33 @@ A system is another word to describe a dynamic process. A mass attached to a spr
 
 Marie's goal was to identify and build a model of the universe. Needless to say, that it is an incomparably complex system, and was impossible for her to achieve given her current capabilities. For that reason, she drew a metaphorical dotted line around the Solar System and designated it as her sub-system of interest. The Solar system is in no way simpler to model, but it is inarguably simpler than the Universe as a whole. Another reason why she decided to limit the scope of her model was because she realised that the formulae and theorem she knew that describe behaviour of celestial bodies was not exhaustive enough to handle complex inter-system interactions and were fairly basic in describing the known behaviours.
 
-For instance, Kepler's Laws of Planetary Motion provide a robust set of rules to define planetary behaviour and orbit. It states that the orbit of planets about the Sun is elliptical with the Sun at the focal point. It also states that the area swept by a line connecting a planet with the Sun is constant per unit time. These are simple mathematical definitions which, by adding on Newton's Laws of Gravitation, produce a palatable model of the Solar System.
+For instance, Kepler's Laws of Planetary Motion provide a robust set of rules to define planetary behaviour and orbit. It states that the orbit of planets about the Sun is elliptical with the Sun at the focal point. It also states that the area swept by a line connecting a planet with the Sun is constant per unit time. These are simple mathematical definitions that produce a palatable model of the Solar System. But only to a certain degree.
+
+First off, the laws are satisfactory in a world where it is just the two masses (the Sun and the planet). The moment the other celestial bodies are added into the fold, things start to go haywire. Each planet is influenced by its neighbours, and even those far away. In fact, Uthea the fifth planet from the Sun is so massive that its influence can be registered from Duenea, the first, and Sacagea, the last. Apart from that, there are also the satellites orbiting the planets to take into consideration. Gaea has a single satellite orbiting it, some of the other planets in the Solar System have multiple (or none at all). The introduction of additional masses with their own appreciable gravitational fields starts to skew the base equation, requiring multiple layers of Newton's Laws of Gravitation to replicate the natural behaviour.
+
+This way, the problem started to balloon up much like how she expected it to. Just to model the behaviour of Uthea she had to rely on an equation that spanned the entire width of the combat arena.
+
+Nonetheless, her efforts were slowly starting to bear fruit. For a given initial state, Marie could match the behaviour of the model with that of the real celestial body for a finite time frame. With each new model appended, the time frame started to widen more and more.
+
+Unbeknownst to her, an entire day had passed, yet she was barely halfway through her work. Without pause, Marie continued to scribble away, expending one stick of chalk after another. The moment she depleted one, another would magically levitate itself into her open palm courtesy of her Master. Another day passed, and unwritten real estate was starting to turn scarce. Marie was forced to squeeze equations between other equations - some snaked through the gaps between text. For an outsider, it would be cryptic and indecipherable, but it made complete sense in Marie's perspective.
+
+A third day passed, and Marie was growing sluggish and depleted. She was broken from her trance by her Master who forced her to eat and drink. Following that, he practically restrained her onto a mattress and forced her to fall asleep. She thought the exercise counter-intuitive, but Marie had severely underestimated the fatigue her body had accumulated over the past three days. Within minutes of her body falling into the welcoming embrace of the goose-down mattress, her mind entered hibernation. A day later, she awoke refreshed with her mind just as sharp as it was four days ago.
+
+Without another moment of hesitation, Marie returned to her work, with her Master observing and replenishing her chalk stock. Nearing the end of the fourth day, a pleasant mood started to radiate from her as things started to approach a close. Equations started to balance out, plots started to match, it was all starting to come together. The entirety of the Solar System was starting to shrink and fit perfectly within the confines of the combat arena.
+
+One final line, and thus concluded the modelling process. Marie took a step back, leapt off the stage and collapsed onto her back. She gazed exuberantly into the sky and pumped her fist in celebration.
+
+"I did it! FINALLY!" She bellowed.
+
+"Congratulations," her Master congratulated.
+
+Krish didn't know what he was seeing. The complexity of the near unintelligible scribbles marring every nook and cranny of the combat arena was far beyond anything he had ever seen in his lifetime. But he trusted his Disciple and he was elated to see her excited and satisfied.
+
+"So, what next?" Krish probed.
+
+"Well, all that's left is to merge this with The Heavenly Eye somehow," Marie responded. She stretched out her body to relieve the cramps assaulting her muscles and continued. "Although, there are some... issues I need to lay out that I think will influence the efficacy of the integrated result."
+
+Krish furrowed his brows and gestured for Marie to expound.
 
 ____
 
