@@ -2,7 +2,7 @@
 id: XGoedwF0XP8MJhcrlUIFv
 title: Chapter 013 - A New Solution
 desc: ''
-updated: 1643571847349
+updated: 1669203817509
 created: 1643568415216
 ---
 
@@ -114,7 +114,7 @@ Mast furrowed his brows and complied by snapping his fingers again. This caused 
 Guy sat down before the computer at the centre of the RoK and booted it up. While he began working, Guy started to explain his plan, ‘As you said, it will take ages to go through all the intricate spells and formations to isolate the specific components. There’s only so much work the human brain can do, right?
 So what I’m going to do is to leverage the power of this computer- oh by the way, can you boost this computer’s processing power and memory the PC from my old world was pretty basic because I couldn't travel with a gargantuan monster?’
 
-Mast signed and acquiesced one last time by snapping his fingers.
+Mast sighed and acquiesced one last time by snapping his fingers.
 
 Guy then continued his explanation, ‘So I’m going to leverage the power of this computer and run an image recognition algorithm that takes in the spells’ image and isolates similar shapes and designs. It’s pretty basic.’
 
