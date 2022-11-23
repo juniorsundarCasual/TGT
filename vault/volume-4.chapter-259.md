@@ -1,8 +1,8 @@
 ---
 id: yxbracxru4cjxc309xnayia
-title: Chapter 259
+title: Chapter 259 - The World in My Mind
 desc: ''
-updated: 1669142425742
+updated: 1669227698093
 created: 1668947301521
 ---
 
@@ -64,7 +64,47 @@ With that, she retrieved the gold-rimmed book with endless sheets and flipped th
 
 "Found it! Alright let's see here. Gaea's position was..." More words started to cascade out her mouth systematically. Her left hand held the open book while her right started to scribble at the last bit of empty space available on the combat field. As more and more numbers and diagrams filled up that region, a profound phenomenon started to transpire in her mental space.
 
-It started with a single point that stretched out into a line, into a circle, finally a sphere. More and more points spawned around it and started to undergo the same transition
+It started with a single point that stretched out into a line, into a circle, finally a sphere. More and more points spawned around it and started to undergo the same transition from non-dimensional, to one-dimensional, to two- and then three-, until suddenly the fourth-dimension kicked in and everything started to move.
+
+There was no colour, there was no light. There was only darkness, with sillhouettes moving in an elegant dance-like orbit. A large body in the middle, surrounded by smaller bodies, surrounded by even smaller bodies - a nesting doll of orbiting bodies.
+
+This was the model of the world Marie's mind cooked up with the equations and formulae at hand. Although, it was only a microcosm of the world at large.
+
+"But it will do," Marie repeated, less so as an assertion, mostly just to convince herself.
+
+Marie was now standing at the metaphorical edge of the cliff. She had to take a leap of fate... quite literally. After suppressing her anxiousness, she started to circulate her mana through her core and towards her eyes. Her pupils started to turn a lustrous gold shade as the Heavenly Eye opened.
+
+"What is the future of the True World Sect?" Marie tossed out into the world. Her words started to ripple out and stings of fate started to stretch out, visible only to her gaze.
+
+'Since Master does not see these strings, they must be corporeal - a construct of my mind. So...' With some difficulty, she receded back into the model of the Solar System spinning around in her mental space and brought the strings of fate with her.
+
+At that instant, another change transpired (one that she didn't think possible). The strings of fate converged and turned into a transverse wave. The wave kept undulating with an indescribable form. Marie figured it was probably the superposition of all the possible fate sequences in one.
+
+Now, Marie could merge the model of the Solar System and the waveform of fate together as it was a non-trivial mathematical process. Her mind started to whirl up to speed again and processed this action. Incrementally, the jittering wave started to disperse as it melded into the model.
+
+BOOM!
+
+A massive explosion resonated inside Marie's mind. The planets within her model started to vibrate, the Sun started to expand and contract, everything started to shake! A splitting headache assaulted her that nearly brought her out of her mental space, but through sheer willpower Marie held on. She had to see this through... whatever it was.
+
+Then, like the first bloom of flowers in the dreary landscape after the melting of snow, a tinge of colour started to spread out upon the void-black canvas of pure rationality. And it did not stop. NO, it was spreading like a wildfire at the peak of a scorching summer.
+
+"The model was missing a piece all along! How could I be so stupid?"
+
+Fate. That was the piece she was missing. Just like her Master would say - fate is one of the fundamental laws of this world.
+
+Once the colours settled, and the world was as vibrant as it could be, Marie's eyes caught a faint glow of gold flickering from Gaea. The flicker came and went, but it wasn't missed. Marie immediately rewound the world and paused it at the point where the gold was brightest. Then she zoomed into the source.
+
+Within seconds she breached Gaea's atmosphere and hurtled downwards. She realised that her trajectory was taking her to a familiar location, Mount Tai. However, what she saw there shook her to her core.
+
+At the base of the mountain, where the village was supposed to be, lay a burning ruin strewn with corpses both complete and incomplete. The flowing blood formed a stream, and in this stream lay the broken bodies of her family. Markus was missing an arm. Jean was dead. She did not want to know the state of Matron Reva, Dora and Kano.
+
+Floating above the stream, stood the imperious form of Sect Leader Larks with an uncharacteristic rage warping his demeanour. An aura of death and dominance emanated from his form, and his gaze was razor sharp. Following his gaze, Marie saw an army of mages dressed in a myriad of shades indicating a plethora of affiliations. Marie's grasp of the world wavered causing it to resume.
+
+"Gouge out your eyes, tear out your limbs, break every bone in your body, suffer in pain most unbearable without losing consciousness and when your body, will and soul break, only then... Kill yourselves," a demonically hoarse voice resonated around her, originating from Sect Leader Larks. Marie's breath hitched as in the next instance, every single person comprising the battalion did exactly as commanded.
+
+A cacophony of screams and shrieks rang out, as Sect Leader Larks gazed on unemotionally.
+
+"T-This! Whatever this is... I cannot let this happen," Marie muttered as she pondered over exactly what she witnessed.
 
 ____
 
