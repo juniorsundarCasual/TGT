@@ -2,7 +2,7 @@
 id: TwOHEYKq4tVIxYkho5gXR
 title: Chapter 072 - Do Not Try This at Home
 desc: ''
-updated: 1643626581769
+updated: 1669233338540
 created: 1643569469539
 ---
 
@@ -54,7 +54,7 @@ Grace immediately diverted the conversation back to the model, "You still didn't
 
 Kano shrugged his shoulders and answered, "He used to. N-N-Not anymore. He apologised. And T-T-Teacher Larks always says that I need to t-t-treat people the way I want to b-b-be treated back!"
 
-'Not Kano too!' Grace lamented upon hearing Kano's final sentence. She was already struggling with hearing that man's name and praises from Markus, now she had to hear it from Kano's mouth as wll?
+'Not Kano too!' Grace lamented upon hearing Kano's final sentence. She was already struggling with hearing that man's name and praises from Markus, now she had to hear it from Kano's mouth as well?
 
 While Grace was grovelling internally, Kano decided to leave. By the time Grace came back to herself, he was nowhere to be seen.
 
