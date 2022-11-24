@@ -2,7 +2,7 @@
 id: yxbracxru4cjxc309xnayia
 title: Chapter 259 - The World in My Mind
 desc: ''
-updated: 1669227698093
+updated: 1669308637080
 created: 1668947301521
 ---
 
@@ -92,7 +92,7 @@ Then, like the first bloom of flowers in the dreary landscape after the melting 
 
 Fate. That was the piece she was missing. Just like her Master would say - fate is one of the fundamental laws of this world.
 
-Once the colours settled, and the world was as vibrant as it could be, Marie's eyes caught a faint glow of gold flickering from Gaea. The flicker came and went, but it wasn't missed. Marie immediately rewound the world and paused it at the point where the gold was brightest. Then she zoomed into the source.
+The golden sheen of Marie's eyes subsided, but the world did not lose its vibrance. Once the colours settled, and the world was as vibrant as it could be, Marie's eyes caught a faint glow of gold flickering from Gaea. The flicker came and went, but it wasn't missed. Marie immediately rewound the world and paused it at the point where the gold was brightest. Then she zoomed into the source.
 
 Within seconds she breached Gaea's atmosphere and hurtled downwards. She realised that her trajectory was taking her to a familiar location, Mount Tai. However, what she saw there shook her to her core.
 

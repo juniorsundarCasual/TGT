@@ -2,7 +2,7 @@
 id: hsfwh1drgon77m1i871e0g7
 title: Introduction
 desc: ''
-updated: 1666847855912
+updated: 1669309101009
 created: 1649916401463
 ---
 
@@ -46,7 +46,7 @@ I also have some LGBTQ+ elements planned for the future (with side characters).
 
 English not first language. Writing mistake? Please forgive. Proofread many times before upload, problems not much. If issue, then point out mistake, I correct immediate. I am thank you for you're understanding :)
 
-ALSO: I started writing this story with one intention in mind, and that was to act as a parody of existing novels with similar themes. However around CH25, I realised that my work was becoming too derivative and boring. So I pivoted and decided to make my novel its own thing. I believe that my work has become better because of it.
+ALSO: I started writing this story with one intention in mind, and that was to act as a parody of existing novels with similar themes. However, around CH25, I realised that my work was becoming too derivative and boring. So I pivoted and decided to make my novel its own thing. I believe that my work has become better because of it.
 
 **Additional Tags:** #NoHarem #LGBTQ+
 
