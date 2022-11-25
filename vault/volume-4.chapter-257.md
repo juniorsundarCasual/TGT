@@ -2,7 +2,7 @@
 id: 04iy0l41cc7hi0he3ma6938
 title: Chapter 257 - Outsourcing
 desc: ''
-updated: 1669025043662
+updated: 1669379353843
 created: 1668358024893
 ---
 
@@ -80,7 +80,7 @@ Marie slapped her Master's elbow and walked out in a huff.
 
 'It wouldn't hurt to rest up for a day,' she thought to herself. She could use the time to brush up on what she'd learned with Mister Larks and write down a plan on how to approach the modelling problem.
 
-Along the way, she stumbled upon Mage Maddi and Shay-Hade, the lovebirds, who snatched her along for a sightseeing trip up the observatory.
+Along the way, she stumbled upon Mage Maddi and Shay-Hade, the lovebirds, who snatched her along for a sightseeing trip up to the observatory.
 
 At the peak of the central mountain, Marie lay down on her back and gazed out into the horizon as the Sun slowly plunged itself into the clear blue ocean.
 
