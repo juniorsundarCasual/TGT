@@ -1,14 +1,14 @@
 ---
 id: 1cioeuukx3qjg2kuud6kmma
-title: Chapter 260
+title: Chapter 260 - Moving Planets Mentally
 desc: ''
-updated: 1669372575696
+updated: 1669376846097
 created: 1668947310861
 ---
 
 While Marie immersed herself in the dour vision of the future, something profound was transpiring within her that went unnoticed by her, though its effects on the outside world couldn't be so easily missed.
 
-A sizeable whirlpool of mana started to form around Marie and started to siphon into her. The temperature in and around her started to rise noticeably. Sweat started to ooze out from her pores that started out a cloudy, translucent shade and suddenly turned murky black and vaporised immediately after. In doing so, holes started to form all around her attire, as the material disintegrated at a rapid pace.
+A sizeable whirlpool of mana started to form around Marie and started to siphon into her. The temperature in and around her started to rise noticeably. Sweat started to ooze out from her pores that started out a cloudy, translucent shade and suddenly turned murky black and vaporised immediately after. In doing so, holes started to form all around her attire, as the material disintegrated at a rapid pace. He also noticed her eyes gaining a familiar golden glow as she activated her Heavenly Eye.
 
 Krish couldn't help but take a step back with a mix of shock, awe and disbelief. His Disciple was achieving a breakthrough into the Foundation Establishment Realm. Fundamentally, a breakthrough from Mana Condensation Realm only occurs when a mage understands something incredibly profound about their cultivation. Their mind expands, and the body must keep up. Thus, a thorough cleansing is initiated that spans the entirety of the Foundation Establishment Realm. First it is the Base stage that cleanses the circulatory and nervous systems. The mana burns away all impurities ailing the mage which exits their bodies as a corrosive black liquid. The Internal stage is the second step in Foundation Establishment, that reinforces the internal organs and the bones. The External stage is the last, wherein the muscles, tendons, flesh and everything external gets empowered.
 
@@ -19,6 +19,14 @@ To his utter surprise, the world was moving as it was - fate had remained unchan
 That was a lie.
 
 First off, his Master would have none of it. He wasn't the least bit patient or sympathetic. If Marie were under his Master, she would have been deleted at the first sign of opposition. His Master would no sooner get rid of such an "impudent" Disciple than entertain her many flights of fancy. Now even if his Master gained a shred of empathy and decided to indulge in such endeavours, there was still a massive piece missing. It was the knowledge, especially the unique way of thinking, that gave Marie the ability to snag this achievement. Krish could not match his Disciple because he lacked a man like Guy Larks in his youth.
+
+"Now that is something I can be envious about," Krish muttered with a bitter smile. "The people you meet can change your life. Some for better, some for worse. Marie is fortunate to have met such encouraging folk." 
+
+"-myself included," He added with a mirthful snort. "Her life may have started poorly, but it will definitely end in a high note. I can guarantee at least that much."
+
+At that moment, right as Krish was about to deactivate his Heavenly Eye, he caught a sudden shift in the flow of fate.
+
+"What? I didn't do anything." A realisation gnawed at him, causing him to look at his Disciple with doubled worry. "No-"
 
 ____
 
@@ -34,11 +42,27 @@ Which leads to the predicament from earlier. The True World Sect will become emb
 
 Marie was certain that Sect Leader Larks wouldn't perish. As her Master said, the True World Sect would propagate, albeit with a different set of members. The True World Sect would thrive, but it wouldn't be without some initial bloodshed. As a Constant, this massacre was an eventuality. It could arrive today, or it could arrive as I lay in my deathbed.
 
-BUT, Marie did not want that. She did not wish to lose her family. This problem needed fixing. But how?
+BUT, Marie did not want that. She did not wish to lose her family. This problem needed fixing.
 
-Marie exited her mental space with a thoughtful frown on her face. She caught her Master's impressed expression and decided to cut to the chase.
+Thankfully, Marie had the whole world in her mind to work with. She immediately zoomed around the globe in search for a solution. In the past few years, Marie had learned a key fact of life. There is only so much you can achieve by yourself. What Marie had today was in large part a result of the contributions from a lot of people: Matron Reva, Mister Larks, her Master, and many other folk who'd offered her help along the way.
 
-"I've managed to see"
+The problem the True World Sect would face wasn't one that she could solve all by herself. The trouble they will face is multi-faceted in its cause. But it all came down to the way the Sect interacted with other stakeholders. Mister Larks, for all his wisdom and intelligence, wasn't a shrewd man. He was cautious, but he lacked the level of ruthlessness and resolve needed to safeguard the Sect against unforeseeable threats brought on by the inherent evil of man. To get to that point, Mister Larks would need to stumble and fall, and learn from those mistakes. Unfortunately, the consequences of those missteps extended to her family.
+
+To find the right person, Marie used a set of criteria. She did not want to change the life of people that weren't fated to die, since they had a future within their grasps (mostly). Her focus was on those whose death was a constant and pre-emptive - a wasted life. Those were actually fewer to leaf through. Amongst those she looked for the person who had the correct demeanour.
+
+Fortunately for her, a person that fit the bill (and more) was within her reach. A person slated to die a gruesome death. A person who was forced to live their life hidden. A person whose existence was steeped in layers of lies and deceit. A person with the necessary apathy to make unsavoury decisions and the backbone to act on them. A person with intelligence and aptitude beyond measure.
+
+Unfortunately, Marie wouldn't be able to save the person as it was to occur very soon. Coincidentally, Marie wouldn't have to change much to save this person and bring them into the Sect's fold, since a member of the Sect was close to the location of the person's death.
+
+But how to bridge the gap? Then, Marie remembered her Master worrying once about her changing the flow of fate purely by saying something. A sudden burst of intuition, almost like finding out an extra finger she could control, urged Marie to start drawing upon her mana from her core. She pulled it towards her mental space, filling it to its brim. Gritting her teeth, she started to run an inhuman amount of calculations at a feverish pace.
+
+The world in her mind was a model of the real one. But with fate imbued into it, it could be said to be a miniature copy of it. So, any changes made here would be automatically reflected outside. A valid hypothesis, one she was prepared to put to the test. In devising this model, Marie had to calculate the behaviour of the celestial bodies in space. She could not change the way humans and objects brought in by fate went about since she had little understanding of its behaviour. The planets, however, that she was familiar with.
+
+In order to save the person, an extremely minute change in the orbit of five planets and three moons was required. Marie moved the overflowing mana and started to enact the change in her mental model. She struggled as her mana started to drain at a feverish pace. Marie worried if she did not have enough to follow through. Fortunately for her, she was completely saturated with high quality mana thanks to her recent breakthrough AND the naturally abundant and concentrated atmospheric mana in and around the Mystic Celestial Sect.
+
+The change was enacted, and Marie dissipated the model from her mind. She staggered in place, her body weakened completely, and her eyes caught the sweating figure of her Master rushing forward to catch her from falling over.
+
+"What have you done?!" Was all she heard from her troubled Master as she lost consciousness.
 
 ____
 
