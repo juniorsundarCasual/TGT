@@ -2,7 +2,7 @@
 id: 1cioeuukx3qjg2kuud6kmma
 title: Chapter 260 - Moving Planets Mentally
 desc: ''
-updated: 1669376846097
+updated: 1669567588415
 created: 1668947310861
 ---
 
