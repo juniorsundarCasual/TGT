@@ -2,7 +2,7 @@
 id: 1cioeuukx3qjg2kuud6kmma
 title: Chapter 260 - Moving Planets Mentally
 desc: ''
-updated: 1669567588415
+updated: 1669611357273
 created: 1668947310861
 ---
 
@@ -24,9 +24,9 @@ First off, his Master would have none of it. He wasn't the least bit patient or 
 
 "-myself included," He added with a mirthful snort. "Her life may have started poorly, but it will definitely end in a high note. I can guarantee at least that much."
 
-At that moment, right as Krish was about to deactivate his Heavenly Eye, he caught a sudden shift in the flow of fate.
+At that moment, right as Krish was about to deactivate his Heavenly Eye, he caught a sudden shift in the flow of fate. The mana that had settled started to swirl once again, concentrated above his Disciple's head. Krish deciphered the phenomenon immediately as it was a sign of another advancement. A breakthrough followed by an advancement... Unbelieveable. But the change in fate concerned him.
 
-"What? I didn't do anything." A realisation gnawed at him, causing him to look at his Disciple with doubled worry. "No-"
+"What? I didn't do anything." Suddenly, a realisation gnawed at him, causing him to look at his Disciple with doubled worry. "No-"
 
 ____
 
@@ -58,7 +58,7 @@ But how to bridge the gap? Then, Marie remembered her Master worrying once about
 
 The world in her mind was a model of the real one. But with fate imbued into it, it could be said to be a miniature copy of it. So, any changes made here would be automatically reflected outside. A valid hypothesis, one she was prepared to put to the test. In devising this model, Marie had to calculate the behaviour of the celestial bodies in space. She could not change the way humans and objects brought in by fate went about since she had little understanding of its behaviour. The planets, however, that she was familiar with.
 
-In order to save the person, an extremely minute change in the orbit of five planets and three moons was required. Marie moved the overflowing mana and started to enact the change in her mental model. She struggled as her mana started to drain at a feverish pace. Marie worried if she did not have enough to follow through. Fortunately for her, she was completely saturated with high quality mana thanks to her recent breakthrough AND the naturally abundant and concentrated atmospheric mana in and around the Mystic Celestial Sect.
+In order to save the person, an extremely minute change in the orbit of five planets and three moons was required. Marie moved the overflowing mana and started to enact the change in her mental model. She struggled as her mana started to drain at a feverish pace. Marie worried if she did not have enough to follow through. Fortunately for her, she was completely saturated with high quality mana thanks to her recent breakthrough, her advancement AND the naturally abundant and concentrated atmospheric mana in and around the Mystic Celestial Sect.
 
 The change was enacted, and Marie dissipated the model from her mind. She staggered in place, her body weakened completely, and her eyes caught the sweating figure of her Master rushing forward to catch her from falling over.
 
