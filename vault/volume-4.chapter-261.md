@@ -2,7 +2,7 @@
 id: van5o8bwwa4o2klaofrgt60
 title: Chapter 261 - (Interlude) Pride or Death
 desc: ''
-updated: 1669657236761
+updated: 1669742390703
 created: 1668947357789
 ---
 
@@ -132,7 +132,7 @@ Light broke through the torn seams of the basket, and Shuri rolled out, battered
 
 "Boys! We got a live one," The second voice joked lecherously.
 
-Shuri, whose sight cleared right in time, saw seven bloodthirsty and licentious faces targeting her. 
+Shuri, whose sight cleared up, saw seven bloodthirsty and licentious faces targeting her. 
 
 ____
 
