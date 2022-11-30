@@ -2,7 +2,7 @@
 id: 2jts1hbg535hufj59l7fdp9
 title: Chapter 262
 desc: ''
-updated: 1669748878559
+updated: 1669782605137
 created: 1669567601896
 ---
 
@@ -26,7 +26,9 @@ At least it wasn't another memory with her late mother. The effect of those ling
 
 As she regained consciousness, she was subjected to another disorienting bout of movement before her container shattered and revealed her to the world, and to her attackers.
 
-They were seven men. Each sporting similarly unkempt and overgrown facial hair that was knotted and caked with dirt. They each had a weapon in hand; two carried bows and the rest carried haphazardly forged weapons with rust forming on its surface and its edges deformed through wear and tear. Their eyes carried
+They were seven men. Each sporting similarly unkempt and overgrown facial hair that was knotted and caked with dirt. They each had a weapon in hand; two carried bows and the rest carried haphazardly forged weapons with rust forming on its surface and its edges deformed through wear and tear. Their eyes carried intense hostility, greed and lust.
+
+Shuri immediately leapt to her feet and rushed towards the 
 
 ____
 
