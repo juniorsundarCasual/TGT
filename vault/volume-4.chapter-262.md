@@ -1,8 +1,8 @@
 ---
 id: 2jts1hbg535hufj59l7fdp9
-title: Chapter 262
+title: Chapter 262 - Evil of Man
 desc: ''
-updated: 1669782605137
+updated: 1669837266578
 created: 1669567601896
 ---
 
@@ -28,7 +28,89 @@ As she regained consciousness, she was subjected to another disorienting bout of
 
 They were seven men. Each sporting similarly unkempt and overgrown facial hair that was knotted and caked with dirt. They each had a weapon in hand; two carried bows and the rest carried haphazardly forged weapons with rust forming on its surface and its edges deformed through wear and tear. Their eyes carried intense hostility, greed and lust.
 
-Shuri immediately leapt to her feet and rushed towards the 
+Luckily, the bandits did not anticipate the presence of another entity in the caravan and had left a wide gap in their encirclement, which Shuri took advantage off. She immediately leapt onto her feet and rushed through the gap. She bobbed and weaved just in time for an arrow to miss her head by a hair's width. She took advantage of the surrounding trees to limit her pursuer's line of sight. Danger was all around her, but Shuri was calm.
+
+Escaping should have been trivial. If there was one thing Shuri was good at, it would be running away. She was fast even with her weak form. However, her opponents had the benefit of familiarity - the forest was their home ground. Shuri's current concern was falling into a trap of their design. They could very well be leading her to a strategic location and box her in, and she would be none the wiser because of her ignorance of the surroundings.
+
+When one loses, it is generally palatable if the failure was due to the opponent's superiority. It is a disgusting punch in the gut, though, if the loss is attributed to one's own stupidity. And that was exactly what happened as Shuri wove past a tree. The ground dipped sharply and as a result, her ankle twisted. With a rough tumble, she fell to the ground and started to roll haphazardly.
+
+Fighting the disorientation and the pain assaulting her back and head, she tried to crawl back up and resume her sprint. But it was already too late.
+
+"A runner! Just the way I like 'em," one of the men chasing her said loudly between his haggard breath, licking his lips between his words.
+
+"She's just a little girl," another reminded sternly.
+
+"Even better." the first one snorted. "Don't worry, girl. This uncle will make you feel reeeeal good."
+
+"What's that around her neck?" By this time, the rest had caught up and Shuri's escape plan was thoroughly thwarted.
+
+"Don't see anything there..." One of the voices murmured. At this point, Shuri's brain had checked out and was frantically searching for any avenue for escape. Her hand subconsciously drifted towards her pendant and rubbed it worriedly.
+
+"Wait I see it! It looks common."
+
+"It's a fucking mana gem. It's probably enchanted," the man who noticed her pendant first declared. His eyes held a greedy glint.
+
+At this point, Shuri felt it time to play her most dreaded card, "Listen. You people don't want to do this-"
+
+"Oh here we go. Alright little madam," the lust-filled man said with a mocking tone. "Why should we not go through with this?"
+
+"My father's positioned quite high in the government. Rather than poke a hornet's nest by violating his most treasured daughter, why not choose the smarter path and opt for some 'monetary compensation' for you troubles?" Shuri offered.
+
+"The way I see it, in terms of odds, we are at a greater disadvantage trading you in to your family for a ransom as opposed to just taking what we want from you and leaving," The greedy man said with a scoff.
+
+"That is fair, but if I am hurt, killed or maimed, by father will inflict double the suffering upon you folk," Shuri threatened lightly. An ill-advised move, she was aware, but at this point there was very little for her to work with.
+
+"Again. Turning you in for a ransom will let your family know that it was US who hurt you. With the alternative, no one will know unless a thorough investigation is launched by which time we will be long gone," the greedy man shrugged. He moved towards a large rock at the side and leapt atop it.
+
+"Alright, let's get this over with!"
+
+Shuri immediately assumed a defensive stance and screamed, "S-Stay back!"
+
+"If you struggle, it will only hurt more."
+
+A man grabbed Shuri from behind and pinned her to the ground on her stomach.
+
+"S-Stop! Please," Shuri screamed.
+
+A hand reached for her neck and grasped the pendant.
+
+"NO!" Wiggling her way out of the vice grip her captor had on her, she turned and bit the hand holding the mana gem. Her teeth latched on and ripped off the flesh on the man's hand as he pulled it back by instinct.
+
+"FUCK!" The man yelped. "The bitch bit me!"
+
+He kicked Shuri in her abdomen multiple times to vent his frustration. She couldn't stop pained groans from escaping as the attack persisted relentlessly.
+
+"FUCK! That's it, hold her down!"
+
+His partners pulled Shuri's limbs apart, while she struggled and failed to stop it from happening.
+
+"Those eyes, so much hate," the man sneered. "Don't worry, we'll fix that soon."
+
+Using his dull blade he ripped off the clothes covering Shuri's lower body and started to undo his own.
+
+Shuri turned her head sideways and looked out into the distance. Death was approaching, and all she could do was sigh in resignation. Why didn't she feel anything? There was no fear, there was no anger, she even stopped struggling at this point. Maybe living with death around the corner had sort of prepared her for its eventual arrival, making her inoculated to the common emotions at the time of its reckoning.
+
+She closed her eyes and waited.
+
+.
+
+.
+
+.
+
+A harmony of cracks, that Shuri immediately recognised as the sounds of bone's shattering, brought her out of her state of resignation. This was followed by loud bellows from the surrounding men. Their voice was coarse and guttural, almost like they were suffering through unimaginable pain.
+
+Suddenly, she started to feel lighter. Her body lifted off the ground. She opened her eyes and saw the men turning into blobs of meat. Her gaze flitted around the scene until it locked on to a new figure. She had never seen this person before.
+
+It was a boy, possibly a year older than her, holding a foot-long stick pointed at her direction. From the tip of the stick bloomed a myriad of spell circles. He wore a garb reminiscent of sects, with a logo of a globe with green and blue blobs on it. She had never heard of such a symbol before - probably a new sect.
+
+Shuri swallowed a mouthful of saliva audibly in relief and shock.
+
+"Who- Who are you?"
+
+____
+
+Markus awoke early, once again, and started to move through his early morning yoga routine. Today was a special day, and he had to be in tip-top condition for the Sect's sake. Today was the official start of the recruitment drive!
 
 ____
 
