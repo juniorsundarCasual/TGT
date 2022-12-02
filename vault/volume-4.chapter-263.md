@@ -1,8 +1,8 @@
 ---
 id: e15cwai9zl61qswrlbd3wqu
-title: Chapter 263
+title: Chapter 263 - Setting up the Stall
 desc: ''
-updated: 1669985484777
+updated: 1669992954059
 created: 1669567611118
 ---
 
@@ -48,13 +48,35 @@ Taking a step back, Markus saw what looked like a sailboat with just its sails. 
 
 "Yeah. People will keep passing by us, we need to have a way for them to know what our sect stands for at a glance," his Master explained. "There are two more inside. You saw how I put this one up, you and Jean can go ahead and assemble those ones."
 
-With those instructions given, his Master opened another box and started to pull out more odds and ends and put them up for display on the stands at the centre of the kiosk. There was a wand, similar to the one's Markus, Jean and Marie used. There were books of different kind, probably to show off the printing press (one of the Sect's most lucrative inventions). There were a plethora of tools such as hand drills, screws and screwdrivers, and assemblies that utilised these tools in some way to show off their functions. These were new additions to the Sect's catalogue borne of the lathe and milling machine. Master also retrieved miniature wood carvings that exemplified a range of uses of the two machines.
+With those instructions given, his Master opened another box and started to pull out more odds and ends and put them up for display on the stands at the centre of the kiosk. There was a wand, similar to the one's Markus, Jean and Marie used. There were books of different kind, probably to show off the printing press (one of the Sect's most lucrative inventions). There were a plethora of tools such as hand drills, screws and screwdrivers, and assemblies that utilised these tools in some way to show off their functions. These were new additions to the Sect's catalogue borne of the lathe and milling machine. Master also retrieved miniature wood carvings that exemplified a range of uses of the two machines. Once all the items were put in place, his Master retrieved small card-stock with the names of the items on display with their function and purpose, and placed them in front of their respective namesakes in a visible location.
 
 "Master, I still don't fully understand the purpose of having these items here," Markus commented.
 
 "Every sect has a specialisation. Cloudstrider Sect pride themselves on their ritual formations, for instance. A sect may specialise in Alchemy, or Blacksmithing, or even Cooking as I've recently come to learn."
 
-They found out that there was a niche segment of the market that specialised in cooking just for mages (hence Cooking with a capital 'C'). The ingredients used were mana charged, and the meat is sourced from monsters and beasts that had the capacity for magic. The benefit of eating such mana dense and infused foods was that it worked similar to alchemical potions and reagents but in a much slower and elongated way. Furthermore, it was proven to be safer and 
+They found out that there was a niche segment of the market that specialised in cooking just for mages (hence Cooking with a capital 'C'). The ingredients used were mana charged, and the meat is sourced from monsters and beasts that had the capacity for magic. The benefit of eating such mana dense and infused foods was that it worked similar to alchemical potions and reagents but in a much slower and elongated way. Furthermore, it was proven to be safer and less harmful towards a mage's cultivation compared to potions.
+
+To put it into perspective. Imagine that an artist needs to create an artwork of some kind. A potion would be like another person holding the brush and creating the artwork in the artist's place. An Enriched Meal on the other hand would be like a more experienced artist watching over the person as they perform their tasks. If they get stuck, the more experienced artist can provide guidance or inspiration. If there is a mistake, the experienced artist can offer corrections.
+
+With Enriched Meals, the burden to extract the benefit from the meal and internalise it is on the consumer. If they are experienced, they can extract maximum benefits from it. On the other hand, a potion will provide a constant amount, though the harm that it does to a person's cultivation can be hindered to a degree if the consumer synchronises with it.
+
+Thanks to Jean, the True World Sect members (excluding Marie) got the opportunity to taste a portion of a Griffin Steak. Even now, Markus felt saturated both in terms of his hunger and the mana circulating within his body.
+
+"Our Sect specialises in innovation," Master Larks said. "This is how we stand out. This also happens to be an appropriate way to attract the kind of people that would fit perfectly with our Sect's ethos."
+
+"Now-" Master Larks said as he retrieved a hefty folder from the box. After opening it, he pulled out a stack of printed sheets from within.
+
+"Let's see..." his Master's eye alternated between himself and Jean until it stopped on his Junior Sister. "Jean! Take this stack of papers and walk around the place. If you see anyone idle or disinterested, hand this to them."
+
+Markus noticed that the paper was like a more minimalist version of the banners on display. He also noticed that the location of their stand was stamped onto the sheets, albeit with more variation compared to the overall uniformity of the rest of the print. Probably, his Master appended this information last night.
+
+"If possible, try to chat them up as you hand this to them. Try to get them interested, even a smidge. Otherwise they will just dispose of the papers," his Master informed. Jean nodded, in turn, and took a handful from the stack of papers with her.
+
+"Master-" Markus walked over to voice his concern, but his Master read his mind.
+
+"This will be practice for her. It doesn't matter if she succeeds or fails in gathering a large crowd. She needs to exercise her emotions in some way. She needs to learn to display excitement or interest. It may be hard, it may be impossible, but she must try nonetheless."
+
+"I understand, Master," Markus said with a light bow. He once again praised his Master's foresight and benevolence internally. He placed himself on the opposite corner of the kiosk from his Master and waited to welcome recruits as they arrived.
 
 ____
 
