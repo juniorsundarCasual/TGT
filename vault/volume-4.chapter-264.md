@@ -2,11 +2,13 @@
 id: zjq5qc1i9xuhuyvdgbe5opf
 title: Chapter 264
 desc: ''
-updated: 1670179362147
+updated: 1670234141400
 created: 1669567626366
 ---
 
-The crowd of people entering the recruitment grounds bloomed exponentially the minute the event was officially opened for the public. A legitimate stampede took place at the entrance, as people gushed in like ants. The stalls near the entrance suffered for their zealousness as the entrants wrecked the setups in their haphazard hurry to enter the grounds. Then, like bloodhounds caught in a fresh trail, the crowd beelined towards the large stalls of the Four Greats: the Cloudstrider Sect, the Whispering Dusk Sect, the Soaring Sword Sect, and the Red Dawn Sect.
+Revian was excited as entered the Solar Sect Alliance's recruitment grounds. Not even the shoudler-to-shoulder traffic at the entrance as people siphoned through the criminally narrow gates could dampen his elation. But it did worry him a bit. The anxiety only grew in intesity as the crowd ceased to disperse and moved collectively in the same direction. Then, at a juncture, it split in two equally. Then once again at a subsequent juncture, jet the net quantity evoked a sense of foreboding.
+
+A few seconds later, he realised that his stress wasn't unwarranted... Why? Because every single person entering the ground today had the same goal in mind and that was to test their luck with the Four Greats: the Cloudstrider Sect, the Whispering Dusk Sect, the Soaring Sword Sect, and the Red Dawn Sect. Revian's target, along with the uncountable others surrounding him, was to try and get recruited into the Whispering Dusk Sect. His plan was four years in the making, since he was a wee eight-year-old lad. Revian wa
 
 Generally, the Four Greats did not stay longer than the first or second day. They would accumulate their quota of recruits within the first two days, following which the stalls would be closed and abandoned. They could actually get away with it, since they dictated the demand. As in, accepting a recruitment offer from any one of those sects was a no-brainer. On the other hand, one would take some time to think over the recruitment offers from lesser sects.
 
