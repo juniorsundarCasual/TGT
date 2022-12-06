@@ -2,7 +2,7 @@
 id: zjq5qc1i9xuhuyvdgbe5opf
 title: Chapter 264 - Stumbling Into It
 desc: ''
-updated: 1670267148572
+updated: 1670348093030
 created: 1669567626366
 ---
 
@@ -76,7 +76,7 @@ The youth shrugged and said, "You'll learn it if you can understand it. Knowledg
 
 "Speaking of which," the man segued, "Are you interested in joining our Sect?"
 
-A faint spark resonated in the man's - the Sect Leader's - eyes that enraptured Revian completely. It sounded like a inquiry, but the force behind the question felt more like a command... and extremely enticing one.
+A faint spark resonated in the man's - the Sect Leader's - eyes that enraptured Revian completely. It sounded like an inquiry, but the force behind the question felt more like a command... an extremely enticing one at that.
 
 ____
 
