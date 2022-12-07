@@ -2,7 +2,7 @@
 id: whkz4zhtp8ud7vk59cumzyl
 title: Chapter 254 - Beatdown
 desc: ''
-updated: 1668195907503
+updated: 1670431099587
 created: 1667751954387
 ---
 
@@ -102,7 +102,7 @@ Mage Maddi released a surprised squeak before joining the lad in his mirthful ju
 
 Her eyes flared open and glazed over with the weight of PTSD bearing down on her. With a blank expression she turned to Shay-Hade.
 
-"Pegging? Really?" She then turned towards Mage Maggi. "You know what? It's your personal business, who am I to judge what your likes and dislikes are? Kudos to you for finding someone so compatible with yourself."
+"Pegging? Really?" She then turned towards Mage Maddi. "You know what? It's your personal business, who am I to judge what your likes and dislikes are? Kudos to you for finding someone so compatible with yourself."
 
 The woman and youth both flushed a bloody crimson shade in unison. The boy started to edge backwards and burst into a full sprint as he vacated the premises.
 
