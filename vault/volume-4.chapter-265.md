@@ -2,7 +2,7 @@
 id: q4hf9r54h5h3ony32yo2j9r
 title: Chapter 265 - Nudge in the Right Direction
 desc: ''
-updated: 1670437267773
+updated: 1670524513702
 created: 1670171969854
 ---
 
@@ -106,15 +106,15 @@ ____
 
 "But Young Master, this slave looked into it. The True World Sect was only just formed. Why waste our time with them when Second Master secured a position for us with the Raging Torrent Sect?" A subdued voice spoke up. It was from the hunched figure of an older man, garbed in common servant's attire with nothing distinctive about him.
 
-"Lowe, you didn't see that spell! If you did, you wouldn't be so apprehensive about them like you are now," the boy reaffirmed vehemantly. "There were eight out of ten points similar between this spell and the attack Elder Brother suffered against that bastard Gaige Bori!"
+"Lowe, you didn't see that spell! If you did, you wouldn't be so apprehensive about them like you are now," the boy reaffirmed vehemantly. "There were eight out of ten points similar between this spell and the attack Eldest Brother suffered against that bastard Gaige Bori!"
 
 The servant suddenly recollected the sorry figure of his Eldest Young Master who was turned to a mush under the wight of absolute darkness. Thankfully, treatment was administered at the opportune moment, otherwise he feared the Eldest Young Master would forever remain a mulch.
 
-"You saw how things transpired, Elder Brother was completely useless against it. We've found his weakness! We just have to exploit it ourselves. I don't have a damn Abyssal Wyrm's blood flowing through my veins, so I can't use the same attack Gaige did. But this boy doesn't have a special bloodline. I checked, the Detection Artefact didn't even flicker when I pointed it his way. This can only mean that there is another method to tap into the powers of the Abyss!"
+"You saw how it all went down, Eldest Brother was completely useless against it. We've found his weakness! We just have to exploit it ourselves. I don't have a damn Abyssal Wyrm's blood flowing through my veins, so I can't use the same attack Gaige did. But this boy doesn't have a special bloodline. I checked, the Detection Artefact didn't even flicker when I pointed it his way. This can only mean that there is another method to tap into the powers of the Abyss!"
 
 The servant held back a sigh of resignation at his current master's words that bordered on fratricide. He saw the boy's gaze turning resolute, which was never a good sign.
 
-"I must get my hands on this power! I must join the True World Sect at all costs!" The boy declared before beginning his saunter over to the kiosk.
+"I must get my hands on this power! I must join the True World Sect at all costs!" The boy declared before beginning his saunter over to the kiosk. "And if that fails? Well..." he revealed a malicious sneer and concluded, "I guess some 'motivation' will be necessary."
 
 ____
 
