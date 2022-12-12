@@ -2,7 +2,7 @@
 id: 49byrfm84ao7lcq9llxrzti
 title: Chapter 267
 desc: ''
-updated: 1670829919525
+updated: 1670873236762
 created: 1670171980251
 ---
 
@@ -44,7 +44,9 @@ Guy prepared to leave the stand. "You two can handle recruitment, right? Yeah...
 
 ____
 
-Guy left the Recruitment Grounds in pace and 
+Guy left the Recruitment Grounds at a brisk pace. He looked around and managed to catch a few observers trying their hardest to act inconspicuous. Guy could sense that these stalkers were all mages in the Late Stage of Mana Condensation realm; they probably weren't trained in staking out a target. Regardless of their ineptitude in stalking a target, they were anything but diligent in their dogged pursuit to keep Guy in their sights at all time. To throw off his followers, Guy transitioned from one district to the next. However, there was always someone there - he would catch a rogue glimpse of them from the corner of his vision or through his mana senses.
+
+But after a few more transitions, Guy noticed the follower count diminish. It seemed that the further he dwelled into the commoner's and low-class districts, the more the eyes trained on him diminished. Until eventually, he crossed a pair of gates with rust peeking through the crusted paint of gold - an apt descriptor of what lay beyond. This wasn't the absolute low-class district, akin to the Flea Markets with double digits. This was a legitimate commercial district for the upper-low to middle class.
 
 ____
 
