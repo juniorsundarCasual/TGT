@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/juniorsundarCasual/TGT#readme",
   "dependencies": {
-    "@dendronhq/dendron-cli": "^0.118.0"
+    "@dendronhq/dendron-cli": "^0.119.0"
   },
   "description": ""
 }
