@@ -2,7 +2,7 @@
 id: hksiw6gxb4q6npbct7vkj0e
 title: Chapter 269 - The Abyss Stares Back
 desc: ''
-updated: 1671473715308
+updated: 1671598378122
 created: 1670783763898
 ---
 
@@ -16,7 +16,7 @@ Alas, this wasn't something Guy could just sweep under the rug. There was a gap 
 
 "What happened in those seven or eight hours?" Evidently, a lot.
 
-"I need to backtrack myself," Guy decided. He took a long breath and steeled his resolve. With a forced push, he shoved the metal door open and entered the den of corpses once again. The pungent stench of urine and feces accented by the metallic odour of blood assaulted his senses once again. He carefully tip-toed through the narrow hallway, avoiding stepping on any bodies as he walked along and making observations as he moved along. There wasn't much to see around. The hallway was fairly basic, though it lacked the general dilapidated theme the "architecture" outside was going for. The path snaked and dipped and rose from underground a few times, with forks in the path that would have waylaid him if not for the trail of blood and bodies indicating the correct direction. With only the dead bodies to derive conclusions from, he noted the similarities as well as the differences in their states, hoping that maybe the pattern and/or deviations in patterns may signal towards an answer.
+"I need to backtrack myself," Guy decided. He took a long breath and steeled his resolve. With a forced push, he shoved the metal door open and entered the den of corpses once again. The pungent stench of urine and feces accented by the metallic odour of blood assaulted his senses once again. He carefully tip-toed through the narrow hallway, avoiding stepping on any bodies as he walked along and making observations as he moved along. There wasn't much to see around. The hallway was fairly basic, though it lacked the general dilapidated theme the "architecture" outside was going for. The walls had gunk and moss growing from years of poor management, and the floor was cracked and uneven from erosion or rogue weeds. There was no natural light entering the hallway - there were no windows to allow it egress - and even the frequent lamps illuminating the area emanated a dreary light. The path snaked and dipped and rose from underground a few times, with forks in the path that would have waylaid him if not for the trail of blood and bodies indicating the correct direction. With only the dead bodies to derive conclusions from, he noted the similarities as well as the differences in their states, hoping that maybe the pattern and/or deviations in patterns may signal towards an answer.
 
 To that end, till now, he had yet to notice any deviations in the way that these people died. It was uniform, to an eerie degree.
 
