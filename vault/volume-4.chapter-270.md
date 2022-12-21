@@ -1,8 +1,8 @@
 ---
 id: x6gjzfgxa49e52v4jft6da6
-title: Chapter 270
+title: Chapter 270 - Decisive Strike
 desc: ''
-updated: 1671601887910
+updated: 1671649330757
 created: 1670783768770
 ---
 
@@ -54,9 +54,27 @@ There is, however, a bandwidth between these two extremes where the damage is su
 
 Guy's mind had cracked under the sudden influx of shocking information. Regardless of how calmly he carried himself, he was floundering internally. The paint was spilt on the canvas without his control, but it was his body that ultimately spoiled the artwork. The blame would fall on him. He now had to live with this fact.
 
-If this was in his past life, there were ways to deal with it. First off, he would admit himself to an Institute of Mental Health and seek treatment. Of course, if he had murdered someone, he would first need to turn himself into the authorities, which would lead him down a rabbit hole of litigation and convincing the government that he wasn't in full control of his body, which shouldn't have been too hard given the level the field of phychiatry and psychology had reached during his time. Even if that wasn't possible, he could always leverage the capacity of an expert criminal lawyer to plead insanity through any means necessary.
+If this was in his past life, there were ways to deal with it. First off, he would admit himself to an Institute of Mental Health and seek treatment. Of course, if he had murdered someone, he would first need to turn himself into the authorities, which would lead him down a rabbit hole of litigation and convincing the government that he wasn't in full control of his body, which shouldn't have been too hard given the level the field of psychiatry and psychology had reached during his time. Even if that wasn't possible, he could always leverage the capacity of an expert criminal lawyer to plead insanity through any means necessary.
 
-However, just like the Other Guy said, this world was different.
+However, just like the Other Guy said, this world was different. First off, the so-called order prevailing in the Empire was tenuous at best. A small gust of wind could push everything into chaos. If Guy confessed to the crime of massacring all these people, he most likely wouldn't stand a fair trial. Furthermore, the end outcome would either be an execution or imprisonment after forcefully destroying his cultivation. He really didn't want that. Which meant that...
+
+'I guess I will have to live with this,' he concluded with great discomfort. The thought itself left him with a horrible taste in his mouth. However, this conclusion marked the first step of Guy's cracked mind attempting to fix itself by filling in the blanks.
+
+Excess rationalisation.
+
+"Maybe the Other Guy was right... that this end was inevitable. There is no justice. Reporting them to the authorities would yield me nothing. There was nothing I could do to change the alter anything peacefully..."
+
+"At the very least, I fulfilled my promise to Yohn. He can live his life free from the weights of vengeance bearing down on his soul. His suffering was great, but now he will have the opportunity to heal."
+
+Guy mumbled to himself as he made his way out of the room. Right as he moved past the entrance, he paused and turned. He looked around one last time and furrowed his brows in thought. Then, pulling out the wand from his coat, he pointed it towards the central pillar. An intricate spell circle formed at the wand's tip following which a steady stream of what looked like liquid fire gushed out. Guy moved the wand's point all around the room and doused it thoroughly in flames. While retracing his path out of the area, he did not forget to release more of the liquid fire.
+
+The metal door banged close, stopping the rapidly expanding embers in their track. No evidence could remain. Although the Other Guy was generally hands-off in handling the opponents, his presence in the area itself would allow a mage to derive his identity. However, fire cleanses everything, there should be nothing left within a few more minutes.
+
+Guy didn't need to wait to confirm this. He turned and walked out of the alleyway and into the Flea Market. He avoided the crowds by securing high-ground through physical means. Moving between places via rooftops, especially with the largely dilapidated buildings and slum housing, was a chore, but far more comfortable that getting squished between people and potentially getting trampled over.
+
+Once he exited the district, Guy wanted to beeline back to the recruitment grounds, but a recent memory held his feet back. He turned perpendicularly and walked in a different direction. His destination was known, and there was a growing suspicion in his heart that he just had to confirm.
+
+Unfortunately, he realised that the suspicion turned out to be true the moment he arrived in front of his destination: one of the more famous brothels in the Middle Class Districts... or whatever was left of it, anyways.
 
 ____
 
