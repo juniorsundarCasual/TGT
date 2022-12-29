@@ -2,7 +2,7 @@
 id: 5uwsbhqptp6spig4k6jc01t
 title: Chapter 271 - Coming to Terms with Murder
 desc: ''
-updated: 1672170011517
+updated: 1672337365663
 created: 1671388295652
 ---
 
@@ -44,7 +44,7 @@ In the outside world, Guy was immediately snapped out of his downward spiral by 
 
 The conversing figures peeked around the alley's corner, and Guy managed to catch their faces. He knew them. He had met them earlier.
 
-"Sect Leader Larks!" Yohn exhorted as he stepped forward carefully. He used his stick to navigate and stood giddily in front of Guy. His voice was oozing with excitement and his expression augmented this with an outward showing of gratitude.
+"Sect Leader Larks!" Yohn called out as he stepped forward carefully. He used his stick to navigate and stood giddily in front of Guy. His voice was oozing with excitement and his expression augmented this with an outward showing of gratitude.
 
 "I-I don't know what to say..." Yohn continued. He was unable to stop his teeth from showing as a smile split his face from ear to ear. "Frankly, when you promised that you would seek justice for everything I and my peers suffered at the hands of those... monsters, I was sceptical that you would be able to achieve it. And for that, this lowly one is filled with guilt."
 
