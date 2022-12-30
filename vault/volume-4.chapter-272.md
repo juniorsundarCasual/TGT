@@ -2,7 +2,7 @@
 id: v6ody43h0mot549l0upzh46
 title: Chapter 272
 desc: ''
-updated: 1672340714686
+updated: 1672401913419
 created: 1671388299855
 ---
 
@@ -68,9 +68,23 @@ The kids apprehensively let themselves get excited at the prospect of joining an
 
 ____
 
-At the same time as this was taking place, at various locations accross Sunspear, key figures and groups were reeling from the sudden acts of terrorism that took place accross the capital. Many people had died, many key figures, of which there were a lot of known casualties amongst the higher ranked wizards.
+At the same time as this was taking place, at various locations accross Sunspear, key figures and groups were reeling from the sudden acts of terrorism that took place accross the capital. Many people had died, many key figures, of which there were a lot of known casualties amongst the higher ranked officials.
 
-There was also now a power vaccuum in the Capital, since the Beggars' Sect had mysteriously dissapeared off the face of the earth. The sect of lowlives actually played a key rile in the devekio
+It was a targeted and highly coordinated attack, that indicated that the perpetrators at least had a deep level of intimacy with the capital. The first suspect was the Beggars' Sect at the Capital, since they were known to be heavily dispersed and ingrained into the roots of the city. Furthermore, the locations targeted by the perpetrators all happened to have some connection with the Sect. However, a deeper investigation brought forth that the Beggars' Sect had disappeared completely from the Capital altogether.
+
+The Sect's den was found to be burned to the ground, with a mountain of charred corpses within. Interestingly, it wasn't the fire that killed them. Some of the bodies held traces of sinister torture!
+
+All of this evidence pointed to one simple fact: That there was a new player in town, and they wanted to make an entrance flashy enough to secure a position for themselves in the Capital. Their goal must have been to replace the Beggars' Sect, seeing as they rooted them out leaf and stem. Unfortunately, this new player lacked foresight and decided to antagonise a diversified group of people. Needless to say, they would be facing a war on multiple fronts.
+
+The facts of this matter, as well as steps that would be needed in preparation of this new player were the topics of discussion in the latest Congregation at the Palace of the Sun.
+
+"Your Majesty, the ongoing investigation has reached a stand-still! We need to take firmer action. Please consider deploying the Imperial Forces!"
+
+"The Imperial Forces cannot leave the Palace, it is their duty to protect the Emperor and his bloodline!"
+
+"But the Capital bleeds while we take no action-"
+
+As the Minister's argued and presented their stances, the Emperor - the Descendent of the Sun - looked on with an irate expression forming on his mien.
 
 ____
 
