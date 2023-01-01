@@ -1,8 +1,8 @@
 ---
 id: v6ody43h0mot549l0upzh46
-title: Chapter 272
+title: Chapter 272 - All Coming Together
 desc: ''
-updated: 1672401913419
+updated: 1672594280062
 created: 1671388299855
 ---
 
@@ -84,7 +84,7 @@ The facts of this matter, as well as steps that would be needed in preparation o
 
 "But the Capital bleeds while we take no action-"
 
-As the Minister's argued and presented their stances, the Emperor - the Descendent of the Sun - looked on with an irate expression forming on his mien.
+As the Minister's argued and presented their stances, the Emperor - the Descendent of the Sun, the Solar Emperor - looked on with an irate expression forming on his mien.
 
 ____
 
