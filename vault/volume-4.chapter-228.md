@@ -2,7 +2,7 @@
 id: 2p3em52w0gq9x1rz8lcjusz
 title: Chapter 228 - Grandest of Finales
 desc: ''
-updated: 1664565343956
+updated: 1672682650630
 created: 1662123577080
 ---
 
@@ -14,7 +14,7 @@ Apart from Head Eunuch Row, a few other contenders opposed his course forward. A
 
 Once he'd reached the entrance to the Inner Court, Yor was finally faced with the first true opposition. Before him stood a vast contingent of the Solar Empire's Royal Army, with the Emperor himself poised in the lead. The man was garbed in his yellow-orange robe with burning-red borders. His long, flowing, fiery-red locks were fastened into a prim top-knot with a golden crown that held the Sol Clan's emblem on it holding his hair in place. His face was stoic, though a mote of antagonism was leaking through the wrinkling cracks that formed on his pristine, tanned skin. His ruby eyes glinted with animosity and rage, and his mana complimented this emotion by gushing forward with unbridled fury. Then, as the Emperor's senses latched properly upon Yor's form a flash of recognition sparked in his face, which then warped further with irritation.
 
-"So one of the Yoruz Clan's dastardly contraptions still lives? Here I thought that the knowledge and skill to create them went extinct with that wretched woman," the Emperor commented with an audible edge in his tone. He then growled, "You have cost me a very loyal and powerful servant. For your crime of treason, your punishment is death. And for killing a Princess of the Solar Empire, your death will be slow and painful."
+"So one of the Yoruz Clan's dastardly contraptions still lives? Here we thought that the knowledge and skill to create them went extinct with that wretched woman," the Emperor commented with an audible edge in his tone. He then growled, "You have cost us a very loyal and powerful servant. For your crime of treason, your punishment is death. And for killing a Princess of the Solar Empire, your death will be slow and painful."
 
 "I challenge you to try," Yor shot back a provocative smirk. "Your majesty," he added with a sarcastic and mocking drawl.
 
@@ -30,7 +30,7 @@ As the back-and-forth reached a tense equilibrium, the Emperor made the first mo
 
 The Emperor gazed towards the hit location and noticed a fist size hole tearing through his robe. One must know that the Emperor's garb is highly enchanted and commonly known to be impenetrable. On top of that, the punch had left a visible char on the Emperor's skin itself, having burst through all the protective measures the Emperor hastily erected to negate the attack.
 
-"You're strong, I'll give you that. Why chose the path of suicide? You and the girl could have escaped?" The Emperor questioned.
+"You're strong, we'll give you that. Why chose the path of suicide? You and the girl could have escaped?" The Emperor questioned.
 
 Surprisingly, Yor offered him a response. "As long as the Sol Clan reigns over the Solar Empire, the Young Mistress would never truly be free from your grasp."
 
@@ -46,7 +46,7 @@ An opportunity presented itself, and the Emperor capitalised on it. Just as he p
 
 The Emperor brought his heel down on Yor's right knee, shattering it and staggering his balance. He then twisted and raised his leg above Yor, bringing it down toe first as a pointed hammer towards Yor's head. Like a comet, a trail of superheated gas followed the immolated foot's trajectory, only to face a final and desperate opposition from Yor's four arms blocking its motion. The Emperor started to push all of his power towards the attack forcing it downwards in an attempt to crush through Yor's defence and obliterate him completely.
 
-"You cannot defeat me!" The Emperor declared mockingly as an audible crack emanated following the destruction of one of Yor's wooden hands. The immolated foot was now right in front of Yor's eyes, who was now on his last knee, boiling the skin of his face at a visible rate. 
+"You cannot defeat us!" The Emperor declared mockingly as an audible crack emanated following the destruction of one of Yor's wooden hands. The immolated foot was now right in front of Yor's eyes, who was now on his last knee, boiling the skin of his face at a visible rate. 
 
 Contrary to his expectations, Yor revealed a proud smirk and said, "My goal was never to defeat you!"
 

@@ -1,8 +1,8 @@
 ---
 id: v6ody43h0mot549l0upzh46
-title: Chapter 272 - All Coming Together
+title: Chapter 272 - All Coming Together (Part One)
 desc: ''
-updated: 1672594280062
+updated: 1672683080742
 created: 1671388299855
 ---
 

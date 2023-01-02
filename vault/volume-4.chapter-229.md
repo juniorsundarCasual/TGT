@@ -2,7 +2,7 @@
 id: 6sz0r46bmf2fuk0zdqmw61u
 title: Chapter 229 - (Interlude) Lost and Gained
 desc: ''
-updated: 1664775919427
+updated: 1672682805102
 created: 1662123580943
 ---
 
@@ -38,11 +38,11 @@ At that moment, the newly promoted Head Eunuch entered the room in a low-bowed p
 
 The person in question, Consort Nuri, was the Emperor's currently favoured in the Inner Court.
 
-"Tell her I'm fine," the Emperor waved away.
+"Tell her I'm- we're fine," the Emperor waved away.
 
 "This lowly one has conveyed that message already, yet Consort Nuri appears adamant..." the Head Eunuch responded while suppressing the sweat attempting to soak through his garb.
 
-"Fuck! Just tell her to get lost. Do I look like I'm in any position to entertain those scheming shrews?!" The Emperor shouted, trying his utmost to cloak an escaping groan from diminishing his gravitas.
+"Fuck! Just tell her to get lost. Do I- we look like we are in any position to entertain those scheming shrews?!" The Emperor shouted, trying his utmost to cloak an escaping groan from diminishing his gravitas.
 
 The Head Eunuch bowed even lower and retreated through the door while facing forward.
 
@@ -50,11 +50,11 @@ The Head Eunuch bowed even lower and retreated through the door while facing for
 
 "Knows...?"
 
-"About. My. Condition!" The Emperor gnarled.
+"About. Our. Condition!" The Emperor gnarled.
 
 "Umm... I have taken the initiative to enforce strict confidentiality. As it stands, only I am aware of your... condition, Your Majesty."
 
-"Good... good," The Emperor mumbled. "What of my recovery, then?"
+"Good... good," The Emperor mumbled. "What of our recovery, then?"
 
 "Not to worry, Your Majesty, I have conveyed the treatment process to my subordinates in the Health Department," the Royal Healer assuaged.
 
