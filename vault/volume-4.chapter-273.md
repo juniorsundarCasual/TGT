@@ -2,7 +2,7 @@
 id: ij2lpq4mfhqluwrf85nny3g
 title: Chapter 273 - All Coming Together (Part Two)
 desc: ''
-updated: 1672683471401
+updated: 1672763306213
 created: 1672074082295
 ---
 
@@ -78,7 +78,7 @@ The Emperor was about to respond, when suddenly, his head darted upwards and his
 
 "This slave will investigate the disturbance," a masculine voice with a feminine tune interjected the Emperor's sentence before a man dressed in the Head Eunuch's attire appeared out of thin air, bowed, and disappeared.
 
-The Emperor flashed a look towards the Imperial Forces stationed in the room and transmitted a series of commands telepathically.
+The Emperor flashed a look towards the Imperial Forces stationed in the room and transmitted a series of commands telepathically. Although he'd lent an appreciable amount of his forces to the City's guard, there were still enough remaining to handle this... situation.
 
 "The court is adjourned," the Emperor declared as he stood up with a flourish. With that said, the ministers filed out of the room hurriedly. He then proceeded to walk at a brisk pace towards the source of the disturbance while spreading out his senses to collate as much information available as possible.
 
