@@ -86,7 +86,6 @@ publishing:
     enableNoteTitleForLink: true
     enablePrettyRefs: true
     enableKatex: true
-    assetsPrefix: /TGT
     copyAssets: true
     siteHierarchies:
         - home
@@ -95,17 +94,8 @@ publishing:
         - volume-2
         - volume-3
         - volume-4
-    enableSiteLastModified: true
-    siteRootDir: docs
-    siteUrl: https://juniorsundarCasual.github.io
-    enableFrontmatterTags: true
-    enableHashesForFMTags: false
-    enableRandomlyColoredTags: true
-    duplicateNoteBehavior:
-        action: useVault
-        payload:
-            - vault
     writeStubs: false
+    siteRootDir: docs
     seo:
         title: The Good Teacher
         description: Repository of chapters
@@ -115,6 +105,17 @@ publishing:
         editLinkText: Edit this page on GitHub
         editBranch: main
         editViewMode: tree
-    enablePrettyLinks: true
+    enableSiteLastModified: true
+    enableFrontmatterTags: true
+    enableHashesForFMTags: false
+    enableRandomlyColoredTags: true
     enableTaskNotes: true
+    enablePrettyLinks: true
     searchMode: lookup
+    assetsPrefix: /TGT
+    siteUrl: https://juniorsundarCasual.github.io
+    duplicateNoteBehavior:
+        action: useVault
+        payload:
+            - vault
+    theme: dark
