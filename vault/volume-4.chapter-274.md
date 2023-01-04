@@ -2,7 +2,7 @@
 id: nlnvr4olwhcd5x8v7zvcwda
 title: Chapter 274
 desc: ''
-updated: 1672774583588
+updated: 1672834094286
 created: 1672074090526
 ---
 
@@ -38,7 +38,13 @@ The "someone" who should be rightfully blamed was getting ready to leave the Cap
 
 "I hope that I don't disappoint..." Markus responded with a nervous sigh.
 
-"You know that you can never disappoint me!" Guy guffawed.
+"You know that you can never disappoint me!" Guy said in response to an embarrassed Markus. He then observed from atop the Capital's walls as his Disciple ascended his ride and rode off through the gates and into the horizon. His ride blended into the sea of others amidst the mass exodus. Merchants were streaming out of the Capital due to the increased stringency of the security affecting their streamlined business process. Imports were being held back for extended durations to facilitate additional levels of inspection, sales were being affected with constant search-and-seizure being conducted by Capital's security and Imperial Forces on a power trip, and there was a marked reduction of customers as people just didn't feel safe entering public areas.
+
+"I can't stay in this city any longer," Guy muttered as he turned and walked back to the Rasmus Clan's residence.
+
+____
+
+Guy departed the city with Jean, Dora and Josie a day after Markus. Their destination followed 
 
 ____
 
