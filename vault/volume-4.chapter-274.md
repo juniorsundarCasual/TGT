@@ -1,8 +1,8 @@
 ---
 id: nlnvr4olwhcd5x8v7zvcwda
-title: Chapter 274
+title: Chapter 274 - Departure from the Capital
 desc: ''
-updated: 1672834094286
+updated: 1672862955438
 created: 1672074090526
 ---
 
@@ -44,7 +44,35 @@ The "someone" who should be rightfully blamed was getting ready to leave the Cap
 
 ____
 
-Guy departed the city with Jean, Dora and Josie a day after Markus. Their destination followed 
+Guy departed the city with Jean, Dora and Josie a day after Markus. Their path veered Northwest from the Capital, in the general direction of the Balen Duchy. According to chatter in the Merchant's Guild, there was a sudden uptick in the cases of villages turning barren after contracting the hitherto unnamed disease. Through word-of-mouth, they learned a few of the symptoms of the illness. Fever, headache, loss of appetite, dehydration, development of black bumps all over the body, the bumps filling up with a viscous black pus that leaks, complete organ failure, death. The worst part was that all of this would occur within days of the first sign of actually catching the disease.
+
+As of yet there were no survivors from this plague. Furthermore, all the victims were mortals - it appears that whatever it is, the average mage's immune system was fully capable of warding it off. This was also probably why the response to combat this problem has been so delays. Although the local Clans had taken steps to address this problem (which had inevitably affected their source of income through taxation), it hadn't reached a level that warranted a raise in priority. Nonetheless, there were people already on the case, and needless to say that the progress towards solving it was moving at a snail's pace.
+
+"You're worried," Guy noted after reading the faint stress lines showing on his second student's usually unperturbed face.
+
+"I am... I don't know if I can help those people," Jean confessed. "I'm not my mother. If only she were here..."
+
+"It would be asking too much to have a child such as yourself cure an epidemic of such a magnitude," Guy noted. "It doesn't matter if you succeed, nor does it matter if you fail. What matters is that you give it your all! Do not slack, do not compromise, do not settle. Do everything that you can within your limit, and a step beyond. Because what hurts the most is knowing that you could have done just a little more. There are very few second chances in life, even fewer so when it comes to healing someone. So you must make sure that at every try, you give it your very best shot! Success is expected, failure should only be a result of ineptitude not negligence."
+
+Jean nodded thoughtfully as she clenched her palms into a resolute fist. Her gaze veered off into the distance, as the empty plains started to merge into dense shrubbery. With every bump and tumble of the carriage, her mind grew more and more volatile.
+
+#Let this be a lesson for you. You will NEVER be as good as her!#
+
+*You should just do your best. Don't worry about what anyone else says!*
+
+#All you're meant for is failure. All you are good for is watching people die.#
+
+#What CAN you even do after going there? You are nothing! You will amount to nothing! You -#
+
+"ENOUGH!" Jean bellowed.
+
+"Young miss?" Josie exclaimed as she arrived before Jean. Dora groggily woke up from her sleep. Guy looked over and saw Jean grasping her head in distress.
+
+"Jean, are you okay?" Guy asked worriedly.
+
+"Y-Yes, I'm fine. Just a little stressed, that's all," she responded before entering a meditative pose in lotus position.
+
+Hopefully that would shut the voices up.
 
 ____
 
