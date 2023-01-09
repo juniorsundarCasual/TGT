@@ -1,8 +1,8 @@
 ---
 id: imcetxuec2fm74bv0gw15jm
-title: Chapter 276
+title: Chapter 276 - Proposition/Invitation
 desc: ''
-updated: 1673202698936
+updated: 1673290405774
 created: 1673195273960
 ---
 
@@ -69,4 +69,69 @@ Markus groaned loudly, "Alright, how much is it?"
 After some internal debating, that was as clear as day on the boy's transparent face, he relented. And with that decided, and the contracts signed, Shuri ascended up the carriage and rested herself closest to the exit. She was feeling drowsy. And though she wanted to remain awake, especially when amidst strange new company, her body was not in the mood to listen. Sleep took her almost immediately.
 
 ____
+
+When Shuri woke up, she wasn't in the carriage anymore, instead she was laying on a plan mattress sized for one person. It wasn't as soft as her bed back at her personal hell, but it was far more comfortable than the barrel she used to hide inside, and the rocking carriage she fell asleep in. But that was all beside the point, "How did I get here?"
+
+Right on queue, Shuri heard a series of uniform knocks. Her sight turned clearer and she realised that she was currently in a single bedroom of sorts. Apart from the bed, there was a table, a chair, a small cupboard, all within a tiny space. The knock was coming from the door on the far side.
+
+"Excuse me, young lady? Young ma'am?" It was Markus' voice. "What do I even call her?" the boy muttered.
+
+"Yes," Shuri answered loud enough for the boy to hear.
+
+"Good, you're awake. We decided to prepone our rest-stop and opted to stay at an inn in the nearest village. I had you moved up to the bedroom, since you were sound asleep. Do not worry, it was all contactless," the boy assured. He started to speak in a hurried and anxious manner, and his voice gradually grew louder. Shuri suppressed her growing headache and stumbled groggily towards the door.
+
+"I'm a mag- Oh! Good morning!" The boy greeted midway through his statement of justification. "I've taken the liberty of moving your things into the cupboard there."
+
+Shuri approached the cupboard and pulled its creaky doors open. She saw her bag placed carefully, untouched. But she was also surprised to see a new pastel yellow dress, following the similar commoner's style she was wearing earlier.
+
+"This-?"
+
+"Oh! I saw that your clothes... Anyways, I felt that you would want to change and freshen up," Markus responded.
+
+Shuri placed the dress against her body and was impressed to see its size matching her.
+
+"I have some experience purchasing clothes for women," Markus added sheepishly.
+
+"Past lovers?" Shuri probed offhandedly, only to see the boy's face redden in embarrassment. He shook his head vehemently. "I was only joking," Shuri added. "Now if you wouldn't mind..." she gestured with her gaze which the boy understood as queue for him to leave.
+
+"I've ordered breakfast," he said as he left. "Come down before it gets cold."
+
+____
+
+"Slow down, you'll choke," Markus warned while moving the cup of water towards the girl scarfing down food like a beast.
+
+The girl chewed her food thoroughly and gulped down a mouthful of water and released an uncharacteristic sigh of contentment, the first sign of any emotion apart from dour apathy or cautiousness.
+
+"So, what's your plan?" Markus asked. "Back at the wreckage, I didn't see anyone else apart from the driver. Are you parent's okay?"
+
+The girl's hand paused, before she revealed, "I don't have any parents."
+
+Markus hummed in contemplation. All signs indicated that it was a lie. No orphan could produce so much currency as she did yesterday. Most probably, she was a runaway. What was she running away from? Markus had many more questions with the intention of probing the girl's background. But ultimately he decided to go down another path.
+
+"I can empathise," Markus said. "I don't have parents either - I'm an orphan, you see. Though I'm lucky to have a matron who raised me, a Master that guides and cares for me, siblings to support me, and a Junior Sister who worries after me. It wasn't always that peachy though. I used to live in the streets as a child; begging, mostly. I won't bore you with the details, but needless to say, I am grateful that all of these people became a part of my life. They save me from a terrible life."
+
+Markus noticed a deprecating sneer flash past the girl's face while he was talking about his family - a common sign of a person jaded by the world after experiencing irreconcilable familiar hardships of their own.
+
+"What about you? Is there anyone who you care about, or cares about you, waiting at the end of your travels?" Markus inquired nonchalantly.
+
+Seemingly, the previous personal anecdote lubricated the conversation just enough for the girl to lower her guard slightly.
+
+"No," she responded definitively. This was the first time she offered any information about her personal life. It was curt, but Markus was nonetheless impressed with himself for breaking through a barrier.
+
+"What is your objective, then?"
+
+The girl looked directly into Markus' eyes with a steely gaze and said, "Survive."
+
+Markus could feel an overbearing weight on that single word - it carried with it many meanings beyond the explicit. A tense quiet took hold of the immediate atmosphere surrounding their table. Although conversations continued nearby, Markus' world turned mute. 
+
+He let his thoughts wander as it worked through the many implied meanings of the girl's goal to "survive". Until eventually, after a long ten minutes of silence while the girl continued to fill her stomach, Markus snapped his fingers and asked, "What do you think about joining my Sect?"
+
+The girl choked on the food she was chewing, "Excuse me, what?"
+
+"My Sect," the boy repeated with a dead-serious expression with an expectant glint in his eyes while pointing at the insignia sewed into his coat. "Would you be interested in joining my Sect?"
+
+____
+
+**Next**
+* [[volume-4.chapter-277]]
 
