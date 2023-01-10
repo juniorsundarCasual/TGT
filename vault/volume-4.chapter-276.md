@@ -2,7 +2,7 @@
 id: imcetxuec2fm74bv0gw15jm
 title: Chapter 276 - Proposition/Invitation
 desc: ''
-updated: 1673290405774
+updated: 1673325141571
 created: 1673195273960
 ---
 
@@ -98,7 +98,9 @@ Shuri placed the dress against her body and was impressed to see its size matchi
 
 ____
 
-"Slow down, you'll choke," Markus warned while moving the cup of water towards the girl scarfing down food like a beast.
+Markus was entranced as the girl descended the staircase garbed in a simple yellow-pastel dress with her long, ethereal, silver hair set neatly into a thick braid. All eyes turned towards her, and followed her as she sat on Markus' table. The enrapturing ritual continued, until the girl's food arrived and was placed before her.
+
+"Slow down, you'll choke," Markus warned while moving the cup of water towards the girl scarfing down food like a hungry beast.
 
 The girl chewed her food thoroughly and gulped down a mouthful of water and released an uncharacteristic sigh of contentment, the first sign of any emotion apart from dour apathy or cautiousness.
 
