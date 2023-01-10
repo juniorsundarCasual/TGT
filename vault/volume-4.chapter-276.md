@@ -2,7 +2,7 @@
 id: imcetxuec2fm74bv0gw15jm
 title: Chapter 276 - Proposition/Invitation
 desc: ''
-updated: 1673325141571
+updated: 1673372518713
 created: 1673195273960
 ---
 
@@ -112,7 +112,7 @@ Markus hummed in contemplation. All signs indicated that it was a lie. No orphan
 
 "I can empathise," Markus said. "I don't have parents either - I'm an orphan, you see. Though I'm lucky to have a matron who raised me, a Master that guides and cares for me, siblings to support me, and a Junior Sister who worries after me. It wasn't always that peachy though. I used to live in the streets as a child; begging, mostly. I won't bore you with the details, but needless to say, I am grateful that all of these people became a part of my life. They save me from a terrible life."
 
-Markus noticed a deprecating sneer flash past the girl's face while he was talking about his family - a common sign of a person jaded by the world after experiencing irreconcilable familiar hardships of their own.
+Markus noticed a deprecating sneer flash past the girl's face while he was talking about his family - a common sign of a person jaded by the world after experiencing irreconcilable familial hardships of their own.
 
 "What about you? Is there anyone who you care about, or cares about you, waiting at the end of your travels?" Markus inquired nonchalantly.
 
@@ -124,9 +124,9 @@ Seemingly, the previous personal anecdote lubricated the conversation just enoug
 
 The girl looked directly into Markus' eyes with a steely gaze and said, "Survive."
 
-Markus could feel an overbearing weight on that single word - it carried with it many meanings beyond the explicit. A tense quiet took hold of the immediate atmosphere surrounding their table. Although conversations continued nearby, Markus' world turned mute. 
+Markus could feel an overbearing weight on that single word - it carried with it many meanings beyond the explicit. A tense silence took hold of the immediate atmosphere surrounding their table. Although conversations continued nearby, Markus' world turned mute. 
 
-He let his thoughts wander as it worked through the many implied meanings of the girl's goal to "survive". Until eventually, after a long ten minutes of silence while the girl continued to fill her stomach, Markus snapped his fingers and asked, "What do you think about joining my Sect?"
+He let his thoughts wander as it worked through the many implied meanings of the girl's goal to "survive". Until eventually, after a long ten minutes of pause while the girl continued to fill her stomach, Markus snapped his fingers and asked, "What do you think about joining my Sect?"
 
 The girl choked on the food she was chewing, "Excuse me, what?"
 
