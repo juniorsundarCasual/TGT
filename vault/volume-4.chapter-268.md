@@ -2,7 +2,7 @@
 id: ect9bi0z4i4zcwfwdpbxlmg
 title: Chapter 268 - Promise Made, Promise Kept
 desc: ''
-updated: 1673246679052
+updated: 1673695254906
 created: 1670783758845
 ---
 
@@ -62,7 +62,7 @@ The spoken words fell like bombs in the boys' ears. They flinched visibly, and t
 
 "Since they aren't aligned with the Sect Alliance, you are only a part of that organisation in name. We, however, are aligned with the Alliance and your membership with us has a layer of legal binding that secures your position." 
 
-Noticing the unchanged scepticism on their faces, Guy sighed and added, "I know that you still can trust me. So let me give you some more practical assurances: until our Sect passes the preliminary audit, we cannot undertake any underhanded or grey tactics that could violate the Alliance's or the Empire's laws."
+Noticing the unchanged scepticism on their faces, Guy sighed and added, "I know that you still can't trust me. So let me give you some more practical assurances: until our Sect passes the preliminary audit, we cannot undertake any underhanded or grey tactics that could violate the Alliance's or the Empire's laws."
 
 This did turn the kids' opinions slightly. To them, the legally binding nature of the relationship mattered a lot. If their existence was above board and insured, they wouldn't have to put up with all the dirty business the Beggars' Sect puts them up for.
 
