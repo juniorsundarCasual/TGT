@@ -2,36 +2,39 @@
 id: 7adxaiiwxu1wziz6q90zqe8
 title: Chapter 279
 desc: ''
-updated: 1673769573829
+updated: 1673808941344
 created: 1673763425357
-status: ''
-due: ''
-priority: ''
-owner: ''
 ---
 
-Jean and Josie put on hazmat type suits they made for themselves.
+The quarantine encompassed a large region between a Duchy and two of its neighbouring Marches. Within it, there were multiple villages and a township that stood as a key trading hub. Unfortunately, because of the epidemic and the subsequent collapse of the economy, the entire region was closed off and effectively excised from the trade links. This should have affected the Duchy and Marches greatly, and it did, but unlike businesses, Clans ran their profit-loss analysis in years to decades, rather than months to years. After all, once all the sick and infected were gone (which should take about six months through some estimates), this area would be free to use once again. Furthermore, there was never a shortage of people in this world.
 
-Jean and Josie arrive at a dilapidated village.
+Jean wasn't willing to subscribe to this line of thinking. Which was also why she was here, fitting herself into a puffy and uncomfortable personal protective equipment.
 
-Death everywhere, rats running around eating away the dead bodies.
+"You should also wear yours," Jean said to Josie, who was trying her hardest to suppress her laughter. The outfit was a full bodysuit that went over regular clothing, with strings wrapping around cuffs of each appendage and hood to tighten and tie so that nothing goes in. A mask of similar gauzy material was wrapped around Jean's face, with a glass mask over her eyes.
 
-The move ahead and arrive at another village. The result is the same.
+"This slave does not need it, Young Miss," Josie responded with a bow, less to be respectful, more to hide the rising corners of her lips.
 
-The quarantined area is vast. Along the way, they meet people running swarming to escape and save themselves, but none were being allowed to leave. Some showed signs of infection already. Jean decides that she should try her best to heal them.
+"It's not for you, it's for others. As long as we cover ourselves, we limit the chances of the illness nesting itself within our clothes. Its easier dispose of this that our clothes!" Jean reminded. An extended, stern stare down later, Josie found herself hugged by a garish white and gauzy outerwear with all facial protection, just like her Young Mistress.
 
-Jean and Josie set up a treatment camp. They separate those with signs of infection from those that aren't. Proceed to run battery of test on bodily fluid samples in hopes of deducing a way to cure the sickness.
+The duo trudged through the sparse forestry for an hour before they stumbled upon the first sign of possible human habitation - a dilapidated village. The place looked like a ghost-town with it collapsed or half-broken homes, and overall eerie atmosphere. Clearly, this place was only a settlement in name as its inhabitants had long since abandoned it. This was further corroborated when their sights fell on the burnt-to-a-crisp and charred mountain of corpses at the village's centre.
 
-A solution is evident via alchemy, however it is highly toxic to non-magical folk without the ability to circulate their mana. Saving them using this method is no worse than the sickness.
+"Do you think they did this after they died or before?" Jean muttered in disbelief.
 
-After much consideration, Jean determines that this sickness is what Mister Larks defined as a viral infection. The cause is a virus. Extracting learned knowledge, she determines that there is an interaction happening at the cellular level. After inspecting the blood and fluid samples of the infected, she observes the cellular interaction taking place. However, Jean lacks the sufficient knowledge to synthesise a solution to inhibit this process since she does not have the required prerequisite knowledge.
+"We can only hope that it was after. To be burnt alive... Maybe it was a better release than the inhumane death the disease offered?" Josie theorised.
 
-Knowledge can be accumulated but it takes time. Time is something they lack. A stopgap solution needs to be implemented.
+"Do you sense any living beings here?" Jean inquired. Josie extended her mana sense and zoomed through the village's perimiter.
 
-Jean decides to approach this problem with two prongs. She enlists Josie's assistance to narrow down the way the virus spreads. She confirms that transmission is through body-fluid, however there is evidence of the virus popping up in multiple places at once according to some reports.
+"None that are human. Though these rats sure are making my time harder," Josie grunted as she fired a razor of wind towards a congregation of large black rats fighting over a chunk of flesh that barely resembled an ear. The spell hit the congregation and shredded them until they were all turned into an explosion of blood and gore.
 
-Josie finds out that it is caused by specially bio-engineered rats with specialised sacks that cultivate and hold the dormant virus. Thus begins the complete eradication of rodentkind.
+"Was that necessary?" Jean groaned.
 
-Jean struggles to find a cure, but she stumbles upon a child taking care of an infected mother who is the verge of death. The child shows no signs of infection even after being in contact with a victim for so long. Jean theorises that the child has something inside her that is stopping the illness from developing. Using the child's fluid samples, she isolates the antibodies. She realises, though, that this process is not scalable as it would require her to use the child as a well. Thus, she decides to enlist her family's help which requires her to send a package. The nearest town offers an instant teleportation service.
+"Filthy creatures!" Josie spat in disgust, not bothering to hide her clear disgust of the rodents.
 
-The Rat King is 
+Jean shook her head and moved through the village in search of anything pertinent to her healing pursuits. Sadly, the whole place had been ransacked by its previous inhabitants, leaving nothing for Jean to use to make any deductions.
+
+With that, the duo moved one. They navigated in a counterclockwise path, moving progressively inwards with each circulation.
+
+____
+
+**Next**
+* [[volume-4.chapter-279]]
