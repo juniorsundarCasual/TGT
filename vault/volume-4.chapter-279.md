@@ -2,7 +2,7 @@
 id: 7adxaiiwxu1wziz6q90zqe8
 title: Chapter 279
 desc: ''
-updated: 1673808941344
+updated: 1673871945055
 created: 1673763425357
 ---
 
@@ -32,7 +32,21 @@ The duo trudged through the sparse forestry for an hour before they stumbled upo
 
 Jean shook her head and moved through the village in search of anything pertinent to her healing pursuits. Sadly, the whole place had been ransacked by its previous inhabitants, leaving nothing for Jean to use to make any deductions.
 
-With that, the duo moved one. They navigated in a counterclockwise path, moving progressively inwards with each circulation.
+With that, the duo moved one. They navigated in a counterclockwise path, moving progressively inwards with each circulation. They managed to find another village in their trajectory, but this one was also completely abandoned. This one, however, did not practise the method of burning away the dead bodies. Instead, the corpses remained, let to rot. These emaciated, rotted and half-eaten corpses were covered in black pus oozing out of the grape sized boils.
+
+Josie scrunched her face at this ghastly visual and proceeded to cremate the bodies, barring two that appeared recently deceased. Jean separated these two bodies and proceeded to take samples of the fluid stored in the boils and ran a thorough inspection of the deceased's condition at time of death. After an external check, she charged mana at the tip of her index and middle-finger and performed a large Y-incision, spanning shoulder to shoulder and chest to abdomen.
+
+"The heart has necrotised completely, even before death! The other organs have varying degrees of necrotic tissue," Jean exclaimed. "The disease targets the heart first."
+
+"Should I conduct an autopsy on the brain as well?" Jean questioned while turning towards Josie, who flicked her finger and exploded another horde of rats swarming on a corpse.
+
+"Filthy creatures!" Josie spat venomously. "It is not necessary. I can sense that the brain is sufficiently unaffected by the illness from here. Besides, we should at least honour these bodies with an intact mien for their funeral, even if it is delayed."
+
+Josie moved the bodies remotely and lit a burgeoning pyre to consume them. While the pyre bloomed, she diverted her gaze once again and started to explore more rodents that entered her line of sight. At one point, she pointed at an empty field and cast a quick spell causing a small explosion of dust and gore (apparently a rat had hidden itself underground).
+
+Turning her head, Josie noticed that Jean was looking at her pointedly. "Something you want to talk about?" Jean probed. It was clear that Josie nursed some sort of grudge with rats in general.
+
+Josie looked at the girl's face, which was unperturbed but held eyes that were eking concern. After a second of thought, she released a sigh and
 
 ____
 
