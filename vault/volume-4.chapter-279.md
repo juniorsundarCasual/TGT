@@ -1,8 +1,8 @@
 ---
 id: 7adxaiiwxu1wziz6q90zqe8
-title: Chapter 279
+title: Chapter 279 - For the Sake of Survival
 desc: ''
-updated: 1673871945055
+updated: 1673894847241
 created: 1673763425357
 ---
 
@@ -46,7 +46,65 @@ Josie moved the bodies remotely and lit a burgeoning pyre to consume them. While
 
 Turning her head, Josie noticed that Jean was looking at her pointedly. "Something you want to talk about?" Jean probed. It was clear that Josie nursed some sort of grudge with rats in general.
 
-Josie looked at the girl's face, which was unperturbed but held eyes that were eking concern. After a second of thought, she released a sigh and
+Josie looked at the girl's face, which was unperturbed but held eyes that were eking concern. After a second of thought, she released a sigh and said, "I hate rats."
+
+Jean exhaled through her nose to mimic a mirthful laugh, "I can see that."
+
+As the duo moved on, Josie stewed in her thoughts. Even Jean could see the internal turmoil her attendant was going through as it started to show on the woman's face.
+
+"When I turned six, a war ravaged our lands," Josie started. "One day, the war reached our village. My parents hid me away in the village's well that had dried up during a particularly brutal drought. The invaders came, raped and pillaged, but forgot to open the covered well and check within. I was only six back then. I stayed in the well for twelve months, in complete darkness. The only things to keep me company were my thoughts and the occasional rats that were just as starved as I was."
+
+Josie reached towards her left eye and popped the orb out of her eyes.
+
+"What in the world!" Jean exclaimed.
+
+"Hunger turns even the most fearful of creatures into berserking beasts," Josie confessed with an angry grunt. "They took my eye. In turn, I vowed that I would kill every single rat that crosses my path."
+
+"I-It didn't grow back? When you broke through into Core Formation?"
+
+"Your body can only be what your mind believes it to be, Young Miss," Josie responded with a wry smile. "In many ways, I never really escaped that well, did I?"
+
+At that instant, Josie flicked a finger and cloud of gore exploded from the root of nearby tree.
+
+"All rats care about is survival," Josie affirmed. "I guess I see myself in them. I see that little girl crawling in the darkness, clawing away and sucking at the stone walls of the well to extract as much groundwater as possible, eating anything I could get my teeth on like a feral animal. It makes me sick!"
+
+Josie raised her open palm and a hefty rodent rose from behind a bush. It was charcoal black with a crooked snout and wiry tail. It squeaked and yelped in a frenzied panic while trying to escape from the invisible grasp Josie had over it.
+
+"They have no honour. They would rather kill everyone around them if it means that they can survive," Josie murmured. Her eyes turned dark as though she were recollecting a distant and suppressed memory. "They will even eat each other if it means that they can survive!"
+
+"Josie..." Jean said as she stroked her attendant's arm.
+
+"I wasn't alone in that well," Josie revealed with a low voice. "Not at first."
+
+And with that, Josie squeezed her hand into a fist causing the suspended rodent to disintegrate into a bloody mist. She then walked forward at a quicker pace leaving Jean to digest what she had just heard. She swallowed a gulp involuntarily as she looked at Josie's figure.
+
+"Y-You only did it to survive," Jean said, hoping to assuage her attendant.
+
+"I know," Josie affirmed casually. "I was so willing to give away my humanity for the sake of survival. How does that make me any different from a rat?"
+
+"Would the Young Miss do it, if she were in my position?" Josie proposed.
+
+Jean couldn't provide an answer to that question.
+
+"I asked the Mistress the same question when we first became close partners," Josie said with a chuckle. "What does the Young Miss think that the Mistress' answer was?"
+
+"She... She wouldn't," Jean denied with certainty.
+
+Josie reached forward and placed her hand gently on Jean's shoulder. She then looked deep into the girl's eyes and shook her head apologetically, and Jean's entire world view shattered around her.
+
+She'd placed her mother on a pedestal, one that she herself could never hope to reach. But-
+
+"Survival is a state of mind, Young Miss," Josie reminded. "Do not think little of the Mistress. She only answered a hypothetical. It is not a sin to choose one's self over another."
+
+Jean nodded absent-mindedly. However, a thought struck her, "But you still disparage yourself for what you did when you were in that well."
+
+"That is because those that survive must ultimately live with themselves and bear the weight of their actions. The price one must pay to survive is often steep and unforgiving," Josie concluded.
+
+At that moment, the duo approached the vicinity of the trading town that was smackdab in the middle of the Duchy and its two neighbouring Marches. It used to be a bustling town, and it still was. Except its occupants were much smaller, dark-furred and with long scaly tails. This was a literal kingdom of them! Rats swarmed everywhere coating the place in a carpet of wriggling black mess.
+
+Jean turned her gaze towards Josie, only to realise that the woman had long since disappeared.
+
+And then a loud explosion resonated all around the forest.
 
 ____
 
