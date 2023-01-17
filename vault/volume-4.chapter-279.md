@@ -2,7 +2,7 @@
 id: 7adxaiiwxu1wziz6q90zqe8
 title: Chapter 279 - For the Sake of Survival
 desc: ''
-updated: 1673894847241
+updated: 1673976737616
 created: 1673763425357
 ---
 
@@ -100,13 +100,11 @@ Jean nodded absent-mindedly. However, a thought struck her, "But you still dispa
 
 "That is because those that survive must ultimately live with themselves and bear the weight of their actions. The price one must pay to survive is often steep and unforgiving," Josie concluded.
 
-At that moment, the duo approached the vicinity of the trading town that was smackdab in the middle of the Duchy and its two neighbouring Marches. It used to be a bustling town, and it still was. Except its occupants were much smaller, dark-furred and with long scaly tails. This was a literal kingdom of them! Rats swarmed everywhere coating the place in a carpet of wriggling black mess.
+At that moment, the duo approached the vicinity of the trading town that was smackdab in the middle of the Duchy and its two neighbouring Marches. It used to be a bustling town, and it still was. Except its occupants were much smaller, dark-furred and with long scaly tails. This was a literal kingdom of them! A live wave of tats swarmed everywhere coating the place in a carpet of wriggling black mess.
 
 Jean turned her gaze towards Josie, only to realise that the woman had long since disappeared.
-
-And then a loud explosion resonated all around the forest.
 
 ____
 
 **Next**
-* [[volume-4.chapter-279]]
+* [[volume-4.chapter-280]]
