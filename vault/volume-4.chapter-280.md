@@ -1,8 +1,8 @@
 ---
 id: t0q1a5gxhv98zvi3hmx2y7s
-title: Chapter 280
+title: Chapter 280 - The Abomination
 desc: ''
-updated: 1674046428950
+updated: 1674068536223
 created: 1673800809171
 ---
 
@@ -60,7 +60,29 @@ A rather annoying inconvenience since lacking a blind spot in conjunction with i
 
 Josie's initial plan was to wait and tire out the monster before going for the attack. Usually, in a fight between entities of different sizes, it was the larger one that tired out first since energy expended by the entity correlated to their size. This also translated to mana consumption. Unfortunately for her, the monster was barely using any mana in its attack and defence, and was not tiring out physically either. In terms of physical movement, Josie could observe that it had optimised energy use by distributing the load over the multiple rats making it up. This had to be an instinctive behaviour since the monster didn't seem to have the required mental capacities to make those calculations. The monster worked like an amalgamation of different agents working together AND as a single body, both at the same time. Furthermore, the monster was learning quickly as it fought her.
 
-An evasive tactic Josie employed twice was intercepted the third time. The fourth time it was followed up with a counterattack. The monster wasn't intelligent, but its instincts were sharp! It learned to predict Josie's attack patterns, defensive maneouvres and it could even read her 
+An evasive tactic Josie employed twice was intercepted the third time. The fourth time it was followed up with a counterattack. The monster wasn't intelligent, but its instincts were sharp! It even learned to predict Josie's attack patterns and defensive manoeuvres.
+
+Josie expected this fight to go more smoothly, given how her initial scan of the beast showed that it was only at the cusp of breaking through to the Core Formation realm. However, a magical beast's cultivation realm wasn't a sufficient basis of comparison to determine if a confrontation was favourable or not like it was with other sentient humanoids. With humans, a mage in the Foundation Establishment realm wouldn't stand a chance against another in the Core Formation realm. On the other hand, a Foundation Establishment realm magical beast could hold its ground against a Core Formation realm mage up to a certain limit.
+
+This was the case in the current fight. The creature was maintaining a sturdy defence while pressing the attack effectively. However, Josie was also holding her power output to about 75% of her maximum. It was never logical to go all out from the start, unless the conflict is about life and death. Noticing that the fight was going nowhere, Josie decided to ramp up her output. She gradually increased her speed until she was certain that she had hit the creature's reactionary ceiling, that is it could barely keep up with her movements.
+
+The first hit from Josie connected at an unreinforced section of one of the creature's tentacles. The appendage disconnected cleanly. An enraged shriek resonanted as the creature recoiled, in the moment of distraction, Josie called a |Wind Blade| and decimated the falling appendage, killing all the rats comprising it in the process. The creature quickly displaced more rats from its main body and regrew that limb, but while it did so, Josie zoomed past its defences and deleted two more of its tentacles.
+
+The creature realised that it could not afford to wait for its appendages to grow back - it had finally registered the threat Josie posed. Nothing is more dangerous than a cornered animal, because when they know that there is nothing left to lose except for their life, they will readily put that on the line without a second thought. The creature started to vibrate in place, causing an ominous drone to permeate into the atmosphere.
+
+Josie recognised this behaviour as its preparation to unveil one of its signature moves. She could not let that happen. She quickly summoned more |Wind Blade| spells and thrust it towards the creature. The spells all connected and started to tear and eviscerate the creature, causing clouds of blood and gore to spew out of its body. But the creature did not relent - its vibrations grew in intensity.
+
+While he spells were effective on the creature's tentacles, it was not the case when attacking the body. The area seemed far denser and more reinforced by the passive mana coursing through it. Josie realised she would have to close the distance and resort to piercing melee attacks.
+
+Within split-seconds, Josie covered the distance, but she was already too late. The creature stopped vibrating, expanded, and deflated causing a noxius black gas to rush out through the pores between adjacent rats adorning its entire body. The gas gushed out like an explosion that flooded the area aggressively, discombobulating Josie in the process.
+
+Jean observed the approaching gas and turned tail and ran for cover. She did not know what was within this gas, but she wasn't keen on quenching her curiosity with her life on the line. The gas moved quickly, like the lahar from a volcano, and was approaching her position quickly. In passing, she noticed a boarded up house that was fairly intact. Without wasting a minute, she beelined for it and burst through the door with her shoulders. She immediately pushed up the door and covered her entrance with her full body weight.
+
+The gas shook the house as it moved over it. Even with the boarded windows and the propped up door, it did not stop some of it from entering. Jean was confident that her personal protective equipment could keep her safe against this much exposure, as long as the gas contained a strain of the illness that ran rampant in this place.
+
+At that moment, Jean heard a light cough somewhere in the back of the house followed by a low and scared whimper.
+
+"Who's there?" Jean declared before moving cautiously towards the source of the noise.
 
 ____
 
