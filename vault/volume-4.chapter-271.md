@@ -2,7 +2,7 @@
 id: 5uwsbhqptp6spig4k6jc01t
 title: Chapter 271 - Coming to Terms with Murder
 desc: ''
-updated: 1673845405357
+updated: 1674294379081
 created: 1671388295652
 ---
 
@@ -48,7 +48,7 @@ The conversing figures peeked around the alley's corner, and Guy managed to catc
 
 "I-I don't know what to say..." Yohn continued. He was unable to stop his teeth from showing as a smile split his face from ear to ear. "Frankly, when you promised that you would seek justice for everything my friends and I suffered at the hands of those... monsters, I was doubtful that you would be able to achieve it. And for that, this lowly one is filled with guilt."
 
-At this moment, Kevan stepped forward and took over, "We were forced to leave our homes at the whims of mages drowning in the madness brought on by power. At every step of the way, we were forced to face disadvantages with our lives on the line, because of mages. So our scepticism was warranted when another Mage just pulled out an offer too good to be true out of nowhere. But Sect Leader Larks... You proved yourself to be different. You were the first person since we left our homes to properly care for us- to treat us like people."
+At this moment, Kevan stepped forward and took over, "We were forced to leave our homes because of mages drunk in their power. At every step of the way, we were forced to face roadblocks after roadblock with our lives on the line, because of mages. So our doubts were justified when another Mage just pulled out an offer too good to be true out of nowhere. But Sect Leader Larks... You proved that you were different. You were the first person since we left our homes to properly care for us- to treat us like people."
 
 The two boys tried to suppress their sobs, but a harmony of whines and sniffles still made it into Guy's erected sense of hearing. Guy turned towards the source of the sound, and the boy's followed his gaze.
 
@@ -58,7 +58,7 @@ A small battalion of kids garbed in worn-out clothing stepped out from around th
 
 "Sis, that's the man..." A little girl, maybe a year older than Dora, peeked from behind another girl around Jean's age and said with a low voice. "He's the one who got rid of all the bad men."
 
-"She was sold to a brothel operated by the Beggars' Sect," Kevan clarified. "When Sect Leader eradicated those dens of evil, you saved her life as well."
+"She was sold to a brothel operated by the Beggars' Sect," Kevan clarified. "When Sect Leader destroyed those dens of evil, you saved her life as well."
 
 "I did?" Guy blurted out. In response, the little girl inched closer and handed Guy an opaque, red-velvet cloth that was often used to blindfold (un)willing participants during... adventurous and dramatic activities supplementing the pleasures of the flesh.
 
@@ -66,7 +66,7 @@ A small battalion of kids garbed in worn-out clothing stepped out from around th
 
 "Lili here was to be sold to the Vice Minister of Finance for... a disgusting purpose. However, Sect Leader saved her, just like all of us here. And for that, we are infinitely grateful!" Yohn joined in.
 
-Kevan nodded and declared, "If the Sect Leader would still have us all, we would love nothing more than to become part of the righteous establishment headed by such a benevolent and courageous figure."
+Kevan nodded and declared, "If the Sect Leader would still have us all, we would want nothing more than to be a part of a Sect headed by such a righteous and courageous person."
 
 "Please accept our bow, Sect Leader Larks!" All the kids bellowed in rehearsed unison. They then all got down to their knees and banged their heads against the ground. They repeated this again, and again. With each collision of skulls to the ground, Guy was incrementally brought out of his state of dissociation.
 

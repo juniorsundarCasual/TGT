@@ -2,7 +2,7 @@
 id: imcetxuec2fm74bv0gw15jm
 title: Chapter 276 - Proposition/Invitation
 desc: ''
-updated: 1673372518713
+updated: 1674293985875
 created: 1673195273960
 ---
 
@@ -44,7 +44,7 @@ The 'right' thing. Who decided what was right and what was wrong? It was all sub
 
 The boy wasn't hard to read, he practically wore his emotions on his sleeves - he wouldn't survive a second in the palace. But Shuri preferred this, as it made her life much easier.
 
-"My name's Markus, by the way," the boy offered. He'd slowed his pace down significantly, probably in consideration towards Shuri's injuries.  Shuri looked at the boy who had her luggage hanging over his shoulders, and decided not to respond to the question.
+"My name's Markus, by the way," the boy offered. He'd slowed his pace down significantly, probably in consideration towards Shuri's injuries. Shuri looked at the boy who had her luggage hanging over his shoulders, and decided not to respond to the question.
 
 "Hmm... I get it. You are suspicious of me. That's okay," the boy- Markus said with a shrugged. "But I'd really like to assign you a name in my mind instead of referring to you as just 'girl'," he added with a chuckle, though that diminished when she didn't entertain that sorry excuse towards humour.
 
@@ -52,7 +52,7 @@ The carriage came into view twenty minutes after leaving the location of the att
 
 "Master Mage," the driver called out worriedly. "Umm... who might this be?"
 
-"She's..." Markus looked towards me expectantly, and Shuri ignored him once again.
+"She's..." Markus looked towards Shuri expectantly, but she ignored him once again.
 
 "*cough* This young lady here was ambushed by bandits. Her ride has been totalled, so I offered her a ride till her destination."
 
@@ -104,13 +104,13 @@ Markus was entranced as the girl descended the staircase garbed in a simple yell
 
 The girl chewed her food thoroughly and gulped down a mouthful of water and released an uncharacteristic sigh of contentment, the first sign of any emotion apart from dour apathy or cautiousness.
 
-"So, what's your plan?" Markus asked. "Back at the wreckage, I didn't see anyone else apart from the driver. Are you parent's okay?"
+"So, what's your plan?" Markus asked. "Back at the wreckage, I didn't see anyone else apart from the driver. Are your parent's okay?"
 
 The girl's hand paused, before she revealed, "I don't have any parents."
 
 Markus hummed in contemplation. All signs indicated that it was a lie. No orphan could produce so much currency as she did yesterday. Most probably, she was a runaway. What was she running away from? Markus had many more questions with the intention of probing the girl's background. But ultimately he decided to go down another path.
 
-"I can empathise," Markus said. "I don't have parents either - I'm an orphan, you see. Though I'm lucky to have a matron who raised me, a Master that guides and cares for me, siblings to support me, and a Junior Sister who worries after me. It wasn't always that peachy though. I used to live in the streets as a child; begging, mostly. I won't bore you with the details, but needless to say, I am grateful that all of these people became a part of my life. They save me from a terrible life."
+"I can empathise," Markus said. "I don't have parents either - I'm an orphan, you see. Though I'm lucky to have a matron who raised me, a Master that guides and cares for me, siblings to support me, and a Junior Sister who worries after me. It wasn't always that peachy. I used to live in the streets as a child; begging, mostly. I won't bore you with the details, but needless to say, I am grateful that all of these people became a part of my life. They saved me from a terrible fate."
 
 Markus noticed a deprecating sneer flash past the girl's face while he was talking about his family - a common sign of a person jaded by the world after experiencing irreconcilable familial hardships of their own.
 

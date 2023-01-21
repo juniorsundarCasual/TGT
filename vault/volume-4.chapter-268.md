@@ -2,7 +2,7 @@
 id: ect9bi0z4i4zcwfwdpbxlmg
 title: Chapter 268 - Promise Made, Promise Kept
 desc: ''
-updated: 1673695254906
+updated: 1674294140540
 created: 1670783758845
 ---
 
@@ -50,7 +50,7 @@ As though in agreement, Kevan nodded along.
 
 "Yohn-"
 
-"No, Kevan!" The blind boy swatted away the hand the other boy placed on his shoulder to calm him down. He turned his head in the general direction of Guy and demanded, "Answer me, why? There are others superior to us, with proper dreams and goals, and with the capacity to achieve more with magic in their grasp. So why us?"
+"No, Kevan!" The blind boy swatted away the hand the other boy placed on his shoulder to calm him down. He turned his head in the general direction of Guy and demanded, "Answer me, why? There are others better than us, with proper dreams and goals, and with the ability to achieve more with magic in their hands. So why us?"
 
 Guy hummed audibly as he formed his response, and said, "It's because I don't like what magic means to them. They intend to use it as a tool of destruction. For you, though, it is a tool for preservation. Those are the kind of people I want in my Sect."
 
@@ -88,7 +88,7 @@ Yohn's expression hardened.
 
 "The path you intend to walk is of vengeance. What they deserve to receive is justice."
 
-"If the world was fair, justice would have been served many, many years ago. And yet they continue to do what they've always been doing!" Yohn spat back.
+"If the world was fair, justice would have been dealt many, many years ago. But they still continue to do what they've always been doing!" Yohn spat back.
 
 "You have lost much," Guy empathised. "But if you continue to walk down this road, you will only lose more. You stand at a crucial crossroads in your life. To achieve your revenge, you will need to sacrifice parts of yourself until nothing remains but a husk of your former self. No amount of retribution can fill in that void."
 
