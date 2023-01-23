@@ -2,7 +2,7 @@
 id: zfQucGGuOYPY9EmcAemOJ
 title: Chapter 053 - Mana Economy
 desc: ''
-updated: 1643623078864
+updated: 1674503588960
 created: 1643569400260
 ---
 
@@ -12,7 +12,7 @@ Guy smiled wryly and responded, "It's a wand. I made it to assist Markus during 
 
 Al nodded and added, "Yeah, I was expecting this when you set out."
 
-He then reached into his pocket and touched his storage plate and channelled his mana into it, "Here, take a look!"
+He then reached into his pocket and touched his storage disk and channelled his mana into it, "Here, take a look!"
 
 A staff with a massive gem at its tip materialised in his free hand. It had a weaving design that sort of resembled a stereotypical magical staff from the fantasy movies back on Earth.
 
