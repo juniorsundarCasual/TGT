@@ -1,8 +1,8 @@
 ---
 id: 15yiaah20e77597p1nobfm3
-title: Chapter 282
+title: Chapter 282 - Managing an Epidemic
 desc: ''
-updated: 1674470588664
+updated: 1674504229052
 created: 1674149133873
 ---
 
@@ -44,9 +44,21 @@ But how was she to go about developing a medicine to specifically target this vi
 
 This completely stumped Jean. She stared at her journal for half an hour, hoping that something would jog her mind into action and churn out a feasible solution. When nothing made itself known, she stood up in frustration and walked out of her tent at a brisk pace.
 
-The world outside was filled with pain-filled moans and groans. Having sequestered all the affected individuals in one place 
+The world outside was filled with pain-filled moans and groans. The process of sequestering everyone stuck inside the quarantine was tiresome. Two days had passed since Josie killed the creature. After that, she moved all over the quarantined area and guided those that could move in this direction and carried in those that couldn't. The process wasn't easy, there was some push back with the population who had grown jaded with mages in general. But the allure of healthcare overcame all those inhibitions.
 
+Furthermore, Jean remembered to drag in the cart of supplies she'd stockpiled prior to leaving the capital. Food and clean water was just as important as shelter, if not more, during triage. After all, without proper nutrition, the body cannot heal itself. The quarantine was largely barren - the epidemic had put the working population out of commission, so the farms and orchards were all destitute. Therefore, the stockpile Jean brought mostly contained preserved food items that wouldn't spoil quickly. She also carried a storage disk with a stockpile of perishable goods. Since there weren't any others to manage the area, Jean had to distribute her time between research, treatment and serving food. All in all, it was extremely hectic.
 
+Jean approached the large tent labelled "2" and took a long breath. She was adorned in her personal protective attire (a fresh set after burning the one she wore earlier). Pulling apart the canvas hanging in front, she entered the tent. She let her eyes scan over the people laying in a gridlike fashion on top of floor mats. Everyone looked exactly as she left them, which was a positive sign - the infection usually took just less than a day to rear its head.
+
+Her eyes eventually landed on the little girl named Kili. Ever since she regained consciousness, she'd remained detached and emotionally distant - sulking in one corner of the room and leaning against the tent's frame. Jean allowed the girl to perform the last rites for her mother and cremate her body (from a safe distance). But the shock of seeing one's mother die such a cruel death was never palatable for a child - Jean should know, after all.
+
+'Two days have passed, and she hasn't exhibited any symptoms,' Jean concluded. 'Odd... The virus is unusually infectious, especially if a victim is exposed to the pus fluids. The girl's entire face was practically coated with it...'
+
+While Jean pondered on that thought, she missed the critical signs exhibited by the man laying beside the girl. Like a high-pressure pipe bursting, the man descended into a coughing fit that immediately devolved into a devastating projectile vomit, evicting all the contents of his gut with a slurry of crimson blood in the mix.
+
+Jean immediately rushed towards the man and tilted his head to stop him from asphyxiating on his own vomit. Once the man's violent vomitting subsided, Jean released a wavering sigh and looked up, only to see the girl drenched in blood.
+
+"Oh no!"
 
 ____
 

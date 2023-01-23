@@ -103,7 +103,7 @@ publishing:
     github:
         enableEditLink: true
         editLinkText: Edit this page on GitHub
-        editBranch: pages
+        editBranch: main
         editViewMode: tree
         editRepository: https://github.com/juniorsundarCasual/TGT
     enableSiteLastModified: true
