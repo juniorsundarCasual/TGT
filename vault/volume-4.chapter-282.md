@@ -2,7 +2,7 @@
 id: 15yiaah20e77597p1nobfm3
 title: Chapter 282
 desc: ''
-updated: 1674446679496
+updated: 1674470588664
 created: 1674149133873
 ---
 
@@ -34,7 +34,19 @@ After learning the mechanism of how these medicines worked, she returned to her 
 
 The mana sense is truly a wonderful piece of magic. Every mage is essentially gifted access to all the knowledge in the world, except it remains indecipherable until the mage learns how to process it. Gaining further insight into the microbiological world was a great revelation for Jean. Though it wasn't so revolutionary to induce a breakthrough, as she was knowledgable about it form before but to a limited degree.
 
-Jean could run blood tests purely with her mana senses now, since she knew what to look for. With fluids extracted from those already infected (pus fluid), as well as those
+Jean could run blood tests purely with her mana senses now, since she knew what to look for. With fluids extracted from those already infected (pus fluid, blood, marrow, etc.) she managed to identify the exact mechanism through which the disease affected its victims. Scalewise, it was much smaller than bacteria, which already narrowed it down to a virus. The aberrant particle coopted the natural division behaviour of cells to produce more of itself and quickly hijack the immune system of the body. The virus targeted the blood specifically to achieve this.
+
+After identifying the epidemic to be caused by a virus provided Jean with a rough idea of what she needed to do to combat it, macroscopically. But knowing the theory and being able to apply it are two different things. Jean realised that although she had a massive stockpile of relevant knowledge floating in her mind, she had very little specialised practical knowledge in medicine and healing. The little she did have was extremely trivial in nature, such as curing common diseases. It was equivalent to going from drawing only straight lines to complete portraits. The gully was massive and impossible to overcome with theory alone.
+
+Jean couldn't rely on magic for this because she didn't know any spells that could work in this instance. Neither hers nor Josie's control over mana was precise or distributed enough to attack the virus particles directly (there were far too many and sub-microscopic in scale). She knew she had to let the body heal itself naturally since it has subsystems highly optimised for that specific purpose. However, to nudge the body towards the path of healing she needed to provide a catalyst. She could not throw random and generic potions at this problem and expect it to work. It was most likely an exhausted avenue thus warranting this horrible quarantine.
+
+But how was she to go about developing a medicine to specifically target this virus?
+
+This completely stumped Jean. She stared at her journal for half an hour, hoping that something would jog her mind into action and churn out a feasible solution. When nothing made itself known, she stood up in frustration and walked out of her tent at a brisk pace.
+
+The world outside was filled with pain-filled moans and groans. Having sequestered all the affected individuals in one place 
+
+
 
 ____
 
