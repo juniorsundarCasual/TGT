@@ -105,6 +105,7 @@ publishing:
         editLinkText: Edit this page on GitHub
         editBranch: main
         editViewMode: tree
+        editRepository: https://github.com/juniorsundarCasual/TGT
     enableSiteLastModified: true
     enableFrontmatterTags: true
     enableHashesForFMTags: false
