@@ -1,8 +1,8 @@
 ---
 id: cslspz2cvd5cpaiwdl5svma
-title: Chapter 283
+title: Chapter 283 - "Magical" Immunity
 desc: ''
-updated: 1674651629196
+updated: 1674676270610
 created: 1674375625866
 ---
 
@@ -84,7 +84,37 @@ That begged the question, "But how?"
 
 ____
 
-Immunity is innate and adaptive in any living creature. The lymphatic cells are capable of warding off most infections and diseases innately, while they can also learn to ward off newer one through adaptation. In adaptive immunity, there are natural and artificial means. The process may vary, but it can be boiled down to a single concept of "teaching" the host immune system to react to "invasions". Jean had learned of these methods in great detail through her mother's notes and through Mister Larks' teaching (though the former was more experiential while the latter was standardised.)
+Immunity is innate and adaptive in any living creature. The lymphatic cells are capable of warding off most infections and diseases innately, while they can also learn to ward off newer one through adaptation. In adaptive immunity, there are natural and artificial means. The process may vary, but it can be boiled down to a single concept of "teaching" the host immune system to react to "invasions". Jean had learned of these methods in great detail through her mother's notes and through Mister Larks' teaching (though the former was more experiential while the latter was structured.)
+
+But Jean saw none of those in Kili's blood. The girl's lymphatic cells were actively neutralising any threat through means that the scientific process could not define. Luckily, she didn't have to remain in suspense for long, as Josie arrived within minutes of the test.
+
+"Unbelievable!" Josie exclaimed as she examined the blood slide according to Jean's instructions. "Wait a minute-"
+
+Josie pulled out two identical phials from her storage disks and approached Kili.
+
+"This here is a potion that turns your tongue green," Josie explained while raising the phial on her left hand, "and this here is a potion that causes your nails to double in length," she continued while raising the one on her right. She handed the two phials to the girl and instructed her to drink them together.
+
+The girl took a whiff of the liquids and scrunched her nose in disgust. Then, with a single gulp, she downed the two liquids.
+
+"Say 'AAA'," Josie demanded while holding the girl's open palms in her hands. The girl extended her tongue, which had turned green as expected, and her nails grew longer and longer until they were double in length.
+
+"As I thought," Josie murmured.
+
+"What is it?" Jean probed. "They did what they were supposed to?"
+
+"They worked the way I told they would do," Josie corrected. She then tossed the phials to Jean and gestured for the girl to inspect them.
+
+Jean brought the phials towards her nose and took a deep breath.
+
+"Is that-" Jean's lips twitched slighty as she struggled to complete her sentence.
+
+"Vinegar," Josie obliged in her stead. "The girl's body responded to a placebo."
+
+"But how?" Jean found herself asking this exact question a lot nowadays.
+
+"This girl is special. One amongst a trillion special. Born once in a millennium special," Josie exulted.
+
+"Has the Young Miss ever heard of the Universal Panacea Physique?" Josie inquired. "One could say that either this girl is gifted, or cursed to have been born with this physique."
 
 ____
 
