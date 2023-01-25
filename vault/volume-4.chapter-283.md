@@ -2,11 +2,11 @@
 id: cslspz2cvd5cpaiwdl5svma
 title: Chapter 283
 desc: ''
-updated: 1674588517186
+updated: 1674651629196
 created: 1674375625866
 ---
 
-Jean's perception of time reached a complete standstill. A single second extended to encompass a lifetime, as her brain struggled to process what had just occurred. With every plan, there is a worst case scenario that everyone seeks to avoid, and the catastrophic case that everyone fails to predict. This was a disaster packaged inside a catastrophe served in a platter of misfortune.
+Jean's perception of time reached a complete standstill. A single second extended to encompass a lifetime, as her brain struggled to process what had just occurred. With every plan, there is the worst case scenario that everyone seeks to avoid, and the catastrophic case that everyone fails to predict. This was a disaster packaged inside a catastrophe served in a platter of misfortune.
 
 This was not supposed to happen.
 
@@ -62,7 +62,29 @@ Rather that wasting anymore time, Jean quickly conjured a spell circle that prod
 
 ____
 
+Jean wasn't ready to let the girl die just yet. Kili been exposed to the bodily fluids of an infected person, but Jean's gut was telling her that the girl would be safe. What gave her this misguided confidence? The girl was exposed to the pus fluid, which was shown to carry a more concentrated cluster of the virus particulates, and still failed to contract the disease.
 
+Then again, this was only a hope-filled hypothesis, and it was often the hope that killed you.
+
+Jean took the girl into the lab garbed in personal protective equipment. Not only was it useful to protect oneself from getting infected, it was also workable to stop the person from spreading it. The lab was a sensitive area where a lot of Jean's field research was taking place, so she could not affect cross contamination of any sort.
+
+Using a disinfected needle, Jean punctured the girl's skin over a vein passing through the back of her wrist and utilised artificial stimulation to extract a thimble of blood. She then extracted a drop and sandwiched it between two finger-length, transparent crystal slats. Once the blood spread out into a thin film, she activated her mana sense and observed it microscopically. Tuning her senses took a few seconds as she had yet to master the process, but eventually, her sight displayed the cellular interaction.
+
+After having seen it many times already, Jean was quick to discern the virus particles suspended in the blood almost immediately. They moved haphazardly yet with purpose. Their behaviour was predictable, as they weren't technically alive. One of the particles attacked a red-blood cell in plan sight, co-opting its natural ability to divide in order to proliferate. But then suddenly, something interesting and shocking occured. The white-blood cells attacked the infected red-blood cell by surrounding it, then, they started to vibrate and emanate a faint mana pulse causing the red-blood cell to grow luminescent. After a few seconds, they retreated. Jean waited for the cell to divide, and it did, but no new virus particles were released.
+
+"What in the world?!" She could not contain her bewilderment. This was nothing like a normal immune system's response. This was totally, "-magical..."
+
+Jean's eyes locked on to the girl.
+
+"I-Is something wrong?" Kili asked anxiously. The sudden and intense attention unnerved her slightly.
+
+"You're immune," Jean answered. "It doesn't affect you at all."
+
+That begged the question, "But how?"
+
+____
+
+Immunity is innate and adaptive in any living creature. The lymphatic cells are capable of warding off most infections and diseases innately, while they can also learn to ward off newer one through adaptation. In adaptive immunity, there are natural and artificial means. The process may vary, but it can be boiled down to a single concept of "teaching" the host immune system to react to "invasions". Jean had learned of these methods in great detail through her mother's notes and through Mister Larks' teaching (though the former was more experiential while the latter was standardised.)
 
 ____
 
