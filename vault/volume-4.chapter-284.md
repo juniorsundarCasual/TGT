@@ -1,8 +1,8 @@
 ---
 id: bmet3j0bmeewd3ucshhm7kb
-title: Chapter 284
+title: Chapter 284 - Universal Panacea Physique
 desc: ''
-updated: 1674761190392
+updated: 1674838602778
 created: 1674535751497
 ---
 
@@ -32,9 +32,11 @@ Josie paused so that the premise solidified in Jean's mind. She tried to keep it
 
 "Special physiques and bloodlines seldom follow common sense," Josie supported. "Though the Universal Panacea Physique is admittedly one that makes the least sense. You can already guess the potential in this girl's body. As long as she believes she is impervious to anything that requires a passive response from the body, she can never be affected by it. She is immune to nearly all poisons, extreme temperatures, diseases and her healing faculties are dialled beyond a hundred - and this is all just to name a few."
 
-"How come I've never heard about anyone with a Universal Panacea Physique before? Given their potential, there should at least be one mage standing amongst the unparalleled experts with a similar physique?"
+"How come I've never heard about anyone with a Universal Panacea Physique before? Given their potential, there should at least be one mage standing amongst the unparalleled experts with a similar physique? And, how come it is activated for this girl? As I recollect, it takes advancing into the Foundation Establishment realm to do that."
 
-Josie revealed a pained expression as she glanced at Kili one last time.
+"The plague must have triggered something inside her prematurely. Physiques and bloodlines have been known to activate when the bearer experiences life-threatening situations or states of heightened emotions," Josie surmised.
+
+She then revealed a pained expression as she glanced at Kili one last time.
 
 "There is a reason why the physique is called the Universal Panacea," Josie hinted. Unfortunately, Jean wasn't quick enough on the uptake and wore a blank expression awaiting further explanation.
 
@@ -42,7 +44,7 @@ With a sigh, Josie elaborated, "A special physique is ingrained into the 'essenc
 
 "You don't mean-"
 
-"The Universal Panacea, as its name suggests, is a universal ingredient. It can be used in place of anything, or in conjunction with anything to achieve extraordinary potions with unimaginable or downright impossible effects, since the property of the extracted 'essence' is mouldable to fit the Alchemist's exact requirements," Josie confirmed with a dour expression. "The Young Miss hasn't heard of or seen anyone with a Universal Panacea Physique is because none live long enough to see the end of the tunnel. In nine out of ten cases, they undergo a gruesome essence extraction procedure for a bottlenecked mage to break through."
+"The Universal Panacea, as its name suggests, is a universal ingredient. It can be used in place of anything, or in conjunction with anything to achieve extraordinary potions with unimaginable or downright impossible effects, since the property of the extracted 'essence' is mouldable to fit the Alchemist's exact requirements," Josie confirmed with a grave expression. "The Young Miss hasn't heard of or seen anyone with a Universal Panacea Physique is because none live long enough to see the end of the tunnel. In nine out of ten cases, they undergo a gruesome essence extraction procedure for a bottlenecked mage to break through."
 
 Once again, Jean found herself appalled and unable to digest revelations of such magnitude and consequence.
 
@@ -52,7 +54,53 @@ Once again, Jean found herself appalled and unable to digest revelations of such
 
 "Why would I even consider something like that?" Jean berated.
 
-"What this girl holds inside her is the solution that will cure the epidemic. We don't have to perform the complete essence extraction. We can work with half a litre of her blood and extract the essence that combats the virus from it."
+"What this girl holds inside her is the solution that will cure the epidemic. We don't have to perform the complete essence extraction. We can work with half a litre of her blood and extract the essence that combats the virus from it," Josie explained nonchalantly.
+
+"That's inhumane," Jean shot back reflexively. "We-" she caught herself mid-scream and repeated with a lowered tone, "We will essentially be using her as a resource, draining her like a well. How many times would we have to keep doing it? The girl will be anemic. There has to be another option!"
+
+"There is, but it will be riskier," Josie suggested.
+
+"Riskier than bloodletting?" Jean mimicked a scoff.
+
+"Riskier because it would expose her existence to the wider world," Josie elaborated.
+
+"How would that be any riskier?"
+
+"Because when the world learns of her existence, and not IF because word WILL get out, then every powerhouse teetering on the cusp of a breakthrough will swarm to acquire her. Forbidden magic is only forbidden when not performed by the ones that enforce the laws. Even the Emperor in all his glory will not hesitate to extract this girl's 'essence'. Heck! If the rumours circulating in the back alleys of the Capital are to be believed, he has all the more reason now given his recent 'battle scar'," Josie warned.
+
+"That's a problem for the future. What's the point if Kili can't even make it past the present?" Jean reasoned. "What is the other method?"
+
+"Alchemy. Deconstruct the cure to synthesise more. The level of the cure should be low enough to allow that. Although it would require an industrial level setup for which the Young Miss will have to tap into the clan's resources. In doing so, it would expose the child's existence to the world," Josie warned.
+
+Alchemy is more than just brewing potions - it is only the case when approaching the subject at a lower level. Deconstruction was a branch of alchemy that, as its name suggests, looks at separating a substance to nothing and understanding its makeup. Synthesis is the process of recreating a substance through the use of its base components learned through deconstruction. These are high-level applications of magic in the alchemical field as they require a lot of mana in operation.
+
+Only recently did Jean realise that the reason for such a high mana requirement was probably due to the inefficient application of magic. If one were to apply the concepts and theories of chemistry, the process' expenditure could most likely be alleviated.
+
+Jean contemplated her options and realised that, unfortunately, Josie had a point.
+
+"Ultimately, this isn't a choice that's up to me to make, after all," Jean pointed out while nudging her head towards Kili who, at this point, was dumbfounded with the sheer quantity of information she had to process.
+
+"Umm," the girl vocalised her confusion.
+
+"Would you like me to explain it again?" Jean asked with a more personable tone. The girl nodded her head in response.
+
+"Before we begin, I hope we can draw blood from you? It can help treat the man who showed symptoms- who vomited blood all over you just now?" Jean inquired expectantly. Fortunately, the girl didn't hold a grudge in being drenched by that man and allowed Jean to take her blood to synthesise a stop-gap treatment.
+
+"Josie, can you please take me through the method to extract the 'essence' from her blood?" Jean delegated, and Josie obliged readily.
+
+"I have a question?" Kili asked meekly while Josie tapped the girl's skin to detect a suitable vein.
+
+"If... If I fed my mother some of my blood, would she have survived?" There was a tinge of pain and hope in the girl's voice that pained Jean.
+
+"It's not that simple, Kili," Jean responded with a shake of her head and saw the girl's face alternate between relief and despair.
+
+It hurt to know that she couldn't save her mother, but it also made her feel relieved that something so simple as cutting her palms and placing it above her mother's mouth wasn't the solution. Though it must be disappointing to know that the power to heal was within her, but couldn't be tapped by her.
+
+"Success is expected, failure should only be a result of ineptitude, not negligence." Jean repeated her Sect Leader's words subconsciously, causing the girl to look at her with a bewildered expression.
+
+"What happened wasn't your fault," Jean emphasised while ruffling the girl's hair. "You wouldn't have known you had this power within you if we hadn't met. If anything, its my fault. If I had arrived sooner, your mother might have survived."
+
+The girl bit her lips and murmured, "Thank you, sister." Her voice was low, barely audible. But Jean's enhanced hearing picked it up nonetheless, and the corners of her lips twitched subconsciously and arched upwards slightly.
 
 ____
 
