@@ -2,11 +2,11 @@
 id: nlnvr4olwhcd5x8v7zvcwda
 title: Chapter 274 - Departure from the Capital
 desc: ''
-updated: 1674449530888
+updated: 1674813673264
 created: 1672074090526
 ---
 
-Complete and utter mayhem took hold over the Capital. Within days of a large, highly-coordinated terrorist attack, another attack took place in the Palace. Not much was known about the second attack, as the news leaving the Palace had suddenly ceased. All that remained were rumours, flimsy hearsay at best. And these farfetched words-of-mouth bordered on treasonous talk, given how crassly they disparaged the Emperor. Some even went as far as to state that the Emperor was... emasculated? First off, that could mean a plethora of things ranging from a simple sleight targeted at his masculinity to an actual act of emasculation by castration. Secondly, the very thought could get one imprisoned for inciting treason!
+Complete and utter mayhem took hold over the Capital. Within days of a large, highly-coordinated terrorist attack, another attack took place in the Palace. Not much was known about the second attack, as the news leaving the Palace had suddenly ceased. All that remained were rumours, flimsy hearsay at best. And this farfetched words-of-mouth bordered on treasonous talk, given how crassly they disparaged the Emperor. Some even went as far as to state that the Emperor was... emasculated? First off, that could mean a plethora of things ranging from a simple sleight targeted at his masculinity to an actual act of emasculation by castration. Secondly, the very thought could get one imprisoned for inciting treason!
 
 Human beings, like most creatures with high sentience, seek to find order in the inherently disordered world. They search for patterns where none exist, and reason when certain acts are simply a result of pure coincidence. In that vein, many folks connected the attacks in the city with the one that took place in the Palace. The common theory was that the first attacks were a distraction, to divert security out of the Palace (given how there was a sudden increase in soldiers dressed in the Imperial Force's attire moving around the city moments before the second attack). As this theory made the rounds, it started to gain traction. It was believable, after all. Was it more believable that the two incidents were incited by two different parties with two different goals, or if the incidents were somehow related and part of a grander scheme?
 
