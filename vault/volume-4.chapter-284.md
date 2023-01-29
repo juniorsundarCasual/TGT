@@ -2,7 +2,7 @@
 id: bmet3j0bmeewd3ucshhm7kb
 title: Chapter 284 - Universal Panacea Physique
 desc: ''
-updated: 1674838602778
+updated: 1674971828479
 created: 1674535751497
 ---
 
@@ -100,7 +100,7 @@ It hurt to know that she couldn't save her mother, but it also made her feel rel
 
 "What happened wasn't your fault," Jean emphasised while ruffling the girl's hair. "You wouldn't have known you had this power within you if we hadn't met. If anything, its my fault. If I had arrived sooner, your mother might have survived."
 
-The girl bit her lips and murmured, "Thank you, sister." Her voice was low, barely audible. But Jean's enhanced hearing picked it up nonetheless, and the corners of her lips twitched subconsciously and arched upwards slightly.
+The girl bit her lips and murmured, "Thank you, big sister." Her voice was low, barely audible. But Jean's enhanced hearing picked it up nonetheless, and the corners of her lips twitched subconsciously and arched upwards slightly.
 
 ____
 
