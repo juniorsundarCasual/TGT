@@ -2,7 +2,7 @@
 id: ycsa4k2fmo74ek3ylxovj5a
 title: Chapter 285 - Selfish Decisions
 desc: ''
-updated: 1675019158820
+updated: 1675019195656
 created: 1674838628820
 ---
 
@@ -50,7 +50,7 @@ He took a break from his roaming thoughts as his phantom limb finally stopped sc
 
 "That bitch!" Klow cursed towards the sky. He begged, he pleaded, he crawled on all fours like a common rat. The least she could do was let him off the hook? All he could do was grumble and complain, because Klow held no delusion that he would one day meet the arm-taker in single combat and exit victorious.
 
-But a man could dream. And dream he did. He dreamed of ways in which he could return the "favour" that woman dealt him. Ways in which he could defile her the way she did him. He became engrossed in his flights of fantasy. So engrossed that he failed to notice a suspiciously common rat hurtling through the air towards his mouth that was agape as a result of the infrequent (yet disgustingly vivid) lecherous thoughts fleeting past his thoughts. 
+But a man could dream. And dream he did. He dreamed of ways in which he could return the "favour" that woman dealt him. Ways in which he could defile her the way she did him. He became engrossed in his flights of fantasy. So engrossed that he failed to notice a suspiciously common rat hurtling through the air towards his mouth that was agape as a result of the infrequent (yet disgustingly vivid) lecherous thoughts fleeting past his thoughts.
 
 ____
 
