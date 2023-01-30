@@ -2,7 +2,7 @@
 id: ycsa4k2fmo74ek3ylxovj5a
 title: Chapter 285 - Selfish Decisions
 desc: ''
-updated: 1675019195656
+updated: 1675073535965
 created: 1674838628820
 ---
 
@@ -34,17 +34,17 @@ Jean revealed a wry smile and tapped the unconscious girl's inner arm once again
 
 ____
 
-"Fuck!" Klow spat out one curse after another as he tried to grit through the pain radiating from his left hand. Except, what remained on his left shoulder was a bare-stump scarred with a gruesome burn from a hasty cauterisation.
+"Fuck!" Klow spat out one curse after another as he tried to grit through the pain radiating out of his left arm. Except, what remained on his left shoulder was a bare-stump scarred with a gruesome burn from a hasty cauterisation.
 
 "Fuck!" He knew that his arrogance would someday come back to bite him. He didn't expect the bite to be so ruthless. A warrior without an arm was basically dead meat, worthless, discardable. And that was exactly what ended up happening. He was told, in no uncertain terms, that his stint manning this quarantine would most likely be his last. The Balen Duchy had cut him off. Any dreams he had of advancing his cultivation on the cusp of breaking into the Core Formation realm was shattered. He tried reasoning that if he could just break through, then he could reforge his body and regrow the limb. But then the captain of his unit sent him to get evaluated by the quartermaster who, after asking him a myriad of questions, concluded that it was unlikely that Klow would reforge the missing limb because in his heart of hearts he had already lost it.
 
-What the fuck did that even mean? Its been less than a week since his amputation, how can his heart suddenly decide that "Yeah, there never was a hand there in the first place"?
+What the fuck did that even mean? It's been less than a week since his amputation, how can his heart suddenly decide that "Yeah, there never was a hand there in the first place"?
 
-"Its a matter of mindset," the quartermaster emphasised. "Unless you come to terms with your loss, and accept that you can live a life without that arm, you will never regrow the arm during the reforging process."
+"It's a matter of mindset," the quartermaster emphasised. "Unless you come to terms with your loss, and accept that you can live a life without that arm, you will never regrow the arm during the reforging process."
 
 Klow was extremely miffed by the quartermaster's contradictory explanations. On one side, he had to accept that he'd lost the limb and move on, and on the other side he had already accepted the loss and was thus unable to regrow the limb? None of it made any sense. But Klow figured that it was intentional. He was no longer a prospective investment choice for the Balen Duchy, and was thus excised. The Balen Duchy was ruthless that way. Heck they even relinquished a town and a handful of villages to a fate worse than death without thinking twice.
 
-But the plight of mortals mattered little to Klow. What he care about, at this moment, was his future. What was he going to do? What could he do? No mercenary crew or sect would take him in. He could find some employ with a business just starting out. Even with one less arm, he was a mage in the Foundation Establishment realm's peak. That had value. He could find employment as a trainer too?
+But the plight of mortals mattered little to Klow. What he cared about, at this moment, was his future. What was he going to do? What could he do? No mercenary crew or sect would take him in. He could find some employ with a business just starting out. Even with one less arm, he was a mage in the Foundation Establishment realm's peak. That had value. He could find employment as a trainer too?
 
 He took a break from his roaming thoughts as his phantom limb finally stopped screeching unbearably.
 
