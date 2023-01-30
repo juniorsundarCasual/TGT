@@ -2,7 +2,7 @@
 id: fm1ea1x258dmcjwanuib4tb
 title: Chapter 275 - Manufactured Coincidence
 desc: ''
-updated: 1674621199819
+updated: 1675099187385
 created: 1672685762257
 ---
 
@@ -64,7 +64,7 @@ Markus wanted to continue the conversation, but his attuned senses caught a soun
 
 At this point, Markus was faced with a decision. Should he descend and investigate this disturbance?
 
-Truthfully, he wouldn't have been in this position if, by sheer coincidence, a group of rogue practitioners (mages unaffiliated with any organisation) led by an expert in the Core Condensation realm hadn't intercepted a Deathstalker in the middle of its hunt. It was a coincidence because Deathstalkers are nocturnal - they even lack biological visual sensors and rely purely on sight, scent and heat signatures to stalk and bring death upon their prey.
+Truthfully, he wouldn't have been in this position if, by sheer coincidence, a group of rogue practitioners (mages unaffiliated with any organisation) led by an expert in the Core Condensation realm hadn't intercepted a Deathstalker in the middle of its hunt. It was a coincidence because Deathstalkers are nocturnal - they even lack biological visual sensors and rely purely on scent and heat signatures to stalk and bring death upon their prey.
 
 Deathstalkers resemble jackals in frame but grow up to be as large as horses. They lack eyes but have exceedingly large, fan-like ears and long whisker-like protrusions on their faces that can move independently of each other. Their claws grow to the size of large knives, and their four tails are twice the length of their bodies. They stalk their prey on land, or through the trees. They attack by first whipping the victim with their tails that secrete and coating themselves with a fast-acting neurotoxin.
 
