@@ -2,7 +2,7 @@
 id: imcetxuec2fm74bv0gw15jm
 title: Chapter 276 - Proposition/Invitation
 desc: ''
-updated: 1674813203685
+updated: 1675138282101
 created: 1673195273960
 ---
 
@@ -20,7 +20,7 @@ Markus did not like being violent. He'd been on the receiving end of it for a go
 
 "The world isn't a safe place," the girl responded matter-of-factly. "A girl needs to know how to protect herself."
 
-A sudden gust of wind blew through the area, dislodging the girl's torn clothes and revealing excessive skin. Markus coughed before removing his outer coat and throwing it towards the girl. "You should cover yourself. As night is approaching, it will get much colder."
+A sudden gust of wind blew through the area, dislodging the girl's torn clothes and revealing excessive skin. Markus coughed before removing his outer coat and throwing it toward the girl. "You should cover yourself. As night is approaching, it will get much colder."
 
 The girl obliged without hesitation and covered herself with the coat, which was one size too large for her.
 
@@ -40,7 +40,9 @@ The girl's jaw dropped in disbelief before she schooled her expression with a kn
 
 ____
 
-The 'right' thing. Who decided what was right and what was wrong? It was all subjective. Only those with power could dictate the rules, that was the fact of life. Shuri decided to place some faith in the naive boy who had ultimately saved her and followed him as guided her towards his carriage. He offered to carry her, as she stumbled multiple times with her still shaking and bruised legs, but she denied it immediately - she didn't feel like being 'handled' right now.
+The 'right' thing. Who decided what was right and what was wrong? It was all subjective. Only those with power could dictate the rules, that was the fact of life.
+
+At this point, Shuri had two options. Test her luck in thsi unknown forest, or grab the metaphorical hand offered by the boy. She didn't trust him, naturally. But logic dictated that her chance of survival would be higher with him, so she took up his offer. He offered to carry her, as she stumbled multiple times with her still shaking and bruised legs, but she denied it immediately - she didn't feel like being 'handled' right now.
 
 The boy wasn't hard to read, he practically wore his emotions on his sleeves - he wouldn't survive a second in the palace. But Shuri preferred this, as it made her life much easier.
 
