@@ -2,7 +2,7 @@
 id: n3tp44jugsh4vumpk6nc0ql
 title: Chapter 287
 desc: ''
-updated: 1675338213013
+updated: 1675366959714
 created: 1675236260582
 ---
 
@@ -46,9 +46,53 @@ To top it off, the Other Guy was borne of knowledge pertaining to cults and thei
 
 However, at the end of the day, this was something Guy had to live with. He could not do anything about the Other Guy because he didn't know what to do! Magic and spirituality was already beyond his level of understanding. And he could not recruit assistance from the experts in his proximity because it would eventually expose the fact that he was a transmigrator to the world and attract the wrath of the one above who built this world. As a result, Guy resolved to solving this problem using the abilities he brought with him from his past life.
 
-Guy extricated himself from Jean and Josie and their mission and returned quickly back to the nearest town with Dora. , that too apprehensively as he sorely wished to remedy the inhuman treatment the villagers were being subjected to, 
+Guy extricated himself from Jean and Josie and their mission and quickly returned to the nearest town with Dora. He would have very much loved to help out the two healers - he sorely wished to remedy the inhuman treatment the villagers were being subjected to - but he also realised that he was just going to keep delaying the inevitable by shoving the problem aside.
 
-"Other Guy, I have come to "
+The town was called Resting, an apt name given the overall lethargic atmosphere in the area. It also didn't help that a pandemic was literally next door; most of the people had already fled the place in fear. Those that remained were primarily large businesses or people with deep roots in the town. Thankfully, there was a functioning inn that offered shelter for cheap. He sent Dora to do her thing safely (he made sure to emphasise that countless times), and entered meditation through yoga.
+
+"Other Guy, I have come to bargain!" Guy yelled through the tear in the RoK and waited for a response from the other side.
+
+"This can't keep going on like this," he added. "We have to work things out."
+
+"Why should I do that?" An imperious voice cut through the static emanating from the other end of the crack.
+
+"We're sharing a body-"
+
+"If I wait it out, I won't have to share it anymore," the voice emphasised.
+
+"Do you really want to do that?" Guy probed.
+
+"Why should I bother keep an indecisive waste of space such as yourself occupying my vessel?" The voice scoffed. "The sooner you're gone, the sooner I can get on with my grand purpose."
+
+"Of course! Your purpose... Spreading the truth of the world and unravelling the lies that keep the uninformed masses in check? Something like that?" Guy mocked. "Let me tell you, your so called 'purpose... its not going to go the way you think."
+
+"Ha!" the Other Guy scoffed. "And do enlighten me, why would that be?"
+
+"You are the kind of guy who burns bridges," Guy highlighted. "For you, people fall under one of two categories: those that are with you (and align with your views) and those that are against you (or who disagree with your views). Do you think everyone will just automatically follow your every word? Sure you can force them with the voice, but is that really what you want at the end of the day? A bunch of puppets miming your every word mindlessly?"
+
+Guy did not receive a response, this meant that the Other Guy was atleast receptive to Guy's words.
+
+"If you want to make changes you not only need to start from the bottom, but you also need to create receptivity at the top. Otherwise, the water that boils up will never find an outlet to escape. To do that, you need to negotiate and collaborate with people. Do you think you can manage that?"
+
+"I can be 'convincing' if I want to," the Other Guy growled.
+
+"And that is your problem. Telling someone to do it and making them willing to do it are two different things. Which do you think is superior?"
+
+Again, no response.
+
+"Furthermore, I admit that you are a far better orator than I am. You are able to work a crowd more dynamically and with greater immersion. But you lack the expertise to teach. What do you intend to do with all the kids joining the Sect? Do you plan on leaving them to their own devices after throwing away some motivational lines? How would that be any different from every other sect we've seen so far?"
+
+"I am already setting the stage for you to realise your ultimate goal. The quickest way into the hearts of people is through material goods, which is what the Verum Trading Company seeks to do," Guy highlighted. "Take a moment to consider me and my capabilities objectively. You were right when you said that we share a lot of similarities in our core, and that our competencies and personalities deviate greatly. But that isn't a bad thing. What you lack, I have in spaded and vice versa. We complete each other, don't you see?"
+
+"ENOUGH!" The Other Guy declared forcefully, before a tense silence escaped through the tear.
+
+The Other Guy hummed and then said with a chuckle, "It sounds like you just want me to do your dirty work? You want an excuse, and I'm the most convenient one."
+
+"I won't lie," Guy admitted. "I am lacking in many crucial ways that pertain to our survival. You can fill in those gaps. But that does not mean you are without any shortcomings. There is no shame in accepting them."
+
+"What do you want, then?" the Other Guy shot back exasperatedly.
+
+"A system that satisfies both parties," Guy proposed. ""
 
 ____
 
