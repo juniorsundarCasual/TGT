@@ -2,7 +2,7 @@
 id: n3tp44jugsh4vumpk6nc0ql
 title: Chapter 287
 desc: ''
-updated: 1675366959714
+updated: 1675453621790
 created: 1675236260582
 ---
 
@@ -92,7 +92,67 @@ The Other Guy hummed and then said with a chuckle, "It sounds like you just want
 
 "What do you want, then?" the Other Guy shot back exasperatedly.
 
-"A system that satisfies both parties," Guy proposed. ""
+"Well, my first thought was to work towards a merging-"
+
+"I don't wish to lose myself into you," the Other Guy denied decisively.
+
+"Don't think of it that way. Think of it as gaining something," Guy assuaged.
+
+"Package it however you want, but the end result won't be me."
+
+"I figured that you would say that," Guy said with a sigh. "Which is why I present you an alternative. It will be a bit more difficult."
+
+"A system that satisfies both parties," Guy proposed. "Rules, conditions, and so on."
+
+Suddenly, the void peering through the tear shuffled to reveal an eye.
+
+"Go on."
+
+"We will establish conditions for relinquishment of the 'light' so that control of the body can be switched between us. It also enforces conditions for when big decisions need to be made so that both parties are involved rather than just one," Guy continued.
+
+"Since there are two of us, one must be the primary," the Other Guy pointed out.
+
+"I will be the primary."
+
+"WHAT?!"
+
+"Hear me out-"
+
+"Save your sophistry. I was wrong to underestimate your nature. Under that bumbling facade, you hide a venomous snake!" The Other Guy accused.
+
+"It's not like that," Guy tried to cut in.
+
+"I will take what is rightfully mine-"
+
+"You want to talk about right?!" Guy cut into his counterpart's emotionally charged tirade. "I was the one thrust into this body once its previous owner relinquished it, not you. You were just a byproduct of an experiment gone wrong. What you are is a parasite, a worm piggy-backing off of the work of others. I'll say it once, and I will say it again, you will NEVER be able to achieve anything by yourself. Every step you take, while decisive, lacks the wisdom or future sight. You don't know how to take two steps back to take three steps forward. And worst of all, you are selfish-"
+
+"Take that back!"
+
+"Why? Too hard to digest?" Guy goaded. He was growing frustrated with the childish immaturity of the man beyond the crack. "Do you know what sacrifice or compromise even means? To give away something valuable for the benefit of another, willingly? When the chips are down, do you think you can do it?"
+
+"Enough!"
+
+"You preached with such gusto about how you 'avenged' the children hurt by the Beggars' Sect. But did you stop to think how your unapologetic culling of an entire organisation would affect the Capital's ecosystem as a whole?"
+
+"They were weeds! Their existence was a malaise to society."
+
+"Even weed has purpose in an ecosystem. This ill society has been functioning for years. By removing a monolith, you have paved the way for smaller factions to fill in the gaps. This will lead to more conflicts and deaths. A hammer is not a multipurpose tool - if you strike a screw, all you will do is damage the surface. While I agree with your assessment of the Beggars' Sect, if you had conferred your actions with me, we could have gone down a more reasonable path with fewer bloodshed and collateral damage," Guy expounded.
+
+"You don't seem to have an off button, is what I'm trying to say," Guy summarised. "Bulldozing through everything isn't a catch-all solution. Furthermore, we have more responsibilities. The kids, for instance."
+
+"I know how to manage my flock," the Other Guy grumbled.
+
+"Your "flock" are still youth going through their most crucial stage of development. How much experience do you have working with people their age?" Guy challenged. "I, for one, actually have a resume loaded with verifiable work experience in this particular field."
+
+"So, in the grand scheme of things, you taking control of my body as the primary is more detrimental to your cause, do you not agree?" Guy followed up immediately.
+
+"Huh? What?"
+
+"Do you not agree?!" Guy repeated.
+
+"Do I not agree? Or do I not not agree? Double negatives... so yes?" The Other Guy had unwittingly fallen into a classic verbal trap through a targetted barrage of facts and logic ending with a convoluted mess of a question.
+
+"".
 
 ____
 
