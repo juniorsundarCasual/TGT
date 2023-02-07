@@ -2,7 +2,7 @@
 id: ixrqv93p3op4dt3e8quknsy
 title: Chapter 289 - Intercepted
 desc: ''
-updated: 1675713737192
+updated: 1675791527331
 created: 1675517675773
 ---
 
@@ -146,7 +146,7 @@ Until the very next second, an object with a substantial mana signature came bar
 
 "RUN!" Josie yelled before she leapt forward and intercepted the man just as he appeared in the clearing.
 
-"MEET. AGAIN." The man rasped. "KILL. ASSIMILATE!"
+"MEET. AGAIN." The man rasped. "KILL! ASSIMILATE!"
 
 ____
 
