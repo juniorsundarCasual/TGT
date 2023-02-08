@@ -2,7 +2,7 @@
 id: 5y3ady3hspeewor90o7dokg
 title: Chapter 290 - 
 desc: ''
-updated: 1675795808911
+updated: 1675861085932
 created: 1675791043845
 ---
 
@@ -18,10 +18,29 @@ He got down on all fours and covered the gap within a fraction of a second. The 
 
 Left without an option, Josie quickly conjured up a gust of air and used it to accelerate mid-dodge to confuse the man. Evidently it worked. Josie capitalised on the sudden decrease in immediate pressure and started to fire off wind based attacks with impunity. This time, she did not hold back, she did not have the luxury of holding back.
 
-As if mocking her, the man crossed his arms and weathered the attacks unflingingly. Josie caught the sudden increase in projected mana in front of his fists that was blocking the attacks from coming his way.
+As if mocking her, the man crossed his fists and weathered the attacks unflinchiningly. Josie caught the sudden increase in projected mana in front of his crossed fists that was blocking the attacks from coming his way - possibly a standard ward, although the output was greatly inefficient. But it seemed like the man could afford it!
 
-Josie bit down on her lips and continued to fire her attacks. There were |Wind Blades|, |Dec|
+Josie bit down on her lips and continued to fire her attacks. There were |Wind Blades|, |Pressure Balls| and |Howling Fists| thrown in his path, which he seamlessly side-stepped or weathered. Yet he did not let off applying pressure on her. One fortunate find was that the man hadn't grown completely accustomed to his body just yet. This was a common problem known to affect beasts entering the Core Formation realm after they reforged their bodies, especially if the beast decides to reforge itself to adorn a form that is in stark contrast from his original biological state. The sudden lack of or addition of appendages, the shrunken or enlarged form, and the shift in natural sensors all have a compounding effect. The man in particular was finding it hard to estimate the reach of his arms. He opted for wide and telegraphed movements, which was the only reason Josie could survive so far.
 
+When two magical beings fight against each other, they are actually entering a war in two fronts. There is the physical fight, which involves melee and weaponised combat and draws on the duelists' internal mana, and there is the arcane fight which involves the recruitment of ambient mana within the combatants' mana domains. A mage cannot use ambient mana personally, but they can rely on it to sustain their spells when range is involved. Losing both fights is a guaranteed loss, and winning both of them is impossible when a fight is between mages of matching realms. One has to weigh the importance of both in any combat scenario. A ranged magic user would prefer to prioritise their control over the overlapping domain, but if they let go of their presence in the physical realm through reinforcing their defences they risk dying to a rogue melee attack. The same can be said for a physical combatant who ignores the overlapping domain, as they risk being affected by spells acting directly in their personal space.
+
+The man before her was originally a beast. Beasts that have advanced have a natural disposition and instinctual control over mana - it is just like eating or breathing. Therefore, his power over his domain, whose diameter exceeded Josie's even though he only just advanced, was staggering. Josie was fighting an uphill battle on that front, as she tried to wrest control over a measly amount in her immediate vicinity. Her ranged spells were being predicted, and most lost juice within seconds of leaving her controlled domain. The physical fight was no better either. While the man lacked grace and technique, he had unparalleled adaptability. An attack that fell twice did not succeed on the third attempt.
+
+Josie clicked her tongue with irritation. "As expected from a being born a rat and turned human, two of the most adaptable creatures in the world!"
+
+The forested area had grown barren and wrecked under the unforgiving and haphazard assault of the beast turned man. He cared little for what went around him, and moved with a singular purpose - to kill Josie. Unfortunately, Josie could not contain the man thus risking possible danger befalling her Young Miss and the little ones, as they tried and failed to escape from the "hot-zone".
+
+Defeat was assured for Josie, and worse yet it would lead to the death of her Young Miss. That was an even more unpardonable crime! This was unless she took extreme measures.
+
+Josie decided to capitalise on the man's most obvious weakness - his arms! Although he used his 'weapons' haphazardly, they carried immense power. Nothing was more dangerous than a neophyte handling a weapon beyond their capacity. Knowing that they're newbies causes the opponent to lower their guard, only to get caught by the weapon at an off angle and losing their lives in the process. Josie chose to remove the wildcard!
+
+In a strange twist, she narrowed the gap she so ardently tried to maintain. The sudden reversal caused the man to hesitate, only momentarily though. But that fraction of a second was enough for Josie to stab his overextended right arm with a dart. The dart was tipped with Dimiretium, an extremely rare metal alloy Dinarius, Mithril and Auretium. The three metals comprising it are highly magically reactive. Dinarius is sometimes used as an accelerant for ritual formations by mixing it in with the chalk dust. Auretium is used in jewelry to create lustrous and light accessories that are also conducive towards enchantments. Mithril is used in all enchantment inscriptions. However, in the 2:2:6 (by weight) mixture of those three metals, one creates one of the most aggressive magic neutralisers. It is naturally inhibitive towards mana circulation. The cause for this behaviour is highly debated, and one that Josie deems unecessary to explore. Since all that mattered was its application, which was to pierce magic in all its forms.
+
+Unfortunately, Dimiretium is highly brittle and cannot be fashioned into weapons. But, a needle was within its physical limits. The hollow needle pierced through the man's passive mana reinforcement and dipped into his flesh. Then, immediately after, the solvent stored within the dart injected itself into the muscle. As the man reeled back, Josie quickly followed it up with another dart, this time to the left hand.
+
+Josie turned tail and ran without hesitation. It was weird to show one's back while in combat, but this was a strategic retreat as within seconds a loud explosion sounded behind her. Josie looked over her shoulder and say the man with the right side of his torso charred and wrecked beyond recognition. His right arm was missing, and so was his shoulder and a good chunk of his right chest. The flesh on the right side of his face was ripped, revealing parts of his skull and the entirety of his right teeth. The man moved decisively and swung his left arm upwards. It dislodged like a doll part and flew towards the sky before another massive explosion resounded from above.
+
+"Fucking rats!" Josie cursed. If the second explosion struck, the fight would have been securedly in her court. Nonetheless, she could rest assured that there was some advantage here. The man was without arms and thoroughly damaged on one side.
 
 ____
 
