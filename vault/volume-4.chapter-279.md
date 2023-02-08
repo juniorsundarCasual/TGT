@@ -2,7 +2,7 @@
 id: 7adxaiiwxu1wziz6q90zqe8
 title: Chapter 279 - For the Sake of Survival
 desc: ''
-updated: 1675435650714
+updated: 1675875348983
 created: 1673763425357
 ---
 
@@ -32,7 +32,7 @@ The duo trudged through the sparse forestry for an hour before they stumbled upo
 
 Jean shook her head and moved through the village in search of anything pertinent to her healing pursuits. Sadly, the whole place had been ransacked by its previous inhabitants, leaving nothing for her to use or to make any deductions.
 
-With that, the duo moved one. They navigated in a counterclockwise path, moving progressively inwards with each circulation. They managed to find another village in their trajectory, but this one was also completely abandoned. This one, however, did not practise the method of burning away dead bodies. Instead, the corpses remained, left to rot. These emaciated, rotted and half-eaten corpses were covered in black pus oozing out of the grape-sized boils.
+With that, the duo moved on. They navigated in a counterclockwise path, moving progressively inwards with each circulation. They managed to find another village in their trajectory, but this one was also completely abandoned. This one, however, did not practise the method of burning away dead bodies. Instead, the corpses remained, left to rot. These emaciated, rotted and half-eaten corpses were covered in black pus oozing out of the grape-sized boils.
 
 Josie scrunched her face at this ghastly visual and proceeded to cremate the bodies, barring two that appeared recently deceased. Jean separated these two bodies and proceeded to take samples of the fluid stored in the boils and ran a thorough inspection of the deceased's condition at the time of death. After an external check, she charged mana at the tip of her index and middle finger and performed a large Y-incision, spanning shoulder to shoulder and chest to the abdomen.
 

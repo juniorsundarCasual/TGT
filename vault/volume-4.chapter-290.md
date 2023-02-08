@@ -1,8 +1,8 @@
 ---
 id: 5y3ady3hspeewor90o7dokg
-title: Chapter 290 - 
+title: Chapter 290 - Round Two
 desc: ''
-updated: 1675861085932
+updated: 1675881613019
 created: 1675791043845
 ---
 
@@ -40,7 +40,17 @@ Unfortunately, Dimiretium is highly brittle and cannot be fashioned into weapons
 
 Josie turned tail and ran without hesitation. It was weird to show one's back while in combat, but this was a strategic retreat as within seconds a loud explosion sounded behind her. Josie looked over her shoulder and say the man with the right side of his torso charred and wrecked beyond recognition. His right arm was missing, and so was his shoulder and a good chunk of his right chest. The flesh on the right side of his face was ripped, revealing parts of his skull and the entirety of his right teeth. The man moved decisively and swung his left arm upwards. It dislodged like a doll part and flew towards the sky before another massive explosion resounded from above.
 
-"Fucking rats!" Josie cursed. If the second explosion struck, the fight would have been securedly in her court. Nonetheless, she could rest assured that there was some advantage here. The man was without arms and thoroughly damaged on one side.
+"Fucking rats!" Josie cursed. If the second explosion struck true, the fight would have been assuredly in her court. Nonetheless, she could rest assured that there was some advantage here. The man was without arms and thoroughly damaged on one side.
+
+At times, Josie wondered if there really was a being up above beyond everyone's reach manipulating things on a whim. Large organised religion never really took hold on Gaea, what with the power of gods being accessible to those with time, resource or an excess of luck. There were cults that followed a charismatic leader, but even those rarely survived the passing of the spearhead. Nonetheless, by either sheer bad luck or the machinations of an unknown deity above, Josie's momentary respite was shattered as the man exuded an animalistic growl. Then, from the stumps to his side, noxius gas started to ooze out with a consistency nearing that of a liquid. It condensed and resembled arms - not human but faintly ratlike. But the man didn't stop there. All around him, his mana started to turn a murky black shade. All life in his immediate vicinity wilted, and the ground itself grew dessicated. This...
+
+"The Plague-" Josie did not finish that sentence. She could not finish that sentence because he burst forward with even more speed and vigour. The gaseous arms rushed uninterrupted directly towards her chest. Josie could feel that the force behind them was lesser, so she opted to parry the attacks with a side-swipe. It was a success, but the momentary contact she had with the gas wrecked her attire and started to attack at the mana protecting her body.
+
+And while she frantically cleansed that contamination, a third attack winded her and whipped her back like a ragdoll.
+
+From behind him, under his armour, an arm extended outward, holding another arm, holding another arm, holding another arm, and finally another arm.
+
+The creature turned man had fashioned himself a tail. One made entirely out of hands.
 
 ____
 
