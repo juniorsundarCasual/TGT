@@ -2,7 +2,7 @@
 id: n3tp44jugsh4vumpk6nc0ql
 title: Chapter 287 - Bargaining for Control (Part One)
 desc: ''
-updated: 1675538151809
+updated: 1675941816506
 created: 1675236260582
 ---
 
@@ -48,7 +48,11 @@ However, at the end of the day, this was something Guy had to live with. He coul
 
 Guy extricated himself from Jean and Josie and their mission and quickly returned to the nearest town with Dora. He would have very much loved to help out the two healers - he sorely wished to remedy the inhuman treatment the villagers were being subjected to - but he also realised that he was just going to keep delaying the inevitable by shoving the problem aside.
 
-The town was called Resting, an apt name given the overall lethargic atmosphere in the area. It also didn't help that a pandemic was literally next door; most of the people had already fled the place in fear. Those that remained were primarily large businesses or people with deep roots in the town. Thankfully, there was a functioning inn that offered shelter for cheap. He sent Dora to do her thing safely (he made sure to emphasise that countless times), and entered meditation through yoga.
+The town was called Resting, an apt name given the overall lethargic atmosphere in the area. It also didn't help that a pandemic was literally next door; most of the people had already fled the place in fear. Those that remained were primarily large businesses or people with deep roots in the town. Thankfully, there was a functioning inn that offered shelter for cheap.
+
+He spent over three days in practical isolation. He couldn't cut himself from the outside world as he still needed to care for Dora. He let his mind run various debates, simulations and scenarios as he pitted himself against the Other Guy. He knew that man's character, he could surmise what made him tick and how to approach him. But he would only have one chance at this discussion. He would be going all in!
+
+And thus, after mentally preparing himself, he sent Dora to do her thing by herself safely (he made sure to emphasise that countless times), and entered meditation through yoga.
 
 Guy prepared himself for war. In the RoK, he and the Other Guy were equal. Neither could throw a punch nor could they throw a spell. The fight would be completely verbal. Guy new that his counterpart was persuasive, extremely so. But that was only because of the pervasive influence of the Church radiating from him (like some sick brainwashing hormone). So in the end, it was a war of words in the truest of sense.
 
