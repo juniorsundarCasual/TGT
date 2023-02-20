@@ -2,7 +2,7 @@
 id: mo9ojkj4mns8v9rleubsc1m
 title: Chapter 292 - Nightmares Turned Reality
 desc: ''
-updated: 1676828352235
+updated: 1676868073913
 created: 1676787954302
 ---
 
@@ -109,4 +109,4 @@ Nonetheless, she succeeded and the core disappeared. Unfortunately, it was compl
 ____
 
 **Next**
-* [[volume-4.chapter-292]]
+* [[volume-4.chapter-293]]
