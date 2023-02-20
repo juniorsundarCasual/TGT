@@ -2,7 +2,7 @@
 id: 15yiaah20e77597p1nobfm3
 title: Chapter 282 - Managing an Epidemic
 desc: ''
-updated: 1675942181256
+updated: 1676867208545
 created: 1674149133873
 ---
 
