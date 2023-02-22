@@ -2,7 +2,7 @@
 id: go97ibet1jf7w7h7awv2a0c
 title: Chapter 293 - Hopeful but Helpless
 desc: ''
-updated: 1677003801285
+updated: 1677089425644
 created: 1676868066055
 ---
 
@@ -96,9 +96,9 @@ This time, it was the darker figure who was on the receiving end of a thought-in
 
 The little girl started to run away in fear. Her little legs carried her far away, but the sounds of the fight didn't recede. In fact, they grew louder by each passing second.
 
-There was no running away, and there was nothing to contribute. The girl was indebted to the outcome of the physical debate. But as seconds passed, her smile grew grim and fearful.
+There was no running away, and there was nothing to contribute. The girl knew that her life was contingent on the outcome of the fight. But as seconds passed, her smile grew grim and fearful.
 
-It seemed that the darker figure had gained the upper hand. If one throws a thousand punches, at least one will hit its intended target the way they needed to be hit. Furthermore, by the time the defender blocks 998 punches successfully, they would have forgotten about the implications of number 999 and 1000.
+It seemed that the darker figure was incrementally gaining the upper hand.
 
 ____
 
