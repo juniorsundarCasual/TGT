@@ -1,8 +1,8 @@
 ---
 id: h3wyum8dq8kcjyesbvcqxbh
-title: Chapter 294
+title: Chapter 294 - Merging with the Other Self
 desc: ''
-updated: 1677090952343
+updated: 1677156960954
 created: 1677003835809
 ---
 
@@ -22,7 +22,17 @@ She licked her lips in bliss as she grasped the white woman by her skull and pro
 
 The little girl collapsed as the thought of her imminent demise registered within her mind. There could only be one - it would either be the gigantic woman with black mist adorning her form, or her measly self - and the odds did not seem to be in her favour.
 
-At that moment, the area between the girl and the feasting giant rippled. From nothingness, a personal, circular portal materialised. Through it, a person familiar to the little girl stepped out. Just as it came, the portal disappeared after replenishing the number of live persons within the area back to three.
+As the white woman dissipated, the giantess grew bigger and stronger and wore a satisfied expression of immense elation, #Its amazing how quickly one can turn a healing salve into a poison capable of irreparable grief. One must know their enemy before waging a war - what this wretch has gifted me with her death will ensure that the retribution that I will bring to this world will be unchalleneged and unopposed.#
+
+"Y-You can't do this-"
+
+#I can. And I will,# the woman reaffirmed with a maddened glare. #The world will feel my righteous fury. I took everything from me! And it should be prepared to lose everything in turn. But first-#
+
+The body had finally disappeared, absorbed completely by the giantess. The woman stood up from her crouch and approached the little girl with lithe steps.
+
+#The one that caused me the greatest grief stands before me. You will die now.#
+
+At that moment, the area between the girl giant rippled. From nothingness, a personal, circular portal materialised. Through it, a person familiar to the little girl stepped out. Just as it came, the portal disappeared after replenishing the number of live persons within the area back to three.
 
 "Jean," Mister Larks greeted the little girl with unparalleled surety.
 
@@ -36,28 +46,91 @@ The giantess moved into action almost immediately. Her fist coated in death and 
 
 "I-I-"
 
-"That's right. You weren't thinking," Mister Larks declared with a tired sigh. "I hope you realise that you have but yourself in a very difficult situation. This one here-" he said while nudging his chin towards the frozen giantess, '-Is going to wake up and now definitely eat us all (unless she wasn't already planning to do that.)"
+"That's right. You weren't thinking," Mister Larks declared with a tired sigh. "I hope you realise that you have put yourself in a very difficult situation.What you did was equivalent to offering a knife to a murderer seeking to kill you and then turned you back to them so that they have a clear shot."
 
+"I just wanted to save Josie," the little girl confessed amidst whimpers and tears. Mister Larks approached her and pulled her into a warm hug.
 
+"I know you were," he said with a gentle shush. "You have a warm and gentle soul, even with this thing-" he nudged his chin backwards in the giantess' general direction, "-trying its best to poison your thoughts. You held strong. You survived. And I will make sure that you get through this ordeal, better than ever."
 
-I swear to fulfill, to the best of my ability and judgment, this covenant:
+"H-How?"
 
-I will respect the hard-won scientific gains of those physicians in whose steps I walk, and gladly share such knowledge as is mine with those who are to follow.
+Mister Larks wore an astounded expression that implied that the query had an obvious answer.
 
-I will apply, for the benefit of the sick, all measures that are required, avoiding those twin traps of overtreatment and therapeutic nihilism.
+"You lose if that thing absorbs you. To win, you must be the one to absorb her," Mister Larks responded matter-of-factly.
 
-I will remember that there is art to medicine as well as science, and that warmth, sympathy, and understanding may outweigh the surgeon's knife or the chemist's drug.
+"But I'm... weak..."
 
-I will not be ashamed to say "I know not," nor will I fail to call in my colleagues when the skills of another are needed for a patient's recovery.
+"Maybe here, sure," Mister Larks affirmed while pointing at the little girl's abdomen, implying her cultivation. But then he moved his finger and thrust it against her left chest, "But not here."
 
-I will respect the privacy of my patients, for their problems are not disclosed to me that the world may know. Most especially must I tread with care in matters of life and death. If it is given me to save a life, all thanks. But it may also be within my power to take a life; this awesome responsibility must be faced with great humbleness and awareness of my own frailty. Above all, I must not play at God.
+"Strength of soul," Mister Larks vocalised. "It is something only you have, not her."
 
-I will remember that I do not treat a fever chart, a cancerous growth, but a sick human being, whose illness may affect the person's family and economic stability. My responsibility includes these related problems, if I am to care adequately for the sick.
+"I don't understand."
 
-I will prevent disease whenever I can, for prevention is preferable to cure.
+"She is only a creation of your mind - your will. Why is it that the remnant core of a deceased Tesseract Transformation realm mage persists forever, while that of anyone from realms below ceases to exist after a period of time?" Mister Larks questioned.
 
-I will remember that I remain a member of society, with special obligations to all my fellow human beings, those sound of mind and body as well as the infirm.
+"Without a soul, the will cannot become 'real'. And that which is not real, has no place in reality," Mister Larks answered. "This is how you will win against her."
 
-Finally, and above all else, I will first do no harm.
+The little girl looked at the exhorting man with a dubious gaze. Just as she was about to voice her confusion, Mister Larks' expression started to warp awkwardly.
 
-If I do not violate this oath, may I enjoy life and art, respected while I live and remembered with affection thereafter. May I always act so as to preserve the finest traditions of my calling and may I long experience the joy of healing those who seek my help.
+"Stop speaking in riddles and give it to her in a way that she will understand." The voice belonged to Mister Larks, and it came from the movement of the man's left half of the face.
+
+"I expressly warned you that I needed complete silence when-" The right side spoke with haughty consternation.
+
+"Yeah! Yeah!" The left half interrupted. "You are just wasting time by going about it in a roundabout manner. If you want her to understand that break down the solution into manageable chunks."
+
+"This is something that she needs to do herself," the right half emphasised. "No external help may be provided."
+
+"We won't be spoonfeeding her the solution. But she at least needs to have an idea of where to start," The left half refuted. "Look, even if she absorbs the other half through whatever means you have in mind, the merging of two personalities (especially if one is many orders of magnitudes stronger than the other) can cause adverse and unwanted effects. For all we know, the woman may completely contaminate Jean's personality. You are trivialising an extremely sensitive and dangerous process! How different is it to the actions of the misguided rube who split her mind in the first place?!"
+
+The right half growled and the right arm rose to scratch the right forehead in frustration. "That's what I meant when I told her to reinforce her soul and let that act as the catalyst towards merging."
+
+"Excellent idea!" The left half said with excess sarcasm. "If only the girl knew how to do that. Heck, even I don't know how to do that! Do YOU even know how to do that?!"
+
+"How does a fish know how to swim?" The right half shot back with an equal amount of sarcasm.
+
+"Well, neither Jean nor I are fish - or whatever the equivalent of a fish would be in this situation," the left half rebutted.
+
+The right half frowned contemplatively, "I may have made a preemptive leap here..."
+
+"Whatever the case, maybe you are on to something. We just need to find a way to assist Jean," the left half encouraged.
+
+At this point, both the sides released into a thoughtful hum. "There is an option, but it is dangerous," the right proposed.
+
+Noticing the little girl's expectant eyes, Mister Larks' left half elaborated. "Its about restricting the soul with a contractual lock. That there are certain things a person must never do which, if broken, can cause the soul to shatter irreparably. Needless to say that this process causes the instant demise of the person."
+
+"A slave contract," the little girl affirmed with a thoughtful nod. "Except I would be both the master AND the slave."
+
+"A WHAT?!" The right half exclaimed. "No! Absolutely not!"
+
+"But what the right Mister Larks' said makes sense," the little girl confirmed. "A slave cannot think poorly of their master or else it will cause them immense pain."
+
+"That is just conditioning through pain. It is inhumane!" The left half denied.
+
+"Yet it will ensure that this cretin's murderous behaviours can never manifest. Furthermore, we are overlooking a key fact," the right half paused and smirked as if to show that he was trying to amplify suspense artificially.
+
+"Jean and this thing here share the same soul, but are two different manifestations of thought. What this cretin thinks and believes aren't shared by Jean here. Which means that-"
+
+"Any vow taken that runs counter to what this giantess believes will cause pain only to this giantess," the right half finished the thought. "We can weaken her until she becomes a shell of her self, ready for Jean here to take over."
+
+Without pause, the right half snapped his finger and prepared to take action.
+
+"WAIT!" The left arm reached forward and caught the right arm in place. "We haven't decided the nature of this vow. This is an irreversible process."
+
+This caused the duo-and-a-half to descend into a bout of brainstorming.
+
+"I think I have an idea..." The left half suddenly murmured. "Wait for me for a second!" He added with certainty, and then the left half turned limp.
+
+A few seconds later, he returned, "Alright! I have something with me. It is perfect for you! Make sure to repeat everything I say, exactly as I say it."
+
+The little girl nodded in affirmation. She trusted Mister Larks, even if the last few moments of interactions seemed a bit kooky. He had only done right by her since their first meeting. If it hadn't been for him, she would never have reached this far in her journey into magehood.
+
+At this point, both the sides of Mister Larks' face coordinated as one. He coughed to accentuate the start, and then spoke the vows that would forever change the little girl - Jean's - entire life!
+
+"I swear to fulfill, to the best of my ability and judgment, this covenant:
+
+I will first do no harm.-"
+
+____
+
+**Next**
+* [[volume-4.chapter-295]]
