@@ -2,7 +2,7 @@
 id: h3wyum8dq8kcjyesbvcqxbh
 title: Chapter 294 - Merging with the Other Self
 desc: ''
-updated: 1677156960954
+updated: 1677432967727
 created: 1677003835809
 ---
 
@@ -41,6 +41,8 @@ At that moment, the area between the girl giant rippled. From nothingness, a per
 The giantess moved into action almost immediately. Her fist coated in death and disease hurtled at Mach speeds towards the new Sect Leader. The little girl wished to do something, but her body refused to yield to any of her demands.
 
 "Stop," a muted voice escaped from Mister Larks' mouth. The girl could not hear it, but the lip movements were easy enough to translate. With unparalleled obedience, the attacking giantess ceased and froze almost immediately.
+
+Further, the region all around them started to warp and ripple. The darkness dissipated and shifted into a warm ethereal glow, before settling at a library with a rather pious atmosphere.
 
 "Now, my child. Why would you take such an action and perform such a blunder upon yourself?" Mister Larks gently chided.
 

@@ -1,8 +1,8 @@
 ---
 id: oz30yelr9xu606du8j3e11g
-title: Chapter 295
+title: Chapter 295 - A Physician's Oath
 desc: ''
-updated: 1677410789618
+updated: 1677433888715
 created: 1677153076621
 ---
 
@@ -66,4 +66,21 @@ If I do not violate this oath, may I enjoy life and art, respected while I live 
 
 The oath was established and was inscribed deep into her "true self". And with that, she was immediately ejected from that metaphysical realm.
 
-Jean returned to her child form back insider her mental space, and was greeted with the blood-curdling screech of. The frozen giantess 
+Jean returned to her child form back at the pious library, and was greeted with the blood-curdling screech from the giantess, who was squirming like a worm sprinkled with salt. Jean, however, felt nothing- well that wouldn't be completely accurate. She felt warmth. She felt relief. She felt...
+
+The giantess' body started to compress as her yell started to lose its energy. The woman's poisonous beauty started to dessicate and wrinkle, as though the life were being sucked out of it. The pervading stench of pestilence also started to subside, and the black mist that hung around her thinned marginally. A minute later, the yelling woman had turned mute and still. She wasn't dead- she couldn't die. She wasn't alive in the first place. Her body now remained dormant at the raised platform at the centre of the library, with the warm light reflecting from the globe of blue and green hanging above.
+
+"It is time," Mister Larks said while nudging the little girl forward. "Do what needs to be done."
+
+Jean gulped audibly and moved with tense steps towards the still body of her counterpart. Her small arm extended outwards apprehensively and touched the shrunken giantess' head. Within seconds of making contact, the giantess dissipated, turned into a dense mist of grey and rushed through the little girl's orifices. With a single inhale, the entire torrent of mist was absorbed by the girl and, in doing so, her body started to grow at a visible rate. The growth was both in size and in age, as the little girl grew older to match that of her outer form.
+
+____
+
+While this was occurring within the mental space of the teacher and student, an awesome phenomenon was transpiring in the physical realm. A massive whirlpool of mana started to form above the duo. The density of this mana was so immense that it started to affect the atmosphere in the immediate vicinity of the formation. The winds grew vigorous, sunlight reaching the area grew dimmer, and the temperature started to rise by a few degrees. As the whirlpool descended upon the do, it split into two. The smaller of the two sections rushed towards Jean, fuelling her advancement into the Foundation Establishment realm. The thicker section rushed towards Guy, consuming him completely and occluding his form from the outside world.
+
+While dark steam of waste escaped from Jean's skin and corroded her outer wear, Guy underwent a transformation at a more profound level. It was a change a mage only experiences once in their entire lifetime - a complete reforging of the outer form.
+
+____
+
+**Next**
+* [[volume-4.chapter-296]]
