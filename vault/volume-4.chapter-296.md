@@ -2,7 +2,7 @@
 id: 9one0dzzq453xkd7bavhx1m
 title: Chapter 296 - Advancement
 desc: ''
-updated: 1677563404121
+updated: 1677563451074
 created: 1677433870891
 ---
 
@@ -86,7 +86,7 @@ And then, his mouth opened, and he spoke with a baritone voice that he had long 
 
 "I'm... me again!" Guy evoked in surprise. But his expression quickly turned cold, and his eyes narrowed as they focused on the figure of Jean hugging a little girl.
 
-"There is still a rogue remnant she hasn't been able to flush, which is trying to pry away at her soul," the Other Guy said. 
+"There is still a rogue remnant she hasn't been able to flush, which is trying to pry away at her soul," the Other Guy said.
 
 ____
 
