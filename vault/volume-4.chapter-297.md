@@ -1,8 +1,8 @@
 ---
 id: w74owg9j0wsudvwknktolzh
-title: Chapter 297
+title: Chapter 297 - Parting Shot
 desc: ''
-updated: 1677744697760
+updated: 1677774550624
 created: 1677563434502
 ---
 
@@ -58,7 +58,31 @@ At that instant, without any explanation, the Other Guy took over control and st
 
 "There!" He exclaimed. "Now-"
 
-The scenery changed, and Guy returned to the Church of the True World
+The scenery changed, and Guy returned to his Church of the True World. Here, he proceeded to concentrate the luminous white wisp until it turned murkier and completely opaque.
+
+"This should be enough," he declared. His eyes scanned around the room, grazing past every ethereal form seated on the benches in a pious praying posture until it hit a single person. The person happened to be in the front rows too. Guy beelined towards the person with resolute steps. His hand with the ball of light swung backwards, over his head and proceeded to descend towards the abdomen of the person before him. Just as it was about to make contact, the hand jittered to a stop.
+
+"NO!" Guy's left half warped and wore a concerned and angry expression. It then started to bleed over to the right as he fought for control over the right half. "I won't let you!"
+
+"Do... you not... understand?!" The right half argued back with equal vigour while fighting for control. "I am doing this FOR her!"
+
+"How can you be so sure?"
+
+The right half gritted his teeth and said, "You will just have to trust me!"
+
+And with those final words, the right won over once again, and the halted hand resumed its motion, plunging the ball of light deep into the abdomen of Dora's ethereal form. The girl's figure gained some luminescence and lasted for a few seconds before it returned to its old self.
+
+"W-What have you done?" The left half returned and exclaimed with a shocked gasp.
+
+"I gave her a gift," the right half responded. "Seeing as she loves reading those dull picture books about monsters changing forms, she will adapt to these new powers swimmingly."
+
+The right half then retreated, having exhausted all of his spiritual energy, leaving Guy by himself, once again, helpless. "What have I done?"
+
+His planned negotiation was flushed unceremoniously. Did he regret it? Not really. Was he assured with his decision? Well... that was debatable.
+
+"What have I unleashed into this world...?"
+
+Only time would tell.
 
 ____
 

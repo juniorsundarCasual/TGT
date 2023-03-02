@@ -2,7 +2,7 @@
 id: dxjmcf7l6knhm97nmkhnlf8
 title: Chapter 288 - Bargaining for Control (Part Two)
 desc: ''
-updated: 1675538182690
+updated: 1677775498505
 created: 1675317553691
 ---
 
@@ -16,9 +16,9 @@ created: 1675317553691
 
 "Do you really want to do that?" Guy probed.
 
-"Why should I bother keep an indecisive waste of space such as yourself occupying my vessel?" The voice scoffed. "The sooner you're gone, the sooner I can get on with my grand purpose."
+"Why should I bother to keep an indecisive waste of space such as yourself occupying my vessel?" The voice scoffed. "The sooner you're gone, the sooner I can get on with my grand purpose."
 
-"Of course! Your purpose... Spreading the truth of the world and unravelling the lies that keep the uninformed masses in check? Something like that?" Guy mocked. "Let me tell you, your so called 'purpose... its not going to go the way you think."
+"Of course! Your purpose... Spreading the truth of the world and unravelling the lies that keep the uninformed masses in check? Something like that?" Guy mocked. "Let me tell you, your so-called 'purpose'... it is not going to go the way you think."
 
 "Ha!" the Other Guy scoffed. "And do enlighten me, why would that be?"
 
@@ -34,13 +34,13 @@ Guy did not receive a response, this meant that the Other Guy was at least recep
 
 Again, no response.
 
-"Furthermore, I admit that you are a far better orator than I am. You are able to work a crowd more dynamically and with greater immersion. But you lack the expertise to teach. What do you intend to do with all the kids joining the Sect? Do you plan on leaving them to their own devices after throwing away some motivational lines? How would that be any different from every other sect we've seen so far?"
+"Furthermore, I admit that you are a far better orator than I am. You can work a crowd more dynamically and with greater immersion. But you lack the expertise to teach. What do you intend to do with all the kids joining the Sect? Do you plan on leaving them to their own devices after throwing away some motivational lines? How would that be any different from every other sect we've seen so far?"
 
-"I am already setting the stage for you to realise your ultimate goal. The quickest way into the hearts of people is through material goods, which is what the Verum Trading Company seeks to do," Guy highlighted. "Take a moment to consider me and my capabilities objectively. You were right when you said that we share a lot of similarities in our core, and that our competencies and personalities deviate greatly. But that isn't a bad thing. What you lack, I have in spaded and vice versa. We complete each other, don't you see?"
+"I am already setting the stage for you to realise your ultimate goal. The quickest way into the hearts of people is through material goods, which is what the Verum Trading Company seeks to do," Guy highlighted. "Take a moment to consider me and my capabilities objectively. You were right when you said that we share a lot of similarities in our core and that our competencies and personalities deviate greatly. But that isn't a bad thing. What you lack, I have in spaded and vice versa. We complete each other, don't you see?"
 
-"ENOUGH!" The Other Guy declared forcefully, before a tense silence escaped through the tear.
+"ENOUGH!" The Other Guy declared forcefully before a tense silence escaped through the tear.
 
-The Other Guy hummed and then said with a chuckle, "It sounds like you just want me to do your dirty work? You want an excuse, and I'm the most convenient one."
+The Other Guy hummed and then said with a chuckle, "It sounds like you just want me to do your dirty work. You want an excuse, and I'm the most convenient one."
 
 "I won't lie," Guy admitted. "I am lacking in many crucial ways that pertain to our survival. You can fill in those gaps. But that does not mean you are without any shortcomings. There is no shame in accepting them."
 
@@ -48,13 +48,13 @@ The Other Guy hummed and then said with a chuckle, "It sounds like you just want
 
 "Well, my first thought was to work towards a merging-"
 
-"I don't wish to lose myself into you," the Other Guy denied decisively.
+"I don't wish to lose myself in you," the Other Guy denied decisively.
 
 "Don't think of it that way. Think of it as gaining something," Guy assuaged.
 
 "Package it however you want, but the end result won't be me."
 
-"I figured that you would say that," Guy said with a sigh. "Which is why I present you an alternative. It will be a bit more difficult."
+"I figured that you would say that," Guy said with a sigh. "Which is why I present you with an alternative. It will be a bit more difficult."
 
 "A system that satisfies both parties," Guy proposed. "Rules, conditions, and so on."
 
@@ -78,7 +78,7 @@ Suddenly, the void peering through the tear shuffled to reveal an eye.
 
 "I will take what is rightfully mine-"
 
-"You want to talk about right?!" Guy cut into his counterpart's emotionally charged tirade. "I was the one thrust into this body once its previous owner relinquished it, not you. You were just a byproduct of an experiment gone wrong. What you are is a parasite, a worm piggy-backing off of the work of others. I'll say it once, and I will say it again, you will NEVER be able to achieve anything by yourself. Every step you take, while decisive, lacks the wisdom or future sight. You don't know how to take two steps back to take three steps forward. And worst of all, you are selfish-"
+"You want to talk about right?!" Guy cut into his counterpart's emotionally charged tirade. "I was the one thrust into this body once its previous owner relinquished it, not you. You were just a byproduct of an experiment gone wrong. What you are is a parasite, a worm piggy-backing off of the work of others. I'll say it once, and I will say it again, you will NEVER be able to achieve anything by yourself. Every step you take, while decisive, lacks wisdom or future sight. You don't know how to take two steps back to take three steps forward. And worst of all, you are selfish-"
 
 "Take that back!"
 
@@ -90,7 +90,7 @@ Suddenly, the void peering through the tear shuffled to reveal an eye.
 
 "They were weeds! Their existence was a malaise to society."
 
-"Even weed has purpose in an ecosystem. This ill society has been functioning for years. By removing a monolith, you have paved the way for smaller factions to fill in the gaps. This will lead to more conflicts and deaths. A hammer is not a multipurpose tool - if you strike a screw, all you will do is damage the surface. While I agree with your assessment of the Beggars' Sect, if you had conferred your actions with me, we could have gone down a more reasonable path with fewer bloodshed and collateral damage," Guy expounded.
+"Even weed has a purpose in an ecosystem. This ill society has been functioning for years. By removing a monolith, you have paved the way for smaller factions to fill in the gaps. This will lead to more conflicts and deaths. A hammer is not a multipurpose tool - if you strike a screw, all you will do is damage the surface. While I agree with your assessment of the Beggars' Sect, if you had conferred your actions with me, we could have gone down a more reasonable path with less bloodshed and collateral damage," Guy expounded.
 
 "You don't seem to have an off button, is what I'm trying to say," Guy summarised. "Bulldozing through everything isn't a catch-all solution. Furthermore, we have more responsibilities. The kids, for instance."
 
@@ -106,13 +106,13 @@ Suddenly, the void peering through the tear shuffled to reveal an eye.
 
 "Do I not agree? Or do I not, not agree? Double negatives... so yes?" The Other Guy had unwittingly fallen into a classic verbal trap through a targetted barrage of facts and logic ending with a convoluted mess of a question.
 
-Guy metaphorically dabbed the metaphorical sweat cascading down his metaphorical face (after all, he couldn't sweat while inside the RoK). The war was nearing its conclusion and victory was almost at hand. He had corralled the Other Guy with unassailable logic and even turned his opponents emotionally charged and opinionated words against him. Admittedly, this was Guy's greatest debate yet, and had the greatest odds (as his identity and life literally hung on the balance).
+Guy metaphorically dabbed the metaphorical sweat cascading down his metaphorical face (after all, he couldn't sweat while inside the RoK). The war was nearing its conclusion and victory was almost at hand. He had corralled the Other Guy with unassailable logic and even turned his opponent's emotionally charged and opinionated words against him. Admittedly, this was Guy's greatest debate yet and had the greatest odds (as his identity and life literally hung in the balance).
 
-It was the final sprint, the finish line was approaching quickly! But right as his chest hit the silk ribbon of completion, he was violently pulled out of his meditative state.
+It was the final sprint, and the finish line was approaching quickly! But right as his chest hit the silk ribbon of completion, he was violently pulled out of his meditative state.
 
 "Father! Father! Help!"
 
-Guy's sight turned clearer, and the first thing he saw was Dora's panicked face drenched in tear, sweat and dirt.
+Guy's sight turned clearer, and the first thing he saw was Dora's panicked face drenched in tears, sweat and dirt.
 
 "Dora-"
 

@@ -2,7 +2,7 @@
 id: 9one0dzzq453xkd7bavhx1m
 title: Chapter 296 - Advancement
 desc: ''
-updated: 1677563451074
+updated: 1677773886480
 created: 1677433870891
 ---
 
