@@ -2,7 +2,7 @@
 id: w74owg9j0wsudvwknktolzh
 title: Chapter 297 - Parting Shot
 desc: ''
-updated: 1677774550624
+updated: 1678001106895
 created: 1677563434502
 ---
 
@@ -82,7 +82,7 @@ His planned negotiation was flushed unceremoniously. Did he regret it? Not reall
 
 "What have I unleashed into this world...?"
 
-Only time would tell.
+This was a question Guy found himself contemplating a lot in the recent year. An answer to which only time would tell.
 
 ____
 
