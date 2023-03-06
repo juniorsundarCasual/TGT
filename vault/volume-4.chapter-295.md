@@ -2,7 +2,7 @@
 id: oz30yelr9xu606du8j3e11g
 title: Chapter 295 - A Physician's Oath
 desc: ''
-updated: 1677433888715
+updated: 1678080917415
 created: 1677153076621
 ---
 
@@ -52,7 +52,7 @@ I will remember that there is art to medicine as well as science, and that warmt
 
 I will not be ashamed to say "I know not," nor will I fail to call in my colleagues when the skills of another are needed for a patient's recovery.
 
-I will respect the privacy of my patients, for their problems are not disclosed to me that the world may know. Most especially must I tread with care in matters of life and death. If it is given me to save a life, all thanks. But it may also be within my power to take a life; this awesome responsibility must be faced with great humbleness and awareness of my own frailty. Above all, I must not play at God.
+I will respect the privacy of my patients, for their problems are not disclosed to me that the world may know. Most especially must I tread with care in matters of life and death. If it is given me to save a life, all thanks. But it may also be within my power to take a life; this awesome responsibility must be faced with great humbleness and awareness of my own frailty. Above all, I do not have the right to judge the value of a human life.
 
 I will remember that I do not treat a fever chart, a cancerous growth, but a sick human being, whose illness may affect the person's family and economic stability. My responsibility includes these related problems, if I am to care adequately for the sick.
 
