@@ -1,8 +1,8 @@
 ---
 id: ohq8x61g9bv36g1cb6nj4el
-title: Chapter 298
+title: Chapter 298 - Getting Used to Loss
 desc: ''
-updated: 1678101829871
+updated: 1678125309258
 created: 1678001111410
 ---
 
@@ -42,8 +42,37 @@ The was trauma ingrained within these folk. However, she couldn't heal the mind,
 
 What she could do, was ensuring that their lives hereafter would be devoid of sickness. Mortal folk suffered through an assortment of illnesses in their lifetimes - they lack the hardy immunity of mages after all. Most, if not all, of these diseases could be treated. But as it was said: "prevention is preferable to cure".
 
+"And prevent, I will," Jean circulated the replenished mana coursing through her core. She decided to test an interesting idea, which she had instinctively applied during post-advancement when trying to save Josie. Using the knowledge obtained through the cultivation of the Rat King, she instilled viral behaviour into her mana particles. These viruses born of her were completely subservient to her. There was little danger of them going out of control and doing something untoward, since Jean was spiritually unable to do it herself.
 
+Nonetheless, what Jean was aiming to create here was an anti-autoimmune disease. The purpose of this disease was to highjack the lymphatic system to actively combat common and preventable diseases that have a high mortality rate. If all goes well, this "disease" would proliferate here and improve the overall health of the people of this parts and quite possibly spread outwards.
+
+Jean noticed that the mana cost to performance was steeper the more diseases she programmed into her virus. The cost also varied based on the complexity of the diseases she wished her virus to combat. The mode of transmission of her virus also became costlier the more resilient she made it. All in all, she could only install combat strategies against 13 illnesses, of which 2 were highly complex such as pneumonia (which tends to have a range of causants), and decided to limit transmission from person-to-person through liquid as a medium.
+
+In the end, Jean managed to secrete a concentrated droplet of mana from the tip of her right index finger that dripped into the well and dissolved into the dark waters. The whole process had drained her almost completely, leaving her at the cusp of mana exhaustion.
+
+Thankfully, she had Kili to assist her back. The girl was a diligent assistant - eager to learn, and quick to pick up new things. Jean used Mister Larks' teaching methods to bring the girl up to speed with her letters and numbers, and she assimilated it very quickly. She then moved on to reading books (and comics contributed by Dora). In her free time, she would help Jean in healing people and learning the basics of triage and emergency treatment. These activities would keep the two girls, Jean and Kili, busy and distracted, and would stop the two from dwelling on their losses.
+
+The duo arrived at the last remaining tent from the previous triage set-up, which also happened to be Jean's personal research station. Pushing aside the tent flap, Jean staggered in with an exhausted sigh.
+
+At that moment, she noticed an intruder. It was a large man, with his back turned towards her.
+
+"This is Josie's, isn't it?" The man spoke with a sorrowful voice as he carefully handled the roughshod journal that had the appearance of having survived multiple wars, three natural disasters, and an unfortunate burning incident of some kind. "I remember this one. She always carried it with her. Said that it was the very first present Nyla ever gave her. It ran out of pages within a year, but she never threw it away. Kept adding more pages into it and scrunched up her handwriting to a point where only a mage with impeccable vision could read it."
+
+He then chuckled with a nostalgic intonation and added, "She nearly killed me when I accidentally-"
+
+His words were interrupted as Jean rushed forward and hugged her father by his waist.
+
+"It's not your fault," Goran said while placing his palm at the back of Jean's head.
+
+"I know," a muffled, sorrowful moan escaped from Jean. "But it still hurts... So. Much!"
+
+Jean descended into a full-blown wail within her father's warm and assuring embrace.
+
+"It's all going to be okay," Goran repeated as he rubbed Jean's shuddering back.
+
+"It's all going to be okay."
 
 ____
 
-Marie bids farewell to everyone at the Mystic Celestial Sect.
+**Next**
+* [[volume-4.chapter-299]]
