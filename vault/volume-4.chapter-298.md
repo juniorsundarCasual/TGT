@@ -2,7 +2,7 @@
 id: ohq8x61g9bv36g1cb6nj4el
 title: Chapter 298
 desc: ''
-updated: 1678090452732
+updated: 1678101829871
 created: 1678001111410
 ---
 
@@ -42,11 +42,7 @@ The was trauma ingrained within these folk. However, she couldn't heal the mind,
 
 What she could do, was ensuring that their lives hereafter would be devoid of sickness. Mortal folk suffered through an assortment of illnesses in their lifetimes - they lack the hardy immunity of mages after all. Most, if not all, of these diseases could be treated. But as it was said: "prevention is preferable to cure".
 
-Jean retrieved
 
-The disease is being cured rapidly. Her ability is similar to how a virus works. By infecting herself with the illness, she just needs to get cured herself by her own immune system and she is able to produce a virus that acts like an antiviral. She distributes this virus into the watersupplies and food and feeds the people in the camp. The tactic would be abhorrent if she were a bioterrorist, but her Oath prevents her from taking a life.
-
-Goran arrives as a patient leaves the tent. He approaches his smiling daughter and pulls her into a tight hug. Slowly, the girl deflates and descends into a full-blow wail filled with pain.
 
 ____
 
