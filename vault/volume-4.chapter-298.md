@@ -2,7 +2,7 @@
 id: ohq8x61g9bv36g1cb6nj4el
 title: Chapter 298 - Getting Used to Loss
 desc: ''
-updated: 1678125309258
+updated: 1678168242676
 created: 1678001111410
 ---
 
@@ -68,9 +68,9 @@ His words were interrupted as Jean rushed forward and hugged her father by his w
 
 Jean descended into a full-blown wail within her father's warm and assuring embrace.
 
-"It's all going to be okay," Goran repeated as he rubbed Jean's shuddering back.
+"It's all going to be okay," Goran repeated as he rubbed Jean's shuddering back as his own tears drowning his sight. He never thought he would see his daughter emote again in her life. His greatest regret had been aggreeing to that operation that robbed his daughter of her smile. He wouldn't forgive himself now that Jean had returned to herself, but at least now he would be assured in death knowing that his daughter would live an uncaged life.
 
-"It's all going to be okay."
+"It's all going to be okay," he hummed as he exhaled in relief.
 
 ____
 
