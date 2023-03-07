@@ -1,8 +1,8 @@
 ---
 id: ohq8x61g9bv36g1cb6nj4el
-title: Chapter 298 - Getting Used to Loss
+title: Chapter 298 - (Interlude) Getting Used to Loss
 desc: ''
-updated: 1678168242676
+updated: 1678171065868
 created: 1678001111410
 ---
 
@@ -68,9 +68,17 @@ His words were interrupted as Jean rushed forward and hugged her father by his w
 
 Jean descended into a full-blown wail within her father's warm and assuring embrace.
 
-"It's all going to be okay," Goran repeated as he rubbed Jean's shuddering back as his own tears drowning his sight. He never thought he would see his daughter emote again in her life. His greatest regret had been aggreeing to that operation that robbed his daughter of her smile. He wouldn't forgive himself now that Jean had returned to herself, but at least now he would be assured in death knowing that his daughter would live an uncaged life.
+"It's all going to be okay," Goran repeated as he rubbed Jean's shuddering back as his own tears drowning his sight. He didn't believe Guy when the man said that Jean could express her feelings openly again. He never thought he would see his daughter emote again in her life! His greatest regret had been aggreeing to that operation that robbed his daughter of her smile. He wouldn't forgive himself now that Jean had returned to herself, but at least now he would be assured in death knowing that his daughter would live an uncaged life.
 
-"It's all going to be okay," he hummed as he exhaled in relief.
+"It's all going to be okay," he hummed as he exhaled in relief. "We will be holding a funeral."
+
+"I want her to be buried near Mother," Jean stated firmly.
+
+"I agree," Goran affirmed. "I will assign another protector-"
+
+"No," Jean denied as she extricated herself from her hug. She rubbed the tears from her face and looked up at her father with a gentle smile. "I don't need one any more."
+
+With that, Jean pulsed out her mana, saturating her mana domain. At this moment, Goran finally noticed his daughter's cultivation realm. "You... You broke through?"
 
 ____
 
