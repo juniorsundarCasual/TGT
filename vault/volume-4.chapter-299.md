@@ -2,7 +2,7 @@
 id: gk5vdd2in3bfckusic2ve0b
 title: Chapter 299 - (Interlude) 
 desc: ''
-updated: 1678214184312
+updated: 1678275857887
 created: 1678167999679
 ---
 
@@ -44,7 +44,79 @@ For one, Marie realised that she could actually see into people's past with her 
 
 "That's because the Heavenly Eye by itself isn't enough," Marie surmised. "There was something missing all along!"
 
-"No kidding... Who knew that taking a step further from knowing one's sums and times-tables could revitalise a primordial cultivation method?" Master evoked with impressed surprise. "Back to our earlier topic, though. I fear you may be growing addicted to the power."
+"No kidding... Who knew that taking a step further from knowing one's sums and times-tables could revitalise a primordial cultivation method?" Master evoked with impressed surprise. "Back to our earlier topic, though. I worry that you might be growing addicted to the power. I've seen you doing this every day."
+
+"I'm only experimenting," Marie reasoned. "Trying to test my limits."
+
+"You sound exactly like a clean person 'experimenting' wil drugs to test their limits," her Master said with a snort that was tinged with worry. "If you get lost in the past and future, you will forget the present."
+
+Marie wanted to shoot back with a quick-witted retort, but she noticed that her Master was showing sincere concern and decided to swallow her words. After thinking about it a little bit, she understood where he was coming from. And maybe, he was correct to a degree (Marie was only ready to concede that much!). She had been intoxicated by the ability to see absolutely everything. This sight went beyond what mana sensing could grasp. It was literally like being a fly on the wall of someone else's life, at every step they took.
+
+She first used it to look into Markus' past. She wanted to know what exactly he had been through during his time at the Academy. What she saw angered her thoroughly. She immensely regretted sending him there without any support. She regretted that he had no one to depend on over there, all by himself. She was also enraged by the disregard shown by those in administerial positions when it came to handling such blatant acts of violence and bullying. Hearing about it all from a person's mouth wasn't the same as actually being there and experiencing it first-hand. It hurt to watch. And it hurt even more that she could do nothing about it.
+
+After that depressing journey, Marie decided to explore her other siblings' pasts. Unfortunately, Dora and Kano lacked an accurate enough date of birth. Through some rigorous interpolation and statistical analysis, she narrowed down the scope. Though this did cause some haziness in her prediction and observations of the past. She tried asking her Master for his estimation of their actual ages, which he could pinpoint through magical means, but he refused to do so, saying that it isn't something necessary at the moment. Marie also realised that Matron Reva's date of birth was incorrect. Even interpolation failed to produce a viable bandwidth. Working up from the upper limit didn't work either, that is to take the lowest year obtainable through interpolation and working towards the most recent year. This meant that Matron Reva was older - much older...
+
+The oddities didn't stop there, either. In trying to divine Mister Lark's past and future, she was met with another kind of opposition. It was all garbled nonsense. The Heavenly Eye just refused to activate. Even her Master admitted that he could not apply his Heavenly Eye on Mister Larks. Was Mister Larks an exception or a pattern?
+
+"I would say he is an exception," he Master concluded. "His life is not chartable by the Heavenly Eye. There have been no records of such an entity existing."
+
+"I can't even see his past!" Marie complained. "For a minute, I thought I'd made a mistake with my cultivation."
+
+"I've learned that with Guy, you will have to divine his past and future using the people he keeps around him," her Master suggested. "It may not always be accurate, since his actions directly influence fate's sequence."
+
+"If Mister Larks can control fate, shouldn't he also have some affinity with the Heavenly Eye?" Marie inquired.
+
+"That's not how it works," Krish denied with a wave of his hand.
+
+"How DOES it work?"
+
+"Stop pestering me child. Look, a friend of yours has come to bid us farewell," Krish redirected as he looked towards the door. Today was the day, the duo planned to leave the Mystic Celestial Sect. They had acheived everything they'd sought after when arriving here, and it was now time to return home to the True World Sect.
+
+Within seconds, a series of knocks sounded on the door, which swung open automatically with a quirk from her Master's finger.
+
+"So this is where you've been hiding the entire time?" Rianna Maddi said with a genial smile. "Heard that you're leaving today? Were you going to bounce without saying goodbye?"
+
+Marie returned an equally warm smile and embraced the woman with a friendly hug. "How could I forget my moneymaker?"
+
+"Betting on spars is strictly controlled, you know that? The Law-Enforcement Department has initiated an investigation on the sudden outflux of funds from circulation," Rianna warned with a hushed tone.
+
+"Right! Sect Leader told me to tell Mage Nara that the request to use one of our teleportation formations has been approved by the Council of Elders," she said directly to her Master. "He also handed me this updated token."
+
+After retrieving a newer token from her jacket pocket she raised it with both hands in her Master's direction. "This allows a one time teleportation straight to the Sect should Mage Nara feel like visiting ever again."
+
+The token levitated into the gaping mouth of her Master's mundane-looking sack. He then returned a light nod of approval and left the room without another word.
+
+"I should probably get going too," Marie said, decoding the intent behind her Master's silence.
+
+"Let me take you there," Rianna offered. Marie probed Rianna's updated romantic life, which the woman shared unabashedly. Going into details about how she and her lover explored every nook and cranny of their body.
+
+"He's still young and starry-eyed. Once they start matching your strength, they lose that sense of wonder. They stop trying too," Rianna said with a melancholic sigh.
+
+"It can't all just be about sex, right?"
+
+"What else? Love? Pah!" Rianna scoffed. "There is no place for love in a mage's world. Love is the second leading cause of death in mages.And I intend to live for a very, very long time."
+
+"Doesn't it get lonely?"
+
+"Of course. But better to be lonely and breathing, than drowning in love and actually drowning," Rianna joked.
+
+Marie wanted to disagree, but she held her tongue. She wasn't experienced enough in this to have the right to say anything. A faint smile did flash past her face as Rianna's jocular statements matched with another face.
+
+'I wonder how they're adapting? I did have to tweak Markus' itenerary a little. But it should work out well, hopefully,' she thought to herself.
+
+By this time, she had arrived at the teleportation platforms, and saw her Master standing beside the fifth one from the end. Jean quickly gave Rianna another hug and rushed up to her Master.
+
+"Are we ready?"
+
+"Everything's packed and double-checked. Let's go home," Marie affirmed. Then, with a quick flash of light, the duo disappeared from the platform and, at the same time, deposited many kilometres away near a riverback in the middle of a forest.
+
+"We're close to Radiant City. It is fifty kilometres due Northeast," her Master ignored her discombobulated state after the quick teleportation and started to walk in his defined direction.
+
+"W-Wait uuuUUURP-"
+
+"*sigh* Don't run right after your first teleportation. You will get disoriented."
+
+"Why did you tell me befoooOOORRRP-"
 
 ____
 
