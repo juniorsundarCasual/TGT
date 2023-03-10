@@ -1,8 +1,8 @@
 ---
 id: gk5vdd2in3bfckusic2ve0b
-title: Chapter 299 - (Interlude) - Blindspots in Omniscience
+title: Chapter 299 - (Interlude) Blindspots in Omniscience
 desc: ''
-updated: 1678276011058
+updated: 1678424036284
 created: 1678167999679
 ---
 
