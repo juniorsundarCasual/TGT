@@ -2,7 +2,7 @@
 id: gwi00oagfa6h8r51v649hhs
 title: Chapter 300 - (Interlude) Start of a New Life
 desc: ''
-updated: 1678547814434
+updated: 1678607877268
 created: 1678171082067
 ---
 
@@ -28,7 +28,7 @@ The group of recruits started pouring in within a week of his arrival. The first
 
 "The people to your right, left, front and back will be the ones you will have to rely and depend on - they will be your new families. When things are going your way, they will be the ones who you will share your happiness with. When you are struggling, they will be the ones who will offer you a shoulder to cry or lean on. And finally, when the chips are down, they will be the ones who will come to your rescue. Respect them, cherish them, and first and foremost, never betray them."
 
-"Finally. Take a look at yourself. You are only children. The weight of the world shouldn't fall on your shoulders. The True World Sect has done its part in taking off what bore down on you till now. In doing so, you are afforded two paths. You can either relax, and take the mundane path. The True World Sect won't disparage you should you take this decision, as it is your right to do so. You may leave the Sect and return to a life with your previous family. This path may not necessarily be easy, but it is one that is frequently walked upon and is largely free of surprises. The second path is perilous, but equally rewarding. It is the path that the True World Sect will open up to you. It is a path of self-growth, and self-discovery. It is a path that will take you to heights that you have never seen before. But most importantly, it is a path that you will have to tread by yourself. You won't have to worry about falling down and getting lost, since you will have the entire Sect watching your back, but you will have to be the one to get back up on your feet and keep moving. I won't lie to you, it will be difficult. But I can also promise you that you won't be disappointed."
+"Finally. Take a look at yourself. You are only children. The weight of the world shouldn't fall on your shoulders. The True World Sect has done its part in taking off what bore down on you till now. In doing so, you are afforded two paths. You can either relax, and take the mundane path. The True World Sect won't disparage you should you take this decision, as it is your right to do so. You may leave the Sect and return to a life with your previous family. This path may not necessarily be easy, but it is one that is frequently walked upon and is largely free of surprises. The second path is perilous, but equally rewarding. It is the path that the True World Sect will open up to you. It is a path of self-growth, and self-discovery. It is a path that will take you to heights that you have never seen before. But most importantly, it is a path that you will have to tread by yourself. You won't have to worry about falling down and getting lost, since you will have the entire Sect watching your back, but you will have to be the one to get back up on your feet and keep moving. I won't lie to you, it will be difficult. But I can also promise you that you won't be disappointed. But to enjoy these benefits you must always remember the following credo. Respect yourself, cherish yourself, and first and foremost, never betray yourself."
 
 With those final words, a charged silence prevailed in the crowd. Everyone was excited and pumped up. No one showed a face of uncertainty or apprehension, even Revian.
 
