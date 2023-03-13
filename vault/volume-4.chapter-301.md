@@ -2,7 +2,7 @@
 id: owgoslwf58y8j4nxz7zylrm
 title: Chapter 301 - (Interlude) Temptations
 desc: ''
-updated: 1678615156333
+updated: 1678686130989
 created: 1678606124494
 ---
 
@@ -82,9 +82,9 @@ He bent the metal back in shape, turned and walked away, leaving Shuri to gaze b
 
 "I was mistaken..."
 
-There WAS a place far deadlier than the Palace of the Sun, and she had voluntarily walked into it.
+There WAS a place more dangerous than the Palace of the Sun, and she had voluntarily walked into it.
 
 ____
 
 **Next**
-* [[volume-4.chapter-301]]
+* [[volume-5.chapter-302]]
