@@ -1,8 +1,8 @@
 ---
 id: x9xit5xf99buc5qiv4661pi
-title: Chapter 302 - Comfort of Routines
+title: Chapter 302 - Out of the Frying Pan...
 desc: ''
-updated: 1678793504944
+updated: 1678970274814
 created: 1678615169633
 ---
 
