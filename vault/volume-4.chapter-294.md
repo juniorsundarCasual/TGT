@@ -2,13 +2,13 @@
 id: h3wyum8dq8kcjyesbvcqxbh
 title: Chapter 294 - Merging with the Other Self
 desc: ''
-updated: 1677432967727
+updated: 1679030326637
 created: 1677003835809
 ---
 
 The disparity in strength, though not so evident at first, grew increasingly obvious with the passing of time and with every successful attack. It was an expected outcome, after all, since the two derived their newfound strength from two starkly different sources.
 
-The figure in light took her strength from the antibodies coursing through Jean's body. In understanding and deciphering the way they worked, she pushed her affinity towards life and healing. The figure in dark used the cultivation borne of the Rat King, which was already matured and interpreted through the creature's short yet eventful life. The concepts of pestilence that prevailed in its cultivation helped push her affinity towards death and disease.
+The figure in light took her strength from the antibodies coursing through Jean's body. In understanding and deciphering the way they worked, she pushed her affinity towards life and healing. The figure in dark used the cultivation borne of the Rat King, which was already matured and interpreted through the creature's short yet eventful life. The concepts of the pestilence that prevailed in its cultivation helped push her affinity towards death and disease.
 
 #Useless!# A heavy fist coated in a deathly mist hit the other woman square in her jaw. Her pristine and serene appearance had grown ragged and near death. Though technically no blood was being spilt, the entity on the losing end looked like she was on her last limb.
 
@@ -16,17 +16,17 @@ The figure in light took her strength from the antibodies coursing through Jean'
 
 The woman coiled her arm and ejected a roundhouse elbow that cracked against her kneeling opponent's skull. In turn, the woman in white spun and fell onto the ground with a gruesome bounce.
 
-#You presence is no longer needed,# the woman in the black mist mocked with a cheerful grin while approaching her opponent. #But fret not. Your contribution will go a long way towards our future.#
+#Your presence is no longer needed,# the woman in the black mist mocked with a cheerful grin while approaching her opponent. #But fret not. Your contribution will go a long way towards our future.#
 
-She licked her lips in bliss as she grasped the white woman by her skull and proceeded to thrust her thumbs into the woman's eye-sockets. She looked towards the trembling little girl and chuckled with malicious glee. Slowly, the white woman's body started to disperse and turn into gas that was inhaled voraciously by the woman in black.
+She licked her lips in bliss as she grasped the white woman by her skull and proceeded to thrust her thumbs into the woman's eye sockets. She looked towards the trembling little girl and chuckled with malicious glee. Slowly, the white woman's body started to disperse and turn into gas that was inhaled voraciously by the woman in black.
 
-The little girl collapsed as the thought of her imminent demise registered within her mind. There could only be one - it would either be the gigantic woman with black mist adorning her form, or her measly self - and the odds did not seem to be in her favour.
+The little girl collapsed as the thought of her imminent demise registered within her mind. There could only be one - it would either be the gigantic woman with black mist adorning her form or her measly self - and the odds did not seem to be in her favour.
 
-As the white woman dissipated, the giantess grew bigger and stronger and wore a satisfied expression of immense elation, #Its amazing how quickly one can turn a healing salve into a poison capable of irreparable grief. One must know their enemy before waging a war - what this wretch has gifted me with her death will ensure that the retribution that I will bring to this world will be unchalleneged and unopposed.#
+As the white woman dissipated, the giantess grew bigger and stronger and wore a satisfied expression of immense elation, # It's amazing how quickly one can turn a healing salve into a poison capable of irreparable grief. One must know their enemy before waging a war - what this wretch has gifted me with her death will ensure that the retribution that I will bring to this world will be unchallenged and unopposed.#
 
 "Y-You can't do this-"
 
-#I can. And I will,# the woman reaffirmed with a maddened glare. #The world will feel my righteous fury. I took everything from me! And it should be prepared to lose everything in turn. But first-#
+#I can. And I will,# the woman reaffirmed with a maddened glare. #The world will feel my righteous fury. It took everything from me! And it should be prepared to lose everything in turn. But first-#
 
 The body had finally disappeared, absorbed completely by the giantess. The woman stood up from her crouch and approached the little girl with lithe steps.
 
@@ -48,7 +48,7 @@ Further, the region all around them started to warp and ripple. The darkness dis
 
 "I-I-"
 
-"That's right. You weren't thinking," Mister Larks declared with a tired sigh. "I hope you realise that you have put yourself in a very difficult situation.What you did was equivalent to offering a knife to a murderer seeking to kill you and then turned you back to them so that they have a clear shot."
+"That's right. You weren't thinking," Mister Larks declared with a tired sigh. "I hope you realise that you have put yourself in a very difficult situation. What you did was equivalent to offering a knife to a murderer seeking to kill you and then turning you back to them so that they have a clear shot."
 
 "I just wanted to save Josie," the little girl confessed amidst whimpers and tears. Mister Larks approached her and pulled her into a warm hug.
 
@@ -68,7 +68,7 @@ Mister Larks wore an astounded expression that implied that the query had an obv
 
 "I don't understand."
 
-"She is only a creation of your mind - your will. Why is it that the remnant core of a deceased Tesseract Transformation realm mage persists forever, while that of anyone from realms below ceases to exist after a period of time?" Mister Larks questioned.
+"She is only a creation of your mind - your will. Why is it that the remnant core of a deceased Tesseract Transformation realm mage persists forever, while that of anyone from realms below ceases to exist after some time?" Mister Larks questioned.
 
 "Without a soul, the will cannot become 'real'. And that which is not real, has no place in reality," Mister Larks answered. "This is how you will win against her."
 
@@ -78,7 +78,7 @@ The little girl looked at the exhorting man with a dubious gaze. Just as she was
 
 "I expressly warned you that I needed complete silence when-" The right side spoke with haughty consternation.
 
-"Yeah! Yeah!" The left half interrupted. "You are just wasting time by going about it in a roundabout manner. If you want her to understand that break down the solution into manageable chunks."
+"Yeah! Yeah!" The left half interrupted. "You are just wasting time by going about it in a roundabout manner. If you want her to understand that, then break down the solution into manageable chunks."
 
 "This is something that she needs to do herself," the right half emphasised. "No external help may be provided."
 
@@ -96,9 +96,9 @@ The right half frowned contemplatively, "I may have made a preemptive leap here.
 
 "Whatever the case, maybe you are on to something. We just need to find a way to assist Jean," the left half encouraged.
 
-At this point, both the sides released into a thoughtful hum. "There is an option, but it is dangerous," the right proposed.
+At this point, both sides released into a thoughtful hum. "There is an option, but it is dangerous," the right proposed.
 
-Noticing the little girl's expectant eyes, Mister Larks' left half elaborated. "Its about restricting the soul with a contractual lock. That there are certain things a person must never do which, if broken, can cause the soul to shatter irreparably. Needless to say that this process causes the instant demise of the person."
+Noticing the little girl's expectant eyes, Mister Larks' left half elaborated. "It's about restricting the soul with a contractual lock. That there are certain things a person must never do which, if broken, can cause the soul to shatter irreparably. Needless to say that this process causes the instant demise of the person."
 
 "A slave contract," the little girl affirmed with a thoughtful nod. "Except I would be both the master AND the slave."
 
@@ -110,9 +110,7 @@ Noticing the little girl's expectant eyes, Mister Larks' left half elaborated. "
 
 "Yet it will ensure that this cretin's murderous behaviours can never manifest. Furthermore, we are overlooking a key fact," the right half paused and smirked as if to show that he was trying to amplify suspense artificially.
 
-"Jean and this thing here share the same soul, but are two different manifestations of thought. What this cretin thinks and believes aren't shared by Jean here. Which means that-"
-
-"Any vow taken that runs counter to what this giantess believes will cause pain only to this giantess," the right half finished the thought. "We can weaken her until she becomes a shell of her self, ready for Jean here to take over."
+"Jean and this thing here share the same soul but are two different manifestations of thought. What this cretin thinks and believes isn't shared by Jean here. This means that any vow that is taken which runs counter to what this giantess believes will cause pain only to this giantess," the right half finished the thought. "We can weaken her until she becomes a shell of herself, ready for Jean here to take over."
 
 Without pause, the right half snapped his finger and prepared to take action.
 
@@ -126,9 +124,9 @@ A few seconds later, he returned, "Alright! I have something with me. It is perf
 
 The little girl nodded in affirmation. She trusted Mister Larks, even if the last few moments of interactions seemed a bit kooky. He had only done right by her since their first meeting. If it hadn't been for him, she would never have reached this far in her journey into magehood.
 
-At this point, both the sides of Mister Larks' face coordinated as one. He coughed to accentuate the start, and then spoke the vows that would forever change the little girl - Jean's - entire life!
+At this point, both sides of Mister Larks' face coordinated as one. He coughed to accentuate the start, and then spoke the vows that would forever change the little girl - Jean's - entire life!
 
-"I swear to fulfill, to the best of my ability and judgment, this covenant:
+"I swear to fulfil, to the best of my ability and judgment, this covenant:
 
 I will first do no harm.-"
 
