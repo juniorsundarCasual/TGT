@@ -1,14 +1,14 @@
 ---
 id: 8o8bps9gncpt8gv40udfgr7
-title: Chapter 304
+title: Chapter 304 - Getting Out of a Forced Commitment
 desc: ''
-updated: 1679229608779
+updated: 1679247683685
 created: 1679220050361
 ---
 
 If looks could drill holes, then Shuri was certain that there would be an incredibly narrow one cutting through her head given the sheer intensity with which Marie looked at her. The gaze did not hold any negativity - at least none that Shuri's highly attuned social sense could read. It was purely filled with intrigue and amusement.
 
-Was it mockery? No, the amusement was not directed in Shuri's direction, it felt more like how a failed comic would laugh at their own joke - it was self-directed. Shuri was lost. The situation had spiraled beyond her control. She realised that ever since she left the safety of the Palace (there, she said it!) things hadn't been going her way. The more she tried to do sometime, the further she moved from achieving her girl. The harder she attempted to hide herself and avoid the attention of others, the more the world kept pushing her into the light.
+Was it mockery? No, the amusement was not directed in Shuri's direction, it felt more like how a failed comic would laugh at their own joke - it was self-directed. Shuri was lost. The situation had spiralled beyond her control. She realised that ever since she left the safety of the Palace (there, she said it!) things hadn't been going her way. The more she tried to do sometime, the further she moved from achieving her girl. The harder she attempted to hide herself and avoid the attention of others, the more the world kept pushing her into the light.
 
 "You never expected that you'd end up here, did you?" Marie broke through Shuri's rambling thoughts with a question that read her mind. The two, Marie and Shuri, were currently in the recreation room. After that disaster of an assembly where Shuri was caught with her trousers down (metaphorically), Marie dragged her along for a one-on-one meeting to discuss future assistantship expectations (a responsibility which was unceremoniously foisted upon Shuri).
 
@@ -66,7 +66,69 @@ As she said this, Marie picked up a large stack of papers tied up into a neat bu
 
 "How many more are there?" Shuri blurted out exasperatedly.
 
-"Don't worry, it"
+"Don't worry," Marie said with a loud laugh. "These two are mine. That one over there's for you."
+
+"What exactly am I supposed to do with this?" Shuri probed with evident snark in her voice.
+
+"Now, now, let's curb the hostility," Marie responded with a well-meaning drawl. "We're trying to determine the relational dynamic between different sets of variables, to see if there are any trends- Oh, right! You probably haven't covered this yet"
+
+"No, I know what you're talking about," Shuri murmured back as she undid the bundle and traced her finger over the table of values.
+
+"See!" Marie suddenly clapped Shuri's back appreciatively. "Gifted!"
+
+Shuri groaned and grumbled as she got down to work. "When does this need to be finished by?"
+
+"A week." Marie responded nonchalantly.
+
+"A week?! For all of this? You have got to be kidding me! How can I finish this AND defeat you if the deadlines overlap?" Shuri argued.
+
+"That sounds like a 'you' problem to me," Marie joked. "I'm not the one who wishes to extricate myself from a research assistantship to work that, by the way, is re-envisioning an extremely ancient and powerful cultivation method."
+
+Shuri's jaw bobbed up and down as she struggled to formulate a response. They way Marie phrased things really did make Shuri sound like an idiot.
+
+"What cultivation method are you talking about?" Shuri probed after recovering from her stupor.
+
+"Why should I disclose this information to you if you don't intend to stick with me?" Marie rebutted.
+
+"I thought all knowledge was freely accessibly here in the True World Sect," Shuri challenged.
+
+"I don't know if you remember, but Sect Leader Larks explicitly said that all previously discussed rules do not apply to my Master," Marie shot back smugly.
+
+Shuri continued grumbling as she resumed the arduous and monotonous task.
+
+____
+
+"What's this?" Marie inquired as Shuri tossed a stack of playing cards on the desk.
+
+"I challenge you to a game of Blackjack," Shuri declared.
+
+"Are you finished with the work?" Marie highlighted with crossed arms.
+
+Shuri snorted back as a challenge and said, "Don't worry about it. It'll be done by the deadline."
+
+"If you say so," Marie droned. "Just so you know: if you fail to finish the assigned task before the deadline, I will recommend you to the Sect Leader for moving to the advanced level."
+
+"Are you threatening me with a promotion?!" Shuri exclaimed with an agape mouth. "I-I could just slack off."
+
+Marie laughed deviously at Shuri's threat and warned, "You only say that because you haven't personally spent any time with Sect Leader Larks. If his attention falls on you, there will be no slacking off."
+
+Shuri gulped dryly in fear. Her mind built up an image of the "friendly" Sect Leader as an unforgiving taskmaster who tolerated no laziness.
+
+"So, are we playing or what?" Marie said while snapping her fingers impatiently. "How many decks are we using? Ah, four, I see... Alright, I'm shuffling."
+
+Marie cut the deck and expertly riffle shuffled the cards together. The confident and practised motion cased Shuri to sweat a little. She did not expect Marie to be so experienced.
+
+"Would you like to inspect the stack?" Marie offered.
+
+"WAIT!" Shuri exclaimed. "You aren't allowed to use your mana sense!"
+
+Marie scoffed in disbelief. "It's a fair competition. Why must I cripple myself just for your benefit?"
+
+Shuri growled angrily before collecting the cards with a sweeping motion, "Forget it!"
+
+"No, no," Marie stopped her once again by grabbing Shuri's arm. "I'll play ball. No mana senses. But, just so you know, you still won't win."
+
+Shuri raised the corner of her lips disdainfully. 'We'll see about that!'
 
 ____
 
