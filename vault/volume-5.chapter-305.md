@@ -1,8 +1,8 @@
 ---
 id: u1xli3tz1e6qnm3zpvdi8gu
-title: Chapter 305
+title: Chapter 305 - Losing Streak
 desc: ''
-updated: 1679398926368
+updated: 1679422719503
 created: 1679288920320
 ---
 
@@ -88,19 +88,19 @@ Shuri scowled in disbelief.
 
 ____
 
-The next game went more quickly. Shuri was supicious that something fishy was taking place during the times when Marie closed her eyes. She wanted to test this hypothesis, and thus she imposed a time crunch within the game. Luckily, Marie was amicable to Shuri's demands and followed through.
+The next game went more quickly. Shuri was suspicious that something fishy was taking place during the times when Marie closed her eyes. She wanted to test this hypothesis, and thus she imposed a time crunch within the game. Luckily, Marie was amicable to Shuri's demands and followed through.
 
 'There it is!' Marie's eyes closed. Due to the time crunch, though, the duration was shorter. But the move the followed was different. It wasn't so blatantly asinine. It held a purpose.
 
-The purpose? To throw a wrench into Shuri's game plan! As an veteran player and 'gifted' genius, Shuri was able to see multiple steps into a game and plan ahead. This was how she beat her usual opponents. For every move there were very few logical reactionary or actionary moves the opponent could make. Taking those into consideration, one could possibly see five or six steps ahead depending on how well their minds could conceptualise a game. For Shuri, she could forsee seven steps. Unfortunately, Marie's single move had targetted this exact seventh step and overturned the entire sequence.
+The purpose? To throw a wrench into Shuri's game plan! As a veteran player and 'gifted' genius, Shuri was able to see multiple steps into a game and plan ahead. This was how she beat her usual opponents. For every move there were very few logical reactionary or actionary moves the opponent could make. Taking those into consideration, one could possibly see five or six steps ahead depending on how well their minds could conceptualise a game. For Shuri, she could foresee seven steps. Unfortunately, Marie's single move had targetted this exact seventh step and overturned the entire sequence.
 
 As soon as Marie's finger left the piece, she looked up and shot a challenging smirk.
 
-Shuri stumbled, new plans had to be made, and she had to redirect her entire attention into the game. But alas, the breif moment cost her. She was cornered.
+Shuri stumbled, new plans had to be made, and she had to redirect her entire attention into the game. But alas, the brief moment cost her. She was cornered.
 
 "Checkmate!" Marie chortled.
 
-"Five seconds!" Shuri challeneged.
+"Five seconds!" Shuri challenged.
 
 "It's almost midnight," Marie reminded. "You should get some sleep."
 
@@ -108,7 +108,33 @@ Shuri stumbled, new plans had to be made, and she had to redirect her entire att
 
 ____
 
-The new
+Shuri suffered defeat after defeat, even with the new format. However, she also noticed something interesting: the interception range had narrowed. Instead of seven steps into the future, she was now being intercepted at the next step. Although this meant that she could more easily react to changes, the tougher time limit was also working against her.
+
+But a trend was observed, which warranted further investigation. Unfortunately, she could no longer continue playing as Marie insisted that Shuri get her sleep. Night had passed and the sun was nearly peaking over the horizon. She wouldn't get her full eight hours, but Shuri wasn't planning to retire anyways. She was close, she could feel it.
+
+____
+
+"Today's the last day, isn't it?" Marie inquired, as she noticed Shuri walk in with a confident smirk on her face. "Have you finished the task I handed you?"
+
+"I challenge you to a game of chess," Shuri side-stepped the inquiry and got straight to the point.
+
+"Just like yesterday?" Marie sighed.
+
+"Yes, but with a surprise twist," Shuri retrieved a silver coin from her jacket pocket and placed it on the table. "Before each turn, the playing moving their piece must first call heads or tails and shuffle this coin. There is a time limit of three seconds for calling and shuffling the coin. If the person wins the call, they can move a piece. If they don't then their turn is forfeit. Every time a piece is captured, the owner of the losing piece is allowed to call a coin shuffle. If they win the call, the captured piece survives and the capturer dies instead."
+
+Marie propped up her left brow, "That's a lot of rules for a simple game."
+
+"I will win this time," Shuri affirmed.
+
+"How can you be so sure?" Marie asked.
+
+"It's because it is no longer just two people playing, there is a third person," Shuri raised her finger and tapped the silver coin. "If the third person wills it, then I shall win. Luckily they are fair and unbiased."
+
+"Alright, shall we being?" Marie said while cracking her fingers in anticipation.
+
+"No casual declaration of victory this time, huh?" Shuri mocked.
+
+"I can't declare that what I cannot know," Marie smiled back.
 
 ____
 

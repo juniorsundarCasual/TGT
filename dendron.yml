@@ -94,6 +94,7 @@ publishing:
         - volume-2
         - volume-3
         - volume-4
+        - volume-5
     writeStubs: false
     siteRootDir: docs
     seo:
