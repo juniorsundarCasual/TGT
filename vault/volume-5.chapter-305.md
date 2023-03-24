@@ -2,7 +2,7 @@
 id: u1xli3tz1e6qnm3zpvdi8gu
 title: Chapter 305 - Losing Streak
 desc: ''
-updated: 1679422719503
+updated: 1679553948252
 created: 1679288920320
 ---
 
@@ -26,7 +26,7 @@ Shuri slinked back into her chair as her eyes glossed over the layout before her
 
 "Though its surprising that you figured it out all by yourself in such a short time," Marie commended. "See! Gifted, I tell ya'!"
 
-"Enough," Shuri declared as she shot up from her seat. She reached forward and started to collect all the distributed cards. "I admit defeat in this contest."
+"Enough," Shuri declared as she shot up from her seat. She reached forward and started to collect all the distributed cards. "This is useless."
 
 "You still have a few more days left," Marie tempted the girl as she walked away in a huff.
 
@@ -120,7 +120,7 @@ ____
 
 "Just like yesterday?" Marie sighed.
 
-"Yes, but with a surprise twist," Shuri retrieved a silver coin from her jacket pocket and placed it on the table. "Before each turn, the playing moving their piece must first call heads or tails and shuffle this coin. There is a time limit of three seconds for calling and shuffling the coin. If the person wins the call, they can move a piece. If they don't then their turn is forfeit. Every time a piece is captured, the owner of the losing piece is allowed to call a coin shuffle. If they win the call, the captured piece survives and the capturer dies instead."
+"Yes, but with a surprise twist," Shuri retrieved a silver coin from her jacket pocket and placed it on the table. "Before each turn, the playing moving their piece must first call heads or tails and shuffle this coin. There is a time limit of two seconds for calling and shuffling the coin. If the person wins the call, they can move a piece. If they don't then their turn is forfeit. Every time a piece is captured, the owner of the losing piece is allowed to call a coin shuffle. If they win the call, the captured piece survives and the capturer dies instead."
 
 Marie propped up her left brow, "That's a lot of rules for a simple game."
 

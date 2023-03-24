@@ -2,7 +2,7 @@
 id: go97ibet1jf7w7h7awv2a0c
 title: Chapter 293 - Hopeful but Helpless
 desc: ''
-updated: 1678863156772
+updated: 1679549437954
 created: 1676868066055
 ---
 
@@ -74,7 +74,7 @@ After the fracture, the two personalities grew more and more complex - more vivi
 
 *You can't do this!* The light figure pleaded.
 
-#If I don't assimilate all of this knowledge, the girl with explode. Would you rather she die, then?# The dark figure teased with a scoff.
+#If I don't assimilate all of this knowledge, the girl will explode. Would you rather she die, then?# The dark figure teased with a scoff.
 
 She then tilted her head and voiced out her thoughts dramatically, #Speaking of which, is there even a need for you anymore? You are only holding her back!#
 

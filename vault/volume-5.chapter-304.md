@@ -2,7 +2,7 @@
 id: 8o8bps9gncpt8gv40udfgr7
 title: Chapter 304 - Getting Out of a Forced Commitment
 desc: ''
-updated: 1679288896736
+updated: 1679556063529
 created: 1679220050361
 ---
 
@@ -122,7 +122,7 @@ Marie cut the deck and expertly riffle shuffled the cards together. The confiden
 
 "WAIT!" Shuri exclaimed. "You aren't allowed to use your mana sense!"
 
-Marie scoffed in disbelief. "It's a fair competition. Why must I cripple myself just for your benefit?"
+Marie scoffed in disbelief. "It's a fair competition. Why must I cripple myself just for your benefit? A mage's mana sense is almost a part of their body."
 
 "It's part of the rules of the contest! The mode I intend to use to defeat you is a regular game of Blackjack," Shuri growled angrily before collecting the cards with a sweeping motion, "Forget it!"
 
