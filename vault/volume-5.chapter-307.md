@@ -1,8 +1,8 @@
 ---
 id: rkka5xwk2tz7hvhtcu87ee6
-title: Chapter 307
+title: Chapter 307 - Innovator Track
 desc: ''
-updated: 1679829534890
+updated: 1679847150997
 created: 1679810151197
 ---
 
@@ -60,4 +60,27 @@ Shuri couldn't physically contain her derisive sneer at this point, which was ca
 
 "Anyway, back to my point before I was interrupted," Marie coughed with a fake admonishing tone. "I need to discuss the Sect's attitude towards entrepreneurship, intrapreneurship and innovation with you. It is not an obligation, but sometimes learning new things and experimentation can produce a spark in people's minds. In pursuing this spark, an idea or concept takes form. Pursuing this idea or concept to create something tangible or intangible is an innovation. To take this innovation and turning it into something that can be monetised is entrepreneurship or intrapreneurship."
 
-""
+"An innovation is solely owned by the innovator, be they a Member, Elder or Leader of the Sect. The innovator has complete control over what they choose to do with their innovation. They can choose to sell the idea to a person or entity outside of the Sect. Alternatively, they can utilise the Verum Trading Company or an appropriate subsidiary to actualise their innovation, in which case they are entitled to a percentage of profit (pending negotiation). Finally, if they find that their innovation cannot fit within any business amongst Verum Trading Company's portfolio, they can choose to register a new business. If this is registered under Verum Trading Company's umbrella, the company will establish a management team that will take care of all the leg work. Again the innovator gets to benefit from a percentage of profits made."
+
+Shuri raised a point, "What if they don't want to be affiliated with the Sect?"
+
+"They'll have to split their time between managing their business and their Sect responsibilities," Marie answered with a shrug.
+
+"Not much of a choice then, is it?" Shuri said with a wry smile, to which Marie shrugged once again. "What's the point of telling me all this anyway?"
+
+"Well, if you decide to walk down the Innovator Track, I will cut down the task allotment to you. However, in turn, you have to keep a Process Journal that tracks your daily work and submit it for verification every week," Marie expounded.
+
+"Innovator Track?"
+
+"It's an opportunity given to Sect Members with initiative and/or gifts. Through it, you can get access to additional resources and exclusion from some of the Sect's responsibilities. Of course, the quality of the submitted Process Journal will determine if you can continue in the track. We don't want this to turn into a way for people to slack off," Marie clarified.
+
+"Why weren't we told of this in the assembly?" Shuri probed.
+
+"As I said, it is reserved for those that show initiative and/or are specially gifted. Its not something everyone has to preoccupy themselves with."
+
+Shuri descended into thought as she pondered over this "convenient" new opportunity that happened to check all of her boxes.
+
+____
+
+**Next**
+* [[volume-5.chapter-308]]
