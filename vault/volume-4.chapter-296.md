@@ -2,11 +2,11 @@
 id: 9one0dzzq453xkd7bavhx1m
 title: Chapter 296 - Advancement
 desc: ''
-updated: 1679478885022
+updated: 1679984330052
 created: 1677433870891
 ---
 
-Two individuals were undergoing breakthroughs in their cultivation in the wrecked clearing in the woods. One was a teen girl and the other was an adult male. The former was breaking through from Mana Condensation into the Foundation Establishment realm while the latter was taking a step out of Foundation Establishment into Core Formation. Both transitions were monumental as one person was taking her first true step into the math of magehood and potential immortality, while the other was reforging his physical form to one that fit his truest perception of himself.
+Two individuals were undergoing breakthroughs in their cultivation in the wrecked clearing in the woods. One was a teen girl and the other was an adult male. The former was breaking through from Mana Condensation into the Foundation Establishment realm while the latter was taking a step out of Foundation Establishment into Core Formation. Both transitions were monumental as one person was taking her first true step into the path of magehood and potential immortality, while the other was reforging his physical form to one that fit his truest perception of himself.
 
 Of the two, though, Jean's advancement was one with the greatest amount of turbulence since it wasn't completely organic in nature. Compared to Markus and Marie, who had to work and build their foundations from scratch, Jean was relying on the pre-built foundations of a beast, which was then absorbed by her detached psyche of hatred, which then also absorbed her other psyche that derived power from the Universal Panacea's life-essence... Needless to say, what she absorbed was a haphazard melting pot of insights. Luckily, her hate-filled psyche had already taken the brunt of the damage from absorbing an external core of cultivation. Having done so, the insights flowing into her at this moment were fairly compatible and digestible, although they conflicted slightly with her moral codes.
 
