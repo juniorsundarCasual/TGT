@@ -2,7 +2,7 @@
 id: XGoedwF0XP8MJhcrlUIFv
 title: Chapter 013 - A New Solution
 desc: ''
-updated: 1669203817509
+updated: 1680077849887
 created: 1643568415216
 ---
 
@@ -95,7 +95,7 @@ Mast nodded in affirmation, but retorted, (If that’s the case, then I don’t 
 
 Guy smiled wryly at that realisation. But then he proposed, 'Is it possible to turn the RoK into something like a time-dilution chamber. So that time moves much faster in here, than outside?’
 
-Mast shook his head and replied, (I cannot mess with the flow of time. It is one of the laws that supersedes everything else. If I was to turn this into a time-dilution chamber, then my brother would no immediately.)
+Mast shook his head and replied, (I cannot mess with the flow of time. It is one of the laws that supersedes everything else. If I was to turn this into a time-dilution chamber, then my brother would know immediately.)
 
 Guy collapsed into a squat and hugged his knees, 'What then? I can't afford to waste any more time.'
 

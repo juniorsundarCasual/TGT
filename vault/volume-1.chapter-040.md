@@ -2,7 +2,7 @@
 id: 37hD0M2dmXCHXmBi29sjz
 title: Chapter 040 - Profitable Opportunity
 desc: ''
-updated: 1643622411216
+updated: 1680079494236
 created: 1643569258185
 ---
 
@@ -20,7 +20,7 @@ As Karmin absorbed the information, he started to gain a better understanding of
 
 It was his truly unorthodox and opposing thoughts on matters that were considered established that highlighted Guy's character. First, Guy was willing to stake his future on a kid that most teachers would avoid or dismiss. Karmin was envious of the student called Markus for finding himself a teacher such as Guy. Deep down, Karmin likened himself to Markus; both of them were from a lowly background and while Karmin found his success, it followed heavy sacrifices and many disappointments. Markus could have ended up in a worse starting position than Karmin. After all, the kid was an orphan and a failed mage to boot. Such an impact on the kid's psyche would take years to heal.
 
-The second aspect of Guy's that Karmin found commendable was the man's ability to think outside the box. In fact, that could still be considered an understatement. The box never entered Guy's eyee! Fortunately, the man wasn't flighty; Guy produced his own plan of action which was detailed and goal-oriented. With his own experiences, Karmin could easily determine that even if a layman were to follow those steps, they would achieve the required outcome, albeit with varying durations.
+The second aspect of Guy's that Karmin found commendable was the man's ability to think outside the box. In fact, that could still be considered an understatement. The box never entered Guy's eye! Fortunately, the man wasn't flighty; Guy produced his own plan of action which was detailed and goal-oriented. With his own experiences, Karmin could easily determine that even if a layman were to follow those steps, they would achieve the required outcome, albeit with varying durations.
 
 Finally, Karmin was strangely attracted to Guy's unflinching zeal and passion. It came completely out of the blue! When they started talking, Guy looked like a statue and spoke in a measured manner. However, when he started to talk about his whole "pilgrimage" to "create a means to communicate the Truth of the World" Karmin was a little shaken. If not for the methodical approach, and infallible research supporting the whole spiel, Karmin worried that he had unwittingly stepped into an initiation ceremony of a Demonic Cult. What he found surprising, and embarrassing at the same time, was that subconsciously he was willing to submit to the cause!
 
