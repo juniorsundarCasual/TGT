@@ -2,7 +2,7 @@
 id: ElttRp8hJIPnewSMJUS1k
 title: Chapter 006 - Library Etiquette
 desc: ''
-updated: 1643571962555
+updated: 1680077278914
 created: 1643481817935
 ---
 
@@ -48,7 +48,7 @@ To advance within the Mana Condensation realm, having a suitable cultivation met
 
 The Common methods are the lowest tiers. They are basic and can at most allow a mage to reach Core Formation Realm. They are basic as their contents touch on topics superficially, and hence the insights that can be gained from those methods are limited.
 
-Advanced methods are a tier higher and can provide more insights. They are generally a continuation or expansion of Common methods and can usually carry the mage through their entire cultivation journey. Within the Common and Advanced tier, there are implicit subdivisions that depend on the specificity, relatability, applicability, and similar factors pertaining thot he method itself.
+Advanced methods are a tier higher and can provide more insights. They are generally a continuation or expansion of Common methods and can usually carry the mage through their entire cultivation journey. Within the Common and Advanced tier, there are implicit subdivisions that depend on the specificity, relatability, applicability, and similar factors pertaining tho the method itself.
 
 Specialised methods are those that are tailored to specific individuals, bloodlines, physiques, or even species. Depending on the applicability, that is the number of people that can use the method, the cultivation methods can have a higher rarity. 
 
