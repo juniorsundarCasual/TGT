@@ -1,8 +1,8 @@
 ---
 id: jf3zf98zxjvf1o53cfohfvg
-title: Chapter 312
+title: Chapter 312 - The Amazing and Spectacular Marie
 desc: ''
-updated: 1680852032078
+updated: 1680869688438
 created: 1680625518401
 ---
 
@@ -60,7 +60,61 @@ Shuri bit back a witty retort for two reason. The first was because the proposed
 
 The second reason was because just behind Marie, she noticed a warm light floating near the ceiling and approaching their location. Then, the singular light turned to two, then three, and so on as a veritable rainbow of colours illuminated the dark cavern.
 
-""
+"Oh. My. Word." Marie accented each exclamation in awe.
+
+"Don't. Move. A. Muscle." Shuri whispered.
+
+"What do-"
+
+"Shhh!" Shuri interrupted. She nudged her head downwards, urging Marie to follow. As she did that, Marie was shocked to see the ground undulate like some kind of gel.
+
+"Wha-" Marie stopped amidst Shuri's murderous gaze and restarted in a low whisper. "What are these things?"
+
+"Slimes and Wisps. A lot of them!" Shuri answered. "Why did you push me in?! Now we're screwed! A single slime or wisp shouldn't be an issue, but this is a veritable horde of them! If the wisps don't zap us to dust, these slimes with definitely disintegrate us into mush."
+
+"Umm..." Marie hummed in thought. "Let me-"
+
+"Don't attack!" Shuri interjected, once again. "These creatures are extremely sensitive to changes in the ambient mana. If you so much as cause a ripple, it will send them all into a frenzy."
+
+"Don't worry," Marie said assuringly before closing her eyes. Shuri held her breath and controlled every single muscle of her body in fear of triggering a feeding frenzy.
+
+Seconds of silence turned into minutes that felt like eternity, until eventually, Marie's eyes opened.
+
+"I have a plan."
+
+"Oh, I pray it is as good as the one from before that got us into this mess!" Shuri spat back with a raspy whisper.
+
+Marie ignored the snipe and expounded her idea, "On the count of three, I want you to jump onto my back and hold on tight. I will get us out of here."
+
+"What are you cooking up?"
+
+"That isn't something you need to worry about. Just hold on tight and do not let go. No matter what happens. Do. Not. Let. Go."
+
+"Oka-"
+
+"1, 2, 3-"
+
+Shuri barely had enough time to centre herself before her muscles moved by pure instinct and she found herself latched onto Marie's back. The lights in the ceiling of the vast cavern all grew brighter and started to hone in on her location. The ground started to undulate with greater intensity as a wave of viscous slime started to build and crash towards her.
+
+But then, her body lurched. The acceleration was so great that Shuri was almost thrown off of Marie's back. The stale wind started to collide against her face as she moved with unprecedented speed. Through a squint, she noticed that Marie was basically walking (running? sprinting? gliding?) on air. Well, spell circles were forming where her feet landed. And the girl was moving inhumanly fast. Even faster than her feet were moving, in fact.
+
+Looking up, she was shocked to see that they were approaching a dead-end. Bracing herself for a collision, Shuri closed her eyes and grabbed on tighter. Instead, she found her body lurching sideways as gravity suddenly changed direction. To be more precise, they were now walking on the wall.
+
+Marie started to walk perpendicular to the cavern wall's surface and moved in an upward spiral. Behind her, the horde of deathly rainbow lights and wave of acidic death changed direction and tried to keep up. Round and round they went as they climbed upwards, until they were literally walking on the cavern's ceiling. At this point, only the wisps were a threat, as the slimes could not reach this altitude.
+
+Suddenly, Marie halted, turned right and rushed even more quickly. Shuri noticed them approaching the same hole that brought them into this cave. Marie then lurched into a prone position and started to slither forward like an actual gecko as she moved through the narrow hole.
+
+Up and up they went, and Shuri could hear the wisps crashing against each other as they tried to move through the tunnel.
+
+Within seconds, Shuri noticed a bright light coming up. Marie grabbed the ledge and hoisted them up. Shuri rolled out and made some distance between the opening under the hollow tree. She raised her head and noticed Marie waiting poised with her wand drawn out.
+
+"What are you-"
+
+A wisp bolted out of the hole which was quickly closed with a wall of earth and Marie swished her wand upwards. She then followed up with a flick that sent a small |Fireball| towards the solo wisp, which died anticlimactically and left an intricate ball in its wake.
+
+Marie walked up to the ball, picked it up and tossed it towards Shuri. And just as Shuri caught it, she heard a chuckle.
+
+"Is that what you were looking for?"
 
 ____
 
