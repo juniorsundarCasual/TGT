@@ -2,7 +2,7 @@
 id: jf3zf98zxjvf1o53cfohfvg
 title: Chapter 312 - The Amazing and Spectacular Marie
 desc: ''
-updated: 1680869688438
+updated: 1681153597570
 created: 1680625518401
 ---
 
@@ -110,7 +110,7 @@ Within seconds, Shuri noticed a bright light coming up. Marie grabbed the ledge 
 
 "What are you-"
 
-A wisp bolted out of the hole which was quickly closed with a wall of earth and Marie swished her wand upwards. She then followed up with a flick that sent a small |Fireball| towards the solo wisp, which died anticlimactically and left an intricate ball in its wake.
+A wisp bolted out of the hole which was quickly closed with a wall of earth and Marie swished her wand upwards. She then followed up with a flick that sent a small |Fireball| towards the solo wisp, which died anticlimactically and left a plain ball in its wake that pulsed with a dimming light.
 
 Marie walked up to the ball, picked it up and tossed it towards Shuri. And just as Shuri caught it, she heard a chuckle.
 

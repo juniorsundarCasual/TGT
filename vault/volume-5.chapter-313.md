@@ -1,8 +1,8 @@
 ---
 id: 54v6xto23g7i0uxy6np9j17
-title: Chapter 313
+title: Chapter 313 - Switching Tactics
 desc: ''
-updated: 1681069899532
+updated: 1681155085158
 created: 1681066068189
 ---
 
@@ -66,7 +66,25 @@ In response, Shuri shook her head lightly and hurriedly left the room before som
 
 "I see... The silent treatment, huh?" Marie yelled jokingly. "I still count a day! I'll be waiting!"
 
+Shuri continued her hurried escape and returned to her room. After ensuring that door was locked securely, she dug underneath her mattress and retrieved the smooth mana core that was somewhere between two to three times the size of an apple. Although the blood of the Yoruz Clan coursed through her veins, this was the first time Shuri got anywhere close to even laying her eyes on a mana core. While as a princess, she could have literally bathed in a tub filled with these semi-ubiquitous balls, Shuri couldn't indulge in those fantasies. For others, an inert mana core such as this one was harmless and inconsequential. But for those with even a drop of Yoruz blood in them, it was a guaranteed recipe for disaster... or so it was told.
 
+While holding the ball with both her hands, Shuri started to rotate the sphere clockwise against the light emanating from the lantern on her desk. The inert mana core appeared as a smooth and translucent, gray ball. After its extraction from the wisp, it blinked with a faint light that had dissipated completely along with the mana stored within.
+
+'The mana core is the brain the control every golem and automaton. Magborg are a special case and follow a different set of rules. Designing a robust schematic to be embedded inside the inert core is key towards creating a successful golem or automaton. The process is painstaking, but extremely rewarding, since the result is something that never tires, never asks any questions and achieves what it is programmed and built to do efficiently,' Shuri narrated from memory.
+
+This was Shuri's intention with her current gambit. The reason why she dug out these remnants from her less than ideal heritage was to create a battalion of servitors that would follow her no questions asked.
+
+'People are difficult, treacherous and unreliable.' This was Shuri's conclusion. People were the source of all of her problems, so the solution was obvious - replace them.
+
+It would take time and practice and a lot of resources. Shuri intended to take advantage of the Innovator Track for this very reason. Participating in the Innovator Track would finance everything she would need to grow her expertise and ultimately build her faithful servants that would emancipate her from being tied down by anyone.
+
+'I am certain that Marie will be a problem,' Shuri thought to herself. She let out an exasperated sigh as the image of the gloating girl occupied her mind's front page.
+
+'I'll just have to replace her with someone more manageable.' After some thought, Shuri hummed thoughtfully before pocketing the core and leaving her room. Till now, she hadn't won a single point over Marie in anything. The latter was multiple steps ahead of Shuri and would thus run circles around her. Marie's power of foresight were staggering and extremely potent - it wasn't something Shuri could contend against. Therefore, instead of going against an opponent you were guaranteed to lose against, why not try against another where victory was at least within the realm of possibility?
+
+After fixing her attire with a pat of her hands, Shuri balled up her fists and knocked on the door to the classroom she was standing in front of. A beat later, the voice of the occupant answered.
+
+"Come in," Markus invited.
 
 ____
 
