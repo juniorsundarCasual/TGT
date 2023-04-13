@@ -2,15 +2,15 @@
 id: rkka5xwk2tz7hvhtcu87ee6
 title: Chapter 307 - Innovator Track
 desc: ''
-updated: 1679847150997
+updated: 1681413578508
 created: 1679810151197
 ---
 
-Shuri immediately regretted her decision to continue her tenure as Marie's teaching assistant. Over the past few weeks she had come to learn a few crucial details of the crue taskmistress. Marie was a disciplined, no-nonsense and focused individual. She hated wasting time, and preferred to finish work as it arrived at her plate. Her daily life was rigid and scheduled down to the second. The crazy part was that the scheduling was so precise, it even accounted for the minor deviations that could take place because of external influencers (undoubtedly because of the girl's ability to foresee the future which she had yet to explain to Shuri). If not for Marie's snarkiness and faintly combative attitude, Shuri was certain she had found a kindred spirit.
+Shuri immediately regretted her decision to continue her tenure as Marie's teaching assistant. Over the past few weeks, she had come to learn a few crucial details of the cruel taskmistress. Marie was a disciplined, no-nonsense and focused individual. She hated wasting time and preferred to finish work as it arrived on her plate. Her daily life was rigid and scheduled down to the second. The crazy part was that the scheduling was so precise, it even accounted for the minor deviations that could take place because of external influencers (undoubtedly because of the girl's ability to foresee the future which she had yet to explain to Shuri). If not for Marie's snarkiness and faintly combative attitude, Shuri was certain she had found a kindred spirit.
 
-However, Shuri realised that having two similar people working together may not be so flowery as it turned out to be on paper. Shuri was efficient in her work. The only time she ever procrastinated or slacked off was when the situation asked for her to suppress her identity and capabilities. After the week-long tiff with Marie at the start of the research assistantship, Shuri figured that she didn't need to hold herself back so much since Marie had her limits more or less figured out. And this is where the problem all started.
+However, Shuri realised that having two similar people working together may not be as flowery as it turned out to be on paper. Shuri was efficient in her work. The only time she ever procrastinated or slacked off was when the situation asked for her to suppress her identity and capabilities. After the week-long tiff with Marie at the start of the research assistantship, Shuri figured that she didn't need to hold herself back so much since Marie had her limits more or less figured out. And this is where the problem all started.
 
-It first started with a single stack of papers that Shuri had to sift through and draw correlation between variables listed. The columns to be compared would be highlighted by Marie, and all Shuri had to do was run an equation row-by-row that provided an output pair that could be then plotted on graphing paper (basically paper with equally spaced grids on it). The process was trivial, if not exceedingly tedious. It was mind-numbing, to say the least!
+It first began with a single stack of papers that Shuri had to sift through and draw correlations between the listed variables. The columns to be compared would be highlighted by Marie, and all Shuri had to do was run an equation row-by-row that provided an output pair that could be then plotted on graphing paper (basically paper with equally spaced grids on it). The process was trivial, if not exceedingly tedious. It was mind-numbing, to say the least!
 
 Nonetheless, this was the task she had signed up for, and it wasn't like Marie wasn't partaking in it as well. That girl, with her advanced cultivation, outpaced Shuri by a significant degree and still showed no indication of tiring, boredom, or procrastination. But this industrious behaviour of her senior had unwittingly infected Shuri, who completed her second assigned task within two days.
 
@@ -18,15 +18,15 @@ That "mistake" set Marie's expectations of Shuri's performance level, and thus t
 
 "No!" Shuri immediately declared as Marie produced another stack of paper with the previously prescribed two. "Where are you even getting so much paper?!"
 
-"If you visit the Library's 'Patents' section, you will see that there is a document on 'Industrial Paper Manufactory'. It describes an application of technology that can produce paper at a large scale." She then pulled a blank piece of paper and started to draw an elaborate diagram in it. "The Silva Cooperative is a private enterprise consisting of small logging businesses who are leasing machines built with Verum Trading Company's patented "Belt-Driven Saw" technology. A large share of this enterprise is owned by Verum Trading Company, which in turn also holds the majority shares of Charta Industries. This company is also a private enterprise that consists of publishing companies that lease or have purchased the Gutenberg Printing Press or products including Verum Trading Company's patented 'Ink and Block-based Printing' technology. The previously mentioned Industrial Paper Manufactory is the core process of Charta Industries. The True World Sect, thanks to our affiliation with Verum Trading Company, is thus afforded the luxury of paper at a subsidised rate."
+"If you visit the Library's 'Patents' section, you will see that there is a document on 'Industrial Paper Manufactory'. It describes an application of technology that can produce paper at a large scale." She then pulled a blank piece of paper and started to draw an elaborate diagram on it. "The Silva Cooperative is a private enterprise consisting of small logging businesses who are leasing machines built with Verum Trading Company's patented "Belt-Driven Saw" technology. A large share of this enterprise is owned by Verum Trading Company, which in turn also holds the majority shares of Charta Industries. This company is also a private enterprise that consists of publishing companies that lease or have purchased the Gutenberg Printing Press or products containing Verum Trading Company's patented 'Ink and Block-based Printing' technology. The previously mentioned Industrial Paper Manufactory is the core process of Charta Industries. The True World Sect, thanks to our affiliation with Verum Trading Company, is thus afforded the luxury of paper at a subsidised rate."
 
 Shuri scratched her head at the convoluted mess of a diagram. "If these so-called patents are the Sect's assets, why distribute it over so many companies instead of concentrating it within Verum Trading Company?"
 
-"This diversifies the risk. While Verum Trading Company and by extension the True World Sect still maintain high-level control over these industries, by separating them under a different name and affiliation, we ensure that any risks or failures accrued along the business's stream does not bleed through into Verum Trading Company," Marie explained.
+"This diversifies the risk. While Verum Trading Company and by extension the True World Sect still maintain high-level control over these industries, by separating them under a different name and affiliation, we ensure that any risks or failures accrued along the business's stream do not bleed through into Verum Trading Company," Marie explained.
 
 "I don't get it," Shuri murmured.
 
-"It is a matter of insulation. Both the Silva Cooperative and Charta Industries are majorly controlled by Verum Trading Company, but are registered under the ownership of the various shareholders comprising it. In essence, it is fully owned by us on everything but paper. If the forests suddenly go barren, then Silva Cooperative may collapse, but the Verum Trading Company only loses what it has invested into the Cooperative," Marie summarised. Noticing the vacant expression of Shuri's face she sighed and shook her head. "If you want more clarification, then go talk with Furion Stoll or Sect Leader Larks. This was all their idea, and they are the ones managing the Sect's financial side."
+"It is a matter of insulation. Both the Silva Cooperative and Charta Industries are majorly controlled by Verum Trading Company but are registered under the ownership of the various shareholders comprising it. In essence, it is fully owned by us on everything but paper. If the forests suddenly go barren, then Silva Cooperative may collapse, but the Verum Trading Company only loses what it has invested into the Cooperative," Marie summarised. Noticing the vacant expression of Shuri's face she sighed and shook her head. "If you want more clarification, then go talk with Furion Stoll or Sect Leader Larks. This was all their idea, and they are the ones managing the Sect's financial side."
 
 "It seems that the Sect Leader has his fingers dipped in all aspects of the Sect," Shuri hinted. "Why isn't responsibility and authority being delegated?"
 
@@ -34,17 +34,17 @@ Shuri scratched her head at the convoluted mess of a diagram. "If these so-calle
 
 "Wait! Before that! I have to tell you that this right here-" Shuri said while pointing at the third stack which had inconspicuously slid over to her side while Marie was speaking. "-this is beyond my limit. I could do one, no problem. Two was hard by manageable. But three is too much!"
 
-"Yet you finished it before the set deadline without any errors," Marie interjected. "It shows to me that you are able to handle a greater workload!"
+"Yet you finished it before the set deadline without any errors," Marie interjected. "It shows me that you can handle a greater workload!"
 
-"I finished it before the deadline because I didn't want this task burning a whole in my back during the week!" Shuri argued. "You cannot take advantage of my time-management like this."
+"I finished it before the deadline because I didn't want this task burning a hole in my back during the week!" Shuri argued. "You cannot take advantage of my time management like this."
 
-Marie snorted before diverting her attention to her own work. "Can you honestly tell me that this much is out of your league? I have run the numbers, and by my accounts you should have enough time to do everything you need to do and complete this task."
+Marie snorted before diverting her attention to her own work. "Can you honestly tell me that this much is out of your league? I have run the numbers, and by my accounts, you should have enough time to do everything you need to do and complete this task."
 
 "But this work is endless and pointless," Shuri groaned. She couldn't remain under the watchful eyes of people in this Sect if she wanted to leave later down the line. "On that topic, you haven't taught me a smidgen of what your cultivation method is all about! I have gained nothing from this."
 
 "Why do you think we are doing all this tedious work?" Marie responded while transferring one leaf of paper to the "Done" pile. "My cultivation method is something that others cannot fathom. Not because of the standard rules of insight variation, but because it is IMPOSSIBLE for more than two people to practise it at one time in this world."
 
-Two people. So that must mean her and the Tesseract Transformation realm mage who was her Master.
+Two people. So that must mean she and the Tesseract Transformation realm mage who was her Master.
 
 "The end goal of this exercise in tedium is to further formalise the method so that others can also benefit from its power in some way without having to cultivate it," Marie concluded.
 
@@ -58,9 +58,9 @@ Shuri gulped at her senior's impeccable mind-reading capabilities. She quickly f
 
 Shuri couldn't physically contain her derisive sneer at this point, which was caught by Marie who laughed uproariously.
 
-"Anyway, back to my point before I was interrupted," Marie coughed with a fake admonishing tone. "I need to discuss the Sect's attitude towards entrepreneurship, intrapreneurship and innovation with you. It is not an obligation, but sometimes learning new things and experimentation can produce a spark in people's minds. In pursuing this spark, an idea or concept takes form. Pursuing this idea or concept to create something tangible or intangible is an innovation. To take this innovation and turning it into something that can be monetised is entrepreneurship or intrapreneurship."
+"Anyway, back to my point before I was interrupted," Marie coughed with a fake admonishing tone. "I need to discuss the Sect's attitude towards entrepreneurship, intrapreneurship and innovation with you. It is not an obligation, but sometimes learning new things and experimentation can produce a spark in people's minds. In pursuing this spark, an idea or concept takes form. Pursuing this idea or concept to create something tangible or intangible is an innovation. To take this innovation and turn it into something that can be monetised is entrepreneurship or intrapreneurship."
 
-"An innovation is solely owned by the innovator, be they a Member, Elder or Leader of the Sect. The innovator has complete control over what they choose to do with their innovation. They can choose to sell the idea to a person or entity outside of the Sect. Alternatively, they can utilise the Verum Trading Company or an appropriate subsidiary to actualise their innovation, in which case they are entitled to a percentage of profit (pending negotiation). Finally, if they find that their innovation cannot fit within any business amongst Verum Trading Company's portfolio, they can choose to register a new business. If this is registered under Verum Trading Company's umbrella, the company will establish a management team that will take care of all the leg work. Again the innovator gets to benefit from a percentage of profits made."
+"An innovation is solely owned by the innovator, be they a Member, Elder or Leader of the Sect. The innovator has complete control over what they choose to do with their innovation. They can choose to sell the idea to a person or entity outside of the Sect. Alternatively, they can utilise the Verum Trading Company or an appropriate subsidiary to actualise their innovation, in which case they are entitled to a percentage of profit (pending negotiation). Finally, if they find that their innovation cannot fit within any business in Verum Trading Company's portfolio, they can choose to register a new business. If this is registered under Verum Trading Company's umbrella, the company will establish a management team that will take care of all the leg work. Again the innovator gets to benefit from a percentage of profits made."
 
 Shuri raised a point, "What if they don't want to be affiliated with the Sect?"
 
@@ -72,11 +72,11 @@ Shuri raised a point, "What if they don't want to be affiliated with the Sect?"
 
 "Innovator Track?"
 
-"It's an opportunity given to Sect Members with initiative and/or gifts. Through it, you can get access to additional resources and exclusion from some of the Sect's responsibilities. Of course, the quality of the submitted Process Journal will determine if you can continue in the track. We don't want this to turn into a way for people to slack off," Marie clarified.
+"It's an opportunity given to Sect Members with initiative and/or gifts. Through it, you can get access to additional resources and exclusion from some of the Sect's responsibilities. Of course, the quality of the submitted Process Journal will determine if you can continue on the track. We don't want this to turn into a way for people to slack off," Marie clarified.
 
 "Why weren't we told of this in the assembly?" Shuri probed.
 
-"As I said, it is reserved for those that show initiative and/or are specially gifted. Its not something everyone has to preoccupy themselves with."
+"As I said, it is reserved for those that show initiative and/or are specially gifted. It is not something everyone has to distract themselves with."
 
 Shuri descended into thought as she pondered over this "convenient" new opportunity that happened to check all of her boxes.
 
