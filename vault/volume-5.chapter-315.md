@@ -1,8 +1,8 @@
 ---
 id: 63zasb2xzmxm8ksxr258ndi
-title: Chapter 315
+title: Chapter 315 - Familiar Territory
 desc: ''
-updated: 1681416156704
+updated: 1681537989097
 created: 1681385631355
 ---
 
@@ -30,17 +30,63 @@ Markus nodded with a distressed smile, "I wanted to try something out."
 
 "Are you kidding? People would have got hurt!" Shuri exclaimed with an enraged growl.
 
-"So you do care about your fellow members," Markus highlighted with a suspicious tilt of his head.
+"No, they wouldn't have. I confirmed it with Marie," Markus responded immediately while patting the air in a calming gesture. "You see, one of my concerns since you joined our Sect is how little you've gone out of your way to ask for help from others."
 
-"What do you mean?" Shuri pressed the brake on her emotions and doubled back.
+"Why does that matter?" Shuri argued.
 
-"I mean, the others may not see it, but it is obvious that you were taking advantage of your peers to get them to volunteer for you," Markus pointed out. "Although you didn't put them at a loss, it wasn't a nice thing to do. You could just ask them for help, you know?"
+"It matters a lot. A person capable of asking for assistance is one who is humble and knows the limits to their abilities. These are the people who will live the longest as they know when to advance and when to retreat. You barely ever asked for help from others, so I wanted to see if it was because of overflowing self-confidence or because you hadn't faced a challenge where you fell short. But now that you're here asking for assistance, I can rest assured that it is the latter," Markus concluded with a smile.
 
-Shuri swallowed a gulp while her back started to become wet with a layer of cold sweat. She was caught. Her subtle maneouvring had failed!
+Shuri couldn't stop her eyes from twitching at Markus' explanation. Here she was, trying to quell her existence in the eyes of the Sect by not disturbing others and asking for assistance. And yet her actions inadvertently had the opposite effect. The fact that she was probably the only one not seeking assistance from others made her stick out like a sore thumb!
 
-Back in the Palace, Shuri was an inconsequential presence. She would face disdain and discrimination from her "siblings" and the Emperor's many concubines, but it was only in passing when she happened to cross their path. They never actively sought to bully her as she meant nothing in the grand game. Because of that, Shuri managed to get away with a lot of minor politicking to cover her ass. However, the True World Sect was different. Here, the environment wasn't actively adversarial, nor was she an inconsequential presence. She was under active monitoring by everyone, and so her usual strategy got her caught!
+"Well... what's the verdict?" Shuri said, trying to divert the conversation.
 
+"I already mailed and requisitioned Lowe's Builders and Landscapers a few days back. You should hear back from them very soon. For the record, I am able to make this decision as a representative of the Verum Trading Company as we are one of the board members and major investors of your proposal," Markus pointed out.
 
+Although it irked Shuri for someone else to make the business decisions for her, "Is this going to be a regular thing? For the board members and investors to bypass me and make overarching business decisions like this?"
+
+"Only if the current trajectory has a possibility to result in catastrophic consequences for the business," Markus answered with a raised index finger.
+
+Shuri was sceptical about that statement. What determined if the consequence would be catastrophic? What parameters were being used to judge this? Obviously this was just Markus flexing his power over Shuri and showing that she was only the CEO of her company in everything but name. With a casual flick of his writing utensil, he had rendered her last few days worth of work as redundant.
+
+"Please don't be discouraged," Markus emphasised with a "sincere" frown. "I only called Lowe's to put them in contact with you. In the end, it will still be you managing the entire landscaping process and everything that comes after. I only did what you intended to ask of me but earlier."
+
+At the end of the sentence, his brows quirked up and an awkward smile showed on his mien. He then muttered in a low voice, "I guess this is how Marie feels when she talks..."
+
+Shuri could only nod at that and make her exit.
+
+____
+
+True to Markus' words, the construction and landscaping company arrived within two days. The owner was the first to enter the Sect ground and beelined for the Administrative Building.
+
+The man, Lobert Lowe, was a short and stout man who walked with an uncharacteristic swiftness. He represented your average mortal yuppie merchant who just got into a contract with a Sect with the hopes of some benefits in his generation, or the next, or the next, and so on. He spoke with a fawning intonation and walked with a slight hunch while in front of the Sect's members. However, in the presence of his subordinates, he walked with such a straight back and puffed and raised chest that his hefty belly nearly disappeared into his abdomen. He was your typical "worship the powerful and bully the weak" kind of guy. This was supported by the uncomfortable Markus wore the entire time the man talked and waxed poetry over the Sect, its Leader and its members.
+
+"Anyways," Markus raised his palm to cut short the man's endless words of meaningless praise. "Shuri here will the one that will be handling everything. So please continue the discussion with her."
+
+Markus could not wait to extricate himself from the company of this man, which was perfectly fine with Shuri. As he left, though, he shot Shuri an apologetic gaze probably feeling guilty over leaving her in such unpleasant company.
+
+On the contrary, Shuri was overjoyed as she was now reentering familiar territory. Lobert was the kind of people that surrounded her throughout her life. The True World Sect could only be described as an anomaly.
+
+A sense of euphoria started to bubble from within Shuri as the man's slimy smile turned her way. Why was she feeling so excited? It was the same feeling a serial killer would have when they were suddenly placed in a hidden alley with a helpless victim crouched and feeding cats in front of them, and with their backs turned the killer's way.
+
+Shuri was starved. Her failure upon failure to properly gauge the social dynamics within the Sect grated her mentally. Now that she was facing a predictable opponent, he was feeling the same sense of relief a fish would feel when dropped back into water after a long while of deprivation.
+
+"Miss Shuri! The name of the star that guides lost travellers! What a perfect name for the one leading the project," the man started. Unwittingly, this sent a shiver of elation through Shuri's spine. She had to swallow a mouthful of saliva before opening her mouth and speaking.
+
+"Umm... Honestly, I have no idea what to do," Shuri said with a distressed tone and a droplet of tear rolling out the corner of her eyes. "Please uncle!" She exclaimed while grabbing the hefty man's right hand with both hands.
+
+"Please help me! If this goes wrong then my position in the Sect..." A flash of abject fear flashed accross Shuri's face. "I made a huge gambit! If this goes well then I will get promoted into the upper echelons of this Sect, otherwise I'll- I'll-"
+
+The man's face cycled through a myriad of expressions. It was confusion that quickly warped into a neutral yet faintly devious expression that a predator would wear when a prey was within view. "Don't worry child!" He said while patting Shuri's hand gently. "This Uncle will make sure nothing goes wrong."
+
+Shuri revealed an overjoyed yet innocent smile, hiding a devious grin that would have dwarfed the crafty businessman's.
+
+"Although..." the man continued. "This uncle will need some help in return..."
+
+"Anything!" Shuri shot back with no hesitation. "I'll do anything as long as it is within my power!"
+
+"Perfect." A sly glint glittered in Lobert's eyes. He was probably already envisioning his family rising up and dominating the market with his children as mages and so on.
+
+Shuri dangled the bait. The fat fish was already circling it. Getting caught was just an eventuality.
 
 ____
 
