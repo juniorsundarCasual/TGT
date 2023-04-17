@@ -2,7 +2,7 @@
 id: u1xli3tz1e6qnm3zpvdi8gu
 title: Chapter 305 - Losing Streak
 desc: ''
-updated: 1681302235433
+updated: 1681730924936
 created: 1679288920320
 ---
 
@@ -56,7 +56,7 @@ ____
 
 ____
 
-Shuri knew that she could not beat Marie in magic or combat. The gulf between a mortal and a Foundation Establishment realm wasn't so easily bridged. Therefore, victory had to be achieved through alternate means - games. These games couldn't be physical as, once again, it would place the mortal, Shuri, at a disadvantage. Games that tested a person's mind though, that was a whole different ball gameother situation. A battle of the mind was the only contest where Shuri knew she could stand a chance against Marie. Of course, there was the disadvantage of competing against a Foundation Establishment realm mage's superior mental capacity and processing power, but Shuri was hopeful that her 'gift', as Marie put it, would help alleviate that gap.
+Shuri knew that she could not beat Marie in magic or combat. The gulf between a mortal and a Foundation Establishment realm wasn't so easily bridged. Therefore, victory had to be achieved through alternate means - games. These games couldn't be physical as, once again, it would place the mortal, Shuri, at a disadvantage. Games that tested a person's mind though, that was a whole different ball game. A battle of the mind was the only contest where Shuri knew she could stand a chance against Marie. Of course, there was the disadvantage of competing against a Foundation Establishment realm mage's superior mental capacity and processing power, but Shuri was hopeful that her 'gift', as Marie put it, would help alleviate that gap.
 
 Now, although Shuri acted haphazardly, she had a plan. It is often easiest to defeat an opponent who is laxer than one whose attention is dialled to the maximum level. The easiest way to achieve this is by getting the enemy to underestimate you. Shuri knew that Marie would win in Blackjack. Even if the girl hadn't nerfed her mana senses, Shuri entered the contest with the express purpose of losing. By showing a fumbling attitude outwardly and losing so magnificently, Shuri hoped to lower Marie's guard against her. This way, the subsequent matches would be lowered in difficulty. After the set-up, it was time for Shuri to gradually work towards her victory. And to do this, she chose the game of chess. The game shared similarities with Hindaan Shut'Raanj, a game originating from the Hindaa Union within the Jehakan Confederacy beyond the Vast Blue Expanse, except it was more concise and involved more variations in its pieces' actions. Because of this, Shuri was able to create parallels and adapt strategies to the new game from the one she was familiar with.
 
