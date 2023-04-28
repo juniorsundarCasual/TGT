@@ -1,8 +1,8 @@
 ---
 id: 8s06d0tbflsp5i55xor0ymo
-title: Chapter 317
+title: Chapter 317 - (Hostile) Takeover
 desc: ''
-updated: 1682629091451
+updated: 1682709934357
 created: 1682073113151
 ---
 
@@ -50,4 +50,55 @@ This initiative moved up the bureaucratic vine with uncharacterstic speed, and t
 
 "Weird?"
 
-Markus pulled in a mouthful of hair through his teeth and said, "His skin has turned a faint orangish shade and his hair is turning pale-blonde. I thought such outward changes only transpired with advancement into Core Formation. Furion suspected something else was in play and got himself tested by a Teacher specialising in bloodlines and physiques. And wouldn't you know, Furion had a faint "
+Markus pulled in a mouthful of air through his teeth and said, "His skin has turned a faint orangish shade and his hair is turning pale-blonde. I thought such outward changes only transpired with advancement into Core Formation. Furion suspected something else was in play and got himself tested by a Teacher specialising in bloodlines and physiques. And wouldn't you know, Furion had a faint trace of Voracious Citrus in his bloodline."
+
+"What's a Voracious Citrus?" Guy said with a snort. In his mind, he imagined a comical scenario of a citrus fruit copulating with another human being.
+
+Markus chuckled and said, "The Voracious Citrus is an extremely rare fruit that originates from the dank rainforests of the Fae Realm. It grows to a creeper plant that consumes everything in its vicinity, hence its name. Once the orange-coloured fruit consumes enough biomass it reaches a critical point wherein it converts the mass into mana that skyrockets its cultivation into the Core Formation realm. The fruit grows in very special climates in Gaea and is sought after for its condensed energy density and mass-to-mana conversion properties for alchemy."
+
+"How is Furion's bloodline being activated, then?" Guy circled back.
+
+"Apparently, mergers, acquisitions and takeovers resonate with the voracious nature of the aptly named Citrus," Markus answered while schooling a neutral expression.
+
+"Well..." Guy mumbled. "Good for him. I bet his father's excited about this development."
+
+"He sure was!" Markus affirmed. "There's been talks about securing alliances through marriage with some noble clans as well. Though it seems that very few women are willing to overlook the discolouration of his skin."
+
+"Well, money and power definitely works wonders in tinting a person's gaze," Guy said wryly. "As Furion accumulates more of both, the discolouration will fade away in their eyes."
+
+"That's a cynical way to look at things," Markus commented sadly.
+
+"Well, an alliance through marriage is less about two people liking each other, and more about two families coming together. What matters more here is that the two people getting married learn to live harmoniously with each other. Admittedly it is a sad state of affairs when you think about it, but what can you do? Marriage has, and most likely will remain the most direct and effective way to secure relations between two parties," Guy explained. This was true even in his world, which one could argue was far more advanced than the one he was in right now.
+
+"Nonetheless, it is impressive that Shuri managed to secure such a lucrative asset for the Sect. We should definitely reward her!" Guy declared. "How do you think we should go about it?"
+
+"I'll brainstorm with Marie about this, as she has worked more closely with Shuri," Markus deferred.
+
+"Proceed as you see fit," Guy dismissed with a final nod. With that said, Markus bowed one last time and left the room.
+
+"I do not like that girl," Guy's right half spoke.
+
+"Doesn't matter to me if you like her or you don't. She is a member of the Sect and must be treated as such. We do not segregate, nor do we give preferential treatment," Guy's left half reminded. "But what's gotten you so riled up about it anyways?"
+
+"When I saw her, I tried to graze over her soul as I usually do. This is how I get a read on people," the right half explained. "Anyway, her soul kept blaring at me that her life was a lie - that she was living a lie. I mean, it's hard to put it in words as it is more of an intuitive feeling."
+
+"This is a gross invasion of privacy!" The left half yelled. "Speaking of which, what the hell did you do with Markus? That too without permission? Are you crazy?! I thought I made it clear that the nonsense you pulled with Dora was the last. You can't just experiment on people like this without consent."
+
+"Whatever," the right half dismissed. "An ant is an ant, and its soul would agree. A monkey is a monkey. However, the girl's soul did not agree that she was who she was."
+
+"You're being cryptic again," the left half admonished.
+
+"Yeah, well screw you too!"
+
+Guy sighed in exasperation while his left index continued to tap on the newly added Lowe's Hardware, Landscaping and Construction in the business portfolio chart.
+
+"Shuri..." He said out loud. 'Maybe I should have a one-on-one session with her. I've talked to the other members personally, and only she remains.'
+
+____
+
+At the dorms, Shuri suddenly pulled her face out of her pillows and sneezed loudly. She'd just been screaming away her anger into the down-filled bag, when suddenly an irritating tickling sensation pervaded her nostrils and forced her to release a large gust of air violently through both her nose and mouth.
+
+____
+
+**Next**
+* [[volume-5.chapter-318]]
