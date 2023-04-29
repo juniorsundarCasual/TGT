@@ -2,7 +2,7 @@
 id: 8s06d0tbflsp5i55xor0ymo
 title: Chapter 317 - (Hostile) Takeover
 desc: ''
-updated: 1682709934357
+updated: 1682800516173
 created: 1682073113151
 ---
 
@@ -96,7 +96,11 @@ Guy sighed in exasperation while his left index continued to tap on the newly ad
 
 ____
 
-At the dorms, Shuri suddenly pulled her face out of her pillows and sneezed loudly. She'd just been screaming away her anger into the down-filled bag, when suddenly an irritating tickling sensation pervaded her nostrils and forced her to release a large gust of air violently through both her nose and mouth.
+Shuri'd just been screaming away her anger into the down-filled bag, when suddenly an irritating tickling sensation pervaded her nostrils and forced her to release a large gust of air violently through both her nose and mouth.
+
+She suddenly pulled her face out of her pillows and sneezed loudly. 
+
+"A-A-AAACHOOOOOOO!"
 
 ____
 
