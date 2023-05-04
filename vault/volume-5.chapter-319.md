@@ -2,7 +2,7 @@
 id: iwi5uklu2a54spkxltdybwe
 title: Chapter 319
 desc: ''
-updated: 1683145714635
+updated: 1683235634236
 created: 1683144922855
 ---
 
@@ -18,6 +18,12 @@ He raised up a covered plate in his hands, scooted past Shuri - who had been str
 
 "Don't apologise to me, it is your health that you are ruining with your carelessness," Sect Leader Larks chided. "If anyone deserves an apology it is you alone."
 
-He reached forward, causing Shuri to flinch. "Woah! Relax."
+He reached forward, causing Shuri to flinch. "Woah! Relax. I'm not going to hurt you."
 
-A gentle hand touched her head and ruffled her hair, "Good job on the Lowe's acquisition. I heard about what you did from Markus"
+"Okay," Shuri responded curtly before retreating a few steps. Her gaze was affixed on the man in her room, who shuffled backwards uncomfortably.
+
+"So," Sect Leader Larks said, cutting through the awkward silence. His fingers drummed Shuri's work table with a stiff rhythym, accentuating the discomfort he was feeling. "I just realised that I never really got the opportunity to have a conversation with you. Since we're here, might as well, right?"
+
+"If that is what the Sect Leader wishes," Shuri affirmed with a respectful bow.
+
+"Its not like that..." he said hurriedly while frantically shaking his hands.
