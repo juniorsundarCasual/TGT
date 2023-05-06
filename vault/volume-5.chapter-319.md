@@ -36,4 +36,4 @@ She decided to not question the man's ramblings and nodded with a smile. Upon re
 
 The man then clapped his hands and exclaimed, "Umm, why don't we start with an introduction? I'll start."
 
-"My name is Guy Larks - as you probably know. I "
+"My name is Guy Larks - as you probably already know. Before I became a Sect Leader, I was a Teaching Apprentice at the Radiant Academy. I failed to meet the assessment criteria and was thus fired from my position. In the process, I was also blacklisted from the profession altogether," the Sect Leader narrated. While Shuri didn't completely believe everything he said, she did find it weird that he was the least bit affected by the 
