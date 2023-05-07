@@ -2,7 +2,7 @@
 id: iwi5uklu2a54spkxltdybwe
 title: Chapter 319 - When the Spider Enters the Fly’s Parlour
 desc: ''
-updated: 1683395554689
+updated: 1683452264889
 created: 1683144922855
 ---
 
@@ -90,9 +90,13 @@ The Sect Leader tilted his head and revealed a curious frown. "A family secret, 
 
 "Now, go ahead and eat. I won't take anymore of your time," the man said as he stood up to leave. He turned the ball in his hand and hummed appreciatively.
 
-Shuri contained her happiness as the Sect Leader made his way towards the door. As he opened it and stepped out, her sprinting heart started to slow down and relax. But it was short lived as he turned around one last time, opened his mouth, and spoke.
+Shuri contained her happiness as the Sect Leader made his way towards the door. As he opened it and stepped out, her sprinting heart started to slow down and relax. But it was short-lived as he stopped in his tracks, slapped his forehead, turned around one last time, opened his mouth, and spoke.
 
-"Please come to my office tomorrow afternoon, following the morning lesson," he said with a smile that caused Shuri to break out into cold sweats. "And please bring that light-capturing ball with you."
+"I almost forgot to congratulate you on your breakthrough just now! Good job! It seems that you have found a track of study that resonates with you. This is a monumental achievement, so please come to my office tomorrow afternoon following the morning lesson so that we can formalise the cultivation track for you," he said with a smile and with his eyes honed in on the luminous mana core on Shuri's desk, causing Shuri to break out into cold sweats. "And please bring that light-capturing ball with you as well."
+
+As the door closed behind the Sect Leader, Shuri's body gave way and collapsed onto the ground. Her eyes stared blankly into the ceiling.
+
+"Fuck..."
 
 ____
 
