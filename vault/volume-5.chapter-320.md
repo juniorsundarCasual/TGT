@@ -70,8 +70,20 @@ The Sect Leader's sparkling gaze separated itself from the core and looked towar
 
 "The magic wand for Yohn... Yes, it will defenitely do!" He murmured.
 
-"Umm, Sect Leader?" Shuri remindedm while she literally poked the man out of his reverie.
+"Umm, Sect Leader?" Shuri reminded while she literally poked the man out of his reverie.
 
-"Do you realise the opportunity this invention proposes?" to which she thought to Del.
+"Do you realise the opportunity this invention presents?" to which Dora tilted her head in confusion. Wasn't it obvious? The reason why everyone envied and hated the Yoruz Clan was due to the force multiplier nature of their cultivation aets. That WAS the end point of Automagy, right?
 
-Shuri tilted her head and admittedm "
+The Sect Leader turned around and pulled out a roll of paper from the drawers behind him. He unfurled it on the table and placed weights on each corner to hold it in place. He retrieved a writing utensil and started speaking as he jotted down designs on the paper.
+
+"When I first read about Automagy i got only a vague idea about what it actually was and what it entailed. However, the brief description was enough to formulate a hypothesis which, now that I've had another closer look at this light capturing ball, has only grown more certain. The end goal of Automagy is automation, pure and simple. Anything that a human can achieve and more can be automated. Kind of like magic but without needing to be a mage, which makes the outputs of Automagy more accessible to the common folk. Better yet, it offers pathways for magic to become assessible to folk who are lacking in a particular way and unable to tap into its poential."
+
+Shuri matched the man's words woth the simple diagram drawn om paper. It made sense. Her mind quickly made connections between what was said before and now and a hypothesis clicked into place.
+
+"You want to device a solution that could help Yohn cast spells without the necessity of sight?" Shuri evoked.
+
+The Sect Leader snapped his fingers and smiled excitedly. "Do you know the purpose behind why I created magic wands and deviced now spell-casting methods?"
+
+Shuri realised that it was a rhetorical question and volleyed with a "Why?"
+
+At that point, he opened up and narrated the entire story of how he met Markus till his arrival to the village.
