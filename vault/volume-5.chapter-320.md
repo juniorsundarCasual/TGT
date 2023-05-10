@@ -1,8 +1,8 @@
 ---
 id: 3x9mac34l27kbl0zxpdf2r0
-title: Chapter 320
+title: Chapter 320 - Mission Possible
 desc: ''
-updated: 1683665391563
+updated: 1683709268452
 created: 1683395561366
 ---
 
@@ -68,7 +68,7 @@ The Sect Leader's sparkling gaze separated itself from the core and looked towar
 
 "Will do... what?" Shuri probed.
 
-"The magic wand for Yohn... Yes, it will defenitely do!" He murmured.
+"For Yohn... Yes, it will defenitely do!" He murmured.
 
 "Umm, Sect Leader?" Shuri reminded while she literally poked the man out of his reverie.
 
@@ -76,14 +76,29 @@ The Sect Leader's sparkling gaze separated itself from the core and looked towar
 
 The Sect Leader turned around and pulled out a roll of paper from the drawers behind him. He unfurled it on the table and placed weights on each corner to hold it in place. He retrieved a writing utensil and started speaking as he jotted down designs on the paper.
 
-"When I first read about Automagy i got only a vague idea about what it actually was and what it entailed. However, the brief description was enough to formulate a hypothesis which, now that I've had another closer look at this light capturing ball, has only grown more certain. The end goal of Automagy is automation, pure and simple. Anything that a human can achieve and more can be automated. Kind of like magic but without needing to be a mage, which makes the outputs of Automagy more accessible to the common folk. Better yet, it offers pathways for magic to become assessible to folk who are lacking in a particular way and unable to tap into its poential."
+"When I first read about Automagy I got only a vague idea about what it actually was and what it entailed. However, the brief description was enough to formulate a hypothesis which, now that I've had another closer look at this light capturing ball, has only grown more certain. The end goal of Automagy is automation, pure and simple. Anything that a human can achieve and more can be automated. Kind of like magic but without needing to be a mage, which makes the outputs of Automagy more accessible to the common folk. Better yet, it offers pathways for magic to become assessible to folk who are lacking in a particular way and unable to tap into its poential."
 
 Shuri matched the man's words woth the simple diagram drawn om paper. It made sense. Her mind quickly made connections between what was said before and now and a hypothesis clicked into place.
 
 "You want to device a solution that could help Yohn cast spells without the necessity of sight?" Shuri evoked.
 
-The Sect Leader snapped his fingers and smiled excitedly. "Do you know the purpose behind why I created magic wands and deviced now spell-casting methods?"
+The Sect Leader snapped his fingers and smiled excitedly. "Do you know the purpose behind why I created magic wands and devised new spell-casting methods?"
 
 Shuri realised that it was a rhetorical question and volleyed with a "Why?"
 
 At that point, he opened up and narrated the entire story of how he met Markus till his arrival to the village.
+
+"I believe that embracing magic is the pathway to the development of society," the Sect Leader orated passionately. "Its potentials are virtually unlimited - limited only by the extent of our understanding of the world we live in. And it doesn't help that the knowledge about magic is hoarded by the few who live at the peak of the societal hierarchy. This is the purpose of the Sect - to ensure that one day, even the humble street-sweep has access to magic capable of making his work easier."
+
+"That's admirable," Shuri responded blankly though her thoughts said, 'Foolish!'
+
+"Do not lie!" The right side of the man's face boomed with a stern frown, which dissipated quickly. "I recognise that your past, whatever it may be, has influenced you quite a bit. I'm truly sorry for everything you may have had to face in the past. But please know that you are in a safe space now; you are in a place that cherishes you and your abilities, and I wish to prove that to you. I have been told that you are quite ingenuitive and a curious researcher. Given that you have some background in the field of Automagy, I am assigning you a task."
+
+Shuri did not expect the conversation to move in this direction. In hindsight, when has anything followed her prediction since coming to this Sect? And so, Shuri braced herself for the man's subsequent words.
+
+"I have personally hit a roadblock in my attempts at this problem, so I'm hoping that your fresher perspective might lead us somewhere new. Your task, Shuri, is to find out a strategy for Yohn to be able to cast spells like the rest of us," the Sect Leader declared with a firm tone.
+
+____
+
+**Next**
+* [[volume-5.chapter-321]]
