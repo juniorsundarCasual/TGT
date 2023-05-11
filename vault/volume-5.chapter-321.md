@@ -1,8 +1,8 @@
 ---
 id: ct3lhj6z63cby50t7osdkhd
-title: Chapter 321
+title: Chapter 321 - (Interlude) Orchestrated
 desc: ''
-updated: 1683789274003
+updated: 1683842752351
 created: 1683753453625
 ---
 
@@ -64,10 +64,55 @@ Marie noticed the burgeoning mischief in Guy's gaze and responded with a wry smi
 
 "Happy by whose standards?" Guy shot back. Marie words, while well-meant, had a possibility of veering down a dangerous path. "Just because you are happy with something doesn't mean others will be happy with the same outcome. Not everyone behaves the same way."
 
-"I know that - I'm not trying to play diety here," Marie defended herself. "I just want Shuri to peel the many layers of lies she's built around herself. She doesn't need to be truthful with others, but at least she should stop lying to herself."
+"I know that - I'm not trying to play deity here," Marie defended herself. "I just want Shuri to peel the many layers of lies she's built around herself. She doesn't need to be truthful with others, but at least she should stop lying to herself."
 
 "The girl is buried deeply within a mire of lies. I suspect she herself is unsure of her identity. She has probably rationalised something to keep her mind from fragmenting," Guy affirmed. But he raised a finger and emphasised, "But those lies are what give her comfort. If you pull the layers away forcefully, it will do more harm than good - like removing the shell off of a hermit crab. If you want to excavate her from all the lies, do it incrementally. I've taken notice of your attempts, but I strongly advice caution."
 
 Marie nodded and said, "I will keep that in mind, Mister Larks."
 
-""
+A thoughtful silence followed as both parties let the conversation simmer.
+
+"On a different note, how are things going with you?" Guy asked. "I'm not asking this as the Sect Leader, but as someone who cares for you and is concerned about you."
+
+"What do I say?" Marie responded with a warm smile.
+
+"Is Mage Nara treating you well," Guy probed in a low voice. He knew that whispering didn't help in the grand scheme of things, since not much was truly hidden when living amidst a Tesseract Transformation realm mage.
+
+"Master treats me as he would his child," Marie said to assuage Guy's worries. "Speaking of children, when are you and Matron Reva going to start considering having some of your own?"
+
+Guy sputtered in embarrassment. "We aren't that close... yet."
+
+"Well, I'd hurry it up if I were you. Is your plan to propose to her in her deathbed?" Marie mocked.
+
+"That's a bit harsh..." Guy moaned.
+
+Marie simply shook her head with a disdainful expression on her face. As she stood up she shot out, "Coward!"
+
+____
+
+Marie exited the Sect Leader's room in high spirits. She followed the corridor, but stopped a foot away from turning the corner. She elevated herself to her tiptoes and inched closer, before leaping around the corner and yelling, "AAAAAAAAA!"
+
+A shrill shriek followed suit, though it teetered off almost immediately. Marie looked down and noticed Shuri as she had fallen onto her bottom.
+
+"What are you doing down there?" Marie stated jokingly.
+
+In response, Shuri raised a shaking finger, pointed it towards Marie and spoke with a vicious snarl, "It was you! You did this to me!"
+
+"Scare you? Of course, I did!" Marie averted.
+
+"Just why are you doing this to me?" Shuri groaned. "What did I ever do to you? Why can't you just let me live in peace?"
+
+At that moment, Marie took an aggressive stepped forward and cornered Shuri against the corridor wall. She banged her hands against the wall and trapped Shuri between them. Shuri's eyes flickered around as they tried to avoid making eye-contact with Marie, whose face was merely centimetres away.
+
+"I did let you live," Marie declared mysteriously. "Which is why, you see, I need to do this."
+
+Marie noticed Shuri's confused look and tapped the girl's nose to tease her. "One day you will come to appreciate all that I am doing for you. Till that time, I am more than prepared to be the bad guy in your eyes."
+
+Without elaborating any further, Marie twirled and continued walking away, leaving a flustered Shuri whose heart rate had sky-rocketed and turned weirdly irregular for a moment.
+
+"What just happened...?" Shuri murmured blankly. Her hand moved instinctively towards the pendant around her neck and fiddled with the stone absent-mindedly. As she watched Marie's back recede, the rage which had dissipated earlier due to Marie's sudden behaviour, game back with full force. But at this point, Shuri could do nothing but grumble. And that is what she did as she journeyed all the way to the restricted section of the Library.
+
+____
+
+**Next**
+* [[volume-5.chapter-322]]
