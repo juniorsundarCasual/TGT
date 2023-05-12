@@ -2,7 +2,7 @@
 id: ct3lhj6z63cby50t7osdkhd
 title: Chapter 321 - (Interlude) Orchestrated
 desc: ''
-updated: 1683842752351
+updated: 1683925350231
 created: 1683753453625
 ---
 
@@ -14,7 +14,7 @@ The girl's expression spoke understanding, but what lay underneath implied somet
 
 She didn't trust others because she barely trusted herself.
 
-"I'm not sure I can achieve such a heavy responsibility..." The girl said, half truthfully and half in an attempt to weasel out of the limelight.
+"I'm not sure that I can deliver towards such a heavy responsibility..." The girl said, half truthfully and half in an attempt to weasel out of the limelight.
 
 "Nonsense! If that were true, there wouldn't be so many people ready to vouch for you," Guy refuted. He noticed the girl's eyes widen and dart around in panic. "Markus, Jean and Marie, all have had a good impression of you and have high opinions of your capabilities. Your peers also share similar opinions. All things considered, and given your predisposition towards the field of Automagy, I am confident that you will be able to bear this responsibility and produce results."
 
