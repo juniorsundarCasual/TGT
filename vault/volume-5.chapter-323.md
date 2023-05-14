@@ -2,7 +2,7 @@
 id: bpztef9wuuyswa83s4dfiio
 title: Chapter 323
 desc: ''
-updated: 1684100667405
+updated: 1684101654761
 created: 1684094041335
 ---
 
@@ -38,4 +38,18 @@ That was the premiere watering hold within the Capital, that was often frequente
 
 "The Twelfth Prince requested for a meeting with you, once again," Ghon said with a dour frown.
 
-Jing slapped the table in fury and bellowed, "This boy will be the death of me, I tell you! I get that now, more than ever, is the perfect time for the princes to move for a power grab and seize the throne before more damage can be done, "
+Jing slapped the table in fury and bellowed, "This boy will be the death of me, I tell you! I get that now, more than ever, is the perfect time for the princes to move for a power grab and seize the throne before more damage can be done, but must they include me in this mess?!"
+
+"Well, the support of the ministers does make things easier when it comes to the selection of the Crown Prince and by extension the next Emperor," Ghon highlighted. "However, just as yourself, none of the other ministers are willing to throw in their hat in favour of any of the princes."
+
+"Then why is this Twelfth brat so stubborn and thick-faced?" Jing groaned. "Can he not take the hint?"
+
+"He can, and he does," Ghon explained. "But he knows that he doesn't stand a chance otherwise. He is born to a commoner concubine, without any clan, organisation or sect to back him. The other princes have already started to scheme with the family on their mothers' side, but the Twelfth Prince has nothing. All he has to put on the line is his face, and his life, both of which he is risking to gain an opportunity."
+
+"Did anyone see you converse with that brat?" Jing remembered as he snapped his finger.
+
+"He sure tried to make it a public deal," Ghon responded with a faint smirk. "But don't worry father, I was extra thorough. Wouldn't want to get caught up in the undercurrents of Palace politics, especially now."
+
+"Good lad," Jing commended. As he looked at his son, he felt pride swelling up inside. But as the feeling reached its peak, it suddenly deflated and turned into an overwhelming torrent of regret and sorrow.
+
+"What's wrong"
