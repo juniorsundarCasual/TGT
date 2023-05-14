@@ -2,7 +2,7 @@
 id: wo1xmesc0vxcx6eyb6avtdf
 title: Chapter 322 - Shifting Interpretations
 desc: ''
-updated: 1683980590827
+updated: 1684093889553
 created: 1683925364130
 ---
 
@@ -75,3 +75,8 @@ What she didn't know was that inside her nascent core, a subtle shift was starti
 "The purpose of automation is to make life easier for human beings," Shuri summarised as she closed the book. She didn't notice the faint smile on her face as she moved down the list to the next book.
 
 Nonetheless, Shuri wouldn't know the ramifications of her decision to adhere to the reading list until much, much later. 
+
+____
+
+**Next**
+* [[volume-5.chapter-323]]
