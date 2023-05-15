@@ -2,13 +2,13 @@
 id: jf3zf98zxjvf1o53cfohfvg
 title: Chapter 312 - The Amazing and Spectacular Marie
 desc: ''
-updated: 1683051265159
+updated: 1684132295374
 created: 1680625518401
 ---
 
-Shuri drew closer to the hollowed tree with cautious steps. The target of her troublesome search was somewhere beneath the roots of the creepy looking monolith that was also housing a newborn hybrid creature with the powers of apex insectoid magical beasts.
+Shuri drew closer to the hollowed tree with cautious steps. The target of her troublesome search was somewhere beneath the roots of the creepy-looking monolith that was also housing a newborn hybrid creature with the powers of apex insectoid magical beasts.
 
-"Well, I guess that's it," Shuri declared with a shrug and turned to leave. Things had risen above her metaphorical "payscale" and it was no longer worth the trouble to pursue her curiousity.
+"Well, I guess that's it," Shuri declared with a shrug and turned to leave. Things had risen above her metaphorical "pay grade" and it was no longer worth the trouble to pursue her curiosity.
 
 "Where are you going?" Marie yelped before grabbing Shuri's shoulder. "You're just giving up?"
 
@@ -28,7 +28,7 @@ Marie chuckled and ignored Shuri's circumspection. Instead, she approached the h
 
 Shuri's expression warped with anger, "What do you even know about me?!"
 
-"Only what you've told us since we met you," Marie responded calmly. "You aren't difficult to figure out, even though you are trying really hard to make it so. You try real hard to remain out of sight and out of mind. However, you cannot hide your genius in an environment where applying yourself is actively encouraged and rewarded."
+"Only what you've told us since we met you," Marie responded calmly. "You aren't difficult to figure out, even though you are trying really hard to make it so. You try really hard to remain out of sight and out of mind. However, you cannot hide your genius in an environment where applying yourself is actively encouraged and rewarded."
 
 Marie approached Shuri, who was cocked with vigilance like a cat ready to lash out at a suspicious individual, and pulled her in. Shuri tried to battle the action, but she was far too weak compared to the might of a Foundation Establishment mage.
 
@@ -36,17 +36,17 @@ Shuri was dragged in and enveloped by both arms into a warm hug. She struggled t
 
 "Let... me... go..." Shuri grunted. "Let-"
 
-"It's all going to be okay," the voice repeated as the palm, once again, made its way from the top of her spine to her centre of her back.
+"It's all going to be okay," the voice repeated as the palm, once again, made its way from the top of her spine to the centre of her back.
 
 Shuri pushed her hands aggressively, but the embrace was like a vice-grip... a vice-grip that drowned her with the warmth and softness of a hundred goose-down pillows.
 
 Her struggle loosened, and the hug grew deeper. The hand that stroked her back slowed down and paused.
 
-"Please, let me go," Shuri muttered. This time, Marie acquiesced. Shuri breathed audibly to reign in her wavering breath. An unknown heat was rising up her chest and throat, and caused her eyes to itch. With a loud, hacking cough, she quelled the feeling and looked directly at the newly formed cavernous opening leading underneath the tree.
+"Please, let me go," Shuri muttered. This time, Marie acquiesced. Shuri breathed audibly to reign in her wavering breath. An unknown heat was rising up her chest and throat and caused her eyes to itch. With a loud, hacking cough, she quelled the feeling and looked directly at the newly formed cavernous opening leading underneath the tree.
 
 Shuri pushed out her chest and declared, "Let's go!"
 
-With firm footsteps she approached the perilous mouth that lead into a steep decline leading into an unknown darkness. Shuri swallowed another mouthful of saliva. She instinctively took a step back, but was stopped by Marie's robust and wall-like chest.
+With firm footsteps, she approached the perilous mouth that led into a steep decline leading into an unknown darkness. Shuri swallowed another mouthful of saliva. She instinctively took a step back but was stopped by Marie's robust and wall-like chest.
 
 "What are you waiting for?" Marie probed with a smirk.
 
@@ -54,11 +54,11 @@ With firm footsteps she approached the perilous mouth that lead into a steep dec
 
 The terrible, twisting and turning transit totalled what felt like twenty minutes. Although that may just have been the creation of a tortured mind. Shuri finally reached the destination at the base of the slide and her excellent memory told her that it had, in fact, only been fifteen seconds since she last saw the sunlight. It was an embarrassing realisation, but one that she had to stop from showing on her face because her eyes (still acclimating to the darkness) noticed a person walking down the steep incline with nonchalant steps.
 
-Beneath Marie's feet, Shuri noticed the formation of large spell-circles. "Magic has many uses. The limit is your imagination," Marie explained. "Gecko's climb walls with the help of Van der Waals forces between the large surface area on their setae dense feet, and the wall where they intend to walk on. It is possible to replicate this by creating artificial setae of miniscule mana tendrils."
+Beneath Marie's feet, Shuri noticed the formation of large spell circles. "Magic has many uses. The limit is your imagination," Marie explained. "Geckos climb walls with the help of Van der Waals forces between the large surface area on their setae dense feet, and the wall where they intend to walk on. It is possible to replicate this by creating artificial setae of minuscule mana tendrils."
 
-Shuri bit back a witty retort for two reason. The first was because the proposed concept was truly fascinating. It argued against her preconceived notion of magic and truly exemplified the True World Sect's approach towards the subject: that "magic should be thought of as a scalpel, where each spell and application has a specific and precise purpose, instead of a blunt instrument, that screws in a nail by hammering it."
+Shuri bit back a witty retort for two reasons. The first was because the proposed concept was truly fascinating. It argued against her preconceived notion of magic and truly exemplified the True World Sect's approach towards the subject: that "magic should be thought of as a scalpel, where each spell and application has a specific and precise purpose, instead of a blunt instrument, that screws in a nail by hammering it."
 
-The second reason was because just behind Marie, she noticed a warm light floating near the ceiling and approaching their location. Then, the singular light turned to two, then three, and so on as a veritable rainbow of colours illuminated the dark cavern.
+The second reason was that just behind Marie, she noticed a warm light floating near the ceiling and approaching their location. Then, the singular light turned to two, then three, and so on as a veritable rainbow of colours illuminated the dark cavern.
 
 "Oh. My. Word." Marie accented each exclamation in awe.
 
@@ -78,7 +78,7 @@ The second reason was because just behind Marie, she noticed a warm light floati
 
 "Don't worry," Marie said assuringly before closing her eyes. Shuri held her breath and controlled every single muscle of her body in fear of triggering a feeding frenzy.
 
-Seconds of silence turned into minutes that felt like eternity, until eventually, Marie's eyes opened.
+Seconds of silence turned into minutes that felt like an eternity, until eventually, Marie's eyes opened.
 
 "I have a plan."
 
@@ -96,17 +96,17 @@ Marie ignored the snipe and expounded her idea, "On the count of three, I want y
 
 Shuri barely had enough time to centre herself before her muscles moved by pure instinct and she found herself latched onto Marie's back. The lights in the ceiling of the vast cavern all grew brighter and started to hone in on her location. The ground started to undulate with greater intensity as a wave of viscous slime started to build and crash towards her.
 
-But then, her body lurched. The acceleration was so great that Shuri was almost thrown off of Marie's back. The stale wind started to collide against her face as she moved with unprecedented speed. Through a squint, she noticed that Marie was basically walking (running? sprinting? gliding?) on air. Well, spell circles were forming where her feet landed. And the girl was moving inhumanly fast. Even faster than her feet were moving, in fact.
+But then, her body lurched. The acceleration was so great that Shuri was almost thrown off Marie's back. The stale wind started to collide against her face as she moved with unprecedented speed. Through a squint, she noticed that Marie was basically walking (running? sprinting? gliding?) on air. Well, spell circles were forming where her feet landed. And the girl was moving inhumanly fast. Even faster than her feet were moving.
 
 Looking up, she was shocked to see that they were approaching a dead-end. Bracing herself for a collision, Shuri closed her eyes and grabbed on tighter. Instead, she found her body lurching sideways as gravity suddenly changed direction. To be more precise, they were now walking on the wall.
 
-Marie started to walk perpendicular to the cavern wall's surface and moved in an upward spiral. Behind her, the horde of deathly rainbow lights and wave of acidic death changed direction and tried to keep up. Round and round they went as they climbed upwards, until they were literally walking on the cavern's ceiling. At this point, only the wisps were a threat, as the slimes could not reach this altitude.
+Marie started to walk perpendicular to the cavern wall's surface and moved in an upward spiral. Behind her, the horde of deathly rainbow lights and waves of acidic death changed direction and tried to keep up. Round and round they went as they climbed upwards until they were literally walking on the cavern's ceiling. At this point, only the wisps were a threat, as the slimes could not reach this altitude.
 
 Suddenly, Marie halted, turned right and rushed even more quickly. Shuri noticed them approaching the same hole that brought them into this cave. Marie then lurched into a prone position and started to slither forward like an actual gecko as she moved through the narrow hole.
 
 Up and up they went, and Shuri could hear the wisps crashing against each other as they tried to move through the tunnel.
 
-Within seconds, Shuri noticed a bright light coming up. Marie grabbed the ledge and hoisted them up. Shuri rolled out and made some distance between the opening under the hollow tree. She raised her head and noticed Marie waiting poised with her wand drawn out.
+Within seconds, Shuri noticed a bright light approaching. Marie grabbed the ledge and hoisted them up. Shuri rolled out and made some distance between the opening under the hollow tree. She raised her head and noticed Marie waiting poised with her wand drawn out.
 
 "What are you-"
 
