@@ -2,7 +2,7 @@
 id: bpztef9wuuyswa83s4dfiio
 title: Chapter 323
 desc: ''
-updated: 1684132920239
+updated: 1684188575413
 created: 1684094041335
 ---
 
@@ -60,4 +60,18 @@ Ghon's eyes widened and he immediately shook his hands and head in denial, "Plea
 
 Jing hummed in thought until his son's word struck a chord in his mind, "It seems that you have something in mind?"
 
-A sly smile cracked Ghon's nonchalant face in half. ""
+A sly smile cracked Ghon's nonchalant face in half. "Well, it all started a few months before the situation that transpired in the Palace. I happened to catch Little Sister reading one of those serial pulp romance novels that the book peddlers in the lower districts vend. I immediately confiscated them as in fear that it would corrupt her innocent mind. But I found something interesting."
+
+Ghen reached into his jacket and brought out three different books with a similar typography in their titles. He opened them up to a random page and placed them in front of Jin.
+
+"These texts seem familiar," Jin murmured. He then snapped his fingers in surprise, "Wait a minute!"
+
+Diving once again into his hastily sorted pile of papers, he retrieved a scroll and unfurled it.
+
+"This!" The text and typography, it all matched!
+
+"I found it intriguing that such low budget literature had such an immaculate script. After some investigation, I was even more intrigued that this feature was common across a large spread of literature in the peddler's stock, AND his stocks were beyond my expectations. After digging even more, I found similar scripts in different books circulating in the middling districts. Now who was this mysterious scribe capable of outputting so much work with such efficiency and consistency? Turns out, it wasn't a human writing the text, but a machine," Ghen revealed.
+
+"A machine?"
+
+"It is known as the Gutenberg's Press - essentially a printing press."
