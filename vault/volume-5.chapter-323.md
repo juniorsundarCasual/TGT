@@ -2,7 +2,7 @@
 id: bpztef9wuuyswa83s4dfiio
 title: Chapter 323
 desc: ''
-updated: 1684101654761
+updated: 1684132920239
 created: 1684094041335
 ---
 
@@ -52,4 +52,12 @@ Jing slapped the table in fury and bellowed, "This boy will be the death of me, 
 
 "Good lad," Jing commended. As he looked at his son, he felt pride swelling up inside. But as the feeling reached its peak, it suddenly deflated and turned into an overwhelming torrent of regret and sorrow.
 
-"What's wrong"
+"What's wrong, father?"
+
+Jing smiled bitterly and said, "You know, I worked so hard my entire life, just so that my children would have a better future. I struggled, schemed and sacrificed much to get to this position. When I was first appointed as the Minister of Finance, I was elated, not because of my achievement but because it meant that my family line would now have a head start and could invest their focus on things that I had to compromise on. As we already have political power and influence, it leaves you with more time to shore in your cultivation and accrue true power. But now, with the way things are going, I fear that I may have driven our family into the maws of a mercurial beast. I'm sorry, son."
+
+Ghon's eyes widened and he immediately shook his hands and head in denial, "Please don't apologise father. This isn't something anyone could have predicted. Now that it has come this far, all we can do is salvage the situation and insure our future."
+
+Jing hummed in thought until his son's word struck a chord in his mind, "It seems that you have something in mind?"
+
+A sly smile cracked Ghon's nonchalant face in half. ""
