@@ -1,8 +1,8 @@
 ---
 id: bpztef9wuuyswa83s4dfiio
-title: Chapter 323
+title: Chapter 323 - (Interlude) Shifting Currents
 desc: ''
-updated: 1684188575413
+updated: 1684219812656
 created: 1684094041335
 ---
 
@@ -62,7 +62,7 @@ Jing hummed in thought until his son's word struck a chord in his mind, "It seem
 
 A sly smile cracked Ghon's nonchalant face in half. "Well, it all started a few months before the situation that transpired in the Palace. I happened to catch Little Sister reading one of those serial pulp romance novels that the book peddlers in the lower districts vend. I immediately confiscated them as in fear that it would corrupt her innocent mind. But I found something interesting."
 
-Ghen reached into his jacket and brought out three different books with a similar typography in their titles. He opened them up to a random page and placed them in front of Jin.
+Ghon reached into his jacket and brought out three different books with a similar typography in their titles. He opened them up to a random page and placed them in front of Jin.
 
 "These texts seem familiar," Jin murmured. He then snapped his fingers in surprise, "Wait a minute!"
 
@@ -70,8 +70,31 @@ Diving once again into his hastily sorted pile of papers, he retrieved a scroll 
 
 "This!" The text and typography, it all matched!
 
-"I found it intriguing that such low budget literature had such an immaculate script. After some investigation, I was even more intrigued that this feature was common across a large spread of literature in the peddler's stock, AND his stocks were beyond my expectations. After digging even more, I found similar scripts in different books circulating in the middling districts. Now who was this mysterious scribe capable of outputting so much work with such efficiency and consistency? Turns out, it wasn't a human writing the text, but a machine," Ghen revealed.
+"I found it intriguing that such low budget literature had such an immaculate script. After some investigation, I was even more intrigued that this feature was common across a large spread of literature in the peddler's stock, AND his stocks were beyond my expectations. After digging even more, I found similar scripts in different books circulating in the middling districts. Now who was this mysterious scribe capable of outputting so much work with such efficiency and consistency? Turns out, it wasn't a human writing the text, but a machine," Ghon revealed.
 
 "A machine?"
 
-"It is known as the Gutenberg's Press - essentially a printing press."
+"It is known as the Gutenberg's Press - essentially a printing device capable of pressing ink coated blocks typeset and arranged onto a sheet of paper. The machine allows for a quick and consistent print and is able to output a lot of pages in a short time frame," Ghon elaborated. "And so, I made a purchase of the machine through where I work, the Ministry of Rites, since it would allow for a more streamlined communication process. You would no longer need a squadron of scribes to work for multiple days just to write the Court's edicts and decisions to be sent all accross the Empire."
+
+"Amazing!" Jin congratulated. "But son, I don't understand where you're going with this."
+
+"I was just coming to that. You see, I purchased this machine from Charta Industries," Ghon revealed.
+
+"I've never heard of that, do I know the owner?"
+
+"You probably haven't, since its relatively new. And as for the owner, well," Ghon retrieved a metal plate from his pocket with values engraved into it. "You're talking to a part owner of the company. I am technically, a 10% owner of Charta Industries."
+
+"What in the world does that even mean?" Jin scowled. "Did you end up getting scammed? How can you own part of a business."
+
+"The business' overall market capital, which is its worth, is split into shares. I own a percent of those shares available to be traded. With this, I get a proportional say in the business' future and am entitled to a proportionate share of profits that do not go into moving the business forward," Ghon elaborated. "In fact, I originally owned 25% of the business. I sold the shares to interested parties over time and in the process, accumulated a sizeable amount."
+
+"That is an interesting system. It's somewhat similar to the risk-reward distribution strategy employed by sea-faring merchant coalitions to split the burden on overseas trade ventures," Jin pointed out. "But it sounds highly speculative, doesn't it? The value of the business not only relies on how well it is doing, but also on how the public percieves them. Won't this destabilise the market significantly?"
+
+"You are correct in a sense," Ghon relinquished. "But take a moment and evaluate the far-reaching consequences of this."
+
+Jin leaned forward with rapt attention as he waited for his son to continue.
+
+____
+
+**Next**
+* [[volume-5.chapter-324]]
