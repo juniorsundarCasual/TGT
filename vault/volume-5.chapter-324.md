@@ -1,0 +1,21 @@
+---
+id: rv4wwarc576ln7cgzlip92e
+title: Chapter 324
+desc: ''
+updated: 1684273157646
+created: 1684262448465
+---
+
+"The business is in a state such that it is its own entity," Ghon hinted. "The owners, which is all the shareholders, have what is known as limited liability. This means that worse comes to worst, let's say that the business suffers from bankruptcy, the owners (which are basically all the shareholders) only lose what they invested into the business and nothing more. The liability to pay back any debts stops at the business, thus ensuring that the owners are immune."
+
+"But that is extremely risky, economically speaking. Debtors incapable of paying off their debts are turned to debt slaves to work off the overdue amount. But a business can't be turned into a debt slave, that is effectively a pit that devours money at this point!" Jing exclaimed.
+
+"Ah, but a business isn't a human. It can be gutted for parts and sold off," Ghon rebutted. "If another investor wishes to take over, it can be handed off and start anew."
+
+"While all of this sounds interesting, aren't we moving away from the crux of the conversation," Jing interjected while waving his hands.
+
+"As it stands, the business model is heavily monitored in its trading. In order to facilitate a trade, the shares need to be sold to the government and then purchased from the government. As it stands, the government has the power to, to a certain extent, regulate the price of purchasing shares. But as you correctly predicted, there is a movement now to make the trading more public with the government acting as a barebone regulator. Now when that happens, well that is when the true fun starts," Ghon hinted.
+
+Jing hummed audibly as he thought over his son's words.
+
+""
