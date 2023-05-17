@@ -2,7 +2,7 @@
 id: rv4wwarc576ln7cgzlip92e
 title: Chapter 324
 desc: ''
-updated: 1684273157646
+updated: 1684306728622
 created: 1684262448465
 ---
 
@@ -18,4 +18,10 @@ created: 1684262448465
 
 Jing hummed audibly as he thought over his son's words.
 
-""
+"The government won't take a step back so easily. But I figure the allure of profits will urge the mass, including the large businesses and clans, to take action and force the government's hand," Jing narrated his thoughts out loud. "When that happens, the public will have greater power over influencing the state of the Duchy's economy. And when words spreads and this model takes hold accross the entire Empire..."
+
+A pregnant pause took hold as nodes started to connect in Jing's mind.
+
+"But that won't happen. No one in their right mind would just let something like that grow out of control!" Jing reasoned.
+
+"They already have," Ghon responded with a shake of his head. "Radiant City is the first to allow regulated share trading with the general public without having to sell and buy from the government. Any business registered there has "
