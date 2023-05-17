@@ -2,7 +2,7 @@
 id: rv4wwarc576ln7cgzlip92e
 title: Chapter 324
 desc: ''
-updated: 1684306728622
+updated: 1684354385848
 created: 1684262448465
 ---
 
@@ -24,4 +24,8 @@ A pregnant pause took hold as nodes started to connect in Jing's mind.
 
 "But that won't happen. No one in their right mind would just let something like that grow out of control!" Jing reasoned.
 
-"They already have," Ghon responded with a shake of his head. "Radiant City is the first to allow regulated share trading with the general public without having to sell and buy from the government. Any business registered there has "
+"They already have," Ghon responded with a shake of his head. "Radiant City is the first to allow regulated share trading amongst the general public without having to sell and buy from the government. Any business registered there can subscribe to this feature. Within this year, over 112 new business have spawned in the Maika Duchy, of which 45 are still functioning and 14 are generating sizeable profits and handing out dividends to the shareholders. Another interesting fact: of the 45 still functioning business, 33 were started by low-skilled labourers who were uneducated and or, in some cases, illiterate. This wouldn't have been possible before, where the barrier of entry to start your own business was skewed in favour of those with a more reputable background and higher levels of learning."
+
+"I can't believe it..." Jing muttered.
+
+"I do want to point out that most of the 33 functioning businesses are not majorly owned by the company's creator. The highest share ownership of th"
