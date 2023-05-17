@@ -2,7 +2,7 @@
 id: rkka5xwk2tz7hvhtcu87ee6
 title: Chapter 307 - Innovator Track
 desc: ''
-updated: 1681734180487
+updated: 1684304555606
 created: 1679810151197
 ---
 
@@ -12,7 +12,7 @@ However, Shuri realised that having two similar people working together may not 
 
 It first began with a single stack of papers that Shuri had to sift through and draw correlations between the listed variables. The columns to be compared would be highlighted by Marie, and all Shuri had to do was run an equation row-by-row and provide an output pair that could be then plotted on a piece of graphing paper (basically a paper with equally spaced grids on it). The process was straightforward, if not exceedingly tedious and was mind-numbing, to say the least!
 
-Nonetheless, this was the task she had signed up for, and it wasn't like Marie wasn't partaking in it as well. That girl, with her advanced cultivation, outpaced Shuri by a significant degree and still showed no indication of tiring, boredom, or procrastination. Unfortunately, Marie’s industrious behaviour had unwittingly influenced Shuri, who completed her second assigned task within two days.
+Nonetheless, this was the task she had signed up for, and it wasn't like Marie wasn't partaking in it as well. That girl, with her advanced cultivation, outpaced Shuri by a significant degree and still showed no indication of tiring, boredom, or procrastination. Unfortunately, Marie's industrious behaviour had unwittingly influenced Shuri, who completed her second assigned task within two days.
 
 That "mistake" set Marie's expectations of Shuri's performance level, and thus the singular pile quickly multiplied into two. And then, after noticing the impeccably low error ratio in Shuri's work, she decided to increase the analytical components of the task by adding three additional equations that needed to be applied row-by-row.
 
@@ -32,11 +32,11 @@ Shuri scratched her head at the convoluted mess of a diagram. "If these so-calle
 
 "What do you think he is doing with Furion? That fatty- well I don't know if we can still call him that- Furion is basically running the entirety of Verum Trading Company at this point. Sect Leader Larks has taken his hands off of Verum Trading Company for some time now," Marie said while waving her hands. "On that note, I have to bring up the Sect's attitude towards entrepreneurship, intrapreneurship and innovation-"
 
-"Wait! Before that! I have to tell you that this right here-" Shuri said while pointing at the third stack which had inconspicuously slid over to her side while Marie was speaking. "-this is beyond my limit. I could do one, no problem. Two was hard by manageable. But three is too much!"
+"Wait! Before that! I have to tell you that this right here-" Shuri said while pointing at the third stack which had inconspicuously slid over to her side while Marie was speaking. "-this is beyond my limit. I could do one, no problem. Two was hard but manageable. But three is too much!"
 
 "Yet you finished it before the set deadline without any errors," Marie interjected. "It shows me that you can handle a greater workload!"
 
-"I finished it before the deadline because I didn't want this task burning a hole in my back during the week!" Shuri argued. "You can’t exploit my time management skills like this."
+"I finished it before the deadline because I didn't want this task burning a hole in my back during the week!" Shuri argued. "You can't exploit my time management skills like this."
 
 Marie snorted before diverting her attention to her own work. "Can you honestly tell me that this much is out of your league? I have run the numbers, and by my calculations, you should have enough time to do everything you need to do and complete this task."
 
