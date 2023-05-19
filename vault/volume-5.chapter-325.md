@@ -1,8 +1,8 @@
 ---
 id: cbg3rge1pc7sz2xu8ivnk9c
-title: Chapter 325
+title: Chapter 325 - (Interlude) Undercurrents (Part Three)
 desc: ''
-updated: 1684441925766
+updated: 1684528659613
 created: 1684410950646
 ---
 
@@ -12,7 +12,7 @@ What surprised him, though, was that he was already connected to the Minister th
 
 "This tea is exquisite," Furion commended while taking a sip of the saffron infused, steaming liquid. He released a relishing moan as it trickled down his throat.
 
-"We're glad that you like it," the Minister of Finance, Jing Lorath, responded with an ingratiating smile. This was something Furion couldn't understand. Shouldn't it be the other way? Isn't it is perogrative to gain the favour and support of the Minister of Finance? But why did it feel like Minister Jing was the one trying to get on Furion's good graces.
+"We're glad that you like it," the Minister of Finance, Jing Lorath, responded with an ingratiating smile. This was something Furion couldn't understand. Shouldn't it be the other way? Isn't it is prerogative to gain the favour and support of the Minister of Finance? But why did it feel like Minister Jing was the one trying to get on Furion's good graces.
 
 Furion lowered the cup and scooted to the edge of his seat. "I want to start off by apologising for my curtness going forward. I am uninitiated to the subtlety of conversation. As a businessman, I am often forced to get straight to the point and make my thoughts, needs and wants known immediately."
 
@@ -28,4 +28,136 @@ Looking up, Furion was greeted by a weird sight. The father and son exchanged kn
 
 Furion received a nod from Jing.
 
-"Well here is where I wish to apologise profusely. You see, I may have led Mister Ghon to believe that I am here to pitch you, Minister Jing, an investment opportunity. When in fact, I'm actually here to offer
+"Well here is where I wish to apologise profusely. You see, I may have led Mister Ghon to believe that I am here to pitch you, Minister Jing, an investment opportunity."
+
+Minister Jing cocked his eyebrows and asked, "You aren't?"
+
+"No. It wouldn't be fair or moral to strain my connection with your son to extract favours from you. Especially since the power you hold is bestowed upon you to improve the position of the Empire as a whole, not just a select few of its citizen. You see, I'm actually here to propose a possible future for the Empire's economy. A free economy," Furion declared with a far-off look in his eyes.
+
+"That is an interesting term, did you coin it?" Ghon pointed out with an appreciative nod.
+
+"Oh no! I cannot take the credit for that. It is the vision of the Leader of the True World Sect, Mister Guy Larks," Furion denied with a frantic shake of his hands.
+
+When the name was dropped, Furion once again noted the father-son duo share the same knowing look. They tried to keep it subtle, but it was as clear as day to Furion's now enhances senses.
+
+'Something's weird here,' he noted mentally. Although he was excited, he wasn't oblivious. He was a businessman at heart, after all.
+
+"What is the future you intend to pioneer?" Minister Jing inquired.
+
+"I will admit that it is a rather heavy ask, and possibly idealistic and naive. But I am going to convince you today that finding a middle ground with the free market I will talk to you about today will do wonders for the economic health of the nation as a whole," Furion started.
+
+"The market is a system where buyers and sellers come together to exchange goods and services. From ages past, this sacred stage has defined one of the fundamentals of the human living experience. Humans, unlike animals, are able to do many things. But this diversity makes it so that it is impossible for someone to be the best at everything, or have access to everything. In that instance, they can look towards others with the expertise or item they need or want. At this point, we can define the pillar the free market economy is built on. The law of supply and demand," Furion raised a finger to pause, reached into this pocket and retrieved a writing utensil.
+
+Extending it towards Ghon, he asked, "Would you buy this quill?"
+
+"No," Ghon answered casually.
+
+"Why is that?"
+
+"I don't want it. I have no use for it right now," Ghon followed up.
+
+"Now imagine that you are at an impromptu conference. You are listening to lectures from experts, but forgot to bring writing utensils and parchment to take notes. If I were to sell this quill to you then, would you buy it?" Furion inquired.
+
+"Sure."
+
+"Would you buy it for a silver coin?"
+
+"What?"
+
+Furion chuckled and said, "You have no option. If you instruct your servant to make haste and purchase one from far away, it would already be too late, and you would have missed the lecture. The markup you just paid is the price of convenience. In this battlefield, I as the seller get to set the price because I hold the leverage. Furthermore, since my supplies are limited, the cost can be raised even higher since the demand is equally dire as you can't be the only one without stationery."
+
+"The laws of supply and demand are absolute," Furion declared. "It defines the delicate balance maintained between the supplier and buyer as they reach a consensus on the price of goods sold, holding all other external factors equal."
+
+"The current economy heavily favours the top 1%: the clans, sects and businesses that have survived for more than a century. They get to set the market trend and behaviour, because their power is absolute. Because of that, however, the ones in the bottom suffer. The price of inert mana cores have quintupled just within the last 2 years, for no good reason. It isn't even that scarce of a resource to warrant such price gouging. As for its uses, it has fewer applications compared to mana gems and is a lot harder to work with."
+
+Minister Jing sighed and said, "It is because the Emperor and the storeyed clans do not want another Yoruz Clan in their midst."
+
+"Yoruz Clan?"
+
+"It is before your time. They were renowned for their prowess in Automagy, a now endangered branch of magic. As you rightfully deciphered, the pricing of inert mana cores is purely selfish in purpose," Minister Jing admitted.
+
+"If the economy sways to the whims of the few and powerful, then the nation will remain stagnant. A purely free market economy may not be the solution either, as a supply and demand led market will sacrifice the unsung yet important sectors of the market in favour (that are loss-making) in favour of profitable alternatives. To that, I'm talking about safety and security, healthcare, transportation, and so on."
+
+After a pause, he continued orating about the idea, providing valid positives and negatives, as well as listing out possible roll out strategies that the Minister could conisder.
+
+As Furion exited his impassioned speech, once again, he noticed his audience exchanging glances and shooting each other an agitated smile.
+
+At this point, Furion was affected. He looked at the two of them and said, "I feel like I'm missing something here. Is there somethign wrong in what I said. If so, I'll apologise."
+
+""No, no!"" Both Minister Jing and Ghon exclaimed. "We just felt that your insights were quite deep on this matter. Did you say that it was Sect Leader Larks' idea?"
+
+"Not all of it, no," Furion corrected. "Actually, most of those are the Sect Leader's."
+
+"He must be a knowledgeable man. We would love to make his acquaintance sometime," Minister Jing said with a voice that carried a hidden meaning.
+
+"Both of you are free to visit, any time. Our Sect is located near the base of Mount Tai, the huUU- *cough* largest mountain in the Serrated-Peaks range," Furion cringed visibly at his second slip of the tongue today."Sorry about that, you see I had a minor cultivation deviation-"
+
+"I don't believe there is such a thing as a minor deviation," Minister Jing said with a chuckle. It was clear that the man thought Furion was joking. Unfortunately it was the complete truth.
+
+"I happened to read a book that had a suspiciously business management related name. However, the author did not have any conviction in the words they themselves wrote. I assimilated it without doubt as I thought it would be just like any other book I'd read.
+
+However, the reality was a whole another story. And now, as you can see, I am suffering from the consequences of my rogue curiousity and hubris."
+
+"So the orange skin and blonde hair?" Ghon followed up.
+
+"All part of the deviation. But don't worry, it should return to normal once I advance to Core Formation realm."
+
+Just as Ghon was about to retort, the servant by the door announced, "Master, the Young Mistress is here to greet the guest."
+
+"Why?" Minister Jing shot back, annoyed by the interruption. The servant shrunk slightly under his master's reprimanding gaze and said, "This servant failed to ask!"
+
+"I apologise for this spectacle, I have failed to train the help and raise my daughter well."
+
+"Kids will be kids. Please do not-" Furion could not finish his words as the door swung open, and through it a slender girl, a year younger to him, walked through. Her face was drawn on with minimal makeup, but the only accentuated the inherent allure radiating from her face.
+
+"Furion?" The girl yelped in surprise, with her impeccable face twitching with unbridled rage. "I knew it was you from your voice!"
+
+"Milanya?" Furion responded with equal surprise. "What are you doing here?"
+
+"Me? What are you doing HERE at my house?" She responded with a growl. "Did you come here to torment me? And why the heck are you orange?"
+
+Furion scratched his head in shame and said, "I know its late. But sorry about my behaviour back at the Academy. I was immature and churlish. I know it's hard for you to forgive me, but please know that I am sincerely sorry about everything."
+
+"You're forgiven," the girl responded nonchalantly.
+
+"Just like that?"
+
+"Just like that."
+
+"But... why?"
+
+Milanya chuckled and said, "It was thanks to you and your friends'... unorthodox method of bullying that I was able to secure a decently high score."
+
+"But my behaviour... I shouldn't have spanked you," Furion mumbled.
+
+"You did what to my daughter?!" Minister Jing bellowed.
+
+"Father, stop overreacting," Milanya said with a click of her tongue as she sat between her father and brother. "It's just children being children. Besides, look at how apologetic he is. Just forgive him."
+
+"So what's going on with you?" She asked Furion. "And please tell me that there is a good reason for your stupid skin."
+
+"It's a long story..."
+
+"Time is all I have right now. Since Teacher Snowe's on a trip with her Disciples, I'm left with nothing to do but slow and boring cultivation. Let's go have dinner!" Milanya suggested before dragging Furion away by his hand.
+
+"Little Sister, the meal is being prepared as we speak," Ghon offered.
+
+"Nuh uh!" Milanya vocalised. "I heard what you guys were talking about from outside. It's so boring! Nope, dinners are already boring with just you two. If Furion is added to the mix then I'm definitely going to kill myself."
+
+Without waiting for a yes or no, the girl pulled Furion out and disappeared, leaving the father and son alone.
+
+____
+
+"That was unexpected," Ghon broke the silence.
+
+"But the result was far more favourable than we could've hoped for," Jing hummed.
+
+Noticing his son's inquisitive gaze, Jing chuckled and said, "We may have to take a book out of the Emperor's book. After all, marriage IS proven to be an effective way to forge alliances."
+
+Ghon nodded solemnly and said, "Would Milanya agree?"
+
+"I won't force her," Jing admitted. "But that doesn't preclude me from orchestrating situations that may result in a closer relationship being formed between those two."
+
+Ghon revealed a satisfied smile. But seconds later, he added, "That orange skin is really bothersome. I try to overlook it, but it just keeps rattling around in my head. Do you think their kids will have orange skin?"
+
+Jing shuddered at the thought of blonde, orange babies running around the house, "I hope it isn't."
