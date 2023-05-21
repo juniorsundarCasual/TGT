@@ -2,7 +2,7 @@
 id: cbg3rge1pc7sz2xu8ivnk9c
 title: Chapter 325 - (Interlude) Undercurrents (Part Three)
 desc: ''
-updated: 1684528659613
+updated: 1684701774715
 created: 1684410950646
 ---
 
@@ -108,13 +108,13 @@ Just as Ghon was about to retort, the servant by the door announced, "Master, th
 
 "I apologise for this spectacle, I have failed to train the help and raise my daughter well."
 
-"Kids will be kids. Please do not-" Furion could not finish his words as the door swung open, and through it a slender girl, a year younger to him, walked through. Her face was drawn on with minimal makeup, but the only accentuated the inherent allure radiating from her face.
+"Kids will be kids. Please do not-" Furion could not finish his words as the door swung open, and through it a slender girl, a year younger to him, walked through. Her face was drawn on with minimal makeup, but that only accentuated the inherent allure radiating from her face. Her figure was toned and lean, with her natural musculature peeking through the muslin fabric of her clothes.
 
 "Furion?" The girl yelped in surprise, with her impeccable face twitching with unbridled rage. "I knew it was you from your voice!"
 
-"Milanya?" Furion responded with equal surprise. "What are you doing here?"
+"Milanya?" Furion responded with equal surprise. "W-What are you doing here?"
 
-"Me? What are you doing HERE at my house?" She responded with a growl. "Did you come here to torment me? And why the heck are you orange?"
+"Me? What are YOU doing HERE at MY house?" She responded with a growl. "Did you come here to torment me? And why the heck are you orange?"
 
 Furion scratched his head in shame and said, "I know its late. But sorry about my behaviour back at the Academy. I was immature and churlish. I know it's hard for you to forgive me, but please know that I am sincerely sorry about everything."
 
@@ -126,7 +126,7 @@ Furion scratched his head in shame and said, "I know its late. But sorry about m
 
 "But... why?"
 
-Milanya chuckled and said, "It was thanks to you and your friends'... unorthodox method of bullying that I was able to secure a decently high score."
+Milanya chuckled and said, "It was thanks to you and your friends'...  unorthodox' method of bullying that I was able to secure a decently high score."
 
 "But my behaviour... I shouldn't have spanked you," Furion mumbled.
 
@@ -140,7 +140,7 @@ Milanya chuckled and said, "It was thanks to you and your friends'... unorthodox
 
 "Time is all I have right now. Since Teacher Snowe's on a trip with her Disciples, I'm left with nothing to do but slow and boring cultivation. Let's go have dinner!" Milanya suggested before dragging Furion away by his hand.
 
-"Little Sister, the meal is being prepared as we speak," Ghon offered.
+"Little Sister, the meal is being prepared as we speak," Ghon offered with a worried frown.
 
 "Nuh uh!" Milanya vocalised. "I heard what you guys were talking about from outside. It's so boring! Nope, dinners are already boring with just you two. If Furion is added to the mix then I'm definitely going to kill myself."
 
@@ -158,6 +158,11 @@ Ghon nodded solemnly and said, "Would Milanya agree?"
 
 "I won't force her," Jing admitted. "But that doesn't preclude me from orchestrating situations that may result in a closer relationship being formed between those two."
 
-Ghon revealed a satisfied smile. But seconds later, he added, "That orange skin is really bothersome. I try to overlook it, but it just keeps rattling around in my head. Do you think their kids will have orange skin?"
+Ghon revealed a satisfied smile. But seconds later, he added, "That orange skin is really bothersome. I'm trying to overlook it, but it just keeps rattling around in my head. Do you think their kids will have orange skin?"
 
-Jing shuddered at the thought of blonde, orange babies running around the house, "I hope it isn't."
+Jing shuddered at the thought of blonde, orange babies running around the house, "I hope that isn't the case."
+
+____
+
+**Next**
+* [[volume-5.chapter-326]]
