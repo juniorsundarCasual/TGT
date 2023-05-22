@@ -2,7 +2,7 @@
 id: 3yb19a49c2gefgsir8d3ik0
 title: Chapter 311 - Directed Evolution
 desc: ''
-updated: 1683872149136
+updated: 1684737497432
 created: 1680418187644
 ---
 
@@ -108,7 +108,7 @@ The flowers in the meadow went straight and droplets of liquid started to rise f
 
 "She said that having more eyes and legs will make it easier for her to accumulate more nectar and flowers, as well as defend herself," Dora explained.
 
-"What's not what I was talking ab-"
+"That's not what I was talking ab-"
 
 "That's great news, Dora. Since Fancy is going to be busy now, why don't you go back home? Matron Reva said she needed help with something," Marie interjected.
 
