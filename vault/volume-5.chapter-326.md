@@ -1,8 +1,8 @@
 ---
 id: fplrx0mh8qaran0x3vvmw7n
-title: Chapter 326
+title: Chapter 326 - Journey(wo)man
 desc: ''
-updated: 1684837102523
+updated: 1684862070661
 created: 1684701778026
 ---
 
@@ -46,3 +46,47 @@ Mister Larks then finished writing on the parchment, rolled it, and stamped the 
 
 "Yes," Jean responded. "Why?"
 
+"I hope you are aware of your special... constitution," Mister Larks hinted. "The world is a dangerous place. Are you sure you can protect yourself?"
+
+"My only limitation is that I cannot harm another person," Jean affirmed. "That doesn't preclude me from protecting myself."
+
+"What if the protection you need is against a violent threat?"
+
+"I have methods to subdue them," Jean answered.
+
+"Though I trust your abilities, Jean, I am still not comfortable sending you by yourself," Mister Larks responded with a shake of his head.
+
+"But we don't have enough people to spare, Sect Leader Larks," Jean reminded while emphasising Mister Larks obligations as the leader of the True World Sect.
+
+To that, she received a mild chuckle from the man. "Alright, alright. I get what you're saying."
+
+He then hummed in contemplation and said, "While you're at it, take Kili with you?"
+
+"But-"
+
+Mister Larks raised his palm to halt Jean's retort and explained, "She still isn't fully comfortable with anyone else apart from you. Even Grace is struggling to make a breakthrough with her."
+
+"But wouldn't having a stable environment be beneficial for her growth?" Jean pointed out.
+
+"That would be true if only the sole point of comfort was still a part of her environment. If you are gone, she will feel abandoned and isolated," Mister Larks responded. "While I fear that she may build a codependency, I think it is easier to wean someone off of it than to bring someone back from the endless ravine of post-traumatic stress."
+
+He looked at Jean meaningfully and said, "You should know this better than anyone."
+
+Jean hummed in thought. In many ways, Kili was just like her. They both lost family and had to watch them die before their eyes. The continuous loss can change a person, and make them feel like people will just leave them, thus making it difficult to build any meaningful and emotional connection with others.
+
+After a minute to think things over, Jean nodded and said, "I will take Kili with me."
+
+"Now that you have another head to worry about, I strongly suggest that you try and keep yourself away from troubles," the Sect Leader emphasised. "If you find two mages fighting, you run the opposite direction. If you are in the market and someone challenges your purchase, unless it is a life-or-death matter, just concede the item, say a few pleasantries and move away. Do not look anyone in the eye, look at their lips. If you find someone who is dying, you can help them, but give them a fake name and affiliation. If..."
+
+Jean shuddered as Sect Leader Larks listed one warning after another. The way in which he spoke made her realise that the man wasn't joking. The care and specificity with which each warning was woven made Jean feel a little warm inside - it reminded her of her father who would fret over her constantly.
+
+"... Finally, if a man or woman decides to attempt anything untoward with you - mind you that following you around and badgering you to 'give him a chance' is also harrassment - make sure to take down their name, address and affiliation. I know you can't hurt people, but putting them to a deep sleep shouldn't be out of the realm of possibility. If you can get a picture of them, it would make my life easier," Mister Larks said with a dangerous edge in his voice.
+
+Jean let out a beaming smile and laughed melodiously. "Thank you for worrying about me, Mister Larks."
+
+She didn't miss the man's eyes watering slightly as he saw her emote her exuberance.
+
+____
+
+**Next**
+* [[volume-5.chapter-327]]
