@@ -2,11 +2,11 @@
 id: 5rn1vdafy3i4u000jnxnaof
 title: Chapter 316 - My "New" Master
 desc: ''
-updated: 1682079027208
+updated: 1684909421148
 created: 1681724303242
 ---
 
-Markus approached his Master's room tentatively, his steps uncertain. Ever since his Master had achieved a breakthrough to the Core Formation realm, Markus had sensed a subtle change in his countenance and an indescribable aura about him.
+Markus approached his Master's room tentatively, his steps uncertain. Ever since his Master had achieved a breakthrough into the Core Formation realm, Markus had sensed a subtle change in his countenance and an indescribable aura about him.
 
 As he crossed the imaginary threshold ten feet from his Master's door, a heavy aura enveloped him, making each step increasingly difficult and the air denser.
 
@@ -16,11 +16,11 @@ A mage in the Foundation Establishment realm could afford to leave their mana do
 
 After Markus took his third step into his Master's torrential domain, the pressure abruptly dissipated.
 
-'Sorry about that,' his Master's voice resonated within his mind via Mana Transmission. 'It's still a work-in-progress.'
+'Sorry about that,' his Master's voice resonated within his mind via Mana Transmission. 'It's still a work in progress.'
 
 Markus managed a bitter smile, shaking his head as he slid open the door to his Master's room. As he entered, he took a deep breath, filling his lungs with the thick smoke of incense that permeated the air. The scent was indistinct but not unpleasant, and he felt a sense of calm wash over him.
 
-The room was simple, with minimal furniture and decoration. The only thing that stood out were the three large blackboards in the corner of the room. They were filled completely with chalk writing, diagrams and tables in his Master's distinct handwriting. His Master sat cross-legged on the floor behind the low work-table, with his eyes closed as though in meditation. Markus did not wish to disturb his Master, and thus he assumed a cross-legged pose opposite him and waited patiently.
+The room was simple, with minimal furniture and decoration. The only thing that stood out was the three large blackboards in the corner of the room. They were filled with chalk writing, diagrams and tables in his Master's distinct handwriting. His Master sat cross-legged on the floor behind the low work table, with his eyes closed as though in meditation. Markus did not wish to disturb his Master, and thus he assumed a cross-legged pose opposite him and waited patiently.
 
 As seconds ticked by, Markus' breathing slowed, and his sight grew blurrier.
 
@@ -36,7 +36,7 @@ For a brief second, Markus felt himself turning into smoke - he became one with 
 
 "I don't know," Markus answered, noticing the right side of his Master's face twitching violently for a fraction of a second before his entire face assumed an uncertain frown.
 
-"How did it feel?" His Master followed up, while crawling back into a cross-legged pose behind the worktable.
+"How did it feel?" His Master followed up while crawling back into a cross-legged pose behind the worktable.
 
 "Like I was no longer inside my body," Markus said, summarising the surreal experience.
 
@@ -66,13 +66,13 @@ Markus squinted his brows and read the open page before his eyes darted out of t
 
 "Just skip to the results," Master Larks followed up immediately. "It states that one can find greater success if they attempt spiritual cultivation in the early stages of magehood. The process is difficult since the tethers that bind you to the mortal realm can be very distracting and can avert your focus from your spirituality. But the use of Dream Sage Grass was shown to have some beneficial effect in the process."
 
-"The results seem well substantiated, so I tried it out on myself. As expected, the effect was weaker on me due to my superior metabolism, but it should have a greater influence on you. But just now, I saw that it was working on you. I didn't want to waste this opportunity, so I tried a new technique I had in the works through which one can pull their soul out of their body."
+"The results seem well substantiated, so I tried it out on myself. As expected, the effect was weaker on me due to my superior metabolism, but it should have a greater influence on you. Just earlier, I saw that it was working on you. I didn't want to waste this opportunity, so I tried a new technique I had in the works through which one can pull their soul out of their body."
 
 Markus sputtered before exclaiming, "That sounds unsafe, Master!"
 
-"Not really. It's not so trivial to simply extract the entire soul from your body. One could even say it's impossible. The soul cannot exist without a vessel, just as a will cannot manifest and maintain itself physically in the world without a soul. In fact, the Tesseract Transformation realm is achieved when the mana core is fashioned into a vessel to hold the soul, which in turn ensures that the core doesn't dissipate. It's a perfect example of circular dependency," his Master paused the explanation to snort mirthfully. "Anyway, at present, the vessel for your soul is your body. So I cannot completely remove your soul from it. If I did manage to do it, it would mean that I was practicing necromancy, and that too at a high level."
+"Not really. It's not so trivial to simply extract the entire soul from your body. One could even say it's impossible. The soul cannot exist without a vessel, just as a will cannot manifest and maintain itself physically in the world without a soul. In fact, the Tesseract Transformation realm is achieved when the mana core is fashioned into a vessel to hold the soul, which in turn ensures that the core doesn't dissipate. It's a perfect example of circular dependency," his Master paused the explanation to snort mirthfully. "Anyway, at present, the vessel for your soul is your body. So I cannot completely remove your soul from it. If I did manage to do it, it would mean that I was practising necromancy and that too at a high level."
 
-"Is there a purpose behind this technique?" Markus redirected, while trying to suppress the discomfort from the casual violation his Master just committed on him.
+"Is there a purpose behind this technique?" Markus redirected while trying to suppress the discomfort from the casual violation his Master just committed on him.
 
 "It's to gain a better understanding of one's soul. If you can experience what it feels like to see the world through your spiritual eyes, it will make it easier for you to cultivate it," Master Larks explained.
 
@@ -92,7 +92,7 @@ Again, the snipe felt self-directed. The right corner of his Master's lip twitch
 
 "Nonetheless," Master Larks continued through the left side of his mouth. "Is this month's progress report?"
 
-Markus nodded as he placed the folder he had carried with him on his Master's work-table.
+Markus nodded as he placed the folder he had carried with him on his Master's work table.
 
 "I've been tracking the performance and progress of the students according to the designated metrics. At this rate, we can expect the cohort to move on to the intermediate level within the next month," Markus reported.
 
@@ -114,7 +114,7 @@ The discussion continued for a few more minutes as Master Larks inquired about h
 
 "Jean has been researching methods to supplement his loss of vision," Markus reasoned. "However, progress has been slow - non-existent, in fact! If his cultivation were just a bit higher, he could rely on his mana senses, but without the ability to cast a spell or cultivate, I do not think that is an option."
 
-"I propose that we prioritise this matter," Master Larks declared. "We cannot leave a child behind like this, especially when our sect is just starting out."
+"I propose that we prioritise this matter," Master Larks declared. "We cannot leave a child behind like this, especially when our sect is just starting."
 
 "I will inform the others accordingly," Markus affirmed. As the discussion drew to a close, he stood up to leave.
 

@@ -2,7 +2,7 @@
 id: fplrx0mh8qaran0x3vvmw7n
 title: Chapter 326 - Journey(wo)man
 desc: ''
-updated: 1684862070661
+updated: 1684909488306
 created: 1684701778026
 ---
 
@@ -26,7 +26,7 @@ In a decisive move, Jean stood up and started to walk out of the bleachers and t
 
 "I expected as much. We have been successful in Twilight Village mainly because we work closely with them and have built a personal connection there. The villagers also trust us. But that cannot be assumed as true for those outside. Mortals already have a shaky relationship with sects and clans, they would take our recommendations with a grain of salt," Mister Larks affirmed. "So what is your plan?"
 
-"I wish to go on a journey. I am currently in a special situation where there is an abundance of theoretical knowledge floating about in my head, but no outlet to apply it and internalise it for myself. I feel that by travelling around, visiting new places, and treating more people, I can build up my repertoire and become a better doctor," Jean expressed her analysis succinctly.
+"I wish to go on a journey. I am currently in a special situation where there is an abundance of theoretical knowledge floating about in my head, but no outlet to apply it and internalise it for myself. I feel that by travelling around, visiting new places, and treating more people, I can build up my repertoire and become a better doctor," Jean expressed her analysis succinctly. "Besides, I have more or less hit a roadblock with the research into improving Yohn's predicament. And I don't think sitting here and perusing through books will get me to where I need to be."
 
 "You make a good point. We'll do it this way," Mister Larks retrieved a parchment from his desk and prepared his writing untensil. "The Solar Sect Alliance has amplified the scrutiny upon affiliated sect members roaming out in the world. The treaty between the Empire and the Sect Alliance has grown rather finicky, especially after our recent intervention with curing the plague. As you already know, I used my connection with the Cloudstrider Sect to mask our involvement. So on paper, it is the Cloudstrider Sect that helped clear the infestation in the region. However, the Empire decided to transfer the blame for all the damage caused in the region to the Alliance as well."
 
