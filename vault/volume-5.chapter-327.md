@@ -2,7 +2,7 @@
 id: t35p01q9mwklc623uenkgf7
 title: Chapter 327
 desc: ''
-updated: 1684916702564
+updated: 1684953520648
 created: 1684909497282
 ---
 
@@ -38,4 +38,38 @@ Without waiting for another second, Marie turned around, walked through the door
 
 "We are going on a trip," Jean declared before picking up both their travel bags. "Come on, let's see how much progress we can make before sunrise."
 
-As Jean started moving, she noticed Kili standing in place and squirming 
+As Jean started moving, she noticed Kili standing in place and squirming erratically.
+
+"Kili? What's wrong?"
+
+Kili's face turned a blushing red shade as she bit down on her lower lips in embarrassment.
+
+"Umm..."
+
+"What is it, Kili?"
+
+"I-I need to go to the toilet," Kili mumbled in a low voice.
+
+"..."
+
+"That was a quick trip," Marie joked while approaching Jean as she stood outside the public toilets. "What did you learn? Did you gain anything out of it?"
+
+"Oh bite me!" Jean shot back.
+
+"What's all this racket?" Matron Reva bellowed while swallowing a yawn. "Uh Jean? Why are you standing with your bags packed?"
+
+"She was about to sneak out in the middle of the night?" Marie blurted out while shooting a challenging wink in Jean's direction.
+
+"You were what?!" Matron Reva exclaimed.
+
+"I-I can explain," Jean chimed in immediately, hoping to quell the stout demoness' rage.
+
+"Oh you had better!"
+
+And then, Jean narrated her entire story to the Matron. As she did so, the observing crowd grew in size as the other occupants of the sect started to converge. Jean had conveniently forgotten that the public bath and toilet was a high-traffic location especially in the morning. 
+
+Ultimately, word got out and Matron Reva left Jean no option other than to have breakfast first. After one of the most hearty and uncharacteristically heavy breakfasts of Jean's life, a horde followed her and Kili as they approached the Sect's exit (the front gates this time).
+
+""
+
+
