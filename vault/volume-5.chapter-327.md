@@ -1,8 +1,8 @@
 ---
 id: t35p01q9mwklc623uenkgf7
-title: Chapter 327
+title: Chapter 327 - Spiciest Memelord of the New World
 desc: ''
-updated: 1684953520648
+updated: 1685030103929
 created: 1684909497282
 ---
 
@@ -70,6 +70,57 @@ And then, Jean narrated her entire story to the Matron. As she did so, the obser
 
 Ultimately, word got out and Matron Reva left Jean no option other than to have breakfast first. After one of the most hearty and uncharacteristically heavy breakfasts of Jean's life, a horde followed her and Kili as they approached the Sect's exit (the front gates this time).
 
-""
+"Medium Sis don't go!" Dora wailed. "At least leave Kili. Why are you taking her with you?!"
 
+"Take good care of yourself, child," Matron Reva choked out between her sniffles. "Eat on time - I know that mages at your realm don't really need to eat so regularly, so what I mean to say is that you shouldn't forget to have filling meals whenever possible."
 
+"If you get into trouble, run the other direction," Markus advised with a wavering voice. "Although I'd love to go with you, I am tied down with Sect responsibilities."
+
+"I've already said my goodbyes," Marie said with a snort. "But a second goodbye don't hurt nobody."
+
+And with that, Marie pulled Jean and Kili into a hug. This started a chain reaction, where everyone started to dog-pile around them, causing the size of the hug to balloon from three to six to twelve to twenty people altogether.
+
+"G-Guys..." Jean mumbled, her voice turning into a gravelly croak.
+
+"Guys..." She repeated, as the hug grew tighter and warmer.
+
+"Guys- WAAAAAAAHHHH~!" And the floodgates opened. Jean brokedown into a hysterical cry, collapsing onto her knees.
+
+"Hey, hey!" Matron Reva blurted out as she pushed all the huggers away. "Woah! Calm down!"
+
+"THIS *sniff* This is so embarrassing- WAAAAAAH~!" Jean couldn't control her tears. "I'm *sniff* going to miss you guys *cough* soooo~ much- WAAAAAAH~!"
+
+"..."
+
+The scene lasted for exactly five minutes and twenty seconds, during which the crowd dispersed awkwardly. In the Sect members' eyes, Jean was always a figure to be feared. If anyone got hurt or did something stupid that ended up causing bodily hard, Jean would rain down unparalleled fury on the transgressors. Thus, over time, she had turned into the official boogeyman of the Sect. In fact, this had gone on for so long that it turned into an inside joke with some members circulating a caricature sketch of Jean with large text "If you die, I kill you!" above and below the drawing. Markus found it distasteful, but Jean found it hilarious and as punishment, had the sketcher turn the thing into a stamp and printed copies of it to be posted above all the dangerous equipment in the Maker-Space.
+
+Jean cleaned herself with a quick flurry of spells and looked looked at the remaining members. "Although I'm leaving, it doesn't mean that you guys are free to do as you wish. Always follow safety protocols, make sure to keep yourself and your environment clean, if you get hurt or ill get it treated immediately. I have tasked Matron Reva with conducting the weekly checkups. If I find anything stupid written in there where I return, there will be hell to pay. And I swear on my deceased mother, that if I find a report of Huron cutting himself with the whittling knife once again, I will personally remove all of your fingers."
+
+The boy in question shuddered and quickly hid himself behind his taller peers.
+
+"A demon that cries is still a demon," the boy mumbled to himself.
+
+"Alright! We're leaving Kili," Jean declared before walking down the steps with the bags strapped over her back.
+
+Jean walked with purpose, but without destination. She would go where her feet would take her. She had given herself one year. One entire year to learn, practice and grow.
+
+She looked behind her and saw Kili walking with the same level of enthusiasm, maybe it was the result of monkey-see-monkey-do, but it did fill Jean with more confidence and motivation.
+
+Maybe it was the working of fate, as Marie would put it, but Jean's destination was set the moment she stepped out of the Sect. Although she walked without direction, her internal compass was drawn, either through coincidence or purpose, towards a singular destination.
+
+Jean caught Kili's figure slipping down her back and hoisted her securely once again. Letting out a heavy breath, she pushed aside the ramshackle fencing and looked towards the destitute and dessicated lands that lay beyond. She leapt over an artificial ravine, formed by magic and land manipulation, and walked on for a few kilometres.
+
+The world was silent here. There were no sounds of birds, rodents or even insects. And the plants had all but died, leaving nothing but barren earth slowly turning into sand. The land ahead was a toxic black shade, and reeked of death.
+
+"Wait here," she instructed Kili while lowering the tired girl to the ground. "I need to check something first."
+
+After ensuring that Kili was securely situated, Jean leapt into a light jog (which was closer to the running speed of an average human). She circled eastwards for a few kilometres, before decelerating and coming to a halt.
+
+She released a heavy breath through quivering lips as she looked ahead, at a conspicuous and unnatural pit. 
+
+"I'm back, mother," she whispered. Though her voice echoed ominously all over the barren lands.
+
+____
+
+**Next**
+* [[volume-5.chapter-328]]
