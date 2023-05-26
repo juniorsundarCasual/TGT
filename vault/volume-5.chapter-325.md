@@ -2,7 +2,7 @@
 id: cbg3rge1pc7sz2xu8ivnk9c
 title: Chapter 325 - (Interlude) Undercurrents (Part Three)
 desc: ''
-updated: 1684701774715
+updated: 1685108401925
 created: 1684410950646
 ---
 
@@ -100,7 +100,7 @@ However, the reality was a whole another story. And now, as you can see, I am su
 
 "So the orange skin and blonde hair?" Ghon followed up.
 
-"All part of the deviation. But don't worry, it should return to normal once I advance to Core Formation realm."
+"Well it's a mixture of different factors coming into play together. But don't worry, it should return to normal once I advance to Core Formation realm."
 
 Just as Ghon was about to retort, the servant by the door announced, "Master, the Young Mistress is here to greet the guest."
 
