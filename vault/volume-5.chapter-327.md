@@ -2,7 +2,7 @@
 id: t35p01q9mwklc623uenkgf7
 title: Chapter 327 - Spiciest Memelord of the New World
 desc: ''
-updated: 1685030103929
+updated: 1685471725850
 created: 1684909497282
 ---
 
@@ -30,7 +30,9 @@ Marie separated herself from Jean and said, "It is because I know what will happ
 
 Marie clicked her tongue and flicked Jean on her forehead, "It seems my abrasive personality has rubbed off on you, no pun intended. Anyways, have a safe trip, try not to get into too much trouble, and make sure you return back with all you body parts intact."
 
-She then ruffled Kili's hair and whispered something into the girl's ears. She then finished with a loud statement, "Take care of your Jean for me. If she does anything stupid, you know what to do!"
+She then reached behind her and pulled out a wrapped package. "Just because of that snipe, I am going to ruin my surprise for you. It's a book. Read it. Understand it."
+
+After stuffing the package into Jean's hands, she ruffled Kili's hair and whispered something into the girl's ears. She then finished with a loud statement, "Take care of your Jean for me. If she does anything stupid, you know what to do!"
 
 Without waiting for another second, Marie turned around, walked through the doors and closed them behind her as she returned to the Sect leaving Jean and the now partially awakened Kili by themselves.
 
