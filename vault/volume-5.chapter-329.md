@@ -1,8 +1,8 @@
 ---
 id: phxzd2kjdxeylr9o081eicx
-title: Chapter 329
+title: Chapter 329 - The “Throwing a Hundred Darts and Seeing Which Stick” Strategy
 desc: ''
-updated: 1685475493417
+updated: 1685524643176
 created: 1685390318346
 ---
 
@@ -56,11 +56,13 @@ Jean revealed a reminiscent smile as she remembered the dumbfounded expression o
 
 Jean flipped through the text and paused at the page with the heading, "Genetic Algorithm".
 
-In fact, this was the only chapter Jean properly understood in the entire book. This was mainly because it was said to have been derived by the theory of natural selection. Natural selection could thought of as a nicer way to define the state of the world: "The survival of the fittest". Only the fittest can make it to the next generation.
+In fact, this was the only chapter Jean properly understood in the entire book. This was mainly because it was said to have been derived by the theory of natural selection. Natural selection could be thought of as a nicer way to define the state of the world: "The survival of the fittest". Only the fittest can make it to the next generation.
 
-Anything that is born 
+Nucleic Acids that make up DNA and RNA is said to one of the building blocks of all life. All species share similarities in their DNA. Amongst humans, there is a 99.9% similarity in the DNA makeup. Our closest specie relative, the chimpanzee, has us sharing 98.8%. But if just 2.8% variation results in a completely different species, how much of a difference would the 0.1% mean between humans of the same specie?
 
-Jean's eyes brightened with a newfound sense of possibility. The genetic algorithm chapter presented a methodology that could potentially be applied to her current predicament. It offered a way to tackle complex problems by mimicking the process of natural selection and evolution.
+Let's say a highly contagious disease, with a high mortality rate, spreads around the world. People are susceptible to it, they succumb to the disease and many die. However, the 0.1% variation finds a set of humans who have a higher tolerance to the disease and are able to resist it, overcome it, or are immune to it altogether. This set are guaranteed propagation of their DNA, as the ones who succumb to the disease are removed from the mating pool naturally. The new generation of humans have the 0.1% already included in their DNA that assures their resistance against the disease. Amongst this new generation, only those with the greatest resistance or downright immunity will have a better luck in propagating their seed. After years and multiple generations, humans are born who may have total immunity to the disease.
+
+Jean's eyes brightened with a newfound sense of possibility. The genetic algorithm, takes this simplified explanation of the natural selection process, and applies it to a myriad of problems, with the assumption that only the most optimal solution (amongst the available solutions) will remain after the evolutionary algorithm naturally phases out the suboptimal solutions with every generation. It offered a way to tackle complex problems by mimicking the process of natural selection and evolution.
 
 With renewed determination, Jean delved into her memories and recollected the details of the chapter. The genetic algorithm involved creating a population of potential solutions, each represented by a set of parameters or characteristics. Through a process of selection, crossover, and mutation, the algorithm would iteratively refine these solutions, gradually converging on an optimal or near-optimal outcome.
 
