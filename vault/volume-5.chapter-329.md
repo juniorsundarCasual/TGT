@@ -2,7 +2,7 @@
 id: phxzd2kjdxeylr9o081eicx
 title: Chapter 329 - The “Throwing a Hundred Darts and Seeing Which Stick” Strategy
 desc: ''
-updated: 1685524643176
+updated: 1685529680424
 created: 1685390318346
 ---
 
@@ -58,7 +58,7 @@ Jean flipped through the text and paused at the page with the heading, "Genetic 
 
 In fact, this was the only chapter Jean properly understood in the entire book. This was mainly because it was said to have been derived by the theory of natural selection. Natural selection could be thought of as a nicer way to define the state of the world: "The survival of the fittest". Only the fittest can make it to the next generation.
 
-Nucleic Acids that make up DNA and RNA is said to one of the building blocks of all life. All species share similarities in their DNA. Amongst humans, there is a 99.9% similarity in the DNA makeup. Our closest specie relative, the chimpanzee, has us sharing 98.8%. But if just 2.8% variation results in a completely different species, how much of a difference would the 0.1% mean between humans of the same specie?
+Nucleic Acids that make up DNA and RNA is said to one of the building blocks of all life. All species share similarities in their DNA. Amongst humans, there is a 99.9% similarity in the DNA makeup. Our closest specie relative, the chimpanzee, has us sharing 98.8%. But if just 1.2% variation results in a completely different species, how much of a difference would the 0.1% mean between humans of the same specie?
 
 Let's say a highly contagious disease, with a high mortality rate, spreads around the world. People are susceptible to it, they succumb to the disease and many die. However, the 0.1% variation finds a set of humans who have a higher tolerance to the disease and are able to resist it, overcome it, or are immune to it altogether. This set are guaranteed propagation of their DNA, as the ones who succumb to the disease are removed from the mating pool naturally. The new generation of humans have the 0.1% already included in their DNA that assures their resistance against the disease. Amongst this new generation, only those with the greatest resistance or downright immunity will have a better luck in propagating their seed. After years and multiple generations, humans are born who may have total immunity to the disease.
 
@@ -67,3 +67,8 @@ Jean's eyes brightened with a newfound sense of possibility. The genetic algorit
 With renewed determination, Jean delved into her memories and recollected the details of the chapter. The genetic algorithm involved creating a population of potential solutions, each represented by a set of parameters or characteristics. Through a process of selection, crossover, and mutation, the algorithm would iteratively refine these solutions, gradually converging on an optimal or near-optimal outcome.
 
 Excitement coursed through Jean's veins as she realised the potential of applying this algorithm to her problem. She could treat the disease as an optimization challenge, seeking the best combination of factors that would counteract its devastating effects. By formulating the problem in this way, she might be able to overcome the plague's adaptability and complexity.
+
+____
+
+**Next**
+* [[volume-5.chapter-330]]
