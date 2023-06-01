@@ -2,7 +2,7 @@
 id: phxzd2kjdxeylr9o081eicx
 title: Chapter 329 - The “Throwing a Hundred Darts and Seeing Which Stick” Strategy
 desc: ''
-updated: 1685529680424
+updated: 1685648341100
 created: 1685390318346
 ---
 
@@ -30,7 +30,7 @@ Jean slapped her cheeks with both her hands to redirect her focus. "Let's start 
 
 The first thing Jean did was move Kili beyond the artificial ravine separating the cordoned of region. There she set up a temporary shelter in a decently elevated and hidden location, so that the little girl could continue going about her business in safety. Then, Jean returned to the cordon and started to set up her work tent. Although the Rasmus Clan had done extensive research into the Plague of Dark Cleansing, Jean realised that their approach had been wrong from the get go.
 
-The disease was highly irregular, so it couldn't be treated like any regular disease. It affected animals, plants and even the land. Since three things are being affected, the mages who came to this region in order to excise the plague approached the problem with three prongs. One was to create a cure for infected animals (which also includes humans), another was to cure the ailing plants, and finally the third to revitalise the land. This had also been the Rasmus Clan's approach.
+The disease was highly irregular, so it couldn't be treated like any regular disease. For one, it didn't spread. The Plague Emperor detonated a spell, and everything within his mana domain was consumed by the Plague. Anyone or anything that enters the affected region suffers a similar fate. Years since the spell was first cast, the region affected by the plague hadn't changed, but the Empire was fearful enough to quarantine and physically cordon the region to even avoid the chance of it spreading. The Plague affected animals, plants and even the land. Since three things are being affected, the mages who came to this region in order to excise the plague approached the problem with three prongs. One was to create a cure for infected animals (which also includes humans), another was to cure the ailing plants, and finally the third to revitalise the land. This had also been the Rasmus Clan's approach.
 
 However, Jean hypothesised that this was probably where everyone was making a mistake. Instead of approaching the problem in parts, it had to be tackled in one fell swoop. The disease was singular, and its cure should be singular. But this was easier said than done, because it was notoriously hard to pinpoint. It kept evolving and altering itself whenever it 'felt' threatened. People thought that it was alive, which was why a large portion of documented 'cures' are basically highly potent poisons meant to flush the system. But the disease wasn't really alive - though it wasn't completely dead either as its sentience was unquestionable.
 

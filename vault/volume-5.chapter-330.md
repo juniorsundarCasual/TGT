@@ -2,7 +2,7 @@
 id: d371rsodnwycb2bajoe04r2
 title: Chapter 330 - A "Natural" Optimisation Strategy
 desc: ''
-updated: 1685539640625
+updated: 1685650042210
 created: 1685524664185
 ---
 
@@ -32,7 +32,35 @@ By using this genetic algorithm, it is assumed that one can eventually find the 
 
 In real life, genetic algorithms are used in many areas, like optimizing complex systems, designing new products, or even creating artwork. They help us find the best solution by imitating nature's way of evolving and adapting. So, in simple terms, a genetic algorithm is a problem-solving approach that imitates how living things evolve and adapt. It helps find a best solution by combining and improving different strategies over time.
 
+With all this known, Jean took a step back and considered how she could apply this to her situation. The solution she needed to find was a cure for the Plague of Dark Cleansing. But what form of the curse was she looking for? A bacteria would require an antibiotic, a virus would require an antiviral, and a fungal infection would require an antifungal. But the Plague was constantly evolving, changing, and reacting.
 
+In fact, its behaviour reminded her of her own cultivation. She drew the mana from her core and held a cloud of it in her hand. After casting |Inspect| on it, she saw a swarm of "living" organisms floating within the mana cloud. These microscopic entities were hers to control - they could behave according to her commands, and they changed according to her requirements. These were the agents she used to spread immunity to common diseases within the villages she visited during her travels.
+
+"What if I created hunter-killers that were attuned to targeting and destroying the Plague microbes?" Jean surmised.
+
+It all made sense! The endgame for her would be to train her microbes to be the perfect antithesis to the Plague. Once again, it read easily on paper, but the actual process was a million times harder. Jean had never actually sat down and evaluated the exact mechanism through which she designed her microbes. Due to the instinctive nature by with the Rat King designed his plague, the process through which Jean designed her microbes had a similar instinctive formula. She would envision the diseases she wanted to combat, and her mana would attune the microbes to that disease (as long as Jean had already catalogued the disease through contraction).
+
+Jean later attempted to demystify her special ability by merging her knowledge about the mechanisms of viral, bacterial and fungal infections with her cultivation. This resulted in her gaining greater control over the design of her microbes, but that was the most her cultivation changed by. Right now, she would be breaching into completely uncharted territories. In fact, her hypothesised strategy to synthesise hunter-killer microbes to fight the Plague wasn't the standard method of devising a cure.
+
+"But arcane problems require out-of-the-box solutions," Jean declared with a sigh. "No time like now, I guess?"
+
+She left the safety of her tent and approached the infected region once again, from a reasonable distance. Once her mana sense was barely overlapping with the Plague, she drew from her mana core and produced over ten-thousand microbes. In creating them, she provided a single instruction which was to be able to combat the same disease produced by the Rat King.
+
+Why did she only produce ten-thousand when she could have made even more? Generally, a higher population ensures that the optimal solution is reached quickly, but it also balloons the amount of attention Jean needs to give in order to score the members of the population. Even with superior mental faculties, there was a limit to how much parallel processing Jean could manage at one time. Why did she start with the Rat King's disease as the reference? Because she had an inkling that somehow, the Rat King and the Plague Emperor were related.
+
+With that established, she mixed in the microbes with a handful of healthy soil and mixed it in with the infected dirt. This time, the result was interesting. As the Plague microbes attacked the healthy soil, Jean's microbes intervened. A war at the microscopic scale ensued as a deathly army of blackish-green collided against an angelic horde of pale-pink. Though it didn't last for long as the manifestations of death made quick work of the pink protectors. It was a failure, but Jean was surprised to note that of the ten-thousand that died immediately upon contact with the Plague, two had managed to hinder the attackers for a second.
+
+Utilising those two as blueprints, Jean broke their make-up down at the DNA level. She then performed a rudimentary crossover by taking half from one and half from the other to create two completely new microbes. She then created multiples of these microbes with a 0.1% mutation rate in their genome, until there were ten-thousand of them.
+
+She then repeated the process, and pitted the next generation against the Plague. This time, there were 10 that managed to hold off death after first contact, 3 that actually attempted to fight back, and 1 that managed to do serious damage by crippling a Plague microbe (though it recovered almost immediately). Amongst the "winners" of this round, Jean had to now score them based on a fitness function. She decided to define the fitness function as the algebraic sum of three factors in ascending order of weightage: how long a microbe can last against the Plague, how much damage the microbe can inflict against the plague, and finally a binary indicator of whether the microbe can completely destroy the plague. 
+
+Based on the result of the fitness function, Jean populated the mating pool with proportionally more copies of the high scorers and fewer copies of the low scorer. This strategy was to ensure that if there were any beneficial traits in the low scorer, they won't get lost during a highly directed evolution.
+
+This process took Jean an entire hour. After that, Jean managed to repopulate ten-thousand microbes of a new generation.
+
+Releasing an exhausted breath, Jean continued her work. At this point, Jean recollected another one of Mister Larks' words of wisdom.
+
+"A jet of water can cut through stone like a hot knife through butter. But if you can't generate the same pressurised jet, then find peace knowing the fact that a constant stream of flowing water can achieve the same result albeit through years of erosion."
 
 ____
 
