@@ -30,7 +30,7 @@ He reached forward, causing Shuri to flinch. "Whoa! Relax. I'm not going to hurt
 
 "It's not like that..." he said hurriedly, shaking his hands frantically before releasing a tired sigh.
 
-"It seems you have a rather rigid image of me in your mind," he continued, tilting his head backward. "Do not be so quick to draw conclusions, Shuri. I'm a pretty chill dude!"
+"It seems you have a rather rigid image of me in your mind," he continued, tilting his head backwards. "Do not be so quick to draw conclusions, Shuri. I'm a pretty chill dude!"
 
 Shuri's gaze narrowed. 'What does his body temperature have to do with anything?'
 
@@ -62,7 +62,7 @@ Just as Shuri covered her mouth, her eyes widened, and she noticed the Sect Lead
 
 "Oh, but we already have!" Only the right side spoke. "The so-called mages who frolic around and flaunt their half-baked understanding of the world they live in can't even hold a candle to the might of the Truth-"
 
-At that moment, the left hand rose and covered the Sect Leader's mouth. The right brow creased in anger. And in that moment, Shuri realized she had made a terrible mistake.
+At that moment, the left hand rose and covered the Sect Leader's mouth. The right brow creased in anger. And almost immediately, Shuri realized she had made a terrible mistake.
 
 'So this is how I die,' Shuri cursed through gritted teeth as all her survival alarms blared in earnest. There was an overwhelming intent to maim, or possibly kill, hanging in the room. 'Why the fuck didn't I just keep my mouth shut like I always do?! Why-?'
 
