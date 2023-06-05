@@ -2,7 +2,7 @@
 id: 3x9mac34l27kbl0zxpdf2r0
 title: Chapter 320 - Mission Possible
 desc: ''
-updated: 1685712145812
+updated: 1685964587122
 created: 1683395561366
 ---
 
@@ -50,7 +50,7 @@ The denial echoed even within the small room, or maybe it was just Shuri's perce
 
 "Sorry about that," the man squeezed out through gritted teeth. It was clear that he was going through something... something suspicious that Shuri did not want any part of. She started to mentally simulate her escape from the room, training herself to dodge and weave through any obstacles in her path between her current location and the door.
 
-"I can understand your apprehension. Letting someone you barely know inspect something so personal to a mage is a lot to ask," he said. "Which is why we shouldn't be taking things for granted and push the limits of morality like this." The last sentence strangely felt self-directed.
+"I can understand your apprehension. Letting someone you barely know inspect something so personal to a mage is a lot to ask," he said. "Which is why we shouldn't be taking things for granted and pushing the limits of morality like this." The last sentence strangely felt self-directed.
 
 "I'll leave it up to you on how to proceed," the sect leader decided. "I'm happy that you've found a path for yourself. Though I strongly encourage you to maintain caution as you progress."
 
