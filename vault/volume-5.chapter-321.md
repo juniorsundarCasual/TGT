@@ -66,7 +66,7 @@ Marie noticed the burgeoning mischief in Guy's gaze and responded with a wry smi
 
 "I know that - I'm not trying to play deity here," Marie defended herself. "I just want Shuri to peel the many layers of lies she's built around herself. She doesn't need to be truthful with others, but at least she should stop lying to herself."
 
-"The girl is buried deep within a mire of lies. I suspect she herself is unsure of her identity. She has probably rationalised something to keep her mind from fragmenting," Guy affirmed. But he raised a finger and emphasized, "But those lies are what give her comfort. If you pull the layers away forcefully, it will do more harm than good - like removing the shell off of a hermit crab. If you want to excavate her from all the lies, do it incrementally. I've taken notice of your attempts, but I strongly advise caution."
+"The girl is buried deep within a mire of lies. I suspect she, herself, is unsure of her identity. She has probably rationalised something to keep her mind from fragmenting," Guy affirmed. But he raised a finger and emphasized, "But those lies are what give her comfort. If you pull the layers away forcefully, it will do more harm than good - like removing the shell off of a hermit crab. If you want to excavate her from all the lies, do it incrementally. I've taken notice of your attempts, but I strongly advise caution."
 
 Marie nodded and said, "I will keep that in mind, Mister Larks."
 
