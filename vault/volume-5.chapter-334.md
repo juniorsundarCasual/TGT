@@ -2,7 +2,7 @@
 id: 3ketie4tjfqbliqfn7jew11
 title: Chapter 334 - (Interlude) Fearful Father Fighting Friend For Freedom
 desc: ''
-updated: 1686403370370
+updated: 1686589497261
 created: 1686295412980
 ---
 
@@ -70,7 +70,7 @@ Goran inspected the plain envelope with the True World Sect's seal on it, implyi
 
 "Don't say things like that," Goran snapped back before using a letter opener to slash it open. He carefully unfolded the paper and let his eyes scan its contents. All it took was a second and the paper crumpled against Goran's tightened fists.
 
-His chair exploded as the man rose and disappeared through the ceiling, leaving a massive hole larger than his form. Al rushed forward and picked up the crumpled paper. Within seconds, another hole formed on the ceiling.
+His chair exploded as the man rose and disappeared through the ceiling, leaving a massive hole larger than his form. Al rushed forward and picked up the crumpled paper. Within seconds, another hole formed on the ceiling. Neither of the men gave a damn about the City's air traffic policies within city limits.
 
 Al was mere seconds behind Goran as the flow northwards, though he could feel the gap between them widening as the worried father burned through his mana vigorously to hasten his travel. Al managed to reveal a wry smile as he rewound and remembered the content of the letter - a single line like some form of a sick joke: "Jean has eradicated the Plague of Dark Cleansing."
 
