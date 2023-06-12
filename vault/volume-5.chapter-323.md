@@ -1,12 +1,12 @@
 ---
 id: bpztef9wuuyswa83s4dfiio
-title: Chapter 323 - (Interlude) Undercurrents (Part Three)
+title: Chapter 323 - (Interlude) Undercurrents (Part One)
 desc: ''
-updated: 1686307619537
+updated: 1686572099947
 created: 1684094041335
 ---
 
-Something strange was brewing in Maika Duchy. Although that sector of the Solar Empire was known to be an economic powerhouse, the recent numbers regarding tax accumulations and overall economic health (in terms of money circulating within the system) had placed it at a much higher-than-expected standing.
+Something strange was brewing in the Maika Duchy. Although that sector of the Solar Empire was known to be an economic powerhouse, the recent numbers regarding tax accumulations and overall economic health (in terms of money circulating within the system) had placed it at a much higher-than-expected standing.
 
 The Minister of Finance, Jing Lorath, should be elated to see this improvement, but his expression was dour and listless. His mind was preoccupied with the fact that the court would be in session tomorrow, and it could very well be his last day. Things had been faring, for the lack of a better word, poorly in court. Actually, there was a better word—it was shit, plain and simple. It all started from the day the attack transpired in the Inner Court. Ever since then, things started to devolve with each passing day. Jing didn't even know what had happened back there as within days of the attack, a thorough cleanse swept through the Palace during which many heads had rolled, and the grounds were drenched in red.
 
