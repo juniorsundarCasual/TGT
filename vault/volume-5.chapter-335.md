@@ -1,8 +1,8 @@
 ---
 id: tdho96gcx4d9ya4t09207l4
-title: Chapter 335
+title: Chapter 335 - Keep it Under Wraps
 desc: ''
-updated: 1686596801449
+updated: 1686655455848
 created: 1686558373507
 ---
 
@@ -34,7 +34,85 @@ Goran stared meaningfully into Jean's eyes before exhaling in defeat, "Your eyes
 
 At that point Uncle Jeeves stepped in and patted her father's back. "Stop moping around when there's nothing to mope about. In fact, we should be celebrating! Jean's achieved something truly revolutionary; she's developed a cure for the Plague of Dark Cleansing."
 
-Uncle Jeeves turned to Jean and added, "You have done the world a great service. And on a personal note, you have raised me from a single level of my personal hell. This Plague... I am truly shameful for what my student has done, and I will wear his wrongdoings upon me as a garland of thorns. I wished to be the one to relinquish the world of his "
+Uncle Jeeves turned to Jean and added, "You have done the world a great service. And on a personal note, you have raised me from a single level of my personal hell. This Plague... I am truly shameful for what my student has done, and I will wear his wrongdoings as a garland of thorns. I wished to be the one to rid the world of the sick inventions of his warped mind forever, but it seems that I am cursed to always be inadequate - always one step away - from being able to do that."
+
+"It isn't just your responsibility, Uncle," Jean assuaged. "Besides, you can't shoulder the entire blame for the deviation of a single Student in your tutelage. The way the Plague Emperor turned out wasn't an isolated incident. A child is raised by an entire village, after all."
+
+"But a single teacher has the potential to change an entire student's life. That is where I failed." Uncle Jeeves remained adamant, and Jean could see that there was no point pushing any further down this path either. Both friends - her father and Uncle Jeeves - were men hard set in their ways. They had lived for far too long and lived through far too much to be so easily swayed.
+
+"Anyways," Jean redirected. "I am nearly finished with the cleansing. I just have the central regions left, but the taint goes deep underground. I'll have to move the soil. If you can wait for a few days, it will be done."
+
+At that instant, Uncle Jeeves hesitantly raised his hand. "Jean. This Uncle has a shameless request. You don't have to agree to it."
+
+Jean nodded affirmatively.
+
+"Could you teach me how you did this?" Uncle Jeeves probed hesitantly.
+
+Once again, Jean nodded and retrieved the book "Evolutionary Algorithms" from her desk.
+
+"Another one of Guy's nuggets of knowledge, I presume," Uncle Al commented as he flipped through its pages. He then released an amused snort and said, "There's a lot of prerequisites missing here. I can barely understand anything past the first chapter."
+
+"I didn't fare any better," Jean admitted with a self-deprecating chuckle.
+
+"So how exactly did this play a role in your breakthrough?" Uncle Jeeves asked.
+
+Jean then proceeded to explain the nuances of the genetic algorithm, and how she applied it with her cultivation method. During the explanation, however, she side-stepped Kili's contribution altogether. This wasn't because she didn't want to attribute her successes to the little girl, but because the information would expose her physique to the world.
+
+Jean held herself responsible for Kili's safety. Knowledge has a tendency to spread, like a disease. Even the most safeguarded and secured knowledge can breach out. The condition is time - some spreads are faster others are slower. While she trusted her father and Uncle Jeeves with her life, she just didn't trust them with Kili's. 
+
+That was a sobering reality check for Jean, when she realised that she couldn't depend on some people so close to her with this secret, especially those tied to her by blood. Because she knew that when the chips were down, and if she was ever in trouble with the certainty of death looming over her neck, her father or Uncle Jeeves wouldn't think twice before sacrificing Kili to save her. Jean would rather die than have someone else trade their life for hers... for the third time.
+
+"That is very tiresome," Uncle Jeeves admitted at the end of Jean's explanation. "Then again, cultivation isn't a walk in the park, is it?"
+
+"I still can't believe you would do something like that," her father mumbled. "There so many risky elements at play. What if something had gone wrong?"
+
+She ignored her father's worried ramblings, and so did Uncle Jeeves. "I don't think I will be able to copy this skill of yours - not anytime soon any ways. Unlike Markus', it relies way too much on the core of your cultivation. And those little 'microbes' as you called them, I have a strong suspicion that they are far more ingrained into you than you think."
+
+"How so?" Jean inquired.
+
+"They behave far to similarly to how a contracted beast would. This isn't just mana melding to your wishes, it is living organisms, aren't they?" Uncle Jeeves hypothesised. "If I'm not mistaken, the microbes are tethered to you not just through your will (cultivation) but your spirit (soul) too. Of course, this all just a theory."
+
+"I'm in no mood to partake in this anymore," her father interrupted while standing up. "I need to inform the Duchy about this new development. With the land soon ready for repopulation, there are a lot of things that need to be worked out."
+
+As her father prepared to leave, Uncle Jeeves extended his hand and grabbed her father's wrist.
+
+"What?"
+
+"Let's not say anything about this," Uncle Jeeves said with a contemplative frown. "Keep this a secret for now."
+
+"Why? This is a good thing, isn't it?"
+
+Uncle Jeeves shook his head and expounded, "Think about it, revealing this information would bring your daughter's name into the light. Being famous is good and all, as it opens a lot of doors. But the open door allows a lot of unwanted parties to enter, as well. The True World Sect isn't strong enough to face the wind just yet. They cannot protect Jean against what the world can throw at her. Worse yet, cleansing the Plague is a direct challenge against Ziva. Knowing that it was achieved by a girl with a much lower cultivation will definitely rile him up."
+
+This was enough to halt her father, who collapsed onto his chair once again.
+
+"We have nothing substantial to gain from broadcasting this information. Let Jean finish her mission, and move on. Someone is bound to stumble upon this cleansed land. If they are smart, they will report it, if they are stupid, they will also claim credit for it which will muddy the waters further."
+
+And with that said, the three parties present in the tent formed a pact. The Plague of Dark Cleansing descended onto these lands with a lot of fanfare, but left with nary a whisper.
+
+____
+
+A week later, Jean had completely cleansed the lands of the Plague. With some help from her Uncle Jeeves, they performed a few rudimentary terraforming operations to close up the ravine and move greenery from beyond into the barren lands. With it, they also relocated a few insects and small animals to get the repopulation process rolling.
+
+Once it was all done, Jean packed up the tents and proceeded to leave with Kili in tow. As they left, she turned around and waved farewell to Uncle Jeeves.
+
+"I want to stay here for some more time," Uncle Jeeves said with a wistful smile. "I want to try everything I can to get these lands back to how they were before the Plague. Besides, my Teacher job is numbing my brain. This seems like a fruitful outlet."
+
+Those were his parting words.
+
+"Where should we go next, Kili?" Jean asked her travel partner excitedly.
+
+"I want to go home," Kili answered, causing Jean's excitement to deflate.
+
+"What? Already?" Jean moaned back.
+
+"I did some strategising," Kili answered with a cute, yet serious frown. "My bugs should be able to beat Fancy in a head on fight, if they follow my strategy. But I need to test it out right now, before she gets even stronger!"
+
+After saying that, Kili leapt into a quick jog and rushed ahead. "Come on, Big Sis! We're going to be late!"
+
+Jean looked up into the clear blue sky and let out a satisfied breath.
+
+"Alright. Time to go back home."
 
 ____
 
