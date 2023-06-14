@@ -2,7 +2,7 @@
 id: ct3lhj6z63cby50t7osdkhd
 title: Chapter 321 - Orchestrated
 desc: ''
-updated: 1686071932530
+updated: 1686734379616
 created: 1683753453625
 ---
 
@@ -76,7 +76,7 @@ A thoughtful silence followed as both parties let the conversation simmer.
 
 "What do I say?" Marie responded with a warm smile.
 
-"Is Mage Nara treating you well," Guy probed in a low voice. He knew that whispering didn't help in the grand scheme of things since not much was truly hidden when living amidst a Tesseract Transformation realm mage.
+"Is Mage Nara treating you well?" Guy probed in a low voice. He knew that whispering didn't help in the grand scheme of things since not much was truly hidden when living amidst a Tesseract Transformation realm mage.
 
 "Master treats me as he would his child," Marie said to assuage Guy's worries. "Speaking of children, when are you and Matron Reva going to start considering having some of your own?"
 
