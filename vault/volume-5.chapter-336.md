@@ -1,8 +1,8 @@
 ---
 id: iyjj1e7o5nwjpzyxrfpab0b
-title: Chapter 336
+title: Chapter 336 - Violent Reunion
 desc: ''
-updated: 1686764068934
+updated: 1686828465887
 created: 1686727879900
 ---
 
@@ -64,4 +64,51 @@ Without allowing for Ziva to retort, Al continued, "Today, I will teach you a va
 
 At that instant, five identical spell circles formed around Al. Ziva squinted his eyes as he tried to decipher the mundane yet unique design; he'd never seen this spell circle before. He'd never seen his ex-Teacher use whatever this spell was before. But he didn't panic. Because he could see that the spell was simple and small - nothing too complex.
 
-But his relaxed smile froze when he noticed his ex-Teacher's trademark smirk.
+But his relaxed smile froze when he noticed his ex-Teacher's trademark smirk - the smirk he showed opponents before going for the coup de grâce.
+
+And then it started... and showed no sign of stopping. Five simultaneous, continuous barrages of |Fireball| originating from the five small spell circles. The attacks were relentless and collided against Ziva's |Ward| from all sides. Ziva wasn't even given the space to think or even breathe.
+
+A standard |Fireball| really shouldn't be that big of a problem for a Core Condensation realm mage like Ziva. Unfortunately, his ex-Teacher's |Fireball| spell was supercharged, in that it had an explosive component upon impact. Again, this only causes trivial damage but, like with every minor attack, piling up a lot can be devastating.
+
+Just then, Ziva noticed three more spell circles whirling into action around Al. The ethereal purple projections started to vomit out more explosive |Fireball| attacks that filled up the only remaining unattacked spaces in Ziva's |Ward|. 
+
+But Ziva knew that there had to be a limit. Technically, his ex-Teacher was expending more mana than he was in defending against the attacks because a |Fireball| was a ranged spell that was being cast within an overlapping domain. There was expenditure in casting the spell, projecting the spell, and maintaining the spell in a turbulent mana region. On the other hand, all Ziva had to do was keep the defence up in proximity.
+
+However, the wait-it-out or "attrition" plan was starting to show cracks, because Al's attacks weren't slowing down or ceasing. In fact, he noticed another smirk light his ex-Teacher's face before two more of those weird looking |Fireball| spell circles formed around him. Ziva was not running on a mana deficit, because his defence was expending more than the rate at which his mana was regenerating. It was humiliating. A fight between Core Condensation realm mages should devolve into throwing basic spells.
+
+Where was the fanfare? Where was the ruthless battery of attacks and spells to reshape landscapes?!
+
+'How is he doing this?!' Ziva's understanding of mana economy was being questioned at this very moment. But one thing was clear, this could go on no longer. Ziva had to disengage. One thing he knew about his ex-Teacher was that the man knew how to design a head-on confrontation to his benefit. It was something he'd cultivated through age, and it was something Ziva could never hope to match. No matter what Ziva did, right now, he would ultimately end up in suppressive fire unable to do anything just like Al was doing right now.
+
+So, Ziva decided to take a risk. He dissipated the shield to his rear, taking a few attacks. He steeled through them, and conjured a massive, convoluted mess of a spell circle. The sheer size of it was enough to distract Al who in turn ceased his attack. Once the circle activated, from its centre, exited an ungodly horde of black, gaseous locusts that decimated everything alive near the source.
+
+Ziva revealed a smirk back to his ex-Teacher, who was know showing a frown. An underwhelming response per Ziva's recollection; he was hoping for some despair or better yet, fear.
+
+Al's |Fireball| spells dissipated, and in its place five new spell circles took shape. They were all different, and some were larger than others. But they all spun in tandem, joining up to form something that was beautifully elaborate. Then, at the centre of this new, large amalgamation, an even ungodlier dot of pure blackness took shape. But that was not all, a shrill sound that seemingly doused the whole world in agony resonated from the black dot. It was so loud and unwieldy that it caused Ziva's spell to flicker and lose control.
+
+His ex-Teacher didn't wait another second, as the black shape jetted out to meet the cloud of locusts. The horde encompassed the dot completely, ready to devour it. But the opposite happened. The dot sucked in everything in its path, growing larger and louder as it moved on. Ziva watched in horror as his spell was completely swallowed by the gluttonous banshee in spherical form.
+
+And like a hungry predator, the sphere deviated. It wanted more! It wanted him! Ziva tried to wrest control over the spell as it moved towards him at an unbelievable speed. But he just didn't understand it enough to put up a proper fight in the overlapping domain. 
+
+His life flashed before his eyes.
+
+He turned, rose from the ground and tried to fly away.
+
+But the ball was already there.
+
+An intense pain radiated from his burnt right foot, as the ball literally shredded and decimated the thing into smithereens.
+
+For a fraction of a second, Ziva regretted wishing for something more out of this fight. The stalemate with |Fireball|s was manageable in comparison.
+
+Ziva knew his death was imminent. But it wasn't his time yet. He quickly reached into his jacket and retrieved an ornate porcelain canister with multiple mana gems embedded on it. He twisted it, causing it to crack and the gems to illuminate brightly.
+
+And he was gone, sucked into the canister, which then turned to dust along with the gems.
+
+Al growled angrily before directing the black sphere high into the sky, where he released it from his control. A small flash of light akin to lightning lit the sky, which was followed by an earth-shattering boom three seconds later.
+
+Looking at the once again dessicated patch of land, Al clicked his tongue in annoyance before flying out to get more trees and grass to fill its place.
+
+____
+
+**Next**
+* [[volume-5.chapter-336]]
