@@ -2,7 +2,7 @@
 id: iyjj1e7o5nwjpzyxrfpab0b
 title: Chapter 336 - (Interlude) Violent Reunion
 desc: ''
-updated: 1686828479487
+updated: 1686915260665
 created: 1686727879900
 ---
 
@@ -111,4 +111,4 @@ Looking at the once again dessicated patch of land, Al clicked his tongue in ann
 ____
 
 **Next**
-* [[volume-5.chapter-336]]
+* [[volume-5.chapter-337]]
