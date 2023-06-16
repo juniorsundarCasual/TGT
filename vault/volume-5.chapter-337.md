@@ -2,7 +2,7 @@
 id: s4h2sgz44ic44yu5aljei4i
 title: Chapter 337
 desc: ''
-updated: 1686928501020
+updated: 1686937621536
 created: 1686829494861
 ---
 
@@ -53,6 +53,30 @@ Her mouth moved by instinct and slurped the warm liquid. As it flowed down her g
 Once the soup was finished. A wave of slumber washed over her, and she fell asleep once again.
 
 ____
+
+"Guy, Shuri isn't here," Grace pointed out while nudging head towards the empty seat in the mess hall, which was usually occupied by the girl. It was off in an unfrequented corner, out of sight and very easy to overlook. "I thought I told you to get it through her head the last time. She cannot miss her meals, no matter what!"
+
+Guy sighed loudly as he tilted his head backwards in defeat. "I tried, Grace."
+
+"Well, try harder!"
+
+"You could very easily do it as well, you know?!" Guy responded weakly.
+
+"I'm not the Sect Leader. It isn't my job to keep these kids in line," Grace snapped back. "I already have my hands full, with Kano and Dora. Besides, do you think they will respect my word, that of a mortal, or yours?"
+
+"That excuse didn't work the last time when you asked me to reprimand the kids for planting weeds in your garden (which they had no idea about, might I add), and it won't work this time either," Guy responded with a stern shake of his head. "And as a matter of fact, they all fear YOU more than they fear me."
+
+"This argument is getting nowhere," Grace deflected. "The bottom line is that a girl still in her growing stages is skipping her meals. Are you going to do something about it or not?"
+
+Guy sighed once again while standing up from his table, "Fine, fine. I'll go."
+
+"Leave the dishes, I'll wash them," Grace declared while snatching the plate from Guy's hands. She then chuckled and said, "Look! I have my hands full!"
+
+Guy responded with an exaggerated smile and a sarcastic laugh, "Your sense of humour has hit a new low, Grace."
+
+Grace responded with a fake smile of her own before shooting Guy an aggressive look, and leaving in a huff with the dishes expertly stacked in her hands.
+
+Guy proceeded to make a plate for Shuri, with a balanced nutrition, and made his way out of the mess hall towards the living quarters. Along the way, he greeted the Sect Members hanging around, doing their own thing.
 
 
 
