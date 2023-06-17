@@ -1,8 +1,8 @@
 ---
 id: s4h2sgz44ic44yu5aljei4i
-title: Chapter 337
+title: Chapter 337 - Overburdened Mind
 desc: ''
-updated: 1686937621536
+updated: 1687000517526
 created: 1686829494861
 ---
 
@@ -78,7 +78,67 @@ Grace responded with a fake smile of her own before shooting Guy an aggressive l
 
 Guy proceeded to make a plate for Shuri, with a balanced nutrition, and made his way out of the mess hall towards the living quarters. Along the way, he greeted the Sect Members hanging around, doing their own thing.
 
+After arriving at his destination, Guy raised his knuckle and rapped it against Shuri's door.
 
+"Shuri? Open up! You're in big trouble today, young lady," Guy said sternly.
+
+For a minute, there was no response. Guy frowned and tried once again, this time the call was shorter, "Shuri?"
+
+He tried again, "Shuri!"
+
+His face contracted with a frown. He took a step back and warned, "I'm sending my mana sense inside, prepare yourself."
+
+His contained senses extended through the door and filled the room within. As he did this, he found that the girl he was seeking was collapsed on the floor with her books strewn about.
+
+"I'm entering," Guy informed before opening the door.
+
+He hurried forward and cradled Shuri's head. With one hand he tapped the girl's cheek while repeatedly calling her name. He placed two fingers against the girl's neck to check her pulse, noticing a regular pattern, he raised her and placed her on her bed.
+
+He then walked out the door and yelled, "Anyone there?"
+
+"Yes, Sect Leader?" A response came a minute later, when a head poked out from the neighbouring room.
+
+"Lee-Ann," Guy recognised. "Can you please go get Grace for me? And please make it quick, tell her it is an emergency."
+
+"Umm, right away, Sect Leader," the girl nodded before moving with a brisk walk.
+
+Guy returned to Shuri's bedside and placed his right palm against the girl's head.
+
+"She has a fever," the Other Guy spoke through his right half.
+
+"I can see that," Guy chimed in. "But why?"
+
+"I have a suspicion..." the Other Guy mumbled.
+
+"You have got to stop doing this," Guy groaned. "If you have something to say, just say it instead of being all mysterious about it."
+
+"It's because I'm not fully certain about the cause, that I'm being so evasive," the right half admitted. "And before you screech at me to 'just confirm it', I'll have you know that the process is invasive. And I know just how 'meticulous' you are about that."
+
+"How invasive?" Guy asked hesitantly. "You know what, forget it. I regret even asking that question."
+
+At that moment, Guy caught the sound of Grace walking over with hurried steps.
+
+"You had a simple job, Guy. Do I have to do everythi- What happened here?" Grace stopped herself when she noticed Guy standing next to an unconscious Shuri's bed. "Did she fall asleep?"
+
+"No, she's passed out."
+
+"What?!" Grace skipped ahead and performed the same checks Guy did. "What happened?"
+
+"I know just as much as you do, Grace," Guy responded while crossing his arms. His expression was serious as he inspected Shuri.
+
+"Let's not just gape about, do something?" Grace pleaded. "My goodness, she's got a fever!"
+
+"I'll go get her a comforter," Guy volunteered. "Put on some socks for her, and prepare some soup for her. She'll have difficulty swallowing hard food."
+
+"How did she get sick, Guy?" Grace asked once again worriedly.
+
+"This isn't a classic sickness," Guy's right side spoke.
+
+"Is it magical?" Grace probed.
+
+"Something like that," the Other Guy hummed,
+
+As Guy walked out of the room to complete his self-assigned tasks, he added, "We can't know for sure until we run a few tests."
 
 ____
 
