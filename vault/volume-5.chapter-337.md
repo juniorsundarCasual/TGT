@@ -2,7 +2,7 @@
 id: s4h2sgz44ic44yu5aljei4i
 title: Chapter 337 - Overburdened Mind
 desc: ''
-updated: 1687161305020
+updated: 1687174865584
 created: 1686829494861
 ---
 
@@ -30,10 +30,6 @@ The first thing she realised when she gained a moment of clarity was that she wa
 
 ____
 
-Her second bout of consciousness introduced her to a rather heated argument between a man and a woman.
-
-____
-
 Her body felt cold, and then hot, and then cold again. Was this a fever?
 
 She instinctively huddled into a ball to contain the smidgen of heat still coursing through her body, but was surprised to find a heavy comforter hugging her tightly.
@@ -51,6 +47,12 @@ She felt herself getting raised into a seated position, and a warm metal spoon t
 Her mouth moved by instinct and slurped the warm liquid. As it flowed down her gullet, a comforting feeling washed over her. Another spoonful arrived at the ready, which she slurped hungrily.
 
 Once the soup was finished. A wave of slumber washed over her, and she fell asleep once again.
+
+____
+
+Her second bout of consciousness introduced her to a rather heated argument between a man and a woman.
+
+The words were like a faint buzzing noise; she couldn't make out what was being said.
 
 ____
 
