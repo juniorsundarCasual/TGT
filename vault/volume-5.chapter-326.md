@@ -2,7 +2,7 @@
 id: fplrx0mh8qaran0x3vvmw7n
 title: Chapter 326 - Journey(wo)man
 desc: ''
-updated: 1686914569454
+updated: 1687163192468
 created: 1684701778026
 ---
 
@@ -22,7 +22,7 @@ In a decisive move, Jean stood up and started to walk out of the bleachers and t
 
 "How's everything going, Jean?" Sect Leader Larks greeted as he gestured for Jean to take a seat before him.
 
-"Everything's going well in the Sect. The most recent health inspection has shown promising results. Furthermore, the situation at the village has also improved significantly. All in all, I can say that the most recent vaccination drive has presented a marked reduction in the infection rate this flu season. Barring the mild reaction symptoms to the vaccine's antibodies, which were expected, there have been no new breakouts. However, I have found some resistance in trying to spread our vaccine in the market. The standard marketing strategies have come off as ineffective since the common folk don't seem to understand the purpose of the vaccination and are ill-informed about the way diseases work," Jean explained.
+"Everything's going well in the Sect. The most recent health inspection has shown promising results. Furthermore, the situation in the village has also improved significantly. All in all, I can say that the most recent vaccination drive has presented a marked reduction in the infection rate this flu season. Barring the mild reaction symptoms to the vaccine's antibodies, which were expected, there have been no new breakouts. However, I have found some resistance in trying to spread our vaccine in the market. The standard marketing strategies have come off as ineffective since the common folk don't seem to understand the purpose of the vaccination and are ill-informed about the way diseases work," Jean explained.
 
 "I expected as much. We have been successful in Twilight Village mainly because we work closely with them and have built a personal connection there. The villagers also trust us. But that cannot be assumed as true for those outside. Mortals already have a shaky relationship with sects and clans; they would take our recommendations with a grain of salt," Mister Larks affirmed. "So what is your plan?"
 
