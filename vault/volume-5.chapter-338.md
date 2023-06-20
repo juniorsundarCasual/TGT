@@ -1,8 +1,8 @@
 ---
 id: xyx4h9rme2darepnrqqzg9o
-title: Chapter 338
+title: Chapter 338 - Breaking (Emotional) Walls
 desc: ''
-updated: 1687196160520
+updated: 1687255586115
 created: 1687161331380
 ---
 
@@ -71,3 +71,89 @@ Guy rose and moved his chair next to Shuri, and waited while the girl's eyes fli
 "Well, it is amongst the small list of things happening to you right now. First off, I see that you've finished the reading list I gave you," Guy warned sternly.
 
 Shuri shrunk her neck and slowly slid into her comforter.
+
+"I don't think I have to say just how... ill-advised your actions were? Of course, you're already suffering the consequences of it," Guy continued. He took a long breath and said, "But you aren't the one to blame for this."
+
+Shuri's head cocked up in shock and her eyes widened - alarmed.
+
+"You should know better than anyone, what happens when you hang a bloody steak before a pack of starving wolves," Guy said matter-of-factly, his gaze piercing into Shuri.
+
+"So Marie told you about that incident..." Shuri admitted.
+
+"I know it sounds creepy, but not much misses my eyes and ears in this Sect," Guy admitted equally with a casual shrug. "What kind of a Sect Leader would I be if I didn't know what was happening in my very own Sect? An irresponsible one."
+
+Shuri looked away and bit her lips worriedly.
+
+"Do you want to know what happened to you?" Guy probed.
+
+Shuri answered with a nod.
+
+Guy chuckled dryly and said, "You underwent the after-effects of studying too much. Your mind overheated, and it was exacerbated by the fact that your cultivation just recently underwent a shift."
+
+"My cultivation?!"
+
+"When you underwent an advancement into the Late Stage, your core had attuned to a specific path of magic - most likely in tune with the Automagy taught amongst your family. But as you read and internalised the books on the list, your cultivation shifted, deviated, warped, what have you. But instead of pacing yourself, you soldiered on... and on... and well, you can see what happened in the end," Guy gestured at Shuri with both his hands to emphasise his point.
+
+A pang of embarrassment coloured Shuri's face crimson red.
+
+"I knew you wouldn't pace yourself," Guy followed up. "As is your nature. But I didn't follow my judgement and decided to take the advice of another."
+
+"Marie?" Shuri interjected, to which Guy nodded lightly. "Is she in trouble?"
+
+"A bit, yes. Do you not wish for her to be in trouble?" Guy rebutted.
+
+"Does it matter what I want?" Shuri shot back with a cynical smile.
+
+"All that matters IS what you want," Guy answered with a raised voice. "This whole Sect is meant to cater to what YOU want," he added while pointing animatedly at Shuri.
+
+Guy followed up immediately, raising his hand to halt Shuri's runaway thoughts. "I am aware that your past is... complicated. Heck, I don't know what you've lived through, and I don't want to go down a rabbit-hole of assumptions. Ever since joining the Sect, you've been secluded. You never voluntarily involve yourself with anything. You try to fly under the radar when possible. You don't ask for help when stuck. And most importantly, you don't trust anyone or anything around you."
+
+"Everyone in this Sect has lived a hard life, Shuri. I'm not asking you to compare the difficulty of your life to others. What I'm asking you is to give us a chance, just like your peers have done. What do you have to lose?"
+
+Shuri's expression grew agitated. It was probably the weakness brought on by her fever, but her control had loosened.
+
+"I don't want to die," Shuri blurted out.
+
+"No one wants to-"
+
+"You don't understand!" Shuri shrieked. "I. DON'T. WANT. TO. DIE!"
+
+Her breath grew rugged and heavier, and Guy could see that she was having difficulty breathing. He grabbed Shuri's shoulder with one arm and quickly said, "Focus on me. How many fingers am I holding up?"
+
+Guy raised three fingers.
+
+"T-Three," Shuri said between breaths.
+
+"Breath three times with me, nice and slow. Count your breath," Guy instructed.
+
+"One, in... out... Two, in... out... Three, in... out..."
+
+"How many fingers now?"
+
+"Two."
+
+"Good! One, in... out.... Two, in... out..."
+
+"Five."
+
+"Wonderful! One, in... out... Two......"
+
+____
+
+The exercise continued for a minute, until Shuri's breathing finally stabilised.
+
+"From tomorrow onwards, I want you to report to me directly. I don't want you working with Marie any more," Guy declared. "We will be running lessons one-on-one for the time being. As for your assigned task-"
+
+"I want to continue," Shuri interrupted. Her expression was serious and sincere. For the first time, Guy didn't feel an iota of insincerity of ingenuousness in her voice.
+
+"Are you sure?" Guy probed.
+
+"I... I liked it," Shuri murmured. "I liked the challenge."
+
+Guy's brows rose in surprise. "That's the spirit!"
+
+After showering Shuri with praise, Guy left with a skip in his step.
+
+He was elated. Because in the Church of the True World, a new faint figure started to take shape amongst the others.
+
+____
