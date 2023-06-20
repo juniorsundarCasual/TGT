@@ -2,7 +2,7 @@
 id: xyx4h9rme2darepnrqqzg9o
 title: Chapter 338 - Breaking (Emotional) Walls
 desc: ''
-updated: 1687255586115
+updated: 1687255619753
 created: 1687161331380
 ---
 
@@ -157,3 +157,6 @@ After showering Shuri with praise, Guy left with a skip in his step.
 He was elated. Because in the Church of the True World, a new faint figure started to take shape amongst the others.
 
 ____
+
+**Next**
+* [[volume-5.chapter-339]]
