@@ -2,7 +2,7 @@
 id: xyx4h9rme2darepnrqqzg9o
 title: Chapter 338
 desc: ''
-updated: 1687175529145
+updated: 1687196160520
 created: 1687161331380
 ---
 
@@ -38,4 +38,36 @@ She stood up and picked up the pot of water. "Fix this," she declared before lea
 
 Guy watched Grace trudge away and let out a long, conflicted breath. He knew Grace was right. And the more he evaluated his behaviour, the more annoyed and disgusted he felt with himself. Although he knew that Marie meant well, he should have taken a more hands-on approach on this matter.
 
-"There's no point crying over spilt milk or cracked eggs now, is there?" Guy mumbled with a sigh, and pulled out the chair by Shuri's work table
+"There's no point crying over spilt milk or cracked eggs now, is there?" Guy mumbled with a sigh, and pulled out the chair by Shuri's work table.
+
+"She isn't in any danger, if that's what you're worried about," Guy's right side warped and spoke. "The deviation is well within the safety limits per my inspection."
+
+"But it would have been safer if she was inside the Church of the True World. A person's cultivation is more pliable and conducive towards changes while they are in there as opposed to undergoing the process outside," the left side reasoned.
+
+"But the girl doesn't trust us. She doesn't have any feeling of gratitude towards us. Unless she opens herself up to us, you know that there is no way she can gain access to the Church," the right side responded.
+
+"We made a mistake here. No, I made a mistake here. This process didn't need to be rushed. Gratitude and trust aren't just things you get when you hold a specific role. Just because I'm the Sect Leader doesn't mean everyone here will automatically trust me unflinchingly. They are earned. And evidently, I have not yet earned this girl's gratitude or trust. How is it her fault?" The left side argued. The Other Guy had nothing to say to that.
+
+"So what's the plan?" The Other Guy asked.
+
+"There is no plan. All we can do is wait."
+
+"Excellent... The wait and see approach," the right side scoffed sarcastically.
+
+"Once damage has been inflicted, it is best to wait and see how things will devolve further. Hasty damage control can often exacerbate the problem," Guy explained.
+
+"Well, better get to it, I guess," the right side said with a chuckle. "Because she's waking up for good."
+
+Guy rose and moved his chair next to Shuri, and waited while the girl's eyes flickered weakly. A light groan escaped her lips, and her mouth moved wanting for some fluids. After helping the girl sit, Guy gently placed a cup of water against her lips and allowed her to sip it down slowly.
+
+"How are you feeling, Shuri?" Guy asked in a low voice.
+
+"I'm... fine..." She said while breathing heavily. It was evident that the girl was tired after going through the ordeal. "What happened?"
+
+"You suffered through a mild cultivation deviation," Guy answered.
+
+"Mild?" Shuri blurted out in disbelief. "Is there such a thing as a mild cultivation deviation?"
+
+"Well, it is amongst the small list of things happening to you right now. First off, I see that you've finished the reading list I gave you," Guy warned sternly.
+
+Shuri shrunk her neck and slowly slid into her comforter.
