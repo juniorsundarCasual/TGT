@@ -2,7 +2,7 @@
 id: bj2lyk9jx5g5vaxn0ob836r
 title: Chapter 339
 desc: ''
-updated: 1687349556118
+updated: 1687373193305
 created: 1687255624749
 ---
 
@@ -37,3 +37,28 @@ She turned down a familiar path and followed it to the recreation room. She push
 "I'm doing it for the good of the Sect and its members," Marie argued.
 
 "That's not for you to decide," Mage Nara growled. "Freedom of choice and self-determination is what keeps the world running. It's contradictory when you think about the implications of fate in the grand scheme of things. But if you snatch the illusion of choice away from people, they devolve into behaviours that are antithetical to their inner character. That's when things start going out of control."
+
+"Did Mister Larks complain...?" Marie probed with a low voice.
+
+"He didn't need to. I can hear just fine," Mage Nara scoffed. "I've had my eye on you since I accepted you as my Disciple."
+
+"That is a massive invasion of privacy," Marie yelled back while pulling her jacket to cover herself.
+
+"Oh please!" Mage Nara retorted as he stood up. "I don't have such juvenile and downright immoral proclivities. I just needed to make sure you weren't doing anything stupid."
+
+Picking up his walking stick, he said, "Now, if you will excuse me, you have a visitor."
+
+As Mage Nara walked away, Marie yelled, "Just stay here, why don't you? I know you're going to listen in on this conversation anyway."
+
+"I don't need to listen in on this conversation because I already know what this conversation is going to be about, smartass," Mage Nara shot back. As he left, he gave Shuri a nod of greeting.
+
+"Stop hiding behind the shelf and come over, Shuri," Marie beckoned. "If I'm not mistaken, you should be relieved from your commitment with me. So what brings you here?"
+
+"As Mage Nara just said, you should already know," Shuri responded with a smug smile.
+
+Marie sighed loudly and said, "I hope you know just how dumb that sounds. If you don't speak, this conversation will never happen. And if it never happens, I will never know..."
+
+"I was only joking," Shuri retorted while waving her hands.
+
+"Oh? You do that now?" Marie emphasised with a faint smile. "You still haven't answered my question."
+
