@@ -1,8 +1,8 @@
 ---
 id: bj2lyk9jx5g5vaxn0ob836r
-title: Chapter 339 - 
+title: Chapter 339 - New Day, New Life
 desc: ''
-updated: 1687435884151
+updated: 1687448306528
 created: 1687255624749
 ---
 
@@ -10,7 +10,7 @@ Shuri's eyelids drooped as she watched the Sect Leader leave her room. She was t
 
 A cat never enters deep sleep, unless it is completely certain that its environment is free of any threats or natural predators. It is their natural instinct. Shuri also adhered to this principle throughout her life. Although she was the only dweller in her courtyard at the Inner Palace, she never truly felt safe there. Her sleep was always incremental and light.
 
-When Shuri woke up eight hours later, she realised that she felt safer in this cramped up room (in comparison to her previous accommodation) with so many others living nearby, than she did back at the Palace! Sure, in the beginning here, her sleep was shallow due to her inherent distrust. But as time passed her guard had lowered little by little, until she grew so comfortable that she didn't think twice before closing her eyes at night. Heck! She even left her room unlocked overnight sometimes!
+When Shuri woke up eight hours later, she realised that she felt safer in this cramped up room with so many others living nearby, than she did back at the Palace! Sure, in the beginning here, her sleep was shallow due to her inherent distrust. But as time passed her guard had lowered little by little, until she grew so comfortable that she didn't think twice before closing her eyes at night. Heck! She even left her room unlocked overnight sometimes!
 
 "Maybe it's time to just admit it," Shuri said with a bitter chuckle. "There is nothing to criticise, nothing to question, nothing that signals any sort of problem stopping me from assimilating into this Sect."
 
@@ -106,13 +106,13 @@ Five seconds later, both the girls broke down and laughed heartily.
 
 Shuri's gaze narrowed, and her expression turned sharp. "What do you know?"
 
-Marie brought a finger to her lips and shushed. She then winked mischeviously and said, "Don't worry, it will be our little secret."
+Marie brought a finger to her lips and shushed. She then winked mischievously and said, "Don't worry, it will be our little secret."
 
-"MARIE!" Mage Nara's voice echoed through the room, causing the building to shake.
+"MARIE!" Mage Nara's voice boomed through the room, causing the building to shake.
 
 "Well, that's my cue," Marie groaned. "You should go."
 
-Shuri froze, unable to do anything.
+Shuri froze, her mind had gone blank.
 
 "Oh right!" Marie interjected. "This will be the last favour I will be doing for a while, at least until the heat dies down - you know what I mean?"
 
