@@ -1,8 +1,8 @@
 ---
 id: bj2lyk9jx5g5vaxn0ob836r
-title: Chapter 339
+title: Chapter 339 - 
 desc: ''
-updated: 1687373193305
+updated: 1687435884151
 created: 1687255624749
 ---
 
@@ -62,3 +62,71 @@ Marie sighed loudly and said, "I hope you know just how dumb that sounds. If you
 
 "Oh? You do that now?" Marie emphasised with a faint smile. "You still haven't answered my question."
 
+Shuri revealed a rare smile in return before taking a seat opposite Marie. She folded her hands and leaned her back against her chair.
+
+"You planned this all out, didn't you?" Shuri probed.
+
+"I don't know what you're talking about," Marie denied while shaking her head.
+
+"Ever since I came here, I've had this faint feeling of being led by the nose. In fact, the inkling started even before that, when I first met Markus. Never has there been a coincidence in my life that has worked out well for me," Shuri narrated calmly. "And yet, as I took a step back and assessed everything that has occurred since then, I can honestly admit that my life has been moving in a positive trajectory."
+
+"It's good that you realised that," Marie agreed.
+
+"It was your doing after all," Shuri shot back with a snap of her fingers. "You brought me here... somehow. You orchestrated everything. Your actions, interactions and intentions were all tailored to get me to reach this realisation. You personally chose to become the antagonist in my story, invaded my privacy and personal space, and pushed me to the brink just so that I could finally rely on someone other than myself!"
+
+Marie raised her hand, allowing Shuri to calm her agitation. "That's the first and probably the least paranoid theory you have come up with. So, how does it make you feel?"
+
+Shuri shrugged and answered, "Not as bad as I thought it would make me feel. I mean, I should probably be angrier, furious even, right?"
+
+"Why aren't you, then?"
+
+"I don't know..."
+
+"Think harder," Marie egged on.
+
+"I guess... Because it felt like a game," Shuri mumbled. "I mean, failure had no consequence, it was all just a figment of my imagination."
+
+"Probably," Marie hummed.
+
+"Did you plan all this out?" Shuri snapped back in disbelief.
+
+In response, Marie let out an uproarious laugh while shaking her hand dismissively, "You give me far too much credit. I'm not some genius schemer like that. I just wanted to show you, and make you realise that your life doesn't have to be constantly toeing the line between life and death. It's like when an addict hits rock-bottom, but in a positive direction. What's the opposite of rock-bottom?"
+
+"Paper-top?" Shuri answered. There was silence.
+
+Five seconds later, both the girls broke down and laughed heartily.
+
+"I apologise for hurting you," Marie spoke up once the laughter died down. "I know justification dilutes the sincerity of any apology, but I really did mean well. But I realise that my actions were far too intrusive."
+
+"I'll accept the apology. And thank you," Shuri spoke back. "You've helped me find a safe space."
+
+"Not quite there yet, though, are we?" Marie commented with a mysterious intonation in her voice, causing Shuri's smile to freeze.
+
+"A safe space is where you have no reason to hold anything back," Marie emphasised. "But you still have a few left in the quiver, don't you?"
+
+Shuri's gaze narrowed, and her expression turned sharp. "What do you know?"
+
+Marie brought a finger to her lips and shushed. She then winked mischeviously and said, "Don't worry, it will be our little secret."
+
+"MARIE!" Mage Nara's voice echoed through the room, causing the building to shake.
+
+"Well, that's my cue," Marie groaned. "You should go."
+
+Shuri froze, unable to do anything.
+
+"Oh right!" Marie interjected. "This will be the last favour I will be doing for a while, at least until the heat dies down - you know what I mean?"
+
+With that said, Marie reached into her jacket and retrieved a cube with an interesting design. It was divided into twenty-six smaller cubes arranged in a three-by-three-by-three grid formation. The smaller cubes had one of six different colours on it.
+
+Marie started to twist and turn the cube, causing the uniformly coloured sides of the cube to jumble up. She then placed the cube on the table and slid it in Shuri's direction.
+
+"Try solving it - bring it back to how it started," Marie challenged. "Maybe it will give you some inspiration in whatever you're trying to achieve."
+
+"That's enough!" Mage Nara commanded as he silently appeared behind Shuri. "You should leave now, girl. The Sect Leader is awaiting your arrival."
+
+Shuri stood up and gave the mage a deep bow before walking out of the building in a trance, with the cube held firmly in her grasp.
+
+____
+
+**Next**
+* [[volume-5.chapter-340]]
