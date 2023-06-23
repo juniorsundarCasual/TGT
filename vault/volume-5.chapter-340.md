@@ -2,7 +2,7 @@
 id: f2zk8gi3o68q60ejxwd58xd
 title: Chapter 340
 desc: ''
-updated: 1687457780172
+updated: 1687517743196
 created: 1687448319117
 ---
 
@@ -40,6 +40,34 @@ Shuri tilted her head and said, "Shouldn't there be more? Let me see... eight co
 
 "Mathematically, sure. But the cube can only turn in certain ways. This limits some permutations," Mage Larks corrected. "Try again, but implement the limitations into your calculations."
 
-As he said this, he pushed forward a blank parchment and a writing utensil. Shuri picked it up and started to pen down the numbers. She performed the mathematics for five whole minutes before the long number: 43,252,003,274,489,856,000 took shape on the page.
+As he said this, he pushed forward a blank parchment and a writing utensil. Shuri picked it up and started to pen down the numbers. She performed the mathematics for five whole minutes before she dropped the pencil in frustration. "This is impossible! I can't keep track of the numbers."
 
-"There's some interesting maths in even the most mundane things around us," Mage Larks continued. "Take the chess board, for example. If I was to place a single grain"
+"Makes you wish you had a calculator, huh?" The Sect Leader commented.
+
+"A calculator?" Shuri asked.
+
+"Think of it like a device that can perform basic operations: addition, subtraction, multiplication, division, maybe more," the man expounded.
+
+"How does it do that?" Shuri followed up, voicing her doubt and interest.
+
+The Sect Leader scratched his head in thought. "Give me a second," he then said before sitting down in a meditative pose.
+
+After a few minutes, his eyes opened and his expression reverted with confidence. "There are many kinds of calculators. The most basic one I can describe for you is a mechanical calculator that uses gears. Any number, if written in digital form, holds a value from zero to nine, which translates to ten possible values. If we assign this to a gear, that means ten rotations. Ten rotations of the units place corresponds to one rotation in the tens place. Ten of tens is a hundred, and so on. So you can imagine how addition operations could be designed with this system?"
+
+Shuri hummed along before raising a point, "But I can see a few problems here. It would be difficult to support large numbers with greater number of digits, as well as multiplication and division operations."
+
+"Exactly, so let me try and describe another mechanical calculator which has this functionality," Sect Leader Larks highlighted before descending into an explanation of a magnificent machine that he called the arithmometer.
+
+The explanation continued for hours, with the man using all the blackboards in his office to draw an elaborate picture of the device, answering Shuri's questions, and even showing examples. Sometimes, there were questions Sect Leader Larks couldn't answer immediately - he would often enter into meditation before returning with a suitable answer. Shuri theorised that he too probably had some sort of memorising power like she did, but one that was much slower or was maybe bogged down with so much information that retrieval took a lot of time.
+
+"Well, that was definitely a heavy topic," the Sect Leader declared before leaning against his table and taking a sip of water from a cup. "I didn't plan to cover this today, not at all. But it wasn't an unproductive trip, was it?"
+
+Seeing as Shuri agreed with his words, he continued, "If you are interested, we can pick up from here tomorrow and cover a few more mechanical solutions before shifting into the automatic solutions."
+
+"What are automatic version of the calculator?" Shuri interjected.
+
+"Hmm, it's about the nature by which the calculator is powered. The mechanical solutions, as you saw earlier, rely on movement of a crank. It takes mechanical input to run its operations. An automatic version uses another form of energy," the Sect Leader explained.
+
+"What alternate form?" Shuri probed further.
+
+"Let's leave that for the next class, shall we?"
