@@ -2,7 +2,7 @@
 id: vn477w6trrs3546abvpr1on
 title: Chapter 328 - Back Where It All Began
 desc: ''
-updated: 1687337333162
+updated: 1687539747062
 created: 1685030110658
 ---
 
@@ -30,7 +30,7 @@ The boy's eyes sparkled as he narrated his idea, but suddenly, Jean's body shive
 
 As the boy said that, the Elder's gaze lowered and caught sight of the exquisite enchanted sword strapped to the boy's waist. His eyes then shot over to the girl's side and noticed the wooden stick with the mana gem on it.
 
-"cough That stick has its own uses. It doesn't fall short against our sword in any way," Elder Soam said, though his uncertain voice gave away that those were merely conciliatory words.
+"*cough* That stick has its own uses. It doesn't fall short against our sword in any way," Elder Soam said, though his uncertain voice gave away that those were merely conciliatory words.
 
 Jean simply smiled and said, "I know that Mage Rig had no ill intentions when he... proposed to me just now."
 

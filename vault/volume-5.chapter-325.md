@@ -2,7 +2,7 @@
 id: cbg3rge1pc7sz2xu8ivnk9c
 title: Chapter 325 - (Interlude) Undercurrents (Part Three)
 desc: ''
-updated: 1686735316859
+updated: 1687539734951
 created: 1684410950646
 ---
 
@@ -90,7 +90,7 @@ At this point, Furion was affected. He looked at the two of them and said, "I fe
 
 "He must be a knowledgeable man. We would love to make his acquaintance sometime," Minister Jing said with a voice that carried a hidden meaning.
 
-"Both of you are free to visit, anytime. Our Sect is located near the base of Mount Tai, the huUU- cough largest mountain in the Serrated-Peaks range," Furion cringed visibly at his second slip of the tongue today. "Sorry about that, you see, I had a minor cultivation deviation-"
+"Both of you are free to visit, anytime. Our Sect is located near the base of Mount Tai, the huUU- *cough* largest mountain in the Serrated-Peaks range," Furion cringed visibly at his second slip of the tongue today. "Sorry about that, you see, I had a minor cultivation deviation-"
 
 "I don't believe there is such a thing as a minor deviation," Minister Jing said with a chuckle. It was clear that the man thought Furion was joking. Unfortunately, it was the complete truth.
 

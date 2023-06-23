@@ -2,7 +2,7 @@
 id: t35p01q9mwklc623uenkgf7
 title: Chapter 327 - Spiciest Memelord of the New World
 desc: ''
-updated: 1687197103021
+updated: 1687539804790
 created: 1684909497282
 ---
 
@@ -90,7 +90,7 @@ And with that, Marie pulled Jean and Kili into a hug. This started a chain react
 
 "Hey, hey!" Matron Reva blurted out as she pushed all the huggers away. "Woah! Calm down!"
 
-"THIS sniff This is so embarrassing- WAAAAAAH~!" Jean couldn't control her tears. "I'm sniff going to miss you guys cough soooo~ much- WAAAAAAH~!"
+"THIS *sniff* This is so embarrassing- WAAAAAAH~!" Jean couldn't control her tears. "I'm *sniff* going to miss you guys *cough* soooo~ much- WAAAAAAH~!"
 
 "..."
 
