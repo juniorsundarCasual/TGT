@@ -1,8 +1,8 @@
 ---
 id: f2zk8gi3o68q60ejxwd58xd
-title: Chapter 340
+title: Chapter 340 - When Your Fingers Just Aren't Enough
 desc: ''
-updated: 1687517743196
+updated: 1687542120183
 created: 1687448319117
 ---
 
@@ -70,4 +70,71 @@ Seeing as Shuri agreed with his words, he continued, "If you are interested, we 
 
 "What alternate form?" Shuri probed further.
 
-"Let's leave that for the next class, shall we?"
+"Let's leave that for the next class, shall we?" Sect Leader Larks halted Shuri while dabbing his forehead off invisible sweats.
+
+"Oh, and please," Sect Leader Larks stated just as Shuri was leaving the room. "Don't go and binge the books on this topic today. You only just recovered, so take it slow."
+
+____
+
+It was hard holding herself back from visiting the Library. But Shuri held herself back. Her new haven of safety was hard won, and she wasn't planning to lose it over something so trivial as succumbing to her base instincts.
+
+Back again at Sect Leader's office, Shuri raised a point, "Can we skip the mechanical calculators."
+
+Before the man could inquire why, Shuri quickly explained, "By my understanding, their principles seem to stem from the same concept of gears and rotational mechanisms. I am interested in seeing alternative solutions - the automatic ones as you pointed out last time."
+
+The Sect Leader evaluating gaze washed over Shuri, who froze in fear, 'Did I say something wrong?'
+
+But a warm smile cracked the man's stoic expression. "Good initiative. I was also getting bored of drawing these diagrams. In fact, I wanted to show you some interesting magic today that might help your understanding of the automatic calculator."
+
+Shuri revealed an interested smile.
+
+"Although, to do that I require your permission, and your acquiescence," the Sect Leader emphasised.
+
+"Umm... Permission to do what?" Shuri probed. Was she about to be exploited?!
+
+"You will know when you know. If you allow me, we will continue, if not, then we will have to go down a longer path. When you feel it, and choose to accept, then meditate and follow the feeling," the Sect Leader hinted before entering meditation once again.
+
+Shuri waited on pins and needles for whatever was about to come. Within seconds, she started to feel a tug in her abdomen - her core. Shuri figured this was the "feeling" the Sect Leader was talking about. After a minute of hesitation, Shuri decided to go for it and entered meditation. As her mind calmed, she started to feel herself getting pulled down a dark tunnel - a chute.
+
+The transit was short-lived and mildly harrowing for Shuri, who suddenly lost all sense of her body. But she was deposited into a bright room, with shelves of books around her, and seats arranged concentrically around a central stage with a massive globe levitating up above.
+
+"Welcome to the Church of the True World," a grandiose voice echoed within the room. Shuri followed the sound and noticed the Sect Leader ascending the stage up front. The man's face started to blur and quiver, and the haughty expression mellowed out.
+
+"Are you ready for your lesson?" The Sect Leader asked rhetorically. Without waiting for Shuri's response the globe above started to descend and turned completely void-black. Then, Shuri felt herself getting pulled out from her seat and thrust directly into the dark globe.
+
+For the second time, she felt herself getting shoved down a chute of some sort. And once again, she was deposited in a room. This, though, appeared endless in all directions. It was bright, though not as much to hurt her vision, and beside her, stood the Sect Leader.
+
+"To begin, we will need to cover some theory," the Sect Leader started. "What is your understanding of binary numerals?"
+
+"Umm... the name suggests one or the other?" Shuri hypothesised.
+
+"Good!" The Sect Leader encouraged. "If you remember from the previous lesson. One of the limitations of the mechanical calculator system is the fact that it isn't scalable to work with larger numbers. The automatic calculator circumvents this problem by implementing a new system of numerals called binary numerals. Basically, unlike standard decimal system where you have numbers 0 through 9, the binary numeral system only has two digits that are 0 or 1."
+
+"How can you use just two numbers to represent other numbers?" Shuri interjected.
+
+"The binary numeral system is complemented with the base-2 numeral system. The easiest way to explain this is by drawing an example."
+
+Suddenly a hologram started to form in front of Shuri.
+
+| 2^ | ... | 5 | 4 | 3 | 2 | 1 | 0 |  
+| __ | ... | 0 | 0 | 0 | 0 | 0 | 0 |
+
+"Let us take a random number... 44. If I want to write it in the decimal system, it is as is - 44. Where it is the sum of 4x10 + 4x1. Here, as you can see, each digital place is a multiplier by a power of 10. In the base-2 binary notation, the number 44 is described as follows:"
+
+| 2^ | ... | 5 | 4 | 3 | 2 | 1 | 0 |  
+| __ | ... | 1 | 0 | 1 | 1 | 0 | 0 |
+
+"44 in binary is 101100. This is basically 1x2^5 + 1x2^3 + 1x2^2."
+
+"I can see that, but how does this make it any easier?" Shuri said doubtfully.
+
+"Ah!" The Sect Leader evoked with a playful jump. "It becomes evident once you learn the concept of logic gates!"
+
+Shuri started to bubble with excitement as the hologram disappeared and a myriad of different logos started to take its place.
+
+"Let us start with a simple logic gate: the AND gate-"
+
+____
+
+**Next**
+* [[volume-5.chapter-341]]
