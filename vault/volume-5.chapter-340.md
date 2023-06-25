@@ -2,7 +2,7 @@
 id: f2zk8gi3o68q60ejxwd58xd
 title: Chapter 340 - When Your Fingers Just Aren't Enough
 desc: ''
-updated: 1687542120183
+updated: 1687674243222
 created: 1687448319117
 ---
 
@@ -130,9 +130,7 @@ Suddenly a hologram started to form in front of Shuri.
 
 "Ah!" The Sect Leader evoked with a playful jump. "It becomes evident once you learn the concept of logic gates!"
 
-Shuri started to bubble with excitement as the hologram disappeared and a myriad of different logos started to take its place.
-
-"Let us start with a simple logic gate: the AND gate-"
+Shuri started to bubble with excitement, but it halted when the Sect Leader raised a finger and said, "But first, let us understand how the basic mathematical operations are applied with this new digital system."
 
 ____
 
