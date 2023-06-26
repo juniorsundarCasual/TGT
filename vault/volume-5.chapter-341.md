@@ -2,7 +2,7 @@
 id: 2t7gr2hqnyupsan6tajfluz
 title: Chapter 341 - Logic Dictates
 desc: ''
-updated: 1687693863790
+updated: 1687808143214
 created: 1687674247179
 ---
 
@@ -191,7 +191,7 @@ With that said, Shuri quickly shot up from her seated pose and rushed out of the
 
 "I-If this works, then..." it would mark a completely new and possibly revolutionary pathway for Automagy.
 
-She picked out a fresh mana core that lay on her table and prepared her inscription tool. Then, she channelled her mana into the ball in her grasp, causing an ethereal projection to extend outwards from it.
+She picked out a fresh mana core that lay on her table and prepared her inscription tool. She placed the core on the stand and then channelled her mana into the gem at its side, causing an ethereal projection to extend outwards from it.
 
 Then with a calming breath, she started inscribing the circuit that had finished forming within her mind.
 
