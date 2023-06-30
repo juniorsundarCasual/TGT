@@ -2,13 +2,13 @@
 id: 3mosq73nuw3zqqa9cydzzxn
 title: Chapter 343
 desc: ''
-updated: 1688068527957
+updated: 1688148601180
 created: 1688060725498
 ---
 
 "Amazing! Absolutely amazing!"
 
-Sect Leader Larks did not hold back his praise as he used the mana core calculator created by Shuri. His expression was frozen in awe and wonder, as well as childlike amusement as he tested out the device with glee. The duo were currently in 
+Sect Leader Larks did not hold back his praise as he used the mana core calculator created by Shuri. His expression was frozen in awe and wonder, as well as childlike amusement as he tested out the device with glee. The duo were currently in the Sect Leader's office.
 
 "Although I know the answer already, I just have to ask how you accomplished this?" The Sect Leader inquired while continuing his vivacious inspection. "You don't have to answer... I get it... confidentiality and all that. I never thought I'd get to see an actual, functioning, digital calculator in this lifetime!"
 
@@ -40,4 +40,16 @@ In response to that, the man's brows jumped even higher (threatening to jump off
 
 "It would," Shuri said. "The rate at which the mana sink produces wisps and slimes allows the extraction of up to 25 mana cores in one day before we start hitting a net loss. However-"
 
-At that point, the Sect Leader interjected and finished Shuri's sentence for her, "-However, you will have to share you methods with other people which in turn with cause "
+At that point, the Sect Leader interjected and finished Shuri's sentence for her, "-However, you will have to share you methods with other people, and since you said that the technique you're employing is proprietary and deeply tied to your family, it would raise red flags if it somehow leaks."
+
+Shuri affirmed Sect Leader Larks' guess with a bitter smile and nod.
+
+"What if we try other strategies?" The Sect Leader proposed. "I mean, you managed to derive an original interpretation to programming a mana core. I know its asking for a lot - like asking lightning to strike the same place again - but maybe we could develop a core farming method of our own as well?"
+
+Shuri bobbed her head in thought as she considered the idea. "It would take a lot of time, and resources to research that problem. And to be honest, I don't feel like taking on that task at the moment. I mean, the calculator doesn't NEED to be ubiquitous just yet. A mana core IS scarce resource, it wouldn't do us any good to flood the market with this product."
+
+"You make a good point. I guess I got ahead of myself there," the Sect Leader doubled back while scratching his head embarrassedly. At that moment, the door to the office resounded with three knocks in a peculiar pattern. A smile flashed past the Sect Leader's face, which he quickly hid amidst a clearly fake coughing fit.
+
+"Let us put a pin on this discussion for now. Why don't you take the rest of the day off and relax? Seeing as you've just advanced, you deserve some time to consolidate your cultivation," the Sect Leader said with a serious expression. He tapped his desk with his fingers frantically before adding, "Oh! Make sure to drop by the mess hall. I know you've missed your meals again. I'd rather not have to explain this situation to Grace again, it is quite embarrassing, I'm not going to lie."
+
+Shuri chuckled at the Sect Leader's words before she rose, bowed, and left the office.
