@@ -2,7 +2,7 @@
 id: 3mosq73nuw3zqqa9cydzzxn
 title: Chapter 343
 desc: ''
-updated: 1688148601180
+updated: 1688233442013
 created: 1688060725498
 ---
 
@@ -53,3 +53,74 @@ Shuri bobbed her head in thought as she considered the idea. "It would take a lo
 "Let us put a pin on this discussion for now. Why don't you take the rest of the day off and relax? Seeing as you've just advanced, you deserve some time to consolidate your cultivation," the Sect Leader said with a serious expression. He tapped his desk with his fingers frantically before adding, "Oh! Make sure to drop by the mess hall. I know you've missed your meals again. I'd rather not have to explain this situation to Grace again, it is quite embarrassing, I'm not going to lie."
 
 Shuri chuckled at the Sect Leader's words before she rose, bowed, and left the office.
+
+She decided to take the Sect Leader's advise and beelined towards the mess hall to get some much-needed sustenance. Advancing into the Foundation Establishment is half fuelled by mana and half fuelled by the body itself. After all, the body is the vessel that contains the will and soul. The process of advancement takes a lot of energy, that is a fact. However, a Foundation Establishment realm mage does not feel the instinctual hunger a mortal would feel which is the body's trigger to refuel itself. Many similar processes become a matter of practise rather than instinct after advancement (such as cleansing oneself, evicting waste from the body, and so on) - it is one of the most basic tethers of mortality a person sheds upon stepping down the path of cultivation. After all, a mage in the Core Formation realm has more things to worry about than voiding their bowels.
+
+As Shuri approached the building, a strange sense of suppression started to drown her. The feeling could be likened to someone suddenly losing their senses, as if it were just snatched from them. Of course, she could still see, smell and hear, but only using her eyes, nose and ears. Her mana sense, which had expanded and become more sensitive, was completely shut off - stolen from her.
+
+A sense of foreboding descended on her, and she took a few steps back by instinct. A part of her deep down, that she only recently decided to stop listening to, was warning her to turn tail. And just as her body decided to follow that instinct, she collided against two people standing right behind her.
+
+"Where do you think you're going?" It was Casey, a girl, a member of the Sect. She was unusually large (or maybe Shuri was small for hers), and she had a sturdy frame.
+
+"Yeah! You were told to go to the mess hall!" Another giantess for her age Lacey, who also happened to be Casey's twin, spoke up with a much squeakier voice.
+
+"Umm... I- I think I forgot something in my room..." Shuri put together an excuse quickly, though her darting gaze did little to sell the lie.
+
+"Tell us what it is, and we will get it for you. You should go into the mess hall," Casey said with a monotone, stony voice.
+
+"Yeah! Go into the hall!" Lacey parroted.
+
+The voice in her head started to scream anxiously. Shuri's thoughts ran rampant and a myriad of scenarios started to form in her mind.
+
+'I knew it! Standing out too much, while positive in the eyes of those in charge, is poisonous for my so-called peers. Jealousy is a slippery slope, and my advancement has broken the camel's back. What kind of bullying will they put me through? I should be stronger, now that I have advanced. But is it worth it to apply my strength against these kids? In the eyes of the Sect Leader, it would put me in a much worse light, even if he is against bullying in general. Should I try convincing these girls to let me go? What were their weaknesses again? Right! Their favourite dolls crafted by their mother. But that's too far away-'
+
+"You two should give her some space," a familiar, and dreaded, voice spoke up calmly from behind the girls. "Can't you see that she is freaking out?"
+
+"B-But Senior Sister, we were told to guide her into the mess hall," Casey spoke up innocently.
+
+'Putting up an act?' Shuri mocked. 'She'll see right through it,' she added with confidence. She was certain that according to Marie's character, she wouldn't tolerate bullying.
+
+"You two carry on. I'll take her in," Marie said, completely shattering Shuri's expectations and sending her spiralling down a well of regret.
+
+A firm hand grasped Shuri's shoulder. Marie leaned in and whispered, "It's time to face the music. Your pace has attracted a lot of attention, after all."
+
+Shuri shuddered. There was no turning back. She prepared herself for what lay beyond the doors.
+
+"SURPRISE!!!!!!!" Many voices overlapped and exploded at once, accentuated with childish sounds and a lot of light. Shuri stood with her mouth agape at the unbelievable sight.
+
+The entire Sect, barring Jean and Kili, had congregated in the mess hall. They all wore weird, conical hats made out of parchment with the word "Congratulations" printed on them with funny fonts - even the in-house Tesseract Transformation monster stood at the side with a pink cone on his head.
+
+"Can't believe you're having me suppress a mere Foundation Establishment realm whelp for what? A surprise party?!" The elderly man mumbled just loud enough for the room to hear. The children giggled at the man's outburst.
+
+"Come on now, Master," Marie said as she followed Shuri through the door. "Shuri here is the first member of the True World Sect to break through into the Foundation Establishment realm. It calls for a proper celebration!"
+
+"Marie's right, you know?" The Sect Leader said while entering the room. "This is a momentous occasion that calls for a proper celebration."
+
+The Sect Leader clapped his hands and the crowd split through the middle, revealing Matron Reva who held a plate with a cylindrical, white food item on it. Atop the cylinder, the text "Congratulations on your Breakthrough, Shuri!" was written with colourful cream. And arranged on the cylinder were many thin, colourful candles.
+
+"I tried following your recipe to the letter, Guy- I mean Sect Leader Larks," Matron Reva said with a wry smile. "I hope it tastes as good as you described it."
+
+"Its the first time anyone's making it," the Sect Leader said. "This will set a benchmark for future cakes so stop fretting!"
+
+"Alright everyone, gather round!" The Sect Leader called out, and the crowd moved haphazardly around Shuri. "I wanted to create a tradition. You see, advancing into the Foundation Establishment realm is a great achievement. It marks the first true step into cultivation. In some ways, it is a sign of hope!"
+
+"Umm, what am I supposed to do?" Shuri asked doubtfully, unable to take the anticipating gaze all around her.
+
+"Well, close your eyes, make a wish and blow the candles," the Sect Leader explained. "The wish can be anything you want it to be. But make sure not to tell anyone, lest the wish doesn't come true!"
+
+'Childish,' Shuri thought to herself, but her lips spread out with a smile.
+
+"I wish..." And she blew the candles.
+
+"CONGRATULATIONS!"
+
+"Cut the cake!"
+
+"Yaaaay!"
+
+The celebration continued into the night. And Shuri went to bed that day with a heartfelt smile overflowing with happiness.
+
+____
+
+**Next**
+* [[volume-5.chapter-344]]
