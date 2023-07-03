@@ -2,7 +2,7 @@
 id: 89zxhpn3rv6uam7gvgadu9t
 title: Chapter 344
 desc: ''
-updated: 1688412916182
+updated: 1688413930682
 created: 1688380889129
 ---
 
@@ -33,6 +33,34 @@ created: 1688380889129
 "It can't be THAT easy!"
 
 "It isn't. Didn't you hear a word Senior Brother Markus said in last week's 'Theory of Cultivation'?"
+
+"I didn't! I had food poisoning and was bedridden for the whole week! It was horrible!"
+
+"Oh shit! *cough* I mean, how did that happen?"
+
+"My parents sent me some homemade delicacies from our hometown. Turns out, we cannot substitute the Red Mint from our town with the local variant..."
+
+"I hope you aren't talking about the Incontinentia Plant, when Matron Reva uses to make laxatives..."
+
+"My parent's didn't know about the plant's side effect when you heat it and extract its oils! Luckily they didn't eat any of the delicacy, or else all that would remain of them would be dried husks."
+
+"But the dosage shouldn't be high enough to cause you such problems. After all, you're in the Middle Stage of Mana Condensation realm."
+
+"My mother lost her sense of smell some time back... Our food is either bland or heavily flavoured - there is no middle ground."
+
+"God damn! Just how much of the Plant did she use?"
+
+"The Plant only faintly smells of mint. So she added it until she smelt the equivalent of ten mint leaves."
+
+"My goodness! That's at least ten entire Incontinentia Plants!"
+
+"More like twenty... My mom's condition..."
+
+"How the hell are you able to walk and sit?!"
+
+"It was embarrassing, man! I lost all control of my anus and kept leaking all over the place."
+
+"Can we please stop talking about this shit *cough* I mean, can we get back to the important matter"
 
 ____
 
