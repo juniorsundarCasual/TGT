@@ -2,7 +2,7 @@
 id: d371rsodnwycb2bajoe04r2
 title: Chapter 330 - A "Natural" Optimisation Strategy
 desc: ''
-updated: 1688492348112
+updated: 1688492790588
 created: 1685524664185
 ---
 
@@ -32,7 +32,7 @@ By using this genetic algorithm, it is assumed that one can eventually find the 
 
 In real life, genetic algorithms are used in many areas, like optimizing complex systems, designing new products, or even creating artwork. They help us find the best solution by imitating nature's way of evolving and adapting. So, in simple terms, a genetic algorithm is a problem-solving approach that imitates how living things evolve and adapt. It helps find the best solution by combining and improving different strategies over time.
 
-With all this known, Jean took a step back and considered how she could apply this to her situation. The solution she needed to find was a cure for the Plague of Dark Cleansing. But what form of the curse was she looking for? A bacteria would require an antibiotic, a virus would require an antiviral, and a fungal infection would require an antifungal. But the Plague was constantly evolving, changing, and reacting.
+With all this known, Jean took a step back and considered how she could apply this to her situation. The solution she needed to find was a cure for the Plague of Dark Cleansing. But what form of the curse was she looking for? A bacterium would require an antibiotic, a virus would require an antiviral, and a fungal infection would require an antifungal. But the Plague was constantly evolving, changing, and reacting.
 
 In fact, its behaviour reminded her of her own cultivation. She drew the mana from her core and held a cloud of it in her hand. After casting 'Inspect' on it, she saw a swarm of "living" organisms floating within the mana cloud. These microscopic entities were hers to control - they could behave according to her commands, and they changed according to her requirements. These were the agents she used to spread immunity to common diseases within the villages she visited during her travels.
 
