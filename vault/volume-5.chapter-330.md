@@ -2,7 +2,7 @@
 id: d371rsodnwycb2bajoe04r2
 title: Chapter 330 - A "Natural" Optimisation Strategy
 desc: ''
-updated: 1687895926745
+updated: 1688492348112
 created: 1685524664185
 ---
 
@@ -16,9 +16,9 @@ The genetic algorithm is a problem-solving method inspired by how nature works. 
 
 Imagine that there is a difficult problem that needs to be solved, like finding the best route to visit several places in a city. But there are so many possible routes, and it's hard to know which one is the best.
 
-Now, consider how living things, like plants and animals, adapt and evolve over time. They have traits that help them survive and thrive. These traits are passed down from parents to their offspring through something called genes. In a genetic algorithm, a similar idea is used to solve the problem. Instead of genes, something called "chromosomes" is used. Each chromosome represents a potential solution to the problem, just like having different strategies to solve the routeing problem.
+Now, consider how living things, like plants and animals, adapt and evolve over time. They have traits that help them survive and thrive. These traits are passed down from parents to their offspring through something called genes. In a genetic algorithm, a similar idea is used to solve the problem. Instead of genes, something called "chromosomes" is used. Each chromosome represents a potential solution to the problem, just like having different strategies to solve the routing problem.
 
-It all begins with a set of random chromosomes, each representing a different solution to the problem. Some solutions might be good, while others might not be so great. Each solution and give it a score based on how well it solves the problem.
+It all begins with a set of random chromosomes, each representing a different solution to the problem. Some solutions might be good, while others might not be so great. Each solution is evaluated against a fitness function that gives it a score based on how well it solves the problem.
 
 Take the solutions with the highest scores and use them to create new solutions - by combining the best parts of the high-scoring solutions to make even better solutions. It's like taking the best features of different strategies and mixing them together. Repeat this process over and over again, just like nature's evolution. Each time, the solutions get better because only the best ones are selected and combined. It's like a trial-and-error process where, usually, each passing generation is used to learn from and improve upon for the next generation.
 
