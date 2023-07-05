@@ -2,7 +2,7 @@
 id: 89zxhpn3rv6uam7gvgadu9t
 title: Chapter 344 - All Play and No Work...
 desc: ''
-updated: 1688501960937
+updated: 1688541335198
 created: 1688380889129
 ---
 
@@ -112,7 +112,7 @@ The foursome watched the receding figure of the Tesseract Transformation Master 
 
 "I think I have some reading assignments left in the backlog. Make it three," Revian said while following the twins.
 
-"W-Wait for me!" Kevan yelped a second later, after returning to himself, before rushing after the trio.
+"W-Wait for me!" Kevan yelped a second later, after returning to himself, then rushed after the trio.
 
 ____
 
