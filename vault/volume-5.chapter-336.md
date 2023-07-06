@@ -2,7 +2,7 @@
 id: iyjj1e7o5nwjpzyxrfpab0b
 title: Chapter 336 - (Interlude) Violent Reunion
 desc: ''
-updated: 1686915260665
+updated: 1688671903048
 created: 1686727879900
 ---
 
@@ -48,7 +48,7 @@ With a self-deprecating smile, Al responded, "Right. Thirty years we spent toget
 
 Ziva's fists clenched in anger, and his gaze sharpened with the intensity of a thousand swords. "WHO. DID. THIS?"
 
-"I won't give you that satisfaction, boy," Al said with a mocking laugh. Then, suddenly, his expression turned serious. "Besides, it won't matter any ways. You won't be leaving this place alive."
+"I won't give you that satisfaction, boy," Al said with a mocking laugh. Then, suddenly, his expression turned serious. "Besides, it won't matter anyway. You won't be leaving this place alive."
 
 With a fraction of a second, three spells - |Flamestrike|, |Air Cutter| and |Water Jet| - left Al's open palms and pushed against Ziva. Unfortunately, his opponent was prepared, and with a wave of his hand a massive spell circle formed that consumed the three spells to form a whirling, multicoloured ball.
 
