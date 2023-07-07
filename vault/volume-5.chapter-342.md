@@ -2,7 +2,7 @@
 id: 02vg0pnd7fs8ic0novrtolk
 title: Chapter 342 - Breakthrough in Automagy
 desc: ''
-updated: 1688059878624
+updated: 1688754141332
 created: 1687693868188
 ---
 
@@ -10,7 +10,7 @@ Shuri was finally ready to admit that she enjoyed learning in the True World Sec
 
 But in the True World Sect, it was the exact opposite. She was encouraged to mess around and find out. Nothing remained unknown for long here as most, if not all, questions had an answer in the Library. And the great thing was that they were even forced to question the information available in the library.
 
-This mindset was eye-opening in many ways. For one, it helped Shuri understand the cultivation methods and systems of Automagy in the Yoruz Clan's texts with a completely new perspective. By applying the principles of modular spellmaking and compartmentalisation, she could now see patterns in the inscriptions prescribed in the texts that alluded to particular behaviours and actions. She wanted to test out her theory earlier, but she recognised that it was a very expensive and time-consuming experiment. A mistake in the inscription would turn an entire mana core defective, and could also lead to catastrophic consequences if the inscription happens to succeed.
+This mindset was eye-opening in many ways. For one, it helped Shuri understand the cultivation methods and systems of Automagy in the Yoruz Clan's texts with a completely new perspective. By applying the principles of modular spellmaking and compartmentalisation, she could now see patterns in the program prescribed in the texts that alluded to particular behaviours and actions. She wanted to test out her theory earlier, but she recognised that it was a very expensive and time-consuming experiment. A mistake in the program would turn an entire mana core defective, and could also lead to catastrophic consequences if the program happens to succeed.
 
 Earlier, Shuri did not want to take risks like that. But now, things were different. The circumstances had changed - there was no point in trying to conceal herself, and there was no necessity for it either. On top of that, there was now a feeling gnawing away at her from within telling her that it was time, and that if she didn't follow through she would miss out on something big.
 
@@ -22,7 +22,7 @@ Imagine a large and convoluted jig-saw puzzle, without any corner or edge pieces
 
 She had an idea - an image prepared in her mind.
 
-Shuri's hands moved automatically as it traced out the image in her mind on the projection. The AND, OR, NOT, NAND, NOR, XOR gates were familiar, she'd seen patterns in the Yoruz Clan's inscriptions that potentially had the same function. Now, it was a matter of testing the theory out.
+Shuri's hands moved automatically as it traced out the image in her mind on the projection. The AND, OR, NOT, NAND, NOR, XOR gates were familiar, she'd seen patterns in the Yoruz Clan's programs that potentially had the same function. Now, it was a matter of testing the theory out.
 
 In hindsight, she should probably test the hypothesised gates independently - for safety's sake, at least. But her instincts were urging her to throw caution to the wind and dive into the deep end right away.
 
@@ -60,13 +60,13 @@ Her Master looked at her with a confused expression before bursting into laughte
 
 ____
 
-Another hour later, Shuri's circuit was reaching termination. Her steadily moving hand reached an abrupt halt. She took a step back and allowed her gaze to inspect the intricate design etched onto the ethereal projection centred on the mana core. This was unlike anything listed in the Yoruz Clan's texts. Yoruz Clan's mana core inscriptions were more profound, but the one she created using the principles of logic gates was more complex. The former looked more whole and was smoother, while the latter looked more ordered and had a lot of corners and connections.
+Another hour later, Shuri's circuit was reaching termination. Her steadily moving hand reached an abrupt halt. She took a step back and allowed her gaze to inspect the intricate design etched onto the ethereal projection centred on the mana core. This was unlike anything listed in the Yoruz Clan's texts. Yoruz Clan's mana core programs were more profound, but the one she created using the principles of logic gates was more complex. The former looked more whole and was smoother, while the latter looked more ordered and had a lot of corners and connections.
 
-Nonetheless, Shuri felt pride swelling through her as she beheld her brain-child. The ethereal projection started to compress into the core as she pulsed a burst of mana into the gem, and she awaited for the core to accept her inscription. The inert core lit up and started to pulse with a fluctuating purple hue. Then a short sizzling sound escaped from the core before the core settled with a permanent ethereal sheen.
+Nonetheless, Shuri felt pride swelling through her as she beheld her brain-child. The ethereal projection started to compress into the core as she pulsed a burst of mana into the gem, and she awaited for the core to accept her program. The inert core lit up and started to pulse with a fluctuating purple hue. Then a short sizzling sound escaped from the core before the core settled with a permanent ethereal sheen.
 
 Her work had succeeded.
 
-However, Shuri didn't celebrate just yet. Even if the inscription had succeeded, it did not mean that the core would function the way it was supposed to.
+However, Shuri didn't celebrate just yet. Even if the program had succeeded, it did not mean that the core would function the way it was supposed to.
 
 Shuri took a minute to centre herself. The moment of truth was nigh.
 

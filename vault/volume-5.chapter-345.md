@@ -2,7 +2,7 @@
 id: wu36moloq545n1jplrj8vvq
 title: Chapter 345 - Learning from Experience
 desc: ''
-updated: 1688671787871
+updated: 1688753932920
 created: 1688546533144
 ---
 
@@ -12,7 +12,7 @@ First off, she now had a quota to fulfil by producing the Calculate-Core - the n
 
 Besides, after floating the Calculate-Core within the various subsidiaries of the Verum Trading Company they received a lot of positive responses, especially from the Finance Departments. The Calculate-Core was far more intuitive to work with and more versatile compared to the abacus. It became especially useful given how all the subsidiaries followed the newly introduced double-entry bookkeeping system. Validating the accounts was a massive headache, which was now streamlined thanks to the Calculate-Core.
 
-It gave Shuri a sense of satisfaction with each unit sold, and with money accumulating in her accounts. The motivation drove her to optimise the inscription process and the inscription itself, reducing the inscription lead time to only fifteen minutes.
+It gave Shuri a sense of satisfaction with each unit sold, and with money accumulating in her accounts. The motivation drove her to optimise the programming process and the program itself, reducing the programming lead time to only fifteen minutes.
 
 Yet, the motivation drawn by money is short-lived. Frederick Taylor theorised that money is the only way to motivate employees. Since a company is profit-oriented so should its employees, since an increased output from the employee corresponds to an increased revenue, which in turn can reflect on the employee's earnings. On paper, this theory works. Increasing the wages of a construction worker as they move more materials, build more structures, or work extra hours will motivate the worker. The limitation makes itself known when you evaluate the employee's state on a big picture.
 
@@ -62,7 +62,7 @@ Shuri nodded in thought and commented, "But won't we end up teaching them the sa
 
 "Also! Do not assume that students will remember everything taught to them within a class the next time they come. Try to frequently hold quizzes, recaps and other small tests and assessments to refresh their memories. The human mind isn't a steel trap - though I guess it is in your case," he finished with a chuckle.
 
-"Finally, try and create a lot of audio and visual content to support your lessons. The human mind isn't mean to remember paragraphs upon paragraphs of texts. I've noticed that teaching with the help of visual presentations, songs and pneumonic devices helps the students remember and learn better. You remember the quadratic formula, right?"
+"Finally, try and create a lot of audio and visual content to support your lessons. The human mind isn't mean to remember paragraphs upon paragraphs of texts. I've noticed that teaching with the help of visual presentations, songs and mnemonic devices helps the students remember and learn better. You remember the quadratic formula, right?"
 
 Shuri nodded and sang, "~Negative B *clap* *clap* plus or minus *clap* *clap* b-squared minus four A, C *clap clap* *clap clap* all over two A~"
 

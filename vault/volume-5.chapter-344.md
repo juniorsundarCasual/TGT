@@ -2,7 +2,7 @@
 id: 89zxhpn3rv6uam7gvgadu9t
 title: Chapter 344 - All Play and No Work...
 desc: ''
-updated: 1688541335198
+updated: 1688756062931
 created: 1688380889129
 ---
 
@@ -14,7 +14,7 @@ In fact, those weren't the only options available. The Sect encouraged its membe
 
 The game didn't require much space to play, was fairly simple to participate in, and didn't have stringent requirements (all you needed was the sack), thus it quickly spread within the Sect. Nowadays, most members walked around with a Hover-Sack in their jacket pockets so that they could challenge other idle members to an impromptu game of Hover-Sack in the wild.
 
-On this particular day, which happened to be the day after Shuri's breakthrough celebration, four members of the True World Sect were playing a rather long game of Hover-Sack with intense focus and gusto.
+On this particular day, which happened to be a few weeks after Shuri's breakthrough celebration, four members of the True World Sect were playing a rather long game of Hover-Sack with intense focus and gusto.
 
 "Do you think we'll ever achieve a breakthrough?" Kevan pondered as he skilfully tapped the sack with his heel, sending it diagonally to the recipient standing opposite him, Revian.
 
