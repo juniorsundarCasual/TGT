@@ -2,7 +2,7 @@
 id: 1v09oduf9xmlrzxkk9z1r8r
 title: Chapter 333 - The Ultimate Bug
 desc: ''
-updated: 1688546031794
+updated: 1689004005547
 created: 1686131614297
 ---
 
@@ -50,7 +50,7 @@ A second was all it took, and her evolved microbes became one with her again. Th
 
 The more Jean learned about her hunter-killers, the more revulsion she started to feel towards the nature of the Plague of Dark Cleansing and the crooked mind that birthed it. The Plague was a creation of a man who had lost all semblance of his humanity. Jean thought that, although the Plague Emperor was a man who had committed many evils, he could be taught to correct his ways and eventually assimilate with the world after he'd paid proper reparations to the parties he'd harmed.
 
-An artist best understands another artist's work, as they speak the same language. Although Jean wasn't a "Disease Expert" or endocrinologist as Mister Larks called them, her cultivation was related to the concept in some ways, similar to the Plague Emperor. In fact, she was certain they were related in more ways than just conceptually. Because of that, she understood the man's mindset.
+An artist best understands another artist's work, as they speak the same language. Although Jean wasn't a "Disease Expert" or an infectious disease specialist as Mister Larks called them, her cultivation was related to the concept in some ways, similar to the Plague Emperor. In fact, she was certain they were related in more ways than just conceptually. Because of that, she understood the man's mindset.
 
 "That man- no monster is beyond saving! He cannot be redeemed no matter how much time or money he spends in reparation!" Jean declared. "For people like him... Even the death penalty is like a light slap on the wrist."
 
