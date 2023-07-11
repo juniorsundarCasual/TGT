@@ -2,7 +2,7 @@
 id: fjv7ms84qgo1pcdwh111pbn
 title: Chapter 318 - Surging Success
 desc: ''
-updated: 1688754106863
+updated: 1689061415622
 created: 1682799947936
 ---
 
@@ -34,7 +34,7 @@ A tense breath escaped Shuri's lips. The fact that the projection had succeeded 
 
 After hardening her resolve, Shuri raised the inscribing tool and brought it towards the projected hologram. The tool started to glow as her mana coursed through it. As the glowing tool neared the projection, a purple ethereal mark appeared in the empty space. Shuri controlled her movements, especially the sudden shakiness assaulting her arm, and moved the tool along according to the very first design from her memory. The process was slow and required steady movements. It was a bit more forgiving compared to Enchantment since the space she was working with was larger (compare a mana gem to an inert core). However, with the increased space came a much more expansive and intricate design. There was little room for error and no time to pause. Luckily, Shuri was equipped with the gift of perfect memory, so what she envisioned quickly formed in the empty ethereal projection.
 
-To some extent, programming a mana core was similar to inscribing on a mana gem. In fact, modern enchanting in Gaea was derived from mana core programming principles after multiple steps to condense the intricacy of the process. A mana core can hold many more inscriptions inside it compared to a mana gem, making it more multifunctional and able to perform more complex tasks - hence they were known as. The more advanced the inert core is, the more inscriptions it can handle, thus allowing it to accommodate more intricate tasks. A collection of inscriptions in a mana core is called a program.
+To some extent, programming a mana core was similar to inscribing on a mana gem. In fact, modern enchanting in Gaea was derived from mana core programming principles after multiple steps to condense the intricacy of the process. A mana core can hold many more inscriptions inside it compared to a mana gem, making it more multifunctional and able to perform more complex tasks. The more advanced the inert core is, the more inscriptions it can handle, thus allowing it to accommodate more intricate tasks. A collection of inscriptions in a mana core is called a program.
 
 For reference, a Core Formation realm core is so large that you would need up to five mages working on it simultaneously. The one on Shuri's work desk was only a Mana Condensation realm one, and it had the capacity to handle the most basic of tasks. And of all the available basic options, Shuri was attempting the most basic one.
 
