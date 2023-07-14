@@ -2,29 +2,23 @@
 id: s4h2sgz44ic44yu5aljei4i
 title: Chapter 337 - Overburdened Mind
 desc: ''
-updated: 1687174865584
+updated: 1689331792942
 created: 1686829494861
 ---
 
-Shuri's brain was on the verge of an explosion. Not just metaphorically, but literally as well. She was hitting critical mass, where there was a massive backlog of information awaiting categorisation and storage. A human brain usually doesn't undergo this strain, since the brain has a natural limiter on what and how much it can memorise in one go.
+Shuri's brain teetered on the precarious edge of overload, both figuratively and literally, as if poised on a tightrope about to snap. She found herself at a critical juncture, with an overwhelming surge of information clamouring for categorisation and storage within her brain. Whilst the human brain possesses innate safeguards to prevent such strain, Shuri's mind operated without these protective mechanisms. Every morsel of knowledge that crossed her path was promptly etched into the recesses of her memory, leaving no room for omission or filtration. Her brain functioned like an insatiable sponge, ceaselessly absorbing knowledge like a liquid. Unlike the average human brain, which boasts the capacity to retain over three hundred years' worth of continuous audiovisual data, Shuri's mind seemed almost boundless in its capacity for accumulation. Consequently, the bottleneck she encountered lay not in her brain's capacity for storage but in the intricate process of converting inputs into tangible knowledge.
 
-However, Shuri's mind lacked such safety features. Everything she saw and understood, she memorised. Her brain was like a sponge that didn't stop soaking, because it really couldn't stop - the average human brain can store over three hundred years worth of continuous audiovisual data. What Shuri was absorbing through reading books was only a measly fraction of that amount. So, if her eyes could work continuously for hours on end, and her brain had a nigh-unlimited storage space, the bottleneck was actually in the black-box between the sensor and storage.
+How does the mind memorise and remember? Each piece of information encountered by a human is meticulously encoded, deconstructed, and seamlessly interwoven into a delicate tapestry of neural impulses. To retrieve a specific fragment of knowledge, the mind relies on subtle cues that act as guides, steering towards the precise neural pathways that hold the desired information. In this intricate dance, the brain exhibits a remarkable ability to get rid of extraneous details, discarding fragments deemed non-essential to ease the burden of cognitive load. Yet, Shuri's brain bore the unique genetic imprint that skipped the selective pruning process. Every morsel of information that traversed her consciousness was recorded, creating an expansive repository of memories. Whilst this attribute served as a testament to the depth of her intellect, it also posed a formidable challenge. Her brain, finely tuned to minimise data loss, now grappled with the task of accommodating the sheer magnitude of information she had inundated it with.
 
-How does the mind memorise and remember? It is a complex process, where an information is encoded, deconstructed and stored as a combination of neural impulses. Recollection requires an impetus, which is generally some sort of cue that the mind uses to determine which combination of neural impulses will get you the information that you want. It is believed that during encoding and deconstruction, the brain can discard or lose some pieces. It is possibly an evolutionary adaptation to make our lives easier.
+Emerging from the library, Shuri made her way to her living quarters, hobbling precariously down the seemingly endless steps. After completing that journey, clutching a few books in her grasp, she traversed the corridors of the dorms to her private realm. In her relentless pursuit of enlightenment, she had nearly completed the reading list curated by Sect Leader Larks. In a mere span of two days, she had immersed herself in the captivating world of over thirty books, each surpassing the collegiate level.
 
-Shuri's brain is genetically incapable of discarding or losing data during this conversion. So everything that goes in gets committed, which is a double-edged sword. To expound in simpler terms, her converter was optimised to reduce data loss, but it wasn't optimised to handle scale. So, by effectively bombarding the converter with a large influx of data, she had seriously strained it.
-
-She hobbled over from the library, a few books still in hand, towards her living quarters. She had nearly completed all the books in the reading list handed to her by Sect Leader Larks and had committed all the information in it to memory. The issue was that she did all of this within just two days; she had effectively binged the reading list which contained over 30 books, each starting at college level and above.
-
-Shuri had given in to her base urge to devour new and unknown knowledge, which was now biting back at her.
-
-As soon as she entered her room, her footing grew unsteadier. The books in her hands dropped and she collapsed.
+Shuri's unquenchable thirst for new and uncharted knowledge had become both a driving force and a potential adversary. The relentless pursuit of intellectual enlightenment, fuelled by an insatiable curiosity, had now exacted its toll. As she stepped into the comforting embrace of her living quarters, her balance faltered, causing the books she clung to so tightly to slip from her grasp.
 
 She'd blacked out.
 
 ____
 
-Information arrived in random packages, as she entered and exited consciousness.
+The information arrived in random packages, as she entered and exited consciousness.
 
 The first thing she realised when she gained a moment of clarity was that she was no longer on the floor. She had been moved to her bed. She also noticed that there was another person in the room - an adult.
 
@@ -32,7 +26,7 @@ ____
 
 Her body felt cold, and then hot, and then cold again. Was this a fever?
 
-She instinctively huddled into a ball to contain the smidgen of heat still coursing through her body, but was surprised to find a heavy comforter hugging her tightly.
+She instinctively huddled into a ball to contain the smidgen of heat still coursing through her body but was surprised to find a heavy comforter hugging her tightly.
 
 ____
 
@@ -56,7 +50,7 @@ The words were like a faint buzzing noise; she couldn't make out what was being 
 
 ____
 
-"Guy, Shuri isn't here," Grace pointed out while nudging head towards the empty seat in the mess hall, which was usually occupied by the girl. It was off in an unfrequented corner, out of sight and very easy to overlook. "I thought I told you to get it through her head the last time. She cannot miss her meals, no matter what!"
+"Guy, Shuri isn't here," Grace pointed out while nudging her head towards the empty seat in the mess hall, which was usually occupied by the girl. It was off in an unfrequented corner, out of sight and very easy to overlook. "I thought I told you to get it through her head the last time. She cannot miss her meals, no matter what!"
 
 Guy sighed loudly as he tilted his head backwards in defeat. "I tried, Grace."
 
@@ -76,9 +70,9 @@ Guy sighed once again while standing up from his table, "Fine, fine. I'll go."
 
 Guy responded with an exaggerated smile and a sarcastic laugh, "Your sense of humour has hit a new low, Grace."
 
-Grace responded with a fake smile of her own before shooting Guy an aggressive look, and leaving in a huff with the dishes expertly stacked in her hands.
+Grace responded with a fake smile of her own before shooting Guy an aggressive look and leaving in a huff with the dishes expertly stacked in her hands.
 
-Guy proceeded to make a plate for Shuri, with a balanced nutrition, and made his way out of the mess hall towards the living quarters. Along the way, he greeted the Sect Members hanging around, doing their own thing.
+Guy proceeded to make a plate for Shuri, with balanced nutrition and made his way out of the mess hall towards the living quarters. Along the way, he greeted the Sect Members hanging around, doing their own thing.
 
 After arriving at his destination, Guy raised his knuckle and rapped it against Shuri's door.
 
@@ -94,11 +88,11 @@ His contained senses extended through the door and filled the room within. As he
 
 "I'm entering," Guy informed before opening the door.
 
-He hurried forward and cradled Shuri's head. With one hand he tapped the girl's cheek while repeatedly calling her name. He placed two fingers against the girl's neck to check her pulse, noticing a regular pattern, he raised her and placed her on her bed.
+He hurried forward and cradled Shuri's head. With one hand, he tapped the girl's cheek while repeatedly calling her name. He placed two fingers against the girl's neck to check her pulse, noticing a regular pattern. He raised her and placed her on her bed.
 
-He then walked out the door and yelled, "Anyone there?"
+He then walked out of the door and yelled, "Anyone there?"
 
-"Yes, Sect Leader?" A response came a minute later, when a head poked out from the neighbouring room.
+"Yes, Sect Leader?" A response came a minute later when a head poked out from the neighbouring room.
 
 "Lee-Ann," Guy recognised. "Can you please go get Grace for me? And please make it quick, tell her it is an emergency."
 
@@ -120,7 +114,7 @@ Guy returned to Shuri's bedside and placed his right palm against the girl's hea
 
 At that moment, Guy caught the sound of Grace walking over with hurried steps.
 
-"You had a simple job, Guy. Do I have to do everythi- What happened here?" Grace stopped herself when she noticed Guy standing next to an unconscious Shuri's bed. "Did she fall asleep?"
+"You had a simple job, Guy. Do I have to do everything? What happened here?" Grace stopped herself when she noticed Guy standing next to an unconscious Shuri's bed. "Did she fall asleep?"
 
 "No, she's passed out."
 
@@ -130,7 +124,7 @@ At that moment, Guy caught the sound of Grace walking over with hurried steps.
 
 "Let's not just gape about, do something?" Grace pleaded. "My goodness, she's got a fever!"
 
-"I'll go get her a comforter," Guy volunteered. "Put on some socks for her, and prepare some soup for her. She'll have difficulty swallowing hard food."
+"I'll go get her a duvet," Guy volunteered. "Put on some socks for her and prepare some soup. She'll have difficulty swallowing solid food."
 
 "How did she get sick, Guy?" Grace asked once again worriedly.
 
@@ -138,7 +132,7 @@ At that moment, Guy caught the sound of Grace walking over with hurried steps.
 
 "Is it magical?" Grace probed.
 
-"Something like that," the Other Guy hummed,
+"Something like that," the Other Guy hummed.
 
 As Guy walked out of the room to complete his self-assigned tasks, he added, "We can't know for sure until we run a few tests."
 
