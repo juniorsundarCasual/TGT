@@ -2,7 +2,7 @@
 id: 5jnhw8ky7ej1zmffmxx5zpo
 title: Chapter 349 - The Design Process
 desc: ''
-updated: 1689355572163
+updated: 1689605999729
 created: 1689332255873
 ---
 
