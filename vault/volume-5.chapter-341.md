@@ -2,7 +2,7 @@
 id: 2t7gr2hqnyupsan6tajfluz
 title: Chapter 341 - Logic Dictates
 desc: ''
-updated: 1687808143214
+updated: 1689593348368
 created: 1687674247179
 ---
 
@@ -12,11 +12,11 @@ created: 1687674247179
 
 Two numbers: 1011 and 1001 appeared one on top of the other.
 
-"If we are to add 11 and 9 in decimal digits, its summing 1 and 9 in the unit's place with a 1 carrying over to the tens place, which gets added to a one. So, 20. In binary, you add the ones in the 2^0, the 1 and 0 in 2^1 and the ones in 2^3, so-"
+"If we are to add 11 and 9 in decimal digits, it's summing 1 and 9 in the unit's place with a 1 carrying over to the tens place, which gets added to a one. So, 20. In binary, you add the ones in the 2^0, the 1 and 0 in 2^1 and the ones in 2^3, so-"
 
 The addition resolved to get: 2012.
 
-"But since we can't have number greater than one, we need to start carrying over. A 2 in 2^0 means that you can basically add a 1 to the 2^1, so-"
+"But since we can't have a number greater than one, we need to start carrying over. A 2 in 2^0 means that you can basically add a 1 to the 2^1, so-"
 
 2020
 
@@ -38,7 +38,7 @@ The addition resolved to get: 2012.
 
 "Let us check out the subtraction and the rest," the Sect Leader encouraged.
 
-For Shuri, wrapping her head around this new method of digitally representing numbers was tougher. To that, the Sect Leader said, "There are many reasons it's difficult for you compared to the usual method. For one, you started learning in and were taught primarily in another method. This has become ingrained into so deeply that it's hard to regularise yourself with another. On top of that, this method isn't tractable for common mathematics that you and I use. It's meant for something else altogether."
+For Shuri, wrapping her head around this new method of digitally representing numbers was tougher. To that, the Sect Leader said, "There are many reasons it's difficult for you compared to the usual method. For one, you started learning and were taught primarily in another method. This has become ingrained so deeply that it's hard to regularise yourself with another. On top of that, this method isn't tractable for common mathematics that you and I use. It's meant for something else altogether."
 
 "That's the thing, I can't see how this can be applied," Shuri said with a defeated sigh. "I feel like I'm missing something important."
 
@@ -60,11 +60,11 @@ Following another night of strained sleeping, trying to hold back her urge to de
 
 "Today's topic is quite heavy, so please stop me if things become difficult or if we're moving too quickly," the Sect Leader prefaced.
 
-"Binary numbers can either be 1 or 0, that has already been established. You can attach meaning to this 1 or 0, by saying that 1 means 'on' and 0 means 'off'. You can also say that 1 is 'true' and 0 is 'false."
+"Binary numbers can either be 1 or 0, which has already been established. You can attach meaning to this 1 or 0, by saying that 1 means 'on' and 0 means 'off'. You can also say that 1 is 'true' and 0 is 'false."
 
-"Every decision or action you do or take is preceded by a set of conditions that need to be met. For instance, eating food depends on the precondition of you being hungry. Scratching your skin is preconditioned on whether you are feeling itchy in that location. So, to define an analogy using the previous definitions, if for an action A, you have a precondition B, if B is true, then your brain will send a signal: 1 to execute the action A. On the other hand if it is false, you get a signal: 0 to not execute it."
+"Every decision or action you do or take is preceded by a set of conditions that need to be met. For instance, eating food depends on the precondition of you being hungry. Scratching your skin is preconditioned on whether you are feeling itchy in that location. So, to define an analogy using the previous definitions, if for an action A, you have a precondition B, if B is true, then your brain will send a signal: 1 to execute the action A. On the other hand, if it is false, you get a signal: 0 to not execute it."
 
-As the Sect Leader said this, a line formed in front of Shuri. On either side, there were two bulbous dots. Above the left dot, a B showed up, and above the right dot an A did.
+As the Sect Leader said this, a line formed in front of Shuri. On either side, there were two bulbous dots. Above the left dot, a B showed up, and above the right dot, an A did.
 
 B o--------o A
 
@@ -103,7 +103,7 @@ At the point of intersection, a curved arrow took shape, like a large semi-circl
 
 "Excellent deduction!"
 
-The AND gate was replaced with another curved arrow that looked like a triangle pointing to the right, but with the base at the left arching inwards.
+The AND gate was replaced with another curved arrow that looked like a triangle pointing to the right but with the base at the left arching inwards.
 
 "Can you deduce what the truth table would be like?"
 
@@ -129,7 +129,7 @@ Then the NAND gate, which basically inverts the output of an AND gate.
 | 1 | 0 | 0 |  
 | 1 | 1 | 1 |  
 
-The NOR gate, which inverts the OR gate.
+The NOR gate inverts the OR gate.
 
 | B | C | A |  
 | 0 | 0 | 1 |  
@@ -147,9 +147,9 @@ And finally, the XOR - exclusive-OR - gate.
 
 "Now, we are going to use most of these gates together to create an addition circuit called the 'Full Adder'."
 
-Two XORs, two ANDs and one OR gate arranged themselves before Shuri, and lines started to move from connection point to connection point, creating an elaborate yet easy to understand circuit (for Shuri).
+Two XORs, two ANDs and one OR gate arranged themselves before Shuri, and lines started to move from connection point to connection point, creating an elaborate yet easy-to-understand circuit (for Shuri).
 
-"As you can see, we have three input lines, and two output lines. You have the inputs B and C that are binary digits and the Cin, which is the carry-over input from the addition of the previous digit. The outputs are the summation, and the carry-over output for the next digital addition."
+"As you can see, we have three input lines and two output lines. You have the inputs B and C which are binary digits and the Cin, which is the carry-over input from the addition of the previous digit. The outputs are the summation, and the carry-over output for the next digital addition."
 
 "Would you like to try drawing the truth table for this one?" Sect Leader Larks challenged.
 
@@ -177,11 +177,11 @@ The Sect Leader moved forward and provided the input signals to the circuit, and
 
 Shuri agreed readily before tossing the arranged NAND gates into their original bin and picking out nine NORs in their place.
 
-As Shuri worked on, her mana started to bubble with excitement. From her memories, she started to form connections between the information regarding Automagy she picked up from the Yoruz Clan's texts and logic gates.
+As Shuri worked on it, her mana started to bubble with excitement. From her memories, she started to form connections between the information regarding Automagy she picked up from the Yoruz Clan's texts and logic gates.
 
 'Maybe if I could...'
 
-Shuri's hand halted, and she ejected herself from special space she was in.
+Shuri's hand halted, and she ejected herself from the special space she was in.
 
 "Is something wrong?" The Sect Leader asked worriedly.
 
