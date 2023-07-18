@@ -1,8 +1,8 @@
 ---
 id: bywoev0d5p1dc6eyg9svls2
-title: Chapter 350
+title: Chapter 350 - The Interview
 desc: ''
-updated: 1689624250493
+updated: 1689699704420
 created: 1689605972962
 ---
 
@@ -104,7 +104,23 @@ Shuri laughed in response before saying, "These notes aren't for me. They are fo
 
 ____
 
-Yohn's interview was a fairly straightforward process. Shuri's questions were all about how he did certain things, how it made sense to him, how he compensated for his blindness in certain tasks, and other questions along this line. She then moved on to more user-specific questions, like his preference on types of guidance, whether he preferred haptic feedback or audio, what kind of haptic feedback he preferred
+Yohn's interview with Shuri proved to be a relatively straightforward and insightful process. Shuri's inquiries were predominantly focused on understanding how Yohn accomplished specific tasks, delving into the inner workings of his mind and the strategies he employed to compensate for his blindness. She probed into his unique perspective, seeking to comprehend how he navigated the world and interacted with it.
+
+Transitioning to a more personalized line of questioning, Shuri delved into user-specific aspects. She probed Yohn's preferences regarding different forms of guidance and assistance, such as whether he favoured haptic feedback or audio cues, and if so, what kind of haptic feedback he found most preferable, whether continuous or incidental. Shuri tried to keep her inverview as unbiased as possible, avoiding any directed questions that may take her down a predefined path instead of allowing her to explore all of her options.
+
+During their conversation, a remarkable revelation emerged. Shuri, with her extraordinary mana sense, decided to conduct a rudimentary brain scan to investigate the neural processes involved when Yohn read Braille. She compared this to the brain's response when he merely explored objects with his fingers to identify their textures and characteristics. Astonishingly, the findings were nothing short of captivating. Shuri discovered that the same region of Yohn's brain activated when he read Braille as when she read ordinary printed text. Remarkably, Yohn was able to read without utilizing his eyes, relying solely on the tactile sensations of Braille.
+
+"It is absolutely fascinating," Shuri exclaimed, her curiosity piqued as she neatly packed away her stuff.
+
+"What is?" Yohn asked, equally curious to here her perspective.
+
+"Well, it's interesting to see how the human mind adapts to changes in the self and the environment," Shuri explained. "You'd think that losing a sense would just put a portion of the brain out of commission, but it looks like instead, it just rewires itself and builds new connections."
+
+Yohn simply hummed in affirmation. He couldn't appreciate the beauty of the discovery with equal vim and vigour as Shuri. She, for one, actually kew the beauty of such adaptive connectivity as she compared it with logic circuitry.
+
+'Maybe someday, I can build something like that with mana cores...'
+
+The thought stuck in her mind for a few minutes, before dispersing amidst the myriad of ideas about the next step of the design process: "Ideation and Concept Development."
 
 ____
 
