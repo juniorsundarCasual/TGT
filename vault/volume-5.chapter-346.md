@@ -2,7 +2,7 @@
 id: 01htcxxiny3be8ukncmsa9y
 title: Chapter 346 - Take Two
 desc: ''
-updated: 1688757426739
+updated: 1689757245555
 created: 1688671812742
 ---
 
@@ -14,7 +14,7 @@ Furthermore, she also realised just how advantageous her eidetic memory was for 
 
 Did it make her feel a tinge of pride? Sure, for a microsecond. But it was quickly doused with a hefty bucket of exasperation, as she started to anticipate just how tiresome teaching really was, and the fact that this was something she would have to grind through regularly.
 
-Nonetheless, progress was slow yet steady on the club front. Her members managed to understand the basic of logic gates, which she then followed up by showing them the types of programs that are used in programming mana cores. She revisited the theory and formatted it to match the modular spell-making concept, so that the students could find connections and assimilate it. In fact, this exercise also improved her understanding of the programming process, which was reflected with a tiny surge in her cultivation. She found that she could merge logic gates with modular spells as well.
+Nonetheless, progress was slow yet steady on the club front. Her members managed to understand the basic of logic gates, which she then followed up by showing them the types of programs that are used in programming mana cores. She revisited the theory and formatted it to match the modular spellmaking concept, so that the students could find connections and assimilate it. In fact, this exercise also improved her understanding of the programming process, which was reflected with a tiny surge in her cultivation. She found that she could merge logic gates with modular spells as well.
 
 For instance, she could create a program a core and install it into a box which is filled with coals. The core would eject coal from the box into a flame if the flame's intensity decreased below a certain metric. Alternatively, she could program a core to eject a |Fireball| by consuming the coal (or even the mana coursing through it) given a particular conditions or prompt.
 

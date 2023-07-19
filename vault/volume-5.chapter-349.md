@@ -2,7 +2,7 @@
 id: 5jnhw8ky7ej1zmffmxx5zpo
 title: Chapter 349 - The Design Process
 desc: ''
-updated: 1689605999729
+updated: 1689757248427
 created: 1689332255873
 ---
 
@@ -16,7 +16,7 @@ Her thoughts returned to Yohn reading his book using tactile sensors. Being visu
 
 A blind person must rely on their remaining senses to compensate for their lack of sight – they need to listen, feel, and smell to navigate their surroundings and understand what to do. Yet, the limitations imposed by the absence of vision are particularly difficult to overcome in the realms of magic and cultivation. This is because casting spells requires envisioning intricate spell circles. For someone who has never seen a spell circle, achieving this becomes impossible. A mage who becomes blind can still continue their path in magic, but a novice without prior knowledge of magic who is blind would be unable to progress.
 
-In fact, even a mage who becomes blind after embarking on their magical journey would struggle to cast unfamiliar and new spell circles. Standard spell circles are read as a whole, unlike those developed using the modular spell-making method with compartmentalization. In the latter method, the components of a spell can be rearranged, allowing for the construction of spells on the fly. So, if a mage afflicted with blindness had been introduced to this methodology before losing their sight, they would not face the same difficulty in casting spells.
+In fact, even a mage who becomes blind after embarking on their magical journey would struggle to cast unfamiliar and new spell circles. Standard spell circles are read as a whole, unlike those developed using the modular spellmaking method with compartmentalization. In the latter method, the components of a spell can be rearranged, allowing for the construction of spells on the fly. So, if a mage afflicted with blindness had been introduced to this methodology before losing their sight, they would not face the same difficulty in casting spells.
 
 "Arrangements, tactility, modularity," Shuri repeated.
 
