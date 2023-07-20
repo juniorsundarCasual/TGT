@@ -1,8 +1,8 @@
 ---
 id: 2ahmmryrm94wc50e86vctr6
-title: Chapter 351
+title: Chapter 351 - The Designs
 desc: ''
-updated: 1689789885268
+updated: 1689851732942
 created: 1689759663691
 ---
 
@@ -33,3 +33,38 @@ As Shuri's inventive mind continued to explore the realm of possibilities, she f
 One such idea mirrored the essence of her first concept - the simplicity of an interactive tablet equipped with buttons that emulated the functionality of grimoire-type solution. In this alternative approach, users could interact with the tablet's touch-sensitive surface, each button representing a specific geometric module within the spell circle. By tapping or pressing these buttons in sequence, the user could build a modular spell with ease. The tablet's user-interface, thoughtfully designed in Braille, enabled tactile navigation through the list of available spells.
 
 The entire ideation step stretched until dinner, at which point Shuri decided to stop. First, because she felt that this was a good point to end the ideation stage. She didn't think there were any more ideas left for her to explore and evaluate. She felt that she was just digging the same hole over and over again at this point. Secondly, she didn't want to get into trouble with Matron Reva again for missing an important meal. Although she no longer felt the urge to eat like before, sustenance was still a minor requirement. Besides, she no longer had to worry about getting fat or messing her figure as she could just burn away the excess fat with her improved body control.
+
+____
+
+Shuri let the design concepts stew for a few days. She fought the urge to get into the design process as soon as possible and decided to immerse herself in her other responsibilities. The purpose of this detour was to clear her mind and let the agitation settle. Sure, getting the product out as soon as possible would be beneficial for Yohn, and possibly others. However, what was more important was to get out a good product - something that was reliable. And through her experience and knowledge, rushing this process would only work against that goal.
+
+After a five, most excruciating, day wait, Shuri was finally prepared to return to the design process with full force. The first step, of course, was to sit down and evaluate her design concepts against the design specifications. Although it was a point of guidance when they were conceptualised, there was room for minor deviations that could leak through and had to be nipped in the bud.
+
+For instance, one of the concept additions to the gesture-based solutions involved audio cues for "start" and "finish". Since the specification expressly avoided audio as a mode of guidance, she had to nix that idea.
+
+Little by little, her concept designs started to dwindle until the original four remained. Although she wasn't equally enthusiastic about them all, she felt a sense pride with all four - she didn't want to choose between them. Then again, she could just create versions of all four.
+
+"But is it worth it?" She asked out loud to herself. This is a common dilemma every designer faces during the process. Noone really wants to trash their own ideas, especially if all of them fit the design specifications. Every designer wants to realise their creation. But time and money act as limiting factors the force them into choosing a single path - the best amongst all options. So, to make the selection process friendlier, the designers would then ask their clients or target market to choose.
+
+Shuri could just as easily ask Yohn to select between the four. However, as her eyes slid past the four open parchment papers and landed on the Rubik's cube on her table. She recollected the conversation she had with Marie when she received the toy.
+
+"Maybe it will give you some inspiration in whatever you're trying to achieve."
+
+Nowadays, Shuri's interaction with Marie had been sparce and limited in duration. Unlike before, when the girl literally barged into Shuri's life at every turn. While she felt relief, Shuri was surprised to find that she sort of missed those interactions.
+
+"Am I a masochist who enjoys the torment?" The thought did cross her mind, but was quickly shoved aside. She wasn't willing to accept that, even if it was true in some ways.
+
+But nowadays, Marie's inputs regarding the future had more or less ceased. The infrequent nudges or calls for reconsideration were still there, but only after her Master allowed her to do so. The sudden lack though did bring into focus just how reliant everyone had become on the girl's foresight. While everyone grumbled about it being intrusive and antithetical to free will, everyone found solace in the comfort those predictions brought them - people always want to avoid making mistakes if given the option to do so.
+
+"Just as you said, it did!" Shuri then let out a hearty chuckle and said, "I guess I know which design to go with."
+
+If this was what Marie intended with her gift, then maybe it wasn't so bad of an option to go with. It definitely did make Shuri's life easier, as she now didn't have to think twice before folding up all the other designs and archiving them with her research material for this project.
+
+"Now!" Shuri declared while observing the design of the permutative magic wand once again.
+
+"How do I go about making this..."
+
+____
+
+**Next**
+* [[volume-5.chapter-352]]
