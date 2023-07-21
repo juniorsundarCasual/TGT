@@ -2,7 +2,7 @@
 id: f2zk8gi3o68q60ejxwd58xd
 title: Chapter 340 - When Your Fingers Just Aren't Enough
 desc: ''
-updated: 1689414276604
+updated: 1689935683756
 created: 1687448319117
 ---
 
@@ -20,7 +20,7 @@ Shuri quickly waved her hand and explained, "Nothing like that. I just felt that
 
 Shuri nodded and produced the cube from her jacket pocket.
 
-"Wow! Okay! This one belonged to me before. Marie snatched it from me a few days back, saying that she knew someone who would appreciate it more than I. What you have there is a Rubik's Cube. A rather interesting toy, this one. A bit on the difficult side to make out of wood, especially if you're trying to keep it purely wooden. Took me quite a while to get it just right, though as it stands it isn't viable to mass produce this profitably," the Sect Leader narrated as he picked up the Rubik's Cube and started to spin its sides.
+"Wow! Okay! This one belonged to me before. Marie snatched it from me a few days back, saying that she knew someone who would appreciate it more than I did. What you have there is a Rubik's Cube. A rather interesting toy, this one. A bit on the difficult side to make out of wood, especially if you're trying to keep it purely wooden. Took me quite a while to get it just right, though as it stands it isn't viable to mass produce this profitably," the Sect Leader narrated as he picked up the Rubik's Cube and started to spin its sides.
 
 "She gave me this and said that it might inspire me to do something," Shuri added.
 
@@ -32,7 +32,7 @@ Then, he turned silent as he started to spin the cube in a similar pattern multi
 
 "She did say this would be the last interference," Shuri mumbled while spinning the cube around in her grasp. "How did you solve it?"
 
-"There's a book about it in the Library if you're interested," Mage Larks offered. "It's not that hard, especially for you. You just have to memorize a few combinations according to how the colors are arranged. That is the most basic method. There are quicker and more complicated strategies as well."
+"There's a book about it in the Library if you're interested," Mage Larks offered. "It's not that hard, especially for you. You just have to memorize a few combinations according to how the colours are arranged. That is the most basic method. There are quicker and more complicated strategies as well."
 
 He then raised his index finger and added, "Did you know? There are approximately 43 quintillion unique possible arrangements of this cube?"
 
@@ -52,17 +52,17 @@ As he said this, he pushed forward a blank parchment and a writing utensil. Shur
 
 The Sect Leader scratched his head in thought. "Give me a second," he then said before sitting down in a meditative pose.
 
-After a few minutes, his eyes opened and his expression regained confidence. "There are many kinds of calculators. The most basic one I can describe for you is a mechanical calculator that uses gears. Any number, if written in digital form, holds a value from zero to nine, which translates to ten possible values. If we assign this to a gear, that means ten rotations. Ten rotations of the units place corresponds to one rotation in the tens place. Ten of tens is a hundred, and so on. So you can imagine how addition operations could be designed with this system?"
+After a few minutes, his eyes opened and his expression regained confidence. "There are many kinds of calculators. The most basic one I can describe for you is a mechanical calculator that uses gears. Any number, if written in digital form, holds a value from zero to nine, which translates to ten possible values. If we assign this to a gear, that means ten rotations. Ten rotations of the unit's place correspond to one rotation in the tens place. Ten of tens is a hundred, and so on. So you can imagine how additional operations could be designed with this system?"
 
 Shuri hummed along before raising a point, "But I can see a few problems here. It would be difficult to support large numbers with a greater number of digits, as well as multiplication and division operations."
 
-"Exactly, so let me try and describe another mechanical calculator which has this functionality," Sect Leader Larks highlighted before delving into an explanation of a magnificent machine that he called the arithmometer.
+"Exactly, so let me try and describe another mechanical calculator which has this functionality," Sect Leader Larks highlighted before delving into an explanation of a magnificent machine that he called the arithmometre.
 
 The explanation continued for hours, with the man using all the blackboards in his office to draw an elaborate picture of the device, answering Shuri's questions, and even showing examples. Sometimes, there were questions Sect Leader Larks couldn't answer immediately - he would often enter into meditation before returning with a suitable answer. Shuri theorized that he too probably had some sort of memorizing power like she did, but one that was much slower or was maybe bogged down with so much information that retrieval took a lot of time.
 
 "Well, that was definitely a heavy topic," the Sect Leader declared before leaning against his table and taking a sip of water from a cup. "I didn't plan to cover this today, not at all. But it wasn't an unproductive trip, was it?"
 
-Seeing as Shuri agreed with his words, he continued, "If you are interested, we can pick up from here tomorrow and cover a few more mechanical solutions before shifting into the automatic solutions."
+Seeing as Shuri agreed with his words, he continued, "If you are interested, we can pick up from here tomorrow and cover a few more mechanical solutions before shifting to the automatic solutions."
 
 "What are automatic versions of the calculator?" Shuri interjected.
 
@@ -88,7 +88,7 @@ But a warm smile cracked the man's stoic expression. "Good initiative. I was als
 
 Shuri revealed an interested smile.
 
-"Although, to do that I require your permission, and your acquiescence," the Sect Leader emphasized.
+"Although, to do that I require your permission and your acquiescence," the Sect Leader emphasized.
 
 "Umm... Permission to do what?" Shuri probed. Was she about to be exploited?!
 
