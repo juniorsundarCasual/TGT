@@ -1,8 +1,8 @@
 ---
 id: cpyziaffugrgg1kq2u9tf37
-title: Chapter 352
+title: Chapter 352 - (Interlude) (Part One)
 desc: ''
-updated: 1690101219981
+updated: 1690140254269
 created: 1689936060204
 ---
 
@@ -90,14 +90,7 @@ Revian revealed an embarrassed smile and said, "I guess you guys have already co
 
 "The more the merrier," Kevan invited. "A fresher perspective may give us the breakthrough we need to get started."
 
-Revian hummed for a few seconds and said, "I remember Senior Brother Markus saying that the primary reason why we use a wand early on is because our mana pools don't have the capacity to sustain a ranged spell. Why don't we start there?"
+____
 
-"How exactly do you suggest we do that?" Lacey challenged, causing Revian to shrink back.
-
-"Come on, now," the boy eked out. "There are no bad ideas in a brainstorm..."
-
-"Don't mind her," Kevan interjected while patting Revian's shoulder. "She's just too taken by the Socratic method."
-
-The twin mumbled something under her and released a cold snort.
-
-"What about using"
+**Next**
+* [[volume-5.chapter-353]]
