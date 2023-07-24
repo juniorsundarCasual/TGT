@@ -2,7 +2,7 @@
 id: 44qqd29dnp7y32wzt9i09et
 title: Chapter 353 - (Interlude) (Part Two)
 desc: ''
-updated: 1690140261077
+updated: 1690183483969
 created: 1690140208237
 ---
 
@@ -50,3 +50,4 @@ Revian and the rest agreed with that deduction and got down to work. Tasks were 
 
 ____
 
+"This isn't something I can approve of," Markus declared while sliding the 
