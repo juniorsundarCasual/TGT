@@ -2,7 +2,7 @@
 id: 44qqd29dnp7y32wzt9i09et
 title: Chapter 353 - (Interlude) (Part Two)
 desc: ''
-updated: 1690200360130
+updated: 1690200554552
 created: 1690140208237
 ---
 
@@ -14,7 +14,7 @@ Revian hummed for a few seconds and said, "I remember Senior Brother Markus sayi
 
 "Don't mind her," Kevan interjected while patting Revian's shoulder. "She's just too taken by the Socratic method."
 
-The twin mumbled something under her and released a cold snort.
+The twin mumbled something under her breath and released a cold snort.
 
 "There needs to be a way to standardise the process, so that no matter who performs the experiment, they will get the same result," Kevan reminded. "Think of ways to standardise the experiment, and I believe the answer we are looking for will present itself."
 
@@ -52,15 +52,15 @@ ____
 
 "This isn't something I can approve of," Markus declared while sliding the proposal back towards the group of four. After spending three days polishing the experiment and working out its details, Revian and the rest decided that it was time to bring it up with the figures of authorities in the Sect. Of course, the easiest and most accessible of them was Senior Brother Markus. "This is too dangerous, even with all the safety measures in place."
 
-""But, Senior Brother!"" The twins harmonised coincidentally. They exchanged a look before Casey stepped forward, "Please consider the implications of this study. With a robust way to measure and quantify mana, it will augment every subsequent study or experiment that comes forward in the future."
+""But, Senior Brother!"" The twins harmonized coincidentally. They exchanged a look before Casey stepped forward, "Please consider the implications of this study. With a robust way to measure and quantify mana, it will augment every subsequent study or experiment that comes forward in the future."
 
-"Be that as it may, I cannot overlook the risks you will be taking, even if you have extensively listed out the safety procedures you wish to enforce in place," Markus continued while turning the document to the very first page. "I've read the whole thing, and I think you have something good going on here. However, safety is my number one priority. If you want me to give you a go ahead, you need to come with something less... risky."
+"Be that as it may, I cannot overlook the risks you will be taking, even if you have extensively listed out the safety procedures you wish to enforce in place," Markus continued while turning the document to the very first page. "I've read the whole thing, and I think you have something good going on here. However, safety is my number one priority. If you want me to give you a go-ahead, you need to come with something less... risky."
 
 Silence reigned in the room, interrupted only by the thoughtful hammering of Markus' fingers against his desk. Revian looked up and noticed that Markus was evaluating them all with a piercing gaze. After a minute passed, the silence was broken by Senior Brother Markus, "Okay. I will let you go through with this experiment on a condition."
 
-Four pairs of eager eyes honed in on Markus, causing the boy to shift backwards uncomfortably in response. "Alright, alright! Let's not get your hopes up, because things could still not go our way..."
+Four pairs of eager eyes honed in on Markus, causing the boy to shift backward uncomfortably in response. "Alright, alright! Let's not get your hopes up, because things could still not go our way..."
 
-Markus' face contorted as he considered something internally, before he gestured for the group to get up and follow him. Seeing as this was their last option, they walked behind him with the proposal in hand. The group travelled from Markus' classroom all the way to the recreation hall, where they realised just who their target was.
+Markus' face contorted as he considered something internally, before he gestured for the group to get up and follow him. Seeing as this was their last option, they walked behind him with the proposal in hand. The group travelled from Markus' classroom all the way to the recreation hall, where they realized just who their target was.
 
 "What brings you to these necks of the woods?" Senior Sister Marie said jokingly while relaxing her back into her chair.
 
@@ -72,7 +72,7 @@ Markus reached behind him and took the proposal from Revian's hands, and handed 
 
 "What's this?" She asked while flipping through the pages. "Oh? It seems the Socratic method on compounding and simple interest bore some fruit, huh?"
 
-She read through the whole document and then said, "Looks promising! What's the problem."
+She read through the whole document and then said, "Looks promising! What's the problem?"
 
 "Don't play ignorant, Big Sis," Markus groaned. "You know exactly what the problem is."
 
@@ -92,7 +92,7 @@ The group all simultaneously turned their heads and noticed another individual i
 
 The old man waved a hand and said, "If I wanted my presence known, I would have made it known."
 
-A few seconds passed in silence before Markus' shoulders drooped, and he said, "I'll get going then." He turned to the group of four and said, "Sorry guys."
+A few seconds passed in silence before Markus' shoulders drooped, and he said, "I'll get going then." He turned to the group of four and said, "Sorry, guys."
 
 "Hold on!" Marie stopped them midway before they could wallow in disappointment. "You do realise that I am not the only seer in this Sect, right?"
 
@@ -108,7 +108,7 @@ Kevan mustered up the courage and let out a cough to clear his head, "So umm-"
 
 The twins swallowed a mouthful of saliva and nodded embarrassedly.
 
-"Well, it seems that my words got through to you," Mage Nara commended. Another minute of excruciating silence passed before the mage clicked his tongue and closed his eyes. When he opened them a gain, a golden glow illuminated his pupils for a second before dissipating.
+"Well, it seems that my words got through to you," Mage Nara commended. Another minute of excruciating silence passed before the mage clicked his tongue and closed his eyes. When he opened them again, a golden glow illuminated his pupils for a second before dissipating.
 
 He nodded thoughtfully and said, "As long as you three adhere to your safety procedures TO THE LETTER, nothing will go wrong."
 
@@ -116,7 +116,7 @@ Markus bowed immediately, shooting the frozen four a meaningful glance causing t
 
 The elderly mage waved his hand dismissively before lowering himself back into a light nap on the bench.
 
-The group including Markus left the recreation hall silently. As soon as they left its premises, Revian and his friends descended into a loud cheer.
+The group, including Markus, left the recreation hall silently. As soon as they left its premises, Revian and his friends descended into a loud cheer.
 
 "Settle down," Markus interjected. "You heard what Mage Nara said. I will approve of this proposal as long as all the safety procedures are followed thoroughly."
 
@@ -126,7 +126,7 @@ He then revealed a satisfied smile before adding, "Good work on the proposal. Co
 
 "So," Revian spoke up. "That went well."
 
-"Anyone up for a game of Hover-Sack?" Casey proposed, which was met with all round approval.
+"Anyone up for a game of Hover-Sack?" Casey proposed, which was met with all-round approval.
 
 "Of course!" Kevan exclaimed excitedly. "All work and no play, makes Jack a dull boy!"
 
