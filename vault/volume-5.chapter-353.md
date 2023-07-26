@@ -2,7 +2,7 @@
 id: 44qqd29dnp7y32wzt9i09et
 title: Chapter 353 - (Interlude) (Part Two)
 desc: ''
-updated: 1690200554552
+updated: 1690389837443
 created: 1690140208237
 ---
 
@@ -110,7 +110,7 @@ The twins swallowed a mouthful of saliva and nodded embarrassedly.
 
 "Well, it seems that my words got through to you," Mage Nara commended. Another minute of excruciating silence passed before the mage clicked his tongue and closed his eyes. When he opened them again, a golden glow illuminated his pupils for a second before dissipating.
 
-He nodded thoughtfully and said, "As long as you three adhere to your safety procedures TO THE LETTER, nothing will go wrong."
+He nodded thoughtfully and said, "As long as you three adhere to your safety procedures TO THE LETTER, your experiment won't fail."
 
 Markus bowed immediately, shooting the frozen four a meaningful glance causing them to follow as well, "Thank you for the production, Mage Nara!"
 
