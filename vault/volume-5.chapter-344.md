@@ -2,7 +2,7 @@
 id: 89zxhpn3rv6uam7gvgadu9t
 title: Chapter 344 - All Play and No Work...
 desc: ''
-updated: 1690185875190
+updated: 1690355457548
 created: 1688380889129
 ---
 
@@ -18,7 +18,7 @@ On this particular day, which happened to be a few days after Shuri's breakthrou
 
 "Do you think we'll ever achieve a breakthrough?" Kevan pondered as he skillfully tapped the sack with his heel, sending it diagonally to the recipient standing opposite him, Revian.
 
-"Why not? Shuri did it, why can't we?" Revian answered a second later, catching the sack with his knee and letting it drop to his ankle, where he held it for a beat. He passed the sack to his other leg and sent it to his right, to Lacey. The girl received the ball with a stoic expression, expertly catching it with the back of her right heel and yanking it backward, causing it to follow a parabolic path from over her hand and landing at her prepared left angle in front of her.
+"Why not? Shuri did it, why can't we?" Revian answered a second later, catching the sack with his knee and letting it drop to his ankle, where he held it for a beat. He passed the sack to his other leg and sent it to his right, to Lacey. The girl received the ball with a stoic expression, expertly catching it with the back of her right heel and yanking it backwards, causing it to follow a parabolic path from over her hand and landing at her prepared left angle in front of her.
 
 Kevan looked towards Casey to his left, who was ready to receive her sister's pass and said, "I mean, it's kind of different with her, right? She has... a background (for lack of a better word). She has the magical techniques and cultivation methods from her family that helped her in this."
 
@@ -38,7 +38,7 @@ Revian shook his head and reminded, "We don't have to rush. Sect Leader Larks sa
 
 "She's talking about the one with the anthropomorphic frog locking himself in a room filled with an incense burner labelled copium," Kevan explained. "It's a play on the word opium, and how the drug is used to escape reality. You imbibe copium to ignore or downplay the severity of a problem by relying on overly optimistic beliefs."
 
-Revian let out a small celebration as the sack landed successfully on his left knee, which he transitioned into a three-tap maneuver, "Wow! Huron's works have been becoming increasingly abstract ever since Senior Sister Jean left for her trip. It's like he isn't trying at all."
+Revian let out a small celebration as the sack landed successfully on his left knee, which he transitioned into a three-tap manoeuvre, "Wow! Huron's works have been becoming increasingly abstract ever since Senior Sister Jean left for her trip. It's like he isn't trying at all."
 
 After a simple pass to Casey on his right, he pointed out, "Anyway, what we really need to break through is inspiration - something that we can dig deep into and internalize."
 
@@ -58,7 +58,7 @@ Kevan grimaced loudly and confessed, "My parents didn't know about the plant's s
 
 Revian received Lacey's pass and emphasized a key point, "But the dosage shouldn't be high enough to cause you such problems. After all, you're in the Middle Stage of the Mana Condensation realm."
 
-"My mother lost her sense of smell some time back... Our food is either bland or heavily flavored - there is no middle ground." Kevan said with a low and defeated mumble.
+"My mother lost her sense of smell some time back... Our food is either bland or heavily flavoured - there is no middle ground." Kevan said with a low and defeated mumble.
 
 Revian let out a two-syllable, "Damn!" and continued, "Just how much of the Plant did she use?"
 
@@ -74,13 +74,13 @@ Revian let out a two-syllable, "Damn!" and continued, "Just how much of the Plan
 
 "Can we please stop talking about this shit," Kevan blurted out, only to receive a round of chuckles and suppressed laughter from his companions. "*cough* I mean, can we get back to the important matter! Advancement-"
 
-"You shouldn't chase success, chase excellence," a somber and elderly voice interrupted Kevan, originating from behind him. "Once you achieve excellence, success follows immediately after."
+"You shouldn't chase success, chase excellence," a sombre and elderly voice interrupted Kevan, originating from behind him. "Once you achieve excellence, success follows immediately after."
 
 Kevan swallowed a dry mouthful of air as he turned around and gave a deep bow to the strongest individual in the entire Sect.
 
 "M-Mage Nara," the rest followed and bowed, allowing the sack to finally hit the ground.
 
-"You four have been playing that game for an hour and a half," Mage Nara said while shaking his head with a disappointed expression. "What's the point of discussing success if you're just going to waste your time in these fruitless endeavors."
+"You four have been playing that game for an hour and a half," Mage Nara said while shaking his head with a disappointed expression. "What's the point of discussing success if you're just going to waste your time in these fruitless endeavours."
 
 "There's some benefit in distracting your mind," another voice argued, as Senior Sister Marie stepped out from behind her Master. "Distraction leads to inspiration."
 
