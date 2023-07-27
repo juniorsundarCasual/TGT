@@ -2,7 +2,7 @@
 id: 5cj9g2ginzmg94d6hlj6h32
 title: Chapter 354
 desc: ''
-updated: 1690398670061
+updated: 1690485753207
 created: 1690200365811
 ---
 
@@ -60,4 +60,51 @@ By this time, the quarter outside the illusory meadow had passed the barrier and
 
 ""Wow"" The twins evoked in a tone overflowing with enamoured awe.
 
-The boys were however drawn to the 
+The boys were however drawn to the tree, which properly itched their adventurous spirits. Little did they know that a beast capable of putting them into an endless sleep had set it up as its abode.
+
+"Let's not gawk around," Markus declared with a loud clap. "Start the preparation for the experiment."
+
+The quartet snapped out of their reverie and shuffled around to set up the experiment ground.
+
+"What is the radius within which the mana sink's effects are valid?" Revian asked out loud.
+
+Markus tilted his head sideways, in thought, and answered, "According to Shuri, it should cover the entire meadow. Actually, you can treat the flower field as the boundary."
+
+"Can we use the scorched region?" Kevan inquired as he moved towards the sector of the meadow devoid of any plants - a remnant of the battle that once took place here.
+
+"That would be preferred. We should strive to maintain the state of the environment where we work," Markus explained.
+
+The group agreed with each member nodding simultaneously. Revian dropped the bag he was carrying to the ground carefully and pulled out a box from within. Opening it up, he revealed stacks of mana crystals perfectly cut into cuboids of standard yet varying sizes.
+
+"This is an expensive experiment," Markus reminded. "Please me mindful of wastage. Mana crystals aren't so easy to source for sects like ours. Usually, large and most medium size sects are built on mana dense regions which tend to have caves that grow mana crystals naturally. Ours, on the other hand, is built next to a sink. Which means that while there is an abundance of inert cores (which is arguably more expensive than mana crystals) we face a shortage of mana crystals."
+
+"We've tried to minimise wastage to the best of our abilities," Casey affirmed. "The excess shavings from these crystals have found use in some minor alchemical work spearheaded by Matron Reva."
+
+"Also," Lacey interjected. "We've reworked our experiment procedure slightly. We anticipate up to two failed trials from each of us - which is a worst-case estimate."
+
+"We first verified the density of a mana crystal using the buoyancy principle, by submerging the crystal in a container of fluid (distilled water). The mass of a series of cuboid mana crystals of varying volumes was measured. We then checked the displaced volume of water when submerging the crystal, against the geometric volume and confirmed that they were the same. Dividing mass and volume yielded the density, which was found to be consistent with an error of +/- 0.0043 kg/m^3. It was also found that a mana crystal is pure and compact with no air pockets or irregularities," Revian declared. "That short study also spawned a hypothesis that mana crystals are formed in a manner similar to salt crystals, which warrants further study but is not the focus of this experiment."
+
+"You should post that hypothesis in the public boards and encourage others," Markus offered. "There's a lot of idle minds roaming around in the Sect that could use some purpose."
+
+Revian retrieved another box from his bag and opened it to reveal a programmed mana core the size of his palm. "The Time-Core developed by Senior Sister Shuri has been tested and confirmed to be functional and precise to the nearest millisecond."
+
+He picked out another box and revealed another programmed core the size of a marble, "The Tempera-Core developed by Senior Sister Shuri has been tested and confirmed to be precise to the nearest 0.01 Kelvin."
+
+Finally, he picked up a small (nearly twice the size of his palm), vaccuum-sealed metal tank covered with greying wool that had two colourless and lustrous mana gems attached to its side and a slot for a mana core on its opposite end. "The Caloric Tank, filled halfway with Enthermis Fluid, was tested and confirmed to be functional."
+
+The Caloric Tank was an invention devised by the quartet. Its purpose was to contain heat. It was made out of copper with a fire-resistant wool outer coating. Inside, was a fixed volume of Enthermis Fluid, a commonly used alchemical catalyst with high thermal conductivity and specific heat capacity (which was also determined by a separate caloric test). One of the mana gems on the tank, when exposed to fire, would absorb the heat released from the exothermic reaction and completely translate it into kinetic energy to increase the temperature of the fluid within. Until the second mana gem is activated, the container would maintain the temperature until the first mana gem ran out of mana (which was implausible since the upkeep mana cost was trivial). The enchantment was a creation of the quartet, and took them an entire week. It was commissioned through the Burning Forge as there could be no room for errors!
+
+Revian carefully attached the Tempera-Core into its respective slot on the container and turned it on to verify that the system worked.
+
+The entire experiment was being bank-rolled by the Sect, which did add a huge burden upon the shoulders of the young scientists. Failure was an option, but not a welcome one.
+
+The group released a long breath of anticipation altogether. This experiment took over a month to set-up, to get all the apparatuses ready and run the preliminary tests that would validate the safety and accuracy of the results obtained.
+
+Kevan glanced at his lab-mates and asked for the final time, "Are we all ready?"
+
+The question was met with a firm and determined nod from the other three. And so, it began.
+
+____
+
+**Next**
+* [[volume-5.chapter-355]]
