@@ -2,7 +2,7 @@
 id: 2ahmmryrm94wc50e86vctr6
 title: Chapter 351 - The Designs
 desc: ''
-updated: 1689851732942
+updated: 1690797011571
 created: 1689759663691
 ---
 
@@ -62,7 +62,7 @@ If this was what Marie intended with her gift, then maybe it wasn't so bad of an
 
 "Now!" Shuri declared while observing the design of the permutative magic wand once again.
 
-"How do I go about making this..."
+"How do I go about making this...?"
 
 ____
 
