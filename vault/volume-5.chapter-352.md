@@ -1,8 +1,8 @@
 ---
 id: cpyziaffugrgg1kq2u9tf37
-title: Chapter 352 - (Interlude) (Part One)
+title: Chapter 352 - The Frivolous Four - The Spark (Part One)
 desc: ''
-updated: 1690140254269
+updated: 1690791329580
 created: 1689936060204
 ---
 

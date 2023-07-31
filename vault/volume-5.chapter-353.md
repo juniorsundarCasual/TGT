@@ -1,8 +1,8 @@
 ---
 id: 44qqd29dnp7y32wzt9i09et
-title: Chapter 353 - (Interlude) (Part Two)
+title: Chapter 353 - The Frivolous Four - The Spark (Part Two)
 desc: ''
-updated: 1690539046562
+updated: 1690791329584
 created: 1690140208237
 ---
 

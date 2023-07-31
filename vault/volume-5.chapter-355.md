@@ -1,8 +1,8 @@
 ---
 id: 9fyqscdtc0jazuzzbaecmg0
-title: Chapter 355 - (Interlude) (Part Four)
+title: Chapter 355 - The Frivolous Four - The Fire (Part One)
 desc: ''
-updated: 1690545444157
+updated: 1690791329593
 created: 1690539075774
 ---
 
