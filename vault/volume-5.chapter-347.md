@@ -2,7 +2,7 @@
 id: bd5ryzylcy7ce4vxwflj2s3
 title: Chapter 347 - (Un)Realistic Deadlines
 desc: ''
-updated: 1689073857382
+updated: 1690796680846
 created: 1688835961475
 ---
 
@@ -14,9 +14,9 @@ Then after a pause, she added, "Maybe others in this Sect as well. You won't fin
 
 "That's just... disgusting!" Markus responded with a displeased look. "How can an educator betray the trust of their student like that?"
 
-"Well, for sake of discussion, I'm going to limit myself to cultivation and magic only. For a Teacher, the performance of a Student is a sign of competence not just of the Student, but for the Teacher themselves. The better a Student is in their journey through magic, the better it reflects on the Teacher's portfolio. However-"
+"Well, for the sake of discussion, I'm going to limit myself to cultivation and magic only. For a Teacher, the performance of a Student is a sign of competence not just for the Student, but for the Teacher themselves. The better a Student is in their journey through magic, the better it reflects on the Teacher's portfolio. However-"
 
-Shuri raised a finger and wore a morose frown. "There is a line. A line that when crossed turn all the positive social credits a Teacher earns thanks to their overachieving Student turns into poison. And you will know when that line is crossed when the comments you hear all around after a rather shining performance by the Student no longer praise the Teacher, but start questioning whether the Teacher is required in the first place?"
+Shuri raised a finger and wore a morose frown. "There is a line. A line that when crossed turn all the positive social credits a Teacher earns thanks to their overachieving Student turns into poison. And you will know when that line is crossed when the comments you hear all around after a rather shining performance by the Student no longer praise the Teacher but start questioning whether the Teacher is required in the first place?"
 
 "If the Teacher's ego is so fragile, they shouldn't be taking on the responsibility in the first place!" Markus responded with a sickened frown.
 
@@ -24,7 +24,7 @@ Shuri raised a finger and wore a morose frown. "There is a line. A line that whe
 
 "No kidding..." Markus affirmed.
 
-"Besides, I don't consider you my Teacher," Shuri shot back, causing Markus to turn around with a raised brow. "We're collaborators, you just had a head start."
+"Besides, I don't consider you my teacher," Shuri shot back, causing Markus to turn around with a raised brow. "We're collaborators, you just had a head start."
 
 Markus let out an uproarious laugh and patted Shuri on the back good-naturedly, "That's for sure, partner!"
 
@@ -34,7 +34,7 @@ Markus let out an uproarious laugh and patted Shuri on the back good-naturedly, 
 
 "Funny," Marie responded with an equal level of sarcasm oozing in her voice. "Master's been riding my ass extra hard nowadays; I'm not allowed to use the Heavenly Eye for a while."
 
-This illicited another bellowing laugh from Markus, oozing with schadenfreude, which Shuri also partook in but with a more suppressed giggle matching her high-class upbringing. The laughter went on for some time though, it seemed as though Markus was remembering all the time Marie had fronted him with her powers and was rubbing it on her face.
+This elicited another bellowing laugh from Markus, oozing with schadenfreude, which Shuri also partook in but with a more suppressed giggle matching her high-class upbringing. The laughter went on for some time though, it seemed as though Markus was remembering all the time Marie had fronted him with her powers and was rubbing it on her face.
 
 Shuri could see a vein throbbing in Marie's forehead, increasing in intensity with each passing breath. "You know, I don't need the Heavenly Eye to drill you a new one. I don't even need magic - I've been contesting against men twice my age and size since before you even left this village."
 
@@ -74,13 +74,13 @@ The Sect Leader simply waved his hand dismissively and gestured for them to ente
 
 "Ouch," Marie said with an exaggerated hurt expression.
 
-"Well," the Sect Leader jumped in, redirecting the conversation. "Think about the circumstances of your respective breakthroughs. They were all stimulated through initiative. Markus, your breakthrough was borne of you succeeding to cement your understanding of gravity and developing an original spell. Marie, you broke through after developing a new way to channel the Heavenly Eye. Let us skip Jean since her circumstance is a little different. And as for Shuri, we all know how that happened."
+"Well," the Sect Leader jumped in, redirecting the conversation. "Think about the circumstances of your respective breakthroughs. They were all stimulated by the initiative. Markus, your breakthrough was borne of you succeeding to cement your understanding of gravity and developing an original spell. Marie, you broke through after developing a new way to channel the Heavenly Eye. Let us skip Jean since her circumstance is a little different. And as for Shuri, we all know how that happened."
 
 "What do they all have in common?" Sect Leader Larks placed openly, letting all present stew in the conclusion.
 
 "How do we go about it, then?" Marie probed.
 
-"It was an interesting assignment," the Sect Leader commented as he picked three bound books and distributed it amongst the teens. "Instead of just teaching, we want to encourage independent thought and exploration, and exercise knowledge more freely and innovate. The Maker-Space is not enough, nor are the labs and innovation opportunities offered by the Verum Trading Company. It is too passive, and none of the students are feeling motivated to take on those challenges due to fear of failure. Even Shuri wouldn't have volunteered if Marie hadn't poked her nose into Shuri's business."
+"It was an interesting assignment," the Sect Leader commented as he picked three bound books and distributed them amongst the teens. "Instead of just teaching, we want to encourage independent thought and exploration, and exercise knowledge more freely and innovate. The Maker-Space is not enough, nor are the labs and innovation opportunities offered by the Verum Trading Company. It is too passive, and none of the students are feeling motivated to take on those challenges due to fear of failure. Even Shuri wouldn't have volunteered if Marie hadn't poked her nose into Shuri's business."
 
 An accusatory gaze was exchanged between Shuri and Marie at that.
 
@@ -112,9 +112,9 @@ Socratic seminars often have ground rules to ensure a productive and respectful 
 
 The seminar concludes with a reflection on the discussion and the main insights gained. Participants may summarize their key takeaways or pose further questions for continued exploration.
 
-The booklet went into great lengths expanding on the different stages, expectation, rules and regulation of a Socratic seminar, offering examples and practice prompts.
+The booklet went to great lengths expanding on the different stages, expectations, rules and regulations of a Socratic seminar, offering examples and practice prompts.
 
-"Can this method be applied for all subjects?" Markus probed. "How can I apply this for the natural sciences or even maths?"
+"Can this method be applied to all subjects?" Markus probed. "How can I apply this to the natural sciences or even maths?"
 
 "Initiate discussions with application cases or ask them to talk about publications. Access the restricted section if you need to," the Sect Leader instructed. "I've posted examples in this booklet for you to try out."
 
@@ -122,7 +122,7 @@ The booklet went into great lengths expanding on the different stages, expectati
 
 Those weren't difficult asks. Excessive, sure, but Shuri understood the need.
 
-"Oh!" The Sect Leader said in the end with resolute edge in his voice and an unwavering glint in his eyes. "Within six months, I want to see five more perfected resonances in this cohort."
+"Oh!" The Sect Leader said in the end with a resolute edge in his voice and an unwavering glint in his eyes. "Within six months, I want to see five more perfected resonances in this cohort."
 
 "What?!" Markus blurted out with a high-pitched screech.
 
@@ -130,11 +130,11 @@ Those weren't difficult asks. Excessive, sure, but Shuri understood the need.
 
 "Sect Leader-" Shuri tried to plead reason, but the man raised his hand decisively halting any discussion.
 
-"I know it is asking for a lot. But if we, as a Sect, cannot deliver measurable results, it will reflect poorly on our competence," the Sect Leader said. "There already one thing that I promised which has stalled, we cannot afford another."
+"I know it is asking for a lot. But if we, as a Sect, cannot deliver measurable results, it will reflect poorly on our competence," the Sect Leader said. "There is already one thing that I promised which has stalled, we cannot afford another."
 
 Everyone present knew about the Sect Leader's dilemma to help the single blind student in the Sect, and how the guilt of his failure was bearing down on him.
 
-"But no Sect can promise such a statistic, Sect Leader. Even the best of sects have at best a 2% perfected resonance rate with any incoming cohort, and that is considering the fact that an incoming horde is at least a 100 people," Shuri reasoned. "Your ask is almost 20%. That's ten times that!"
+"But no Sect can promise such a statistic, Sect Leader. Even the best of sects have at best a 2% perfected resonance rate with any incoming cohort, and that is because an incoming horde is at least 100 people," Shuri reasoned. "Your requirement is almost 20%. That's ten times that!"
 
 "Those sects play a game of quantity," Sect Leader Larks responded. "I am confident that the quality of our cohort and our teaching staff is superior."
 
@@ -146,7 +146,7 @@ Markus turned to his elder sister, hoping for some words of consolation from the
 
 "Will we be able to do it, though?" Shuri said, voicing her doubt.
 
-"There's something to be said about optimism in the face of uncertainty," Marie advised. "We should try our best, and hope for the best. That's all I can say, really."
+"There's something to be said about optimism in the face of uncertainty," Marie advised. "We should try our best and hope for the best. That's all I can say, really."
 
 Again... Hope... Shuri didn't know if she had any more of that left in her.
 
