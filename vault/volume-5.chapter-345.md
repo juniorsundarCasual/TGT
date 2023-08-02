@@ -2,7 +2,7 @@
 id: wu36moloq545n1jplrj8vvq
 title: Chapter 345 - Learning from Experience
 desc: ''
-updated: 1690355711790
+updated: 1690971529635
 created: 1688546533144
 ---
 
@@ -58,7 +58,7 @@ Markus leaned forward, his voice filled with conviction. "Being a mentor means b
 
 Shuri nodded in thought and commented, "But won't we end up teaching them the same thing again and again?"
 
-"There is no loss in recapping content - most of the time, the students themselves will point out if they know a topic already. Though you can preface a session by stating that certain knowledge is a prerequisite to understand what you're talking about if your teaching materials become too burdensome for a session. Also, remember to keep your teaching points for a session well below the duration of the session itself. You need to leave time in for questions, anecdotes, tangents and other such activities that increase interactivity and engagement with the class," Markus pointed out as he started to recollect details from his memory.
+"There is no loss in recapping content - most of the time, the students themselves will point out if they know a topic already. Though you can preface a session by stating that certain knowledge is a prerequisite to understanding what you're talking about if your teaching materials become too burdensome for a session. Also, remember to keep your teaching points for a session well below the duration of the session itself. You need to leave time in for questions, anecdotes, tangents and other such activities that increase interactivity and engagement with the class," Markus pointed out as he started to recollect details from his memory.
 
 "Also! Do not assume that students will remember everything taught to them within a class the next time they come. Try to frequently hold quizzes, recaps and other small tests and assessments to refresh their memories. The human mind isn't a steel trap - though I guess it is in your case," he finished with a chuckle.
 

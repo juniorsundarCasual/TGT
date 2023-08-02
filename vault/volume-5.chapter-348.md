@@ -2,19 +2,19 @@
 id: ygwlpee3vw412qev3r10nto
 title: Chapter 348 - Identifying Needs
 desc: ''
-updated: 1689279002282
+updated: 1690971972830
 created: 1689158368763
 ---
 
 "Do you think it's possible?" Shuri asked, finally breaking the elongated silence that hung between the three people. Marie, Shuri and Markus were currently in the recreation room modifying their lesson plans to implement the new Socratic seminars.
 
-"If Master says its possible, it should be possible," Markus affirmed with a kind of resolve that stood on shaky ground. Shuri didn't know where he got that confidence from.
+"If Master says it's possible, it should be possible," Markus affirmed with a kind of resolve that stood on shaky ground. Shuri didn't know where he got that confidence from.
 
 "I wasn't asking you, Senior Brother," Shuri mumbled while maintaining a respectful tone. In fact, her gaze was focused intensely on Marie.
 
 "Don't look at me," Marie spoke up with a shrug.
 
-"You're the only here who can see the future," Markus chimed in supportively.
+"You're the only one here who can see the future," Markus chimed in supportively.
 
 "I don't know if your just deaf or wilfully ignorant," Marie snapped back. "I told you that I cannot use the Heavenly Eye."
 
@@ -48,7 +48,7 @@ Marie exchanged glances between the two expecting faces before frowning and shak
 
 "What are you talking about?" Markus shrieked immediately before grabbing the girl's hand as she was leaving.
 
-"I've done my part," Marie declared. "I have confirmed that this isn't a wild goose chase, and that there is light at the end of the tunnel. You should feel more confident and more motivated to work. But all I see here is greed and hypocrisy."
+"I've done my part," Marie declared. "I have confirmed that this isn't a wild goose chase and that there is light at the end of the tunnel. You should feel more confident and more motivated to work. But all I see here is greed and hypocrisy."
 
 After dropping those stinging words, Marie extricated herself from Markus' grasp and walked away in a huff.
 
@@ -58,7 +58,7 @@ After dropping those stinging words, Marie extricated herself from Markus' grasp
 
 Shuri ejected a gust of air through her nose, massaged the back of her head and said, "Are you planning to implement the seminar for the topic on thermodynamics?"
 
-Markus whistled while in contemplation and reasoned that, "Not everyone has reached that far. We've talked about thermal physics, and done a few experiments, but do you think introducing thermodynamics concepts is appropriate for the first ever seminar?"
+Markus whistled while in contemplation and reasoned, "Not everyone has reached that far. We've talked about thermal physics, and done a few experiments, but do you think introducing thermodynamics concepts is appropriate for the first-ever seminar?"
 
 "Why not? It offers a large breadth of discussion topics," Shuri said. "Why don't you try it with a smaller class size, kind of like an experiment, and see how it works? Besides, according to the booklet, a Socratic seminar is meant to be implemented with few participants, eight to fifteen individuals at best."
 
@@ -76,7 +76,7 @@ Shuri scratched her chin in thought before an idea struck her, "'Can the laws of
 
 Markus pondered over the question before jotting it down. "If the laws of motion can be circumvented with magic, so can the laws of thermodynamics. The beauty comes in figuring out the right kind of 'lie' you want to tell the world."
 
-Just like that, the duo continued their brainstorming for a decent half-an-hour. After Markus had an outline drafted, they moved on to Shuri's seminar which was decided to be on "ergonomics and its importance in design" as well as "function-over-form or form-over-function". As this topic was more open-ended, the session went on for over an hour as the duo planned out the questions and even anticipated the direction the seminar could go, devising ways to curtail irrelevant discussion avenues.
+Just like that, the duo continued their brainstorming for a decent half an hour. After Markus had an outline drafted, they moved on to Shuri's seminar which was decided to be on "ergonomics and its importance in design" as well as "function-over-form or form-over-function". As this topic was more open-ended, the session went on for over an hour as the duo planned out the questions and even anticipated the direction the seminar could go, devising ways to curtail irrelevant discussion avenues.
 
 ____
 
