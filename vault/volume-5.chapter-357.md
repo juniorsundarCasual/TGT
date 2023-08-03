@@ -1,8 +1,8 @@
 ---
 id: 4uiwjzvmkreeaihvu0d4h0c
-title: Chapter 357
+title: Chapter 357 - The Frivolous Four - The Roaring Blaze (Part Two)
 desc: ''
-updated: 1690999341191
+updated: 1691047237528
 created: 1690801389815
 ---
 
@@ -40,4 +40,51 @@ Kevan's attempts were far more focused, as he had Revian's notes to help guide h
 
 Guy then pulled the two boys aside and compared their observation of the amount of mana inside a myriad of mana crystals, mana gems, and mana cores. After rigorous testing, they determined that the two teens did in fact observe the same amount of mana inside them. Though still too early to draw conclusions, Guy rest assured that even if there was relativity involved, it wasn't dependent on the person themselves.
 
-Meanwhile, Casey and Lacey continued onwards with their trials, and managed to unlock the mana sense feature within the first set itself thanks to Revian and Kevan's combined insights. With their input, Guy confirmed the conclusion. Of course, there were additional condition and variables that warranted testing (such as age, cultivation realm of subject, and so on), but for the 
+Meanwhile, Casey and Lacey continued onwards with their trials, and managed to unlock the mana sense feature within the first set itself thanks to Revian and Kevan's combined insights. With their input, Guy confirmed the conclusion. Of course, there were additional condition and variables that warranted testing (such as age, cultivation realm of subject, and so on), and the teens were also on pins and needles to continue testing out those variations, but Guy was quick to raise his hand and curb their enthusiasm.
+
+"We first need to conclude the information gained from this study before moving forward," Guy declared. "Have you achieved the purpose of your experimentation?"
+
+"We did... right?" Kevan answered, growing doubtful upon not receiving an affirmatory nod.
+
+"You don't know if you did. You saw a trend, a relationship maybe, but are you certain that the observed trend is what you think it is? You cannot conclude your experiment after data collection, there is still the matter of cleaning, processing and analysing the data. You need to extract meaningful conclusions, confirm or disprove theories, or even create new ones. Just because you can arrange cut wood into a chair, doesn't mean that it is ready to sit on. You need to hammer the nails in, confirm that the sizes are cut properly, and then treat the wood afterwards."
+
+The enthusiasm that was bubbling within the teens quelled markedly upon hearing Guy's words. But it didn't discourage them, after all there was still work left to be done.
+
+"Oh, I just remembered!" Guy exclaimed just as he turned to leave. "Although you guys succeeded in quantifying mana, you need to define a unit that can be used in scientific discussions. Take some to think it through too."
+
+And with that said, Guy took his leave and the teens got down to business.
+
+A week later, a momentous event transpired in the True World Sect's Library. Unlike usual, the place was crowded with all the members of the Sect, and loud chatter rung amidst the usually silent halls.
+
+The doors of the library swung open, causing a silence to permeate through the crowd. The crowd then split in two, allowing for Guy, who was at the entrance, to walk through. Behind him, followed Revian, Kevan, Casey and Lacey.
+
+Guy walked in front of the crowd and ascended the impromptu wooden stage placed up front, with the teens following him.
+
+"Today marks a special day, for the True World Sect," Guy declared. "Four of your peers, standing behind me right now, Revian, Kevan, Casey and Lacey, have managed to achieve something amazing. Their unwavering dedication, intellectual prowess, and tireless efforts have culminated in a breakthrough that holds the promise of reshaping the study of magic for the better. Their efforts have illuminated new pathways for study that will, doubtlessly, motivate those of you present to undertake research work of your own. What they have done, essentially, is set the foundation of what I expect to be a revolution in magic!"
+
+As he said this, Guy revealed a cloth-covered object in his hand and unveiled it with a flourish. "This is the manuscript - the culmination of many weeks of research."
+
+At the top, in bolt and large letters, it read: "Introducing the Mana Unit (Symbol M): A Novel Way to Measure Mana."
+
+(Here, the M is the capitalised Greek Letter Mu).
+
+"You colleagues have uncovered a new truth of this world," Guy spoke, but his voice grew louder and imperious. "The Mana Unit: The amount of mana required when displacing one cubic-centimetre of distilled water to raise the temperature of one-hundredth cubic centimetre of alchemically pure Enthermic Fluid by one Kelvin using the |Firestarter| spell."
+
+The crowd held their breath as Guy raised the manuscript above his head, for all to bear evidence to its inception. Then, with a flourish of his coat, he descended from the stage and walked up to a shelf.
+
+"And now, this newly learned truth of the world has found its new home amongst all other known truths, in the library of the True World Sect, forever to be immortalised in the annals of history!"
+
+And with a dramatic push, the manuscript was slotted in.
+
+Deep inside Guy's core - within the Church of the True World - loud gongs, shrieks, bellows and bells harmonised as one, bathing the manifestation in an auspicious aura.
+
+Amidst one of the rows of books in the Church of the True World, a golden light started to flood out, before condensing and taking a new shape - the shape of a thing book.
+
+As the light dimmed, and the shape turned fully solid, a new entry found its place in the ever-growing library in Guy's soul.
+
+"Introducing the Mana Unit (Symbol M): A Novel Way to Measure Mana."
+
+____
+
+**Next**
+* [[volume-5.chapter-358]]
