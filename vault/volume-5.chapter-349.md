@@ -2,7 +2,7 @@
 id: 5jnhw8ky7ej1zmffmxx5zpo
 title: Chapter 349 - The Design Process
 desc: ''
-updated: 1689757248427
+updated: 1691135813211
 created: 1689332255873
 ---
 
@@ -28,27 +28,27 @@ Individually, these three concepts didn't make much sense. However, when Shuri b
 
 "And tactility..." Shuri harkened back to her method to solve the Rubik's cube. She had familiarised herself with it to the point that the solution process had turned into muscle memory. She could quite literally solve the cube with her eyes closed.
 
-"You need such familiarity and speed when casting spells, especially in a combat capacity," she affirmed. She and her visually gifted peers could cast spells in quick succession with the help of the wand. Now, she could even cast the simpler spells without the help of the wand.
+"You need such familiarity and speed when casting spells, especially in a combat capacity," she affirmed. She and her visually gifted peers could cast spells in quick succession with the help of the wand. Now, she could even cast simpler spells without the help of the wand.
 
 Images, concepts, ideas and solutions started to flash through her memory, nothing stood in place for more than a second. To her, it felt like she was on the cusp of coming up with an answer, but was just one step shy. It was almost the same as when you're on the edge of a sneeze but not all there yet, except the moment was extended for a much longer and more excruciating duration.
 
-Shuri grabbed her head and released a long breath of air. The way her mind was approaching the problem felt scattered and aimless. To her, it felt similar to a candle burning from the middle. "There's no end to it if things go on like this. I need a process."
+Shuri grabbed her head and released a long breath of air. The way her mind was approaching the problem felt scattered and aimless. To her, it felt similar to a candle burning in the middle. "There's no end to it if things go on like this. I need a process."
 
-She retrieved an empty parchment paper from her desk and started by writing "Defining the Problem" as a heading. The first step to the design process was understanding what is the problem that needs solving. This is usually written in the form of a design brief. This answers the question of: Who the target audience or market is? What the objective of the project is (what is the need or want being met)? When is the project deliverable by? Where is the product meant to be used? Why is this project significant?
+She retrieved an empty parchment paper from her desk and started by writing "Defining the Problem" as a heading. The first step in the design process was understanding what is the problem that needs solving. This is usually written in the form of a design brief. This answers the question of who the target audience or market is. What the objective of the project is (what is the need or want being met)? When is the project deliverable by? Where is the product meant to be used? Why is this project significant?
 
-"The target audience is Yohn- No, that seems too specific. Let's say it's for the visually impaired folk looking to walk the path of magic and cultivation. The objective is as defined, which is to provide an alternate pathway to cast spells, to work the mana channels and advance in cultivation. It needs to be finished as soon as possible. The output from this project will be used in place of a magic wand. It is significant because..."
+"The target audience is Yohn- No, that seems too specific. Let's say it's for the visually impaired folk looking to walk the path of magic and cultivation. The objective is as defined, which is to provide an alternate pathway to cast spells, work the mana channels and advance in cultivation. It needs to be finished as soon as possible. The output from this project will be used in place of a magic wand. It is significant because..."
 
-Shuri stopped writing and looked at the incomplete sentence with a bitter smile. She felt there was definitely some irony in answering that question. All her life, all Shuri worried about and cared for was herself; survival of self above all else. This could be said to be the first time she was every attempting to do something of significance for the benefit of another person. She could string together words and rationalise her actions to say that it would benefit her in the end. But the fact remained, "In the end, this project will make magic more accessible to people. Disabilities won't be a barrier of entry any more."
+Shuri stopped writing and looked at the incomplete sentence with a bitter smile. She felt there was definitely some irony in answering that question. All her life, all Shuri worried about and cared for was herself; survival of self above all else. This could be said to be the first time she was ever attempting to do something of significance for the benefit of another person. She could string together words and rationalise her actions to say that they would benefit her in the end. But the fact remained, "In the end, this project will make magic more accessible to people. Disabilities won't be a barrier of entry any more."
 
 With the brief finalised, it was time to jot down the design specifications.
 
-The device should provide tactile cues to convey information to the user. This could involve buttons, switches, or touch-sensitive surfaces that offer tactile feedback, such as raised symbols or Braille. Shuri discarded the idea of audio feedback or cues because it was impractical in combat. You would basically be projecting your actions to the opponent, and it was possible for the sound to get doused in the heat of battle.
+The device should provide tactile cues to convey information to the user. This could involve buttons, switches, or touch-sensitive surfaces that offer tactile feedback, such as raised symbols or Braille. Shuri discarded the idea of audio feedback or cues because it was impractical in combat. You would basically be projecting your actions to the opponent, and the sound could get doused in the heat of battle.
 
 The device should be designed with accessibility in mind, ensuring that blind users can easily and intuitively interact with it. This includes considering factors such as button placement, size, and spacing, as well as designing a logical and straightforward user interface.
 
 Since the person cannot see, the device should represent the spells in a non-visual format.
 
-The device could incorporate features to assist with navigation and orientation, helping blind users locate and select spells. This might involve directional cues, or a tactile interface that allows for exploration and easy navigation.
+The device could incorporate features to assist with navigation and orientation, helping blind users locate and select spells. This might involve directional cues or a tactile interface that allows for exploration and easy navigation.
 
 Considering the practicality of using the device, it should be designed to be durable, lightweight, and portable. This allows users to easily carry and use the device in different environments or settings.
 
@@ -58,7 +58,7 @@ Use durable and reliable materials that can withstand regular usage and potentia
 
 Finally, for the matter of future-proofing, the device could include features to support learning and skill development for blind users. This might involve a tutorial mode, accessible documentation, or built-in learning resources to help users understand the magic system and improve their casting abilities.
 
-These were amongst the more important design specifications Shuri listed down.
+These were among the more important design specifications Shuri listed.
 
 The design brief and specifications provided Shuri with a solid and comprehensive framework to guide her throughout the design process. They served as a valuable reference, ensuring that she wouldn't deviate or become distracted by unrelated ideas. Now, whenever her mind generated new concepts or solutions during idle moments, Shuri could assess their relevance and alignment with the brief and specifications. This allowed her to easily discard irrelevant ideas or store them for future consideration, maintaining a clear focus on the intended goals of the project.
 
@@ -66,9 +66,9 @@ With the initial groundwork of the design brief and specifications completed, Sh
 
 Before diving into the research, Shuri recognized the importance of obtaining a first-hand perspective from Yohn, the intended user of the magic casting device. Understanding his unique needs, preferences, and experiences would be invaluable in shaping the design and ensuring its effectiveness. With this in mind, she planned to arrange a private meeting with Yohn, providing an opportunity for an open and honest discussion.
 
-In addition to consulting with Yohn, Shuri also planned to explore the vast resources available at the library. She hoped to discover information on existing aids designed for the visually impaired, seeking inspiration and insights. Shuri was particularly interested in uncovering any records or historical accounts related to blind mages, if such information existed. This knowledge could potentially shed light on past attempts to address the challenges faced by visually impaired individuals in magic casting.
+In addition to consulting with Yohn, Shuri also planned to explore the vast resources available at the library. She hoped to discover information on existing aids designed for the visually impaired, seeking inspiration and insights. Shuri was particularly interested in uncovering any records or historical accounts related to blind mages if such information existed. This knowledge could potentially shed light on past attempts to address the challenges faced by visually impaired individuals in magic casting.
 
-However, Shuri was well aware that the library might not hold all the answers she sought. To bridge any gaps in information, she planned to leverage the regular visits of travelling merchants to the village. Shuri intended to commission purchases or seek their guidance in finding relevant materials, devices, or even accounts from other bookstores that might provide further insights into her research.
+However, Shuri was well aware that the library might not hold all the answers she sought. To bridge any information gaps, she planned to leverage the regular visits of travelling merchants to the village. Shuri intended to commission purchases or seek their guidance in finding relevant materials, devices, or even accounts from other bookstores that might provide further insights into her research.
 
 Feeling a mixture of exhaustion and determination, Shuri chuckled at the irony of returning to the library so soon after returning from that place. With a tired groan, she gathered her belongings and began her ascent from the dormitory and up the steps leading back to the library.
 
