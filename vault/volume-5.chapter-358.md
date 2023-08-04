@@ -2,25 +2,18 @@
 id: 0uf3cv6tnerljixv9ksekvp
 title: Chapter 358
 desc: ''
-updated: 1690972003038
+updated: 1691150920739
 created: 1690972000014
 ---
 
-- The group gets brought in front of Guy.
+Guy held a small party in the library, with cake (which Grace had grown surprisingly proficient in baking), to celebrate the great achievement. As everyone indulged in the festivities, Guy moved to the side, out of side, and entered the Church of the True World. As the manuscript came together and found its place in the library, Guy started to feel a stimulation in his cultivation. It wasn't anything substantial, but it was out of the ordinary. Usually, this sort of stimulation only happened when people were inside the Church and were made to gain inspiration, learn something new, or attain a paradigm shift.
 
-- They run tests to see what all Revian can see with his new sight:
-    - It is found to be an unlocked feature in his mana sense.
-    - Mages naturally gain this power in higher realms, to see the amount of mana being used, but it is through instinct. For Revian, this is more quantified.
-    - Limits:
-        - Cannot see if another's mana sense is blocking his view.
-        - People at higher realms and with more control over their mana can fool you as well.
+The deviation from the norm implied that there were other ways for Guy to simulate his cultivation.
 
-- Since this is basically something is known, but not quantified, there is little effect to cultivation.
+The Church was just as he remembered it. The moment he entered it, he suddenly lost all feeling on the right side of his body, as the Other Guy took control of that section.
 
-- Test of repeatability. Guy decided to stick around when they start testing out with Kevan.
+"Did you notice what just happened?" Guy asked his right half.
 
-- Kevan also ends up getting this ability, but much faster as he has Revian's notes to help guide his observation.
+"Follow me," the Other Guy answered with a monotonous drone. Guy relinquished control, and allowed his body to move past the pews and into the rows of bookshelves.
 
-- Casey and Lacey achieve success next
-
-- While the results of the experiment gets immortalised in the Sect's library as well as in Guy's Church of the True World, Revian moves on to implement his own experiment: Disproving the Second Law of Thermodynamics.
+Guy paused before one row of books and threw up an accusatory finger at a new entry in the rows.
