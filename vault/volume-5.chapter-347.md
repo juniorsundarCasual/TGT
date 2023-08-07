@@ -2,7 +2,7 @@
 id: bd5ryzylcy7ce4vxwflj2s3
 title: Chapter 347 - (Un)Realistic Deadlines
 desc: ''
-updated: 1690796680846
+updated: 1691438585969
 created: 1688835961475
 ---
 
@@ -16,7 +16,7 @@ Then after a pause, she added, "Maybe others in this Sect as well. You won't fin
 
 "Well, for the sake of discussion, I'm going to limit myself to cultivation and magic only. For a Teacher, the performance of a Student is a sign of competence not just for the Student, but for the Teacher themselves. The better a Student is in their journey through magic, the better it reflects on the Teacher's portfolio. However-"
 
-Shuri raised a finger and wore a morose frown. "There is a line. A line that when crossed turn all the positive social credits a Teacher earns thanks to their overachieving Student turns into poison. And you will know when that line is crossed when the comments you hear all around after a rather shining performance by the Student no longer praise the Teacher but start questioning whether the Teacher is required in the first place?"
+Shuri raised a finger and wore a morose frown. "There is a line. A line that when crossed turns all the positive social credits a Teacher earns thanks to their overachieving Student into poison. And you will know when that line is crossed when the comments you hear all around after a rather shining performance by the Student no longer praise the Teacher but start questioning whether the Teacher is required in the first place?"
 
 "If the Teacher's ego is so fragile, they shouldn't be taking on the responsibility in the first place!" Markus responded with a sickened frown.
 
