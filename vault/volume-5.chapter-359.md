@@ -2,7 +2,7 @@
 id: 2cx7ckgrlosjfdkz9fea0m6
 title: Chapter 359 - The Plan
 desc: ''
-updated: 1691409924432
+updated: 1691573468368
 created: 1691137715798
 ---
 
@@ -10,7 +10,7 @@ The third stage of the design process was the plan. It is the stage that exists 
 
 This was especially important in Shuri's case, since there were a lot of empty blanks between the abstract design and the tangible product she was trying to create. For instance, what kind of program was she to inscribe into the mana core? What kind of casing was she going to go with for the product? How was she to assemble everything?
 
-You see, these were the kind of pertinent questions that needed answering to get the design from a two-dimensional image to a three-dimensional object, which was by no means an easy feat. This was why Shuri had to spend two entire weeks just to work out all the kinks and develop a realistic plan that, if followed by any lay-person, could actualise the design.
+You see, these were the kind of pertinent questions that needed answering to get the design from a two-dimensional image to a three-dimensional object, which was by no means an easy feat. This was why Shuri had to spend three entire weeks just to work out all the kinks and develop a realistic plan that, if followed by any lay-person, could actualise the design.
 
 Why must the plan be finished before beginning the actualisation process?
 
@@ -33,6 +33,8 @@ The chair she had designed for her room and was using right now was hardware. Th
 Therefore, Shuri had to draft multiple versions of the potential program that would go inside the mana core, and then build an interface housing that the user would interact with and operate the core. Another limiting factor was that the size of the core and housing together could not exceed the size of a human palm. This meant that there was ultimately limited space for her to squeeze the program into.
 
 This iterative process of designing a program, modifying the interface and housing, and simulating the result mentally was unbelievably difficult. Especially because it was impossible to predict with utter certainty if the interface would be successful unless it was attempted practically.
+
+In addition to all of this, the hardest part for Shuri was to enumerate all the possible combinations the wand to achieve and list out the way it would be obtained. The whole wand was a puzzle piece, after all, and she was the puzzle-master working backwards from the solution to figure out exactly how you could get there without messing up others along the way. The difficulty of this process grew exponentially with each new configuration envisioned and brought into the fray. Sometimes, she even had to scrap her entire design because she found a simpler way to introduce the new combination. 
 
 Nonetheless, Shuri persevered, and a feasible solution was formed as a blueprint.
 
