@@ -2,7 +2,7 @@
 id: 4b6xdrv7oelvmjdoqy32oqc
 title: Chapter 360 - The Creation
 desc: ''
-updated: 1691574382996
+updated: 1691667675748
 created: 1691394981312
 ---
 
@@ -42,7 +42,7 @@ With a satisfied smile, Shuri pocketed the apparatus and walked out of her room 
 
 As it was past sunset, and close to dinner time (which Shuri did not want to miss) the field was empty. She positioned herself at the centre, and faced one of the target dummies on the other end.
 
-She brought out a dark strap of cloth from her jacket pocket and tied it around her eyes, essentially blinding her. She then held her creation on her right hand and pointed it in the general direction of the dummy. Her fingers twisted and turned the device with maddening efficiency. As she did this, the device started to project spell circle modules in front of it, that began to connect and disconnect until a simple spell circle formed in place. During this entire process, the ball would release a series of almost inaudible sounds like thumps, thwumps, thomps, shooms, shwumps, chings, twamgs, bongs, and many more. Some would repeat when the combination of movements she performed were similar. With the last piece in position, and the spell circle completed, a faint and pleasant cling echoed from the core and the projection started to rotate as mana was drawn from her core and fuelled into the spell.
+She brought out a dark strap of cloth from her jacket pocket and tied it around her eyes, essentially blinding her. She then held her creation on her right hand and pointed it in the general direction of the dummy. Her fingers twisted and turned the device with maddening efficiency. As she did this, the device started to project spell circle modules in front of it, that began to connect and disconnect until a simple spell circle formed in place. During this entire process, the ball would release a series of almost inaudible sounds like thumps, thwumps, thomps, shooms, shwumps, chings, twangs, bongs, and many more. Some would repeat when the combination of movements she performed were similar. With the last piece in position, and the spell circle completed, a faint and pleasant cling echoed from the core and the projection started to rotate as mana was drawn from her core and fuelled into the spell.
 
 From the centre of the spell circle, a marble sized |Fireball| took shape and jetted out towards the dummy. A small snap resonated across the field, which Shuri took as a sign that her spell had succeeded. Just as she moved the cloth from over her eyes and stopped supplying mana, the ball in the palm of her hands started to reorient its layers until it returned to the way it was in the beginning.
 
