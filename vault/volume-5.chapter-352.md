@@ -2,23 +2,23 @@
 id: cpyziaffugrgg1kq2u9tf37
 title: Chapter 352 - The Frivolous Four - The Spark (Part One)
 desc: ''
-updated: 1690791329580
+updated: 1691743293308
 created: 1689936060204
 ---
 
 Socratic seminars were fun, Markus admitted. Although the set-up took a fair bit of work on his end, the actual seminar was self-driving. All he had to do was sit aside and focus on the direction the discussion was moving. If said discussion moved off-topic or lost momentum, he had to step in and reignite things. But otherwise, things were mostly hands-off. Markus liked that a lot as it introduced a new dynamic to every lesson.
 
-Before, as he acted as the lecturer and taught lessons through the standard teaching process, he'd created a distance between himself and his peers. It was an awkward dynamic, to be honest, since they were basically the same age, yet people talked to him like he was some old person. It also extended outside the classroom. For instance, if he entered the mess hall or the recreation rooms, the lively conversations that were running on inside would all cease immediately and turn all hush-hush. The only people he could talk to openly was Marie, and Furion (though his visits to the Sect were infrequent nowadays). Even Jean spoke to him with reverence!
+Before, as he acted as the lecturer and taught lessons through the standard teaching process, he'd created a distance between himself and his peers. It was an awkward dynamic, to be honest, since they were basically the same age, yet people talked to him like he was some old person. It also extended outside the classroom. For instance, if he entered the mess hall or the recreation rooms, the lively conversations that were running on inside would all cease immediately and turn all hush-hush. The only people he could talk to openly were Marie, and Furion (though his visits to the Sect were infrequent nowadays). Even Jean spoke to him with reverence!
 
-But the Socratic seminar seamlessly bridged that gap. Within just two sessions, Markus found himself arguing and debating amongst.
+But the Socratic seminar seamlessly bridged that gap. Within just two sessions, Markus found himself arguing and debating with his students on equal footing.
 
 "The Second Law of Thermodynamics isn't a suggestion!" Revian evoked. "It's an absolute fact that governs the way the world behaves! There is no way you can make a cold room even colder without external work."
 
-Markus nodded his head vigorously and proposed, "But what constitutes work? Would spells or enchantments count as work? How does mana play a role in calculating entropy? Standard definitions describe work to occer in the interaction between the compressor, evaporator and the condenser. These are mechanical systems. If we were to replace this with magical systems, how would the definition change? And finally, IF we do use magic to go about extracting heat from an already cold system, does it still adhere to the second law of thermodynamics?"
+Markus nodded his head vigorously and proposed, "But what constitutes work? Would spells or enchantments count as work? How does mana play a role in calculating entropy? Standard definitions describe work to occur in the interaction between the compressor, evaporator and condenser. These are mechanical systems. If we were to replace this with magical systems, how would the definition change? And finally, IF we do use magic to go about extracting heat from an already cold system, does it still adhere to the second law of thermodynamics?"
 
 "That..." Revian had no response.
 
-"I guess that's something for all of us to think about, huh?" Markus said to everyone else in the circle. "Revian makes a good point here. There are a lot of rules and laws in the natural world that fall apart when mana is brought into the picture. It is in that grey area that we mages operate. Magic introduces chaos, and it falls on use to make sense of it and control it."
+"I guess that's something for all of us to think about, huh?" Markus said to everyone else in the circle. "Revian makes a good point here. There are a lot of rules and laws in the natural world that fall apart when mana is brought into the picture. It is in that grey area that we mages operate. Magic introduces chaos, and it falls on us to make sense of it and control it."
 
 Markus looked back at Revian, who was still in deep thought, "Let's end today's seminar. Oh, and Revian! Can I have a word?"
 
@@ -40,7 +40,7 @@ Revian clicked his tongue in annoyance and quickly wished Markus goodbye.
 
 ____
 
-At first, Revian harbored a strong aversion to Socratic seminars. He had a preference for the old-style classes, where clear instructions were given, and everything was straightforward. The seminars, in contrast, proved to be quite the opposite. They demanded extensive self-preparation, involving numerous texts to be read and understood. Moreover, he was required to engage in discussions and debates about his comprehension with his peers. Despite the non-judgmental atmosphere, Revian couldn't help but feel embarrassed whenever someone corrected him or pointed out a misunderstanding.
+At first, Revian harboured a strong aversion to Socratic seminars. He had a preference for the old-style classes, where clear instructions were given, and everything was straightforward. The seminars, in contrast, proved to be quite the opposite. They demanded extensive self-preparation, involving numerous texts to be read and understood. Moreover, he was required to engage in discussions and debates about his comprehension with his peers. Despite the non-judgmental atmosphere, Revian couldn't help but feel embarrassed whenever someone corrected him or pointed out a misunderstanding.
 
 His inner thoughts would berate him, wondering how he could have made such a foolish error. He feared that others might ridicule him, even though it remained internalized. However, as time passed, a realization dawned upon him. He discovered that he wasn't alone in this struggle; everyone else was grappling with similar challenges. Understanding that everyone makes mistakes was crucial, as it led to the absence of judgment, even from Markus, the seminar leader. Gradually, Revian came to see these experiences as valuable learning opportunities. He understood that failures, rather than successes, often leave a lasting impression. Consequently, embracing his mistakes and comprehending why and when he went wrong enabled him to internalize concepts more effortlessly.
 
@@ -56,7 +56,7 @@ To answer this question, Revian knew that he would have to design a controlled e
 
 In the end, the decision was a no-brainer - he could play with his friends whenever he wanted to. But his curiosity could dwindle at any second. With decisive steps, Revian turned right and made his way towards the library. He trudged up the stairs with heavy breaths until he was greeted by the majestic building that housed all the knowledge the Sect had to offer. He pushed through the doors and was met with a tranquil silence that invited him to let go of his inhibitions and indulge in learning.
 
-Revian made his way to the large, communal study table inside and was surprised to notice that Kevan was present here as well, along with Lacey and Casey.
+Revian made his way to the large, communal study table inside and was surprised to notice that Kevan was present there as well, along with Lacey and Casey.
 
 "What are you three doing here?" Revian inquired in a low whisper, so as to not disturb anyone else. "I thought you guys were at the recreation room."
 
@@ -68,7 +68,7 @@ Revian made his way to the large, communal study table inside and was surprised 
 
 Revian hummed in affirmation, "I remember that one, what of it?"
 
-"Well, while you left for lunch, Kevan, Lacey and I stayed behind and talked with Senior Sister Marie about it for a bit longer," Casey continued. "And, well, the conversation ended up discussing the nature of mana consumption when using spells."
+"Well, while you left for lunch, Kevan, Lacey and I stayed behind and talked with Senior Sister Marie about it for a while longer," Casey continued. "And, well, the conversation ended up discussing the nature of mana consumption when using spells."
 
 "How so?" Revian probed.
 
@@ -84,9 +84,9 @@ Revian alternated his gaze between the others and noticed the same level of conv
 
 "Something similar," Revian mumbled as he considered his friends' words. Their investigation was warranted. Till now, they had more or less taken mana expenditure as a relative measure - 'How much more mana does casting a |Fireball| without coal use compared to one with it?'.
 
-"I guess you'd have to start by defining a unit of measure for mana which is uniform and consistent. And then, you will have to come up with a reliable way to measure mana," Revian hypothesised. As he said this, Casey and Lacey bit their lips to form a thin smile and pointed at the same phrases already jotted down in the parchment paper before them.
+"I guess you'd have to start by defining a unit of measure for mana which is uniform and consistent. And then, you will have to come up with a reliable way to measure mana," Revian hypothesised. As he said this, Casey and Lacey bit their lips to form a thin smile and pointed at the same phrases already jotted down on the parchment paper before them.
 
-Revian revealed an embarrassed smile and said, "I guess you guys have already considered these things. To be honest, though, I think the results of your experiment will really help me out in my own. Do you guys mind if I join in?"
+Revian revealed an embarrassed smile and said, "I guess you guys have already considered these things. To be honest, though, I think the results of your experiment will really help me out in my own experiment. Do you guys mind if I join in?"
 
 "The more the merrier," Kevan invited. "A fresher perspective may give us the breakthrough we need to get started."
 
