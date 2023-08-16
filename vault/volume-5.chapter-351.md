@@ -2,7 +2,7 @@
 id: 2ahmmryrm94wc50e86vctr6
 title: Chapter 351 - The Designs
 desc: ''
-updated: 1692184436164
+updated: 1692185318102
 created: 1689759663691
 ---
 
@@ -38,7 +38,7 @@ ____
 
 Shuri let the design concepts stew for a few days. She fought the urge to get into the design process as soon as possible and decided to immerse herself in her other responsibilities. The purpose of this detour was to clear her mind and let the agitation settle. Sure, getting the product out as soon as possible would be beneficial for Yohn, and possibly others. However, what was more important was to get out a good product - something that was reliable. And through her experience and knowledge, rushing this process would only work against that goal.
 
-After a five, most excruciating, day's wait, Shuri was finally prepared to return to the design process with full force. The first step, of course, was to sit down and evaluate her design concepts against the design specifications. Although it was a point of guidance when they were conceptualised, there was room for minor deviations that could leak through and had to be nipped in the bud.
+After five, most excruciating, days' wait, Shuri was finally prepared to return to the design process with full force. The first step, of course, was to sit down and evaluate her design concepts against the design specifications. Although it was a point of guidance when they were conceptualised, there was room for minor deviations that could leak through and had to be nipped in the bud.
 
 For instance, one of the concept additions to the gesture-based solutions involved audio cues for "start" and "finish". Since the specification expressly avoided audio as a mode of guidance, she had to nix that idea.
 
