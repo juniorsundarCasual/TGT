@@ -1,8 +1,8 @@
 ---
 id: 3xjqpex4q7hn8uq1umuoyrr
-title: Chapter 363
+title: Chapter 363 - The Journeying Woman
 desc: ''
-updated: 1692211085940
+updated: 1692262619256
 created: 1692184758106
 ---
 
@@ -10,7 +10,7 @@ created: 1692184758106
 
 "I told you, there's still some work left for us to do," Jean responded with an amused smile.
 
-"But you said that we were returning home! I need to get back before Shuri gets stronger, and I can't defeat her any more," Kili argued.
+"But you said that we were returning home! I need to get back before Dora gets stronger, and I can't defeat her any more," Kili argued.
 
 Jean waved her hand dismissively and reminded, "I don't think you should be using your powers before we know what exactly is happening to you. Learning through experimentation is all well and good as long as it isn't your body that you are messing around with."
 
@@ -56,4 +56,69 @@ Her journey ultimately landed her in the current settlement, which was a village
 
 "You can explain what happened to her as we go to the location," Jean pointed out, to which the old man nodded frantically and explained.
 
-"The child, she was playing on the tree near "
+"The child, she was playing on the tree near our fields," the old man explained while panting. "But then she slipped and fell. I was too far away to catch her- and- and-"
+
+At that instant, as they neared the accident site, Jean heard a woman's loud and lamenting wail. Deducing that this was probably where the aforementioned child was, she left the old man behind and rushed onwards. There, she stumbled upon a large crowd forming around the tree, which happened to border the fencing for the field. And on that fencing, was the impaled and unconscious body of the girl, eight years of age. Beside the girl, were her father and her collapsed mother.
+
+The wooden fencing had pierced through her stomach. An immediate scan with her mana sense revealed that the internal damage was minimal. But would be exacerbated real soon, since the father was about to lift the girl out from the fence.
+
+"Stop!" Jean exclaimed before rushing forward and pushing the father aside. "Do you want her to die?"
+
+"What are you-" the father started with unbridled rage, but faltered upon realising who his attacker was. But his ire reemerged and while shakily pointing his finger, he yelled, "Y-You leave my daughter alone!"
+
+At that instant, the elderly man forced his way through the crowd and yelled, "Joris! Let the Physician do her work!"
+
+"Old man! You had one job, to take care of my girl. And you failed that! And now, you bring this- this-"
+
+"She fixed my back! Don't you remember?" The old man reasoned. "She could save little Rind too-"
+
+"Is it even possible to come from an injury like that?" Someone in the crowd murmured.
+
+That audible comment caused the already devastated mother to lose consciousness and the father to panic even more. This caused Jean's presence of mind to crack. Her eyes narrowed down on the individual who made the comment, a portly, middle-aged woman, and bore down on her.
+
+"If no one here has anything meaningful to contribute, leave!" Jean barked. "Is it fun watching people suffer? If that is the case, I believe experiencing the pain first hand will scratch that itch of yours more satisfactorily."
+
+That threat caused the crowd to disperse immediately.
+
+"And you," Jean said to the father this time. "Rind here can still be saved. I need you to take your wife home and make her drink some water to calm herself."
+
+"B-But-"
+
+The elderly man took over and quickly swatted his son on the back of his head, "Listen to the good child! Look at what happened to your wife. You aren't doing anything by being here any ways."
+
+Jean thanked the man with a light nod before approaching the impaled girl. The victim was barely conscious, due to the blood loss.
+
+Then, Jean grabbed the wooden fence above and below the girl's impaled region and broke it off, freeing the child from the static post. Jean carried her carefully and placed her over an unfurled sheet, courtesy of Kili who had carried her work bag along and prepped the treatment area. During their travels, Kili had picked up techniques to reduce the burden on Jean when it came time to treat patients. One such trick was the process of santising and preparing the work area.
+
+"She's lost a lot of blood..." Jean mumbled. At that instant, a petite hand extended forwards from her side.
+
+"What are you doing?" Jean asked Kili.
+
+"You needed blood, right?" Kili answered with a cute, yet serious expression.
+
+Jean ruffled the girl's head and said, "Why would I need yours? Stop offering up your blood for everything! Go fetch the Vitality Invigoration Potion. You remember where it is, right?"
+
+Kili looked up thoughtfully before nodding in affirmation. She ruffled through the bag and retrieved a phial with a deep-red liquid in it.
+
+"You remember what this is made of?" Jean asked while carefully pouring the liquid down the injured girl's throat.
+
+"Its primary ingredient is the Enduring Lotus," Kili answered.
+
+"What else can the Enduring Lotus be used for?" Jean continued.
+
+"The pad of the lotus can be squeezed to extract its oil, which can then be used to coat items with a temporary waterproof layer. The seeds the lotus can be squeezed for oils and can be used for cooking. The seeds can also be eaten as a light snack," Kili narrated from memory.
+
+"What else?" Jean asked. This time, Kili revealed a sheepish smile in defeat.
+
+"Due to the strength of the lotus stem and root, we can use it to make ropes in a pinch. Peasants also use it to make temporary and cheap clothing or apparel," Jean finished. She then patted Kili on her head and said, "Good job!"
+
+Turning away from the girl's beaming smile, Jean looked towards the child who was just gaining consciousness. The potion was taking effect, as more blood gushed out from the impaled site.
+
+"This is going to hurt a little," Jean warned in a soothing voice. She then placed a roll of cloth in the child's mouth, "Bite down hard!"
+
+A muffled scream echoed across the field as Jean removed the fencing and started to surgically fix the ruptured intestines.
+
+____
+
+**Next**
+* [[volume-5.chapter-364]]
