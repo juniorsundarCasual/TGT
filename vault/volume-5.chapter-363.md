@@ -2,7 +2,7 @@
 id: 3xjqpex4q7hn8uq1umuoyrr
 title: Chapter 363
 desc: ''
-updated: 1692187505507
+updated: 1692211085940
 created: 1692184758106
 ---
 
@@ -44,12 +44,16 @@ Jean then spent three entire days, focussed completely on tracing out neural and
 
 Unfortunately, her attempt was only a half-success since one of the twins could not be saved. Jean was dismayed by the outcome, but the mother was overjoyed - which was understandable. She was expecting the loss of two children, but one survived. In a world where the success of childbirth grows more capricious as the number of children being born at once increases, having a success rate of 2 out of 3 was unbelievably generous.
 
-But Jean did not feel the mood to celebrate with the mother, as she was more preoccupied with burying the forgotten body of the expended twin.
+In fact, the completion of the procedure also pushed Jean into the Internal stage of the Foundation Establishment Realm. But Jean did not feel the mood to celebrate, as she was more preoccupied with burying the forgotten body of the expended twin.
 
-This was Jean's second loss after advancing (the first being Josie), and it was another notch in her heart.
-
-After working through the sorrow, Jean resolved to cancel her return and continue her initial objective of travelling around and plying her medical craft.
+This was Jean's second loss after advancing (the first being Josie), and it was another notch in her heart. After working through the sorrow, Jean resolved to cancel her return and continue her initial objective of travelling around and plying her medical craft.
 
 She declared internally that if she were to come across another case of conjoined twins, she would ensure that both would survive. To do that, though, she needed practise, which could only be accrued through her journey - much to Kili's chagrin.
 
-And like that, Jean turned away from her current trajectory and went to the next settlement, and then the next, and so on.
+And like that, Jean turned away from her current trajectory and went to the next settlement, and then the next, and so on. With each settlement visited, Jean gained the opportunity to work with illnesses and afflictions both known and unknown. This in turn expanded her repertoire of knowledge.
+
+Her journey ultimately landed her in the current settlement, which was a village close to becoming a township, a few hundred kilometres southwards from the Capital.
+
+"You can explain what happened to her as we go to the location," Jean pointed out, to which the old man nodded frantically and explained.
+
+"The child, she was playing on the tree near "
