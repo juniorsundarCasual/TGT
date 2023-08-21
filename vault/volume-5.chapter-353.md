@@ -2,11 +2,11 @@
 id: 44qqd29dnp7y32wzt9i09et
 title: Chapter 353 - The Frivolous Four - The Spark (Part Two)
 desc: ''
-updated: 1690791329584
+updated: 1692617332343
 created: 1690140208237
 ---
 
-Revian hummed for a few seconds and said, "I remember Senior Brother Markus saying that the primary reason why we use a wand early on is because our mana pools don't have the capacity to sustain a ranged spell. Why don't we start there?"
+Revian hummed for a few seconds and said, "I remember Senior Brother Markus saying that the primary reason why we use a wand early on is that our mana pools don't have the capacity to sustain a ranged spell. Why don't we start there?"
 
 "How exactly do you suggest we do that?" Lacey challenged, causing Revian to shrink back.
 
@@ -18,7 +18,7 @@ The twin mumbled something under her breath and released a cold snort.
 
 "There needs to be a way to standardise the process, so that no matter who performs the experiment, they will get the same result," Kevan reminded. "Think of ways to standardise the experiment, and I believe the answer we are looking for will present itself."
 
-The group thought about the idea in silence, until something popped into Revian's mind. "Mana exhaustion!"
+The group thought about the idea in silence until something popped into Revian's mind. "Mana exhaustion!"
 
 The exclamation was loud and attracted the attention of others in the library - a loud shush echoed from the other side causing the group's heads to shrink into their necks in embarrassment.
 
@@ -28,7 +28,7 @@ The twins gave Revian an annoyed glare while Kevan scooted closer and asked, "Wh
 
 "That's dangerous!" Casey interjected. "Senior Sister Jean warned us about the dangers of mana exhaustion. Besides, what can we even do with that as a baseline?"
 
-"I don't know..." Revian mumbled. "Everyone has a different mana capacity in their cores. We don't know if mana consumption is constant accross a group of people casting the same spell. There's a lot of variables here. But, at the end of the day, mana exhaustion ties all of us together, does it not? Everyone suffers from it when they have drained their cores completely, which means that it is a valid condition to establish a baseline."
+"I don't know..." Revian mumbled. "Everyone has a different mana capacity in their cores. We don't know if mana consumption is constant across a group of people casting the same spell. There are a lot of variables here. But, at the end of the day, mana exhaustion ties all of us together, does it not? Everyone suffers from it when they have drained their cores completely, which means that it is a valid condition to establish a baseline."
 
 Kevan tapped the table with his fingers while thinking about Revian's hypothesis. "It could work, but it is dangerous."
 
@@ -36,7 +36,7 @@ Kevan tapped the table with his fingers while thinking about Revian's hypothesis
 
 "But that's not reliable. The mana core is naturally replenished by ambient mana. It's not going to give us a valid result," Kevan refuted.
 
-"Not if we do this at a mana sink!" Lacey chimed in. "The nature of a mana sink is that it pulls all the ambient mana away, creating a naturally scarce area. It doesn't affect beings above Mana Condensation realm, but for us, it will definitely stop our cores from replenishing naturally!"
+"Not if we do this at a mana sink!" Lacey chimed in. "The nature of a mana sink is that it pulls all the ambient mana away, creating a naturally scarce area. It doesn't affect beings above the Mana Condensation realm, but for us, it will definitely stop our cores from replenishing naturally!"
 
 "Wait a minute! Isn't there supposedly a mana sink near the Sect?" Casey volleyed.
 
@@ -46,7 +46,7 @@ Kevan tapped the table with his fingers while thinking about Revian's hypothesis
 
 "Well," Kevan drew their attention with a firm declaration. "Since we have an inkling of what needs to be done, why don't we start writing out the design? It will definitely come to use when we apply for permission to access the mana sink."
 
-Revian and the rest agreed with that deduction and got down to work. Tasks were quickly delegated, with the twins conducting background research and running the due-dilingence on safety procedures, while Revian and Kevan started to plot out the experimental procedure (i.e. the independent, dependent, and control variables as well as an outline about the steps that will be taken).
+Revian and the rest agreed with that deduction and got down to work. Tasks were quickly delegated, with the twins conducting background research and running the due diligence on safety procedures, while Revian and Kevan started to plot out the experimental procedure (i.e. the independent, dependent, and control variables as well as an outline of the steps that will be taken).
 
 ____
 
@@ -58,9 +58,9 @@ ____
 
 Silence reigned in the room, interrupted only by the thoughtful hammering of Markus' fingers against his desk. Revian looked up and noticed that Markus was evaluating them all with a piercing gaze. After a minute passed, the silence was broken by Senior Brother Markus, "Okay. I will let you go through with this experiment on a condition."
 
-Four pairs of eager eyes honed in on Markus, causing the boy to shift backward uncomfortably in response. "Alright, alright! Let's not get your hopes up, because things could still not go our way..."
+Four pairs of eager eyes honed in on Markus, causing the boy to shift backwards uncomfortably in response. "Alright, alright! Let's not get your hopes up, because things could still not go our way..."
 
-Markus' face contorted as he considered something internally, before he gestured for the group to get up and follow him. Seeing as this was their last option, they walked behind him with the proposal in hand. The group travelled from Markus' classroom all the way to the recreation hall, where they realized just who their target was.
+Markus' face contorted as he considered something internally before he gestured for the group to get up and follow him. Seeing as this was their last option, they walked behind him with the proposal in hand. The group travelled from Markus' classroom all the way to the recreation hall, where they realized just who their target was.
 
 "What brings you to these necks of the woods?" Senior Sister Marie said jokingly while relaxing her back into her chair.
 
@@ -80,7 +80,7 @@ She read through the whole document and then said, "Looks promising! What's the 
 
 "What? Why?" Markus exclaimed, his emotion supported by the group of four behind him.
 
-"My hands are tied, figuratively, but you literally too in some sense," Marie explained. "I've been restricted from using future sight in any shape or form. The last time you made me use it got me in heck of a lot of trouble with Master."
+"My hands are tied, figuratively, but you literally too in some sense," Marie explained. "I've been restricted from using future sight in any shape or form. The last time you made me use it got me in a heck of a lot of trouble with Master."
 
 "But why, though?" Markus groaned.
 
@@ -128,7 +128,7 @@ He then revealed a satisfied smile before adding, "Good work on the proposal. Co
 
 "Anyone up for a game of Hover-Sack?" Casey proposed, which was met with all-round approval.
 
-"Of course!" Kevan exclaimed excitedly. "All work and no play, makes Jack a dull boy!"
+"Of course!" Kevan exclaimed excitedly. "All work and no play makes Jack a dull boy!"
 
 ____
 

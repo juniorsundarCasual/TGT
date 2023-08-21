@@ -2,11 +2,11 @@
 id: 2ahmmryrm94wc50e86vctr6
 title: Chapter 351 - The Designs
 desc: ''
-updated: 1692185318102
+updated: 1692616911879
 created: 1689759663691
 ---
 
-The interview offered Shuri more insight than she could have imagined. In fact, after understanding and internalising all the information provided by Yohn as well as the secondary research she did on the side, the amount of noise in her perturbed min reduced significantly. At this point, there were only a few ideas and concepts floating about in there, each just as viable as the other.
+The interview offered Shuri more insight than she could have imagined. In fact, after understanding and internalising all the information provided by Yohn as well as the secondary research she did on the side, the amount of noise in her perturbed mind reduced significantly. At this point, there were only a few ideas and concepts floating about in there, each just as viable as the other.
 
 The essence of creation lies in fulfilling needs or wants. While there may be instances where individuals create simply for the joy of it, more often than not, the impetus behind creation is self-oriented. However, the journey of a creation borne solely from inspiration and an inner drive faces a great challenge in gaining widespread acceptance within the mass market. While it might resonate with a niche audience, it seldom extends beyond those boundaries.
 
