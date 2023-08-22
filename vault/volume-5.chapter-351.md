@@ -2,7 +2,7 @@
 id: 2ahmmryrm94wc50e86vctr6
 title: Chapter 351 - The Designs
 desc: ''
-updated: 1692616911879
+updated: 1692717055415
 created: 1689759663691
 ---
 
@@ -14,7 +14,7 @@ Certainly, one could employ ingenious marketing strategies to artificially gener
 
 Shuri's cultivation was quick to assimilate this insight.
 
-He core proposed that "The purpose of automation is to make life easier for human beings."
+Her core proposed that "The purpose of automation is to make life easier for human beings."
 
 Additionally, "The essence of creation lies in fulfilling needs or wants."
 
