@@ -2,7 +2,7 @@
 id: 5cj9g2ginzmg94d6hlj6h32
 title: Chapter 354 - The Frivolous Four - The Fire (Part One)
 desc: ''
-updated: 1692784684077
+updated: 1692788312356
 created: 1690200365811
 ---
 
@@ -32,7 +32,7 @@ Dora's time window was short, which was fine. Markus did not want his younger si
 
 "Well, try not to disturb them," Markus warned while picking up the panting girl and placing her on his shoulder. "They are about to do something dangerous, so let's not make it harder for them than it already is."
 
-Dora nodded with a serious expression and dragged her pinched index and thumb over her lips, "My lips are sealed!"
+Dora nodded with a serious expression and dragged her pinched index finger and thumb over her lips, "My lips are sealed!"
 
 Markus let out a light chuckle and followed the quartet of investigators walking with both excitement and hesitation. He could feel the palpable tension growing on them with each step forward. It was the anticipation and expectation of what was to come.
 

@@ -2,7 +2,7 @@
 id: zqhcgt70yahbwb61l2sgwi9
 title: Chapter 366
 desc: ''
-updated: 1692784313873
+updated: 1692788232024
 created: 1692773325595
 ---
 
@@ -36,4 +36,10 @@ At this point, the silence was quickly replaced with a heated argument which was
 
 "But Sect Leader-"
 
-"No 'buts'!" Guy interrupted
+"No 'buts'!" Guy interrupted. "I'm disappointed in your behaviours! Now, it is clear that this disagreement is between two groups. So I want one person from each group to step forward and explain everything."
+
+The teen exchanged glances before Kevan and Luce stepped forward from either side of the line. "Decide amongst yourselves who will go first. And while one person is talking, I don't want anyone to interrupt."
+
+A silent war transpired between the two teens as all manners of weapons were ejected from their shared glare. Ultimately, Kevan lost the staring contest and Luce, after revealing a gloating smirk, cleared her throat and spoke up.
+
+"The argument started because Krane, Norris and I believe that Kevan and his team's method to determine the "
