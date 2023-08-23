@@ -2,7 +2,7 @@
 id: 5cj9g2ginzmg94d6hlj6h32
 title: Chapter 354 - The Frivolous Four - The Fire (Part One)
 desc: ''
-updated: 1692185496689
+updated: 1692784684077
 created: 1690200365811
 ---
 
@@ -92,7 +92,7 @@ He picked out another box and revealed another programmed core the size of a mar
 
 Finally, he picked up a small (nearly twice the size of his palm), vacuum-sealed metal tank covered with greying wool that had two colourless and lustrous mana gems attached to its side and a slot for a mana core on its opposite end. "The Caloric Tank filled halfway with Enthermis Fluid, was tested and confirmed to be functional."
 
-The Caloric Tank was an invention devised by the quartet. Its purpose was to contain heat. It was made out of copper with a fire-resistant wool outer coating. Inside, was a fixed volume of Enthermis Fluid, a commonly used alchemical catalyst with high thermal conductivity and specific heat capacity (which was also determined by a separate caloric test). One of the mana gems on the tank, when exposed to fire, would absorb the heat released from the exothermic reaction and completely translate it into kinetic energy to increase the temperature of the fluid within. Until the second mana gem is activated, the container would maintain the temperature until the first mana gem ran out of mana (which was implausible since the upkeep of mana cost was trivial). The enchantment was a creation of the quartet and took them an entire week. It was commissioned through the Burning Forge as there could be no room for errors!
+The Caloric Tank was an invention devised by the quartet. Its purpose was to contain heat. It was made out of copper with a fire-resistant wool outer coating. Inside, was a fixed volume of Enthermis Fluid, a commonly used alchemical catalyst with high thermal conductivity and specific heat capacity (which was also determined by a separate caloric test). One of the mana gems on the tank, when exposed to fire, would absorb the heat released from the exothermic reaction and completely translate it into kinetic energy to increase the temperature of the fluid within. Until the second mana gem is activated, the container would maintain the temperature until the first mana gem runs out of mana (which was implausible since the upkeep of mana cost was trivial). The enchantment was a creation of the quartet and took them an entire week. It was commissioned through the Burning Forge as there could be no room for errors!
 
 Revian carefully attached the Tempera-Core to its respective slot on the container and turned it on to verify that the system worked.
 
