@@ -1,8 +1,8 @@
 ---
 id: zqhcgt70yahbwb61l2sgwi9
-title: Chapter 366
+title: Chapter 366 - "Scholarly" Conflict
 desc: ''
-updated: 1692823021106
+updated: 1692965707889
 created: 1692773325595
 ---
 
