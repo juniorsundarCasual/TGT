@@ -2,11 +2,11 @@
 id: 0uf3cv6tnerljixv9ksekvp
 title: Chapter 358 - The Frivolous Four - From the Ashes, Reborn Anew
 desc: ''
-updated: 1691318552799
+updated: 1692948068267
 created: 1690972000014
 ---
 
-Guy held a small party in the library, with cake (which Grace had grown surprisingly proficient in baking), to celebrate the great achievement. As everyone indulged in the festivities, Guy moved to the side, out of side, and entered the Church of the True World. As the manuscript came together and found its place in the library, Guy started to feel a stimulation in his cultivation. It wasn't anything substantial, but it was out of the ordinary. Usually, this sort of stimulation only happened when people were inside the Church and were made to gain inspiration, learn something new, or attain a paradigm shift.
+Guy held a small party in the library, with cake (which Grace had grown surprisingly proficient in baking), to celebrate the great achievement. As everyone indulged in the festivities, Guy moved to the side, out of the side, and entered the Church of the True World. As the manuscript came together and found its place in the library, Guy started to feel a stimulation in his cultivation. It wasn't anything substantial, but it was out of the ordinary. Usually, this sort of stimulation only happened when people were inside the Church and were made to gain inspiration, learn something new, or attain a paradigm shift.
 
 The deviation from the norm implied that there were other ways for Guy to simulate his cultivation.
 
@@ -20,7 +20,7 @@ The Other Guy paused before one row of books and threw up an accusatory finger a
 
 Guy hummed in affirmation before asking, "What's so new about this, though? I believe Markus, Marie and Jean have posted their dissertations on what motivated their advancements here as well?"
 
-"It is different," the Other Guy responded. "Their dissertation is purely personal observation, and lacks proper scientific rigour. How many trials and tests did they conduct? Did they validate their works?"
+"It is different," the Other Guy responded. "Their dissertation is purely personal observation and lacks proper scientific rigour. How many trials and tests did they conduct? Did they validate their works?"
 
 "I know for a fact that Markus ran tests on his abilities," Guy mumbled.
 
@@ -48,7 +48,7 @@ Tried struggled to swallow this revelation for one big reason, which was that he
 
 "When has that ever stopped you?"
 
-"We can all do without the sass," the Other Guy chided. "Any way, my theory is that cultivation and the understanding of the world are connected in some way. Basically, if you remember Mast's words from before-"
+"We can all do without the sass," the Other Guy chided. "Anyway, my theory is that cultivation and the understanding of the world are connected in some way. Basically, if you remember Mast's words from before-"
 
 "Now that's a name I didn't think I'd hear again," Guy interjected, which the Other Guy responded to with a growl. "Don't interrupt!"
 
@@ -60,13 +60,13 @@ Before Guy could say anything, his counterpart raised his hand and said, "Hear m
 
 Once again, Guy's comment was interjected by the Other's raised hand, "Hear me out!"
 
-"Maybe this is also why you are rewarded every time you help someone gain a better understanding of truths of the world. First off, your cultivation gets boosted each time you help someone gain insight, which if you think about it harkens back to the positive feedback loop theory from before. Maybe this is what Mast intended from the very beginning when he brought you here. Now, if we take all of that and this manuscript in particular, when the four wrapped up their work, they were to be rewarded with the positive feedback from the universe in the manner of a cultivation boost. HOWEVER, because of your anomalous existence and the fact that there is you name appended to this text, you siphoned off the advantages they were supposed to receive," the Other Guy summarised.
+"Maybe this is also why you are rewarded every time you help someone gain a better understanding of truths of the world. First off, your cultivation gets boosted each time you help someone gain insight, which if you think about it harkens back to the positive feedback loop theory from before. Maybe this is what Mast intended from the very beginning when he brought you here. Now, if we take all of that and this manuscript in particular, when the four wrapped up their work, they were to be rewarded with positive feedback from the universe in the manner of a cultivation boost. HOWEVER, because of your anomalous existence and the fact that there is your name appended to this text, you siphoned off the advantages they were supposed to receive," the Other Guy summarised.
 
 "For someone so married to the idea of scientific rigour, you sure do know how to weave a yarn," Guy mocked in response. "I don't have enough fingers in my hand to count the number of holes and assumptions your argument has. How in the world does having an extra name on a piece of paper affect something abstract like cultivation and advancement? Are you telling me that natural laws respond to ink on paper? Could I tell gravity to stop working in a region by just writing 'IF inside_boundary THEN gravity = false'?"
 
 "Isn't that what a Ritual Formation is?" The Other Guy argued.
 
-"Touche," Guy relented with a bitter smile, "BUT, Ritual Formations aren't written in common tongue, damn it!"
+"Touche," Guy relented with a bitter smile, "BUT, Ritual Formations aren't written in the common tongue, damn it!"
 
 "Hey! I'm just throwing out an idea," the Other Guy argued with a weak voice. "You could very easily test it out and confirm it."
 
@@ -76,23 +76,23 @@ Guy read between the lines and shot back with an affronted tone, "I am not going
 
 "It is disgusting! I hate the idea of honorary or gift authorship," Guy yelled angrily.
 
-"You could very easily just provide meaningful contributions so that your authorship has purpose," the Other Guy rebutted.
+"You could very easily just provide meaningful contributions so that your authorship has a purpose," the Other Guy rebutted.
 
 "But what if my inclusion actually robs them of the chance to advance?" Guy moaned. "The four barely got anything out of this experiment!"
 
-"So you DO think my theory holds water!" The Other Guy snapped with a victorious grin. "Look, as you pointed out, my theory is farfetched. There may be other factors at play here, which we don't know about. But, you know what the solution is to this problem."
+"So you DO think my theory holds water!" The Other Guy snapped with a victorious grin. "Look, as you pointed out, my theory is farfetched. There may be other factors at play here, that we don't know about. But, you know what the solution is to this problem."
 
-Guy's expressions warped erratically until it settled at a reluctant frown.
+Guy's expression warped erratically until it settled at a reluctant frown.
 
 "Whatever!" Guy bellowed. "I'll figure it out later."
 
 Guy shrugged his right shoulder before his body achieved full emotional symmetry - the Other Guy had receded.
 
-After spending a minute to contemplate on the conversation, Guy sighed and left the Church.
+After spending a minute contemplating the conversation, Guy sighed and left the Church.
 
 ____
 
-In the week following the celebration, Guy was flooded with research proposals from the members of the Sect. Most of them were extension studies that tested the breadth of the findings of the manuscript. Some questioning if there were other ways to standardise the same definition, such as by using a different kind of |Firestarter| spell. Alternatively, some looked at whether the definitions could be approached from a transmutation perspective as opposed to an energy conversion perspective. For instance, one paper suggested whether checking the amount of water created using a spell with a fixed quantity of mana was a valid metric.
+In the week following the celebration, Guy was flooded with research proposals from the members of the Sect. Most of them were extension studies that tested the breadth of the findings of the manuscript. Some questioned if there were other ways to standardise the same definition, such as by using a different kind of |Firestarter| spell. Alternatively, some looked at whether the definitions could be approached from a transmutation perspective as opposed to an energy conversion perspective. For instance, one paper suggested whether checking the amount of water created using a spell with a fixed quantity of mana was a valid metric.
 
 While Guy wanted to approve all of them, even if they were redundant, so that the kids could have a taste of leading their own projects, he could not. First off, if he did this, he would be setting a precedent that encouraged frivolous studies that had no meaningful contributions. Secondly, he economically could not approve all the studies since there was a shortage of mana crystals.
 
@@ -108,7 +108,7 @@ Apart from these kinds of studies, there was another that passed over his table 
 
 "Your procedure could use a little more work," Guy commented while skimming through the contents once again, "but it seems plausible, so I'm going to approve this."
 
-Guy quickly interjected Revian's silent celebration with a stern frown, "And I know I've said this many times before, but do NOT include my name in your report in the end even if my assistance and advise warrant an inclusion."
+Guy quickly interjected Revian's silent celebration with a stern frown, "And I know I've said this many times before, but do NOT include my name in your report in the end even if my assistance and advice warrant an inclusion."
 
 "But-"
 

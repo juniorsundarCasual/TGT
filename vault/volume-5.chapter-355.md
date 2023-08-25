@@ -1,8 +1,8 @@
 ---
 id: 9fyqscdtc0jazuzzbaecmg0
-title: Chapter 355 - The Frivolous Four - The Fire (Part One)
+title: Chapter 355 - The Frivolous Four - The Fire (Part Two)
 desc: ''
-updated: 1692345636378
+updated: 1692947855813
 created: 1690539075774
 ---
 
@@ -28,7 +28,7 @@ As the man entered and exited his core, his mental strain diminished slightly, a
 
 Revian observed how the spell circle intelligently rationed the prongs into the appropriate ratios so that the combustion reaction was complete and self-sustaining.
 
-At that moment, Revian heard a "Pause!" from Kevan, indicating that the mana crystal had been completely depleted and the Time-Core was stopped. This did not mean that Revian had to stop, though, since there was still mana coursing through him. So, Revian continued producing the blue flame, until he was fully depleted once again, at which point Casey and Lacey rushed in and poured down a sour liquid down his throat.
+At that moment, Revian heard a "Pause!" from Kevan, indicating that the mana crystal had been completely depleted and the Time-Core was stopped. This did not mean that Revian had to stop, though, since there was still mana coursing through him. So, Revian continued producing the blue flame, until he was fully depleted once again, at which point Casey and Lacey rushed in and poured a sour liquid down his throat.
 
 "Final temperature: 61 degrees," Kevan read out. "How are you feeling?"
 
