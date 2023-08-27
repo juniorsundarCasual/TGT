@@ -2,7 +2,7 @@
 id: lflf7ta74ejpu42gj0tuit5
 title: Chapter 367
 desc: ''
-updated: 1693140381357
+updated: 1693155064202
 created: 1692965715501
 ---
 
@@ -20,9 +20,13 @@ The crowd dissipated instantaneously, lest the Sect Leader's overflowing anger r
 
 "You seven!" He said. His gaze piercing into the souls of the seven before him. "I want you clean yourselves this instant and come to the administrative office immediately after. If I hear from anyone about you guys causing any more trouble-"
 
-He did not finish the sentence. He did not need to finish that sentence. The sentence basically finished itself in all their minds.
+He did not finish the sentence. He did not need to finish that sentence. The sentence basically finished itself.
 
-The Sect Leader did not waste another second
+The Sect Leader did not waste another second and left the scene, which was immediately mimicked by the seven pugilists who disappeared so quickly that one could practically still see their outlines standing in place.
+
+Markus was not amidst the crowd, and he only heard about it the next day, early in the morning, when the seven transgressors were paraded atop the stage at the Sect's assembly hall and made to read out a written apology in front of everyone.
+
+It was a sombre event, where some readers even broke down into tears (the twins and Krane in particular). It definitely left a mark in the minds of all those present at and observing the gruesome emotional dressing down, and emphasised just what awaited rule breakers in the True World Sect. There was something truly visceral about having one's weaknesses and mistakes placed on display, and that too straight from the person themselves. And it opened the eyes of everyone in the Sect to the fact that there is a limit to the Sect Leader's patience. And that behind the jovial visage of the man who celebrates every achievement made by a member with pomp and splendour, lies a sadistic beast who can just as (if not more) easily break them down. Thankfully, the beast lies dormant. 
 
 Lead up to debate
 
