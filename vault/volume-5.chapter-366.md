@@ -2,7 +2,7 @@
 id: zqhcgt70yahbwb61l2sgwi9
 title: Chapter 366 - "Scholarly" Conflict
 desc: ''
-updated: 1692965707889
+updated: 1693165940959
 created: 1692773325595
 ---
 
@@ -117,4 +117,4 @@ Amidst light applause, Kevan anxiously stood up, corrected his clothes and appro
 ____
 
 **Next**
-* [[volume-5.chapter-366]]
+* [[volume-5.chapter-367]]
