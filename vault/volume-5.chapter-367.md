@@ -2,7 +2,7 @@
 id: lflf7ta74ejpu42gj0tuit5
 title: Chapter 367 - "Let's Get Ready to Rumble!"
 desc: ''
-updated: 1693215349485
+updated: 1693236524355
 created: 1692965715501
 ---
 
@@ -108,9 +108,9 @@ The Sect Leader rose from his seat and spread his arms outwards majestically.
 
 "Do we get to prepare for the topic?" Markus interjected with his doubt.
 
-"It will be more fun to go in blind," the Sect Leader said with a chuckle. "It will also make the decision more unbiased, since you won't have preconceived notions about one side over the other from before."
+"I'll be handing out the reports written by both the groups for your reference. Take your time to read through it, and take notes. You will have the liberty to ask questions after the debate to clarify any details," Sect Leader Larks explained.
 
-The Sect Leader clapped his hands and chirped, "It's going to be so exciting! Trust me!"
+He then clapped his hands and chirped, "It's going to be so exciting! Trust me!"
 
 ____
 

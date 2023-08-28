@@ -2,7 +2,7 @@
 id: zqhcgt70yahbwb61l2sgwi9
 title: Chapter 366 - "Scholarly" Conflict
 desc: ''
-updated: 1693221002757
+updated: 1693237661729
 created: 1692773325595
 ---
 
@@ -98,7 +98,7 @@ ____
 
 In front of the platform, there were multiple rows of seats filled with audience members from the Sect.
 
-"Today, on Unearthing the Truth, we have two sides clashing on the point of defining the Mana Unit. To my right-" he said as he extended his arm to his right, "We have Kevan, Revian, Casey and Lacey. Who stand behind their published definition: The amount of mana required when displacing one cubic-centimetre of distilled water to raise the temperature of one-hundredth cubic centimetre of alchemically pure Enthermic Fluid by one Kelvin using the |Firestarter| spell. From this point onwards, their stance shall be in favour of Definition 1."
+"Today, on Unearthing the Truth, we have two sides clashing on the point of defining the Mana Unit. To my right-" he said as he extended his arm to his right, "We have Kevan, Revian, Casey and Lacey. Who stand behind their published definition: The amount of mana required when displacing one cubic-centimetre of distilled water to raise the temperature of one-hundredth cubic centimetre of alchemically pure Enthermis Fluid by one Kelvin using the |Firestarter| spell. From this point onwards, their stance shall be in favour of Definition 1."
 
 "And to my left-" he extended his arm to the left, "We have Luce, Krane and Norris supporting the definition derived from their 'under consideration' report: The amount of mana required to produce one cubic-centimetre of pure, distilled water using the |Water Spout| spell under standard temperature and pressure (STP). From this point onwards, their stance shall be in favour of Definition 2."
 

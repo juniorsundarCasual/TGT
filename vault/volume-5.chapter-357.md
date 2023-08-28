@@ -2,7 +2,7 @@
 id: 4uiwjzvmkreeaihvu0d4h0c
 title: Chapter 357 - The Frivolous Four - The Roaring Blaze (Part Two)
 desc: ''
-updated: 1692787635535
+updated: 1693237661732
 created: 1690801389815
 ---
 
@@ -68,7 +68,7 @@ At the top, in bold-faced and large letters, it read: "Introducing the Mana Unit
 
 (Here, the M is the capitalised Greek Letter Mu).
 
-"You colleagues have uncovered a new truth of this world," Guy spoke, but his voice grew louder and imperious. "The Mana Unit: The amount of mana required when displacing one cubic centimetre of distilled water to raise the temperature of one-hundredth cubic centimetre of alchemically pure Enthermic Fluid by one Kelvin using the |Firestarter| spell."
+"You colleagues have uncovered a new truth of this world," Guy spoke, but his voice grew louder and imperious. "The Mana Unit: The amount of mana required when displacing one cubic centimetre of distilled water to raise the temperature of one-hundredth cubic centimetre of alchemically pure Enthermis Fluid by one Kelvin using the |Firestarter| spell."
 
 The crowd held their breath as Guy raised the manuscript above his head, for all to bear evidence of its inception. Then, with a flourish of his coat, he descended from the stage and walked up to a shelf.
 
