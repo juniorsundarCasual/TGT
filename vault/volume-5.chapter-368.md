@@ -1,8 +1,8 @@
 ---
 id: oc5xu3c8gs9f52owjsh2rw4
-title: Chapter 368
+title: Chapter 368 - The Debate
 desc: ''
-updated: 1693239916270
+updated: 1693254555171
 created: 1693165917485
 ---
 
@@ -38,7 +38,7 @@ ____
 
 After a quick five-minute break, the debate was resumed. This time, Casey stepped forward and took the podium.
 
-"Building upon our initial stance, Definition 1 is all about finding a common denominator among diverse magical abilities. We know that mana behaves differently based on its application. Therefore, mana is best defined as per its use cases - the actions that go into using it. This may include the spells, the conditions within which the spells are cast, and also the state of the caster. These are just a few factors that influence how mana behaves in a given situation. By ensuring that the pipeline through which the mana is being applied remains consistent, we are ensuring that the understanding of mana and a single Mana Unit remains consistent regardless of who the caster is or the conditions under which the spell is being cast. We believe that it is this surety that makes Definition 1 superior."
+"Building upon our initial stance, Definition 1 is all about finding a common denominator among diverse magical abilities. We know that mana behaves differently based on its application. Therefore, mana is best defined as per its use cases. This may include the spells, the conditions within which the spells are cast, and also the state of the caster. These are just a few factors that influence how mana behaves in a given situation. By ensuring that the pipeline through which the mana is being applied remains consistent, we are ensuring that the understanding of mana and a single Mana Unit remains consistent regardless of who the caster is or the conditions under which the spell is being cast. We believe that it is this surety that makes Definition 1 superior."
 
 Sect Leader Larks walked on stage and gestured towards Luce for the cross-examination.
 
@@ -46,37 +46,53 @@ Sect Leader Larks walked on stage and gestured towards Luce for the cross-examin
 
 "It then falls on a universal governing body to maintain the integrity of the definition," Casey said after a second of thinking. "With that in place, there won't be the issue of two people having two different kinds of apparatus or ingredients. This also ensures that the universal nature of the Definition is preserved."
 
-Luce shook her head and said, "You will"
+Luce shook her head and said, "You are advocating for the formation of a monopoly? The governing body will have full control over what defines a Mana Unit. It also means that if the governing body does something wrong, then the entire idea of the Mana Unit will fall apart."
 
-Affirmative Team:
+Casey wanted to retort to that, but she couldn't formulate a logical response. That sort of made sense.
 
-2NC (Second Negative Constructive):
-Expanding on the negative's stance, magic's essence lies not only in its universal principles but also in its adaptability and creative expression. Definition 1's scientific precision might inadvertently undermine the artistic nature of magic. Magic flourishes through its ability to adapt to various contexts and challenges, and Definition 1's narrow focus could inadvertently limit our comprehension of mana's essence.
+At that moment, Sect Leader Larks stepped in and nudged the debate onwards. "Next, we have Krane from the opposition side."
 
-1AR (First Affirmative Rebuttal):
-In response to the negative, we assert that Definition 1 isn't about reductionism but about establishing a common language for the measurement of mana. By measuring energy through a specific transformation, we provide a consistent yardstick for comparisons. Magic's diversity isn't negated; it's embraced through a standardized approach that transcends individual practices.
+Krane took Casey's space and started making his case.
 
-2AR (Second Affirmative Rebuttal):
-While we acknowledge the negative's appreciation for magic's artistic expression, we emphasize the importance of precision and coherence. Definition 1 doesn't discount creativity; it enhances our understanding by providing a quantifiable measure. The balance between standardization and diversity is achieved through Definition 1's framework, which is both comprehensive and adaptable.
+"Following up from our earlier point, the idea of tethering the definition of the Mana Unit to a robust natural law, such as the law of conservation of mass, ensures that the derived meanings is also robust. Although mana's behaviour changes based on the use case, the natural laws do not. In fact, through our method, we are technically limiting the nature of the mana itself, making it consistent automatically. Due to the reduced overhead, we believe that Definition 2 is superior in defining the concept of the Mana Unit."
 
-Negative Team:
+With the Sect Leader's gesture for go ahead, Casey stood up and said, "You seem to put a lot of faith in the 'automatically corrective' nature of your methodology. How do you account for the difference in the behaviour of mana inside a mage in the Mana Condensation realm versus the Foundation Establishment realm? Density wise, the mana flow is more liquid inside a Foundation Establishment realm mage, while the Mana Condensation realm's is more gaseous."
 
-1NR (First Negative Rebuttal):
-In response to the affirmative, we acknowledge the aspiration for standardization, but Definition 1's tunnel vision disregards the dynamic nature of magic. Magic isn't just about science; it's an art, a creation, and an expression. By advocating for Definition 1, the affirmative risks overshadowing the essence of magic itself, which thrives through creativity and adaptability.
+"The mass flow rate is all that matters. The mass in equals mass out," Krane responded matter-of-factly.
 
-2NR (Second Negative Rebuttal):
-While we appreciate the affirmative's intent, it's vital to remember that a comprehensive understanding of mana shouldn't come at the cost of limiting magic's potential. By embracing Definition 2, which characterizes mana through the energy required for water creation via the |Water Spout| spell under standard temperature and pressure conditions, we honor both the artistry and adaptability of magic, ensuring our definition resonates with the diverse range of practitioners.
+"So what is the mass of mana?" Casey shot back with a victorious smirk. "The mass conservation law is reliant on the equation of mass in equals mass out. But what is mass in? And what exactly is the transmutative nature of a spell - what does it do to mana?"
 
-Summary Speeches:
+Krane opened and closed his mouth like a fish. An answer made its way to his mouth, but upon repeating it mentally, he discarded it because it made no sense.
 
-1AR (First Affirmative Rebuttal):
-In our final plea, we assert that Definition 1 isn't about suppression but about providing a standardized measure that accommodates magic's universal principles. Our approach bridges the gap between precision and creativity, fostering a common ground for discussions. By quantifying mana through a specific transformation, we capture its essence while maintaining coherence and comparability.
+The Sect Leader swooped in and saved Krane from embarrassment. "This marks the end of the second round of the Constructive segment. Let us take another short break so that our participants can regroup, and our judges can deliberate further."
 
-2NR (Second Negative Rebuttal):
-In our closing, we reiterate that magic's essence lies in its multifaceted nature. Definition 2, which ties mana to water creation through the |Water Spout| spell, embraces magic's adaptability and creativity. By aligning mana with the act of creation, we honor the heart of magic and ensure our definition encompasses the full spectrum of magical abilities.
+____
 
-Lead up to debate
+Elder Nara leaned back into his chair and rested his legs on the table. His working leg raised by itself, but he had to move the dessicated one by hand.
 
-Debate format
+"Guy was right," he said out loud. "It's more entertaining than I thought. Who knew that watching people arguing would be so much fun?"
 
-Debate arguments
+"It definitely makes you think," Marie agreed. "I'm sure both sides have come to realise that there are some glaring weaknesses in their methodologies."
+
+"I guess having to project your thoughts out loud in front of a crowd causes the heat in your head to mellow out a little, and makes you more receptive to new thoughts," Markus chimed in. "I don't think they would have been so receptive if this situation was in a more closed environment with no spectators."
+
+"All that aside though," Shuri interjected. "Who do you guys think is winning right now?"
+
+""Definition 1,"" Elder Nara and Markus said at the same time.
+
+"Definition 2," Marie said. She then looked at Shuri and cocked a brow inquisitively.
+
+"Me too - Definition 2," Shuri admitted.
+
+"Well, ain't that just nifty," Elder Nara said with a scoff before closing his eyes and entering meditation.
+
+"Hey!" Marie yelled while nudging her Master out of his trance. "No peeking into the future!"
+
+"Ha!" The man scoffed, "As if I have nothing better to do!"
+
+"Alright, everyone!" The Sect Leader orated enthusiastically. "Welcome back to 'Unearthing the Truth!' with me, Guy Larks, your humble host. Last we left, our participant just finished their constructive stances. Now, hold on to your hands and move up to the edges of your seats, because we are now moving on to the intense rebuttal rounds!"
+
+____
+
+**Next**
+* [[volume-5.chapter-369]]
