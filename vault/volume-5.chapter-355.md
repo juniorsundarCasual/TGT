@@ -2,7 +2,7 @@
 id: 9fyqscdtc0jazuzzbaecmg0
 title: Chapter 355 - The Frivolous Four - The Fire (Part Two)
 desc: ''
-updated: 1692947855813
+updated: 1693223787937
 created: 1690539075774
 ---
 
@@ -24,7 +24,7 @@ Revian was feeling completely exhausted, the utter depletion of mana from his co
 
 In the meantime, he was also focusing on extracting the mana from the cuboid crystal and tracking its movement through his mana channels, through his core, and finally towards his spellcasting hand. This shouldn't have been so easy for a mere Mana Condensation realm mage, who was still lacking in awareness of the internal workings of their bodies. However, because of the scarcity of mana inside his body, the presence of the thin stream originating from the mana crystal was extremely easy to track and focus on.
 
-As the man entered and exited his core, his mental strain diminished slightly, allowing him to think a bit more about what was happening inside him. After all, qualitative data was also key towards validating the experiment. Revian honed in on the movement of mana through his channels and focused especially on the part where the mana was converted into a flame. The spell they were using produced fire purely using mana, without any external fuel. This meant that at the point where his mana reached the spell circle, it split into three. One prong transmuted the mana into methane, the other transmuted it into oxygen gas, and the third (and narrowest prong) generated a light spark to activate the reaction.
+As the mana entered and exited his core, his mental strain diminished slightly, allowing him to think a bit more about what was happening inside him. After all, qualitative data was also key towards validating the experiment. Revian honed in on the movement of mana through his channels and focused especially on the part where the mana was converted into a flame. The spell they were using produced fire purely using mana, without any external fuel. This meant that at the point where his mana reached the spell circle, it split into three. One prong transmuted the mana into methane, the other transmuted it into oxygen gas, and the third (and narrowest prong) generated a light spark to activate the reaction.
 
 Revian observed how the spell circle intelligently rationed the prongs into the appropriate ratios so that the combustion reaction was complete and self-sustaining.
 
