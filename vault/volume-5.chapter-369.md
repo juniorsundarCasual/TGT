@@ -2,7 +2,7 @@
 id: 8wt7zdt1qo9drsv6qvlbzae
 title: Chapter 369
 desc: ''
-updated: 1693395978706
+updated: 1693397194278
 created: 1693254062802
 ---
 
@@ -30,7 +30,9 @@ Lacey approached the stadium amidst light applause. It was evident that she, jus
 
 Guy didn't want to doctor the results... but he also didn't want the outcome from this pilot program to set a precedent for the other debates down the line. To him, some unethical manipulation against bias, and in favour of fairness was forgivable.
 
-"In response to the negative, we assert that Definition 1 isn't about reductionism but about establishing a common language for the measurement of mana. By measuring energy through a specific transformation, we provide a consistent yardstick for comparisons."
+"In response to the negative, we assert that Definition 1 isn't about reductionism but about establishing a common language for the measurement of mana. By measuring energy through a specific transformation, we provide a consistent yardstick for comparisons. This is not evident in Definition 2. While we agree that magic and mana are fluid and variable, it is antithetical to hinge a concept that needs to be used by a myriad of people across different backgrounds and abilities on this variability as it makes it hard for everyone to have the same 'language' when communicating knowledge amongst themselves. We believe that the definition of a unit of mana is important for all future magical research as all analysis will be built upon it. And this research can be in a myriad of fields within magic, natural sciences and social sciences. Therefore, it is important to have an invariable structure so that whatever research that is built upon it doesn't collapse in the future."
+
+Guy walked up on stage and
 
 Affirmative Team:
 
