@@ -2,7 +2,7 @@
 id: 4uiwjzvmkreeaihvu0d4h0c
 title: Chapter 357 - The Frivolous Four - The Roaring Blaze (Part Two)
 desc: ''
-updated: 1693396415349
+updated: 1693408210144
 created: 1690801389815
 ---
 
@@ -78,7 +78,7 @@ And with a dramatic push, the manuscript was slotted in.
 
 Deep inside Guy's core - within the Church of the True World - loud gongs, shrieks, bellows and bells harmonised as one, bathing the manifestation in an auspicious aura.
 
-Amidst one of the rows of books in the Church of the True World, a golden light started to flood out, before condensing and taking a new shape - the shape of a thing book.
+Amidst one of the rows of books in the Church of the True World, a golden light started to flood out, before condensing and taking a new shape - the shape of a book.
 
 As the light dimmed, and the shape turned fully solid, a new entry found its place in the ever-growing library in Guy's soul.
 

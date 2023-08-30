@@ -2,7 +2,7 @@
 id: 8wt7zdt1qo9drsv6qvlbzae
 title: Chapter 369
 desc: ''
-updated: 1693397194278
+updated: 1693417200624
 created: 1693254062802
 ---
 
@@ -14,7 +14,7 @@ The Rebuttal segment is all about defence. Each team would try to break apart th
 
 "The first debater stepping up is the team defending Definition 2, Norris."
 
-Norris approached the podium with uncertain steps. Her gaze was lowered, and the piece of paper in her hand was nearly crumpled into a ball with stress. She grabbed the podium with both her hands, let out a long breath while closing her eyes, and started speaking.
+Norris approached the podium with uncertain steps. As he watched her come closer, Guy realised why her team had placed her in the tail end of the debate segment. The girl was practically crumbling under stage-fright. If she was to be confronted during cross-examination, Guy was certain that she would fall apart altogether. Her gaze was lowered, and the piece of paper in her hand was nearly crumpled into a ball with stress. She grabbed the podium with both her hands, let out a long breath while closing her eyes, and started speaking.
 
 "While we acknowledge the affirmative's drive for standardization, we contend that Definition 1's tunnel vision and rigidity conflicts with the nature of magic itself in the process. Indeed, standardization is valuable, but it must be achieved without sacrificing the core essence and versatility of magic. Definition 1 essentially places an asterisk against the very definition it proposes, suggesting that as long as all the dominoes fall into place – a specific spell is cast, a controlled scenario is established – only then can we truly measure mana. Magic is irregular, and mana is defined by the True World Sect to be the 'cheat code' that averts the natural laws. If we try to curtail magic in all its forms through the same lens of the natural phenomena, we will be sacrificing the primary nature of magic itself. Sure, it is necessary to regular a procedure so that it is repeatable and can provide comparable results no matter who performs it, but Definition 1 is far too strict in its limitations to be viable universally."
 
@@ -32,7 +32,13 @@ Guy didn't want to doctor the results... but he also didn't want the outcome fro
 
 "In response to the negative, we assert that Definition 1 isn't about reductionism but about establishing a common language for the measurement of mana. By measuring energy through a specific transformation, we provide a consistent yardstick for comparisons. This is not evident in Definition 2. While we agree that magic and mana are fluid and variable, it is antithetical to hinge a concept that needs to be used by a myriad of people across different backgrounds and abilities on this variability as it makes it hard for everyone to have the same 'language' when communicating knowledge amongst themselves. We believe that the definition of a unit of mana is important for all future magical research as all analysis will be built upon it. And this research can be in a myriad of fields within magic, natural sciences and social sciences. Therefore, it is important to have an invariable structure so that whatever research that is built upon it doesn't collapse in the future."
 
-Guy walked up on stage and
+Guy walked up on stage and transitioned to the next speaker, "Since the team supporting Definition 2 has one member short, a member who has already spoken has the opportunity to address the house again. Who will be stepping forth?"
+
+The members of the second team exchanged glances, before Krane reached forward and tapped Norris on her shoulder. Norris jerked in place, half-shocked and half-anxious. She pointed a finger to herself and mouthed, "Me?", with an expression oozing with self-doubt. Her team members, in turn, nodded affirmatively and started to clap for her instead. This ember burst into a burgeoning flame as the entire audience joined in to welcome Norris to the podium.
+
+The blushing girl walked with small but hurried steps to the podium. She cleared her throat, placed the crumpled paper in front of her, and started speaking. Her voice wasn't as unsure as in the previous attempt. Which Guy pegged as a sign of progress.
+
+"While Definition 1 claims to establish a so-called 'common language' it is still reliant on the |Firestarter| spell. The issue is that"
 
 Affirmative Team:
 
