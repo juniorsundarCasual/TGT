@@ -2,7 +2,7 @@
 id: 9fyqscdtc0jazuzzbaecmg0
 title: Chapter 355 - The Frivolous Four - The Fire (Part Two)
 desc: ''
-updated: 1693223787937
+updated: 1693396229037
 created: 1690539075774
 ---
 
@@ -64,7 +64,7 @@ Revian had made a complete recovery after the previous day's exhaustion and prep
 
 His attention honed in as the solid mana from the crystal turned semi-liquid-semi-gaseous and entered through the openings in his palm. It flowed through his channels in a somewhat liquid state, based on the fact that there was no indication of significant compression which was characteristic of a gas. The purpose of timing the depletion of mana from the water-filled cylinder was to determine the flow rate of mana as it moved through the system.
 
-The experiment was basically as follows. The group would measure the rate at which mana was being depleted, which would translate into the flow rate or consumption rate of mana. They would then compare the consumption against the added energy which raises the temperature of the fluid inside the Caloric Tank. They would conduct three sets of three trials, with three different volumes of mana crystals (8, 125, 512 cubic centimetres). Graphing the consumption against energy change should provide an indication of how much mana it takes to keep the spell running. They would then repeat the three sets of three but with a pulsing process. That is, the spell would be activated and deactivated in regular intervals, and the energy change with this method would be compared against the previous experiment to see if continuous activation has a different consumption pattern (constant or compounding).
+The experiment was basically as follows. The group would measure the rate at which mana was being depleted, which would translate into the flow rate or consumption rate of mana. They would then compare the consumption against the added energy which raises the temperature of the fluid inside the Caloric Tank. They would conduct three sets of three trials, with three different volumes of mana crystals (8, 125, 512 cubic centimetres). Graphing the consumption against energy change should indicate how much mana it takes to keep the spell running. They would then repeat the three sets of three but with a pulsing process. That is, the spell would be activated and deactivated in regular intervals, and the energy change with this method would be compared against the previous experiment to see if continuous activation has a different consumption pattern (constant or compounding).
 
 This experiment would then be repeated with two more people, to see if there is a difference in the results and conclusions.
 
@@ -100,7 +100,7 @@ Revian's gaze dipped to his abdomen and he froze mid-sentence.
 
 "Seeing what?" Kevan probed.
 
-"Numbers," Revian clarified. "Woah! When I use my mana senses to observe my abdomen, I'm seeing numbers - more like a fraction. It says 136/213"
+"Numbers," Revian clarified. "Woah! When I use my mana senses to observe my abdomen, I see numbers - more like a fraction. It says 136/213"
 
 "I don't see anything..." Markus muttered while rubbing his forehead in thought.
 

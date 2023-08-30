@@ -2,7 +2,7 @@
 id: 5cj9g2ginzmg94d6hlj6h32
 title: Chapter 354 - The Frivolous Four - The Fire (Part One)
 desc: ''
-updated: 1692788312356
+updated: 1693396124155
 created: 1690200365811
 ---
 
@@ -76,7 +76,7 @@ Markus tilted his head sideways, in thought, and answered, "According to Shuri, 
 
 The group agreed with each member nodding simultaneously. Revian dropped the bag he was carrying to the ground carefully and pulled out a box from within. Opening it up, he revealed stacks of mana crystals perfectly cut into cuboids of standard yet varying sizes.
 
-"This is an expensive experiment," Markus reminded. "Please be mindful of wastage. Mana crystals aren't so easy to source for sects like ours. Usually, large and most medium size sects are built on mana-dense regions which tend to have caves that grow mana crystals naturally. Ours, on the other hand, is built next to a sink. This means that while there is an abundance of inert cores (which is arguably more expensive than mana crystals) we face a shortage of mana crystals."
+"This is an expensive experiment," Markus reminded. "Please be mindful of wastage. Mana crystals aren't so easy to source for sects like ours. Usually, large and most medium-sized sects are built on mana-dense regions which tend to have caves that grow mana crystals naturally. Ours, on the other hand, is built next to a sink. This means that while there is an abundance of inert cores (which is arguably more expensive than mana crystals) we face a shortage of mana crystals."
 
 "We've tried to minimise wastage to the best of our abilities," Casey affirmed. "The excess shavings from these crystals have found use in some minor alchemical work spearheaded by Matron Reva."
 

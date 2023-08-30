@@ -2,7 +2,7 @@
 id: oc5xu3c8gs9f52owjsh2rw4
 title: Chapter 368 - The Debate
 desc: ''
-updated: 1693254555171
+updated: 1693393692541
 created: 1693165917485
 ---
 
@@ -60,7 +60,7 @@ With the Sect Leader's gesture for go ahead, Casey stood up and said, "You seem 
 
 "The mass flow rate is all that matters. The mass in equals mass out," Krane responded matter-of-factly.
 
-"So what is the mass of mana?" Casey shot back with a victorious smirk. "The mass conservation law is reliant on the equation of mass in equals mass out. But what is mass in? And what exactly is the transmutative nature of a spell - what does it do to mana?"
+"So how exactly do you measure the mass of mana?" Casey shot back with a victorious smirk. "The mass conservation law is reliant on the equation of mass in equals mass out. But what is mass in? And what exactly is the transmutative nature of a spell - what does it do to mana?"
 
 Krane opened and closed his mouth like a fish. An answer made its way to his mouth, but upon repeating it mentally, he discarded it because it made no sense.
 
