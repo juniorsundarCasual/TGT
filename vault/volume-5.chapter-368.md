@@ -1,8 +1,8 @@
 ---
 id: oc5xu3c8gs9f52owjsh2rw4
-title: Chapter 368 - The Debate
+title: Chapter 368 - The Debate (Constructive Segment)
 desc: ''
-updated: 1693393692541
+updated: 1693471883703
 created: 1693165917485
 ---
 

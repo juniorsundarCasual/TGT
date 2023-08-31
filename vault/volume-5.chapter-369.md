@@ -1,8 +1,8 @@
 ---
 id: 8wt7zdt1qo9drsv6qvlbzae
-title: Chapter 369
+title: Chapter 369 - The Debate (Rebuttal Segment)
 desc: ''
-updated: 1693417200624
+updated: 1693472146383
 created: 1693254062802
 ---
 
@@ -38,28 +38,23 @@ The members of the second team exchanged glances, before Krane reached forward a
 
 The blushing girl walked with small but hurried steps to the podium. She cleared her throat, placed the crumpled paper in front of her, and started speaking. Her voice wasn't as unsure as in the previous attempt. Which Guy pegged as a sign of progress.
 
-"While Definition 1 claims to establish a so-called 'common language' it is still reliant on the |Firestarter| spell. The issue is that"
+"While Definition 1 claims to establish a so-called 'common language' it is still reliant on the |Firestarter| spell. The issue is that the heat transfer through that method is inconsistent. While in their report, they have employed strategies to ensure that the transfer is as efficient as possible, but that places a burden on the apparatus and environment where the experiment must be undertaken. Heat energy transfer through fire is inefficient by nature. Since it isn't directional, some energy is lost through convection and radiation from the sides. Even with the systems in place, as defined in their experimentation, we believe that the mana unit definition is subject to a systematic error, making it structurally unsound as a basis for future experiments. This isn't the case with transmutation of mana to mass, as it is proven to be a lossless process. This is why Definition 2 is the most appropriate definition of the Mana Unit."
 
-Affirmative Team:
+Once Norris finished speaking, she was guided back to her place amongst her team members amidst a round of applause. Guy then looked towards Revian, the final participant. The boy shared a look with his team members, who returned an encouraging smile, and the girls pumping their fists excitedly.
 
-2AR (Second Affirmative Rebuttal):
-While we acknowledge the negative's appreciation for magic's artistic expression, we emphasize the importance of precision and coherence. Definition 1 doesn't discount creativity; it enhances our understanding by providing a quantifiable measure. The balance between standardization and diversity is achieved through Definition 1's framework, which is both comprehensive and adaptable.
+Revian took the podium, and started the final rebuttal of the round. "While the opposing team makes a good point about the inefficient nature of heat transfer through fire, they also rightfully emphasised the steps we took to ensure that such wastage was negated. Yet, even with the claimed inefficiency, we stand behind the application of the |Firestarter| spell because it is possible to measure the loss and solve for the systematic error - the enthalpy of the chemical reaction is known, and an extension experiment can be performed to obtain the systematic error. However, Definition 2 relies on mass conservation and while the opposing team claims that it is lossless, it is only a claim that remains unproven. There is no study that delves into the exact nature in which mana is transmuted into mass. Mass in equals mass out is true if the reaction is chemical in nature. Is magical transmutation a chemical reaction? Or is the reaction happening at an atomic level? If I was to use a hundred gram mana crystal to create a diamond, and then another mana crystal to create a piece of coal, would the diamond and coal weigh the same? While the opposing team claims that Definition 2 is robust as it is based on the law of conservation of mass, they are conveniently overlooking this glaring hole in their experiment. This is why we believe that Definition 1 is the most apt descriptor of the Mana Unit."
 
-Negative Team:
+Guy returned to the podium and waited as the applause died down. "The teams have now finished making their arguments. Before we move on to the deliberation round to determine the winner, each team will now have a minute to make a closing remark. Would the team leaders please stand."
 
-2NR (Second Negative Rebuttal):
-While we appreciate the affirmative's intent, it's vital to remember that a comprehensive understanding of mana shouldn't come at the cost of limiting magic's potential. By embracing Definition 2, which characterizes mana through the energy required for water creation via the |Water Spout| spell under standard temperature and pressure conditions, we honor both the artistry and adaptability of magic, ensuring our definition resonates with the diverse range of practitioners.
+Kevan and Luce stood up behind their tables on queue. Kevan looked towards the judges and audience and started speaking, "In our final plea, we assert that Definition 1 isn't about suppression but about providing a standardized measure that accommodates magic's universal principles. Our approach bridges the gap between precision and creativity, fostering a common ground for discussions. By quantifying mana through a specific energy transformation, we capture its essence while maintaining coherence and comparability."
 
-Summary Speeches:
+Next, Luce did the same, "In our closing, we reiterate that magic's essence lies in its open and variable nature. Definition 2, which ties mana to water creation through the |Water Spout| spell, embraces this nature while ensuring that it is open to everyone - without having to rely on complex processes and apparatus. Furthermore, by aligning the process with a robust law of mass conservation, we ensure that any external factors that may affect the definition are avoided."
 
-1AR (First Affirmative Rebuttal):
-In our final plea, we assert that Definition 1 isn't about suppression but about providing a standardized measure that accommodates magic's universal principles. Our approach bridges the gap between precision and creativity, fostering a common ground for discussions. By quantifying mana through a specific transformation, we capture its essence while maintaining coherence and comparability.
+As the two members sat down, roaring applause and intense cheering resonated within the room. Elder Nara, in the judge's seat, turned around and revealed an intrigued smile, while Guy bore a grin that could outshine the sun.
 
-2NR (Second Negative Rebuttal):
-In our closing, we reiterate that magic's essence lies in its multifaceted nature. Definition 2, which ties mana to water creation through the |Water Spout| spell, embraces magic's adaptability and creativity. By aligning mana with the act of creation, we honor the heart of magic and ensure our definition encompasses the full spectrum of magical abilities.
+"That went better than expected," Guy said to himself as he waited for the symphonic ruckus to die down, so that he could bring the event to a close.
 
-Lead up to debate
+____
 
-Debate format
-
-Debate arguments
+**Next**
+* [[volume-5.chapter-370]]
