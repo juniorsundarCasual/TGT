@@ -2,7 +2,7 @@
 id: 0uf3cv6tnerljixv9ksekvp
 title: Chapter 358 - The Frivolous Four - From the Ashes, Reborn Anew
 desc: ''
-updated: 1692948068267
+updated: 1693558063831
 created: 1690972000014
 ---
 
@@ -98,7 +98,7 @@ While Guy wanted to approve all of them, even if they were redundant, so that th
 
 Usually, every sect in the Alliance is allotted a fixed quantity of mana crystals in a month. For new and small sects like the True World Sect, the amount is paltry. In fact, all of it was more or less consumed in the four's experiment. Now the Sect could buy more, but the supply of mana crystals through verified channels was heavily monitored - and it would raise red flags if a relatively unknown sect suddenly called for and could afford a large shipment that could sustain all the proposals. Alternatively, the black market was there, but the prices there fluctuated exorbitantly, and they were also monitored by less savoury types.
 
-Hence, against going against his heart, he had to deny over 80% of the proposals in favour of ones that were less exploratory. He even merged a few studies together to save up on expenditure. In the end, five extension studies were approved.
+Hence, against going against his heart, he had to deny over 80% of the proposals in favour of less exploratory ones. He even merged a few studies together to save up on expenditure. In the end, five extension studies were approved.
 
 Apart from these kinds of studies, there was another that passed over his table which looked at an interesting new possibility.
 
