@@ -2,11 +2,11 @@
 id: 4uiwjzvmkreeaihvu0d4h0c
 title: Chapter 357 - The Frivolous Four - The Roaring Blaze (Part Two)
 desc: ''
-updated: 1693408210144
+updated: 1693734144013
 created: 1690801389815
 ---
 
-Guy felt a sense of accomplishment, in observing the industriousness with which the four teens hustled around and set up their new experiment. The rigour, enthusiasm, and seriousness tugged at his nostalgia. In his past life, he'd observed a similar bustling scene whenever it came time for his students to try out something new and take on a self-led project.
+Guy felt a sense of accomplishment, in observing the industriousness with which the four teens hustled around and set up their new experiment. The rigour, enthusiasm, and seriousness tugged at his nostalgia. In his past life, he'd observed a similar bustling scene whenever it was time for his students to try out something new and take on a self-led project.
 
 There is an inherent difference between undertaking a predefined experiment versus a self-led project, and it is a matter of ownership. The students OWN a self-led project, as it is something they need to conceptualise and conceive on their own. However, a predefined experiment is something that has been curated and perfected through iteration by a third party. Because of that, the learning modality is different. With a predefined experiment, learning happens through success, but with self-led projects, it happens through failure.
 
