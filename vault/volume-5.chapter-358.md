@@ -2,7 +2,7 @@
 id: 0uf3cv6tnerljixv9ksekvp
 title: Chapter 358 - The Frivolous Four - From the Ashes, Reborn Anew
 desc: ''
-updated: 1693558063831
+updated: 1693734055466
 created: 1690972000014
 ---
 
@@ -42,7 +42,7 @@ Beneath the title, were the names of the people who led the experiment: "Revian,
 
 "Seeing as you're always preaching the follies of plagiarism and giving credit where credit is due, those brats figured that since you were involved and assisted in running tests, they needed to give you credit."
 
-Tried struggled to swallow this revelation for one big reason, which was that he didn't feel that he earned this citation. "So let's hear what your theory is supposed to be."
+Guy struggled to swallow this revelation for one big reason, which was that he didn't feel that he earned this citation. "So let's hear what your theory is supposed to be."
 
 "It's kind of out there, I'm not going to lie," the Other Guy prefaced which was met with a sarcastic scoff.
 

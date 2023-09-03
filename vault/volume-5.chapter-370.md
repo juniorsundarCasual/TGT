@@ -2,7 +2,7 @@
 id: lm5j9b10k4llxrmlcbp2lzk
 title: Chapter 370
 desc: ''
-updated: 1693582705480
+updated: 1693733924203
 created: 1693472153374
 ---
 
@@ -30,4 +30,12 @@ At this moment, Guy decided to step in and said, "I agree with Elder Nara. The d
 
 The others nodded contemplatively as they digested this input.
 
-""
+"So, do we have a consensus?" Guy probed again.
+
+"Even with what Master said, we are at an impasse," Marie jumped in. "You see, Shuri and I stand behind Team 2, while Master and Markus are with Team 1."
+
+"Why is that?" Guy asked while leaning against a desk.
+
+"We think that Team 2's arguments were more critical on the far-reaching consequences of Definition 1. Especially the nature of standardisation and how it is reliant on a singular body to maintain uniformity," Shuri chimed in. "Senior Sister Marie and I believe that the down-the-line implications are extremely crucial, which was well addressed by Team 2, not so much by Team 1."
+
+"On the other hand," Markus carried over. "Elder Nara and I believe that the highlighted pseudo-open-endedness in Definition 2, especially in how they used mass conservation as an analogue for comparison, is a problem factor. The debate was to learn which side has the better definition, it is evident that while Definition 1 may not be the best, it is still better than Definition 2."

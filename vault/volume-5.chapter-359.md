@@ -2,7 +2,7 @@
 id: 2cx7ckgrlosjfdkz9fea0m6
 title: Chapter 359 - The Plan
 desc: ''
-updated: 1693224140223
+updated: 1693733998113
 created: 1691137715798
 ---
 
@@ -42,7 +42,7 @@ Next, she had to work through the design once again to determine all the resourc
 
 The bill of materials would go through the Sect's procurement department (which was tethered to the VTC), which would then execute their namesake and procure them for her. This took a few more weeks, during which a few significant changes transpired within the Sect.
 
-Although Shuri had advanced to the Foundation Establishment realm, she was still eligible to unlock the mana measurement add-on to her mana sense. Although it wasn't possible for her to exhaust her mana core in a mana sink region to replicate the procedure, it was possible to apply an equivalency of how much mana a known spell would consume and assign numeric values to it. This in turn unlocks the feature of measuring mana with the mana sense. After undergoing the procedure, she could not observe, numerically, the mana in everything that was open to her senses. This significantly improved her understanding of programming, as she could now configure the program to use precise quantities of mana.
+Although Shuri had advanced to the Foundation Establishment realm, she was still eligible to unlock the mana measurement add-on to her mana sense. While it wasn't possible for her to exhaust her mana core in a mana sink region to replicate the procedure, it was possible to apply an equivalency of how much mana a known spell would consume and assign numeric values to it. This in turn unlocks the feature of measuring mana with the mana sense. After undergoing the procedure, she could now observe, numerically, the mana in everything that was open to her senses. This significantly improved her understanding of programming, as she could now configure the program to use precise quantities of mana.
 
 This resulted in her overhauling the program altogether, making it more compact than it already was. This allowed her to bring back all the branches of spells she had previously sacrificed to ensure that the program would fit in the palm-sized core. She went further and reduced the core's size making it just smaller than a teenager's palm.
 
