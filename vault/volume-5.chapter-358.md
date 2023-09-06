@@ -2,7 +2,7 @@
 id: 0uf3cv6tnerljixv9ksekvp
 title: Chapter 358 - The Frivolous Four - From the Ashes, Reborn Anew
 desc: ''
-updated: 1693734055466
+updated: 1694002777637
 created: 1690972000014
 ---
 
@@ -86,7 +86,7 @@ Guy's expression warped erratically until it settled at a reluctant frown.
 
 "Whatever!" Guy bellowed. "I'll figure it out later."
 
-Guy shrugged his right shoulder before his body achieved full emotional symmetry - the Other Guy had receded.
+Guy shrugged his right shoulder before his body achieved complete emotional symmetry - the Other Guy had receded.
 
 After spending a minute contemplating the conversation, Guy sighed and left the Church.
 
