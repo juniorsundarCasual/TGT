@@ -2,7 +2,7 @@
 id: 4b6xdrv7oelvmjdoqy32oqc
 title: Chapter 360 - The Creation
 desc: ''
-updated: 1693396690756
+updated: 1694100228751
 created: 1691394981312
 ---
 
@@ -12,7 +12,7 @@ The idea of modularising wasn't something that had been explored in the field of
 
 The reason for this dependence was that her design required the modules in the core to connect and complete through external connections.
 
-Shuri centred her min and proceeded to draw the first of the many modules that would be squashed inside the less-than-palm-sized mana core. After designing and redrawing the program through multiple iterations, Shuri could confidently say that she could print the thing with her eyes closed, not that she would decide to act on that arrogant thought. So, inevitably, the first set of stable modules was finished within the hour.
+Shuri centred her mind and proceeded to draw the first of the many modules that would be squashed inside the less-than-palm-sized mana core. After designing and redrawing the program through multiple iterations, Shuri could confidently say that she could print the thing with her eyes closed, not that she would decide to act on that arrogant thought. So, inevitably, the first set of stable modules was finished within the hour.
 
 Shuri loosened her muscles, taking a moment to relax, before picking up one of the wooden pieces on the table and assembling the first octant of the wand. Then, while holding it in place, she started to draw the next set of modules that would bridge the gap from the first set through this wooden piece. This process was slower, as she had to be methodical in her approach. Therefore, within an hour and a half, the module was complete and Shuri could fasten the wooden piece against the wooden frame that was affixed to the core.
 
