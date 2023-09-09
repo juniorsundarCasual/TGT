@@ -2,7 +2,7 @@
 id: rwxpmhhz66q18gi1spydq3t
 title: Chapter 372 - To See Without Sight
 desc: ''
-updated: 1694100123032
+updated: 1694163950368
 created: 1693994611043
 ---
 
@@ -120,7 +120,7 @@ The two boys sat next to each other. Kevan observed Yohn's silence and probed, "
 
 Marie hummed in thought before saying, "I can already guess where you're going with this. So I'd like to caution you against narrowing your understanding of reality. I want you to look up the allegory of the cave when you're free, and it should clarify what I mean. In fact, let me ask you this: if you're planning to see using echolocation, what will you do if you're faced with opponents who can travel faster than the speed of sound?"
 
-Marie let out an amused chuckle upon seeing the speechless expressions on the duo's face. "That's something for you lot to think about in the meantime."
+Marie let out an amused chuckle upon seeing the speechless expressions on the duo's face. "That's something for you to think about in the meantime."
 
 ____
 
