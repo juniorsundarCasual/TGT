@@ -2,21 +2,21 @@
 id: mekd985unjm26lc66g0yah8
 title: Chapter 364 - Chance Encounter
 desc: ''
-updated: 1692388750242
+updated: 1694433961751
 created: 1692345498563
 ---
 
-An hour later, the parents returned to the site of the accident with an anxious hastiness in their steps. The recovering mother nearly fainted once again after noticing the literal bloodbath her daughter was put through. Though an assuring tap from the more observant husband, who noticed his daughter's chest moving up and down calmly, pulled her out of it.
+An hour later, the parents returned to the site of the accident with an anxious hastiness in their steps. The recovering mother nearly fainted once again after noticing the literal bloodbath her daughter was put through. An assuring tap from the more observant husband, who noticed his daughter's chest moving up and down calmly, pulled her out of it.
 
 "H-How is she?" The man asked worriedly.
 
 "She's out of trouble, for the moment," Jean answered. Noticing her hands soaked in blood, the man took a few cautious steps back. She read this action and immediately burned away the blood with a quick spell. She then reached into her bag and retrieved five, finger-sized phials with a translucent liquid before handing it to the man. "Make sure to feed this to her once, every day, after her morning meal. Feed her the entire phial, do not ration it, and do not feed it to anyone else. Once you are done with it, keep the phials in boiling water for two minutes."
 
-The man nodded like a chicken pecking at grains. Jean then paused and continued by explaining the entire situation, "The fencing had ruptured her intestines. But I've managed to suture them as well as I can. I will remain here for a few days, to observe her recovery. Let me remind you that while your daughter is no longer bleeding, and is more or less put together, she is not completely out of trouble. The medicine in your hands right now is treat potential postoperative illnesses."
+The man nodded like a chicken pecking at grains. Jean then paused and continued by explaining the entire situation, "The fencing had ruptured her intestines. But I've managed to suture them as well as I can. I will remain here for a few days, to observe her recovery. Let me remind you that while your daughter is no longer bleeding, and is more or less put together, she is not completely out of trouble. The medicine in your hands right now is to treat potential postoperative illnesses."
 
 "Post- what?" The father exclaimed.
 
-"To put it in simpler terms," Jean reiterated. "I had to open up your daughter's body to fix the damage inside. Generally, the internal organs aren't supposed to be exposed to the outside world. In doing so, and that to in such an unsafe and unsanitary environment, there is a possibility that she will get an illness caused by bacteria and germs."
+"To put it in simpler terms," Jean reiterated. "I had to open up your daughter's body to fix the damage inside. Generally, the internal organs aren't supposed to be exposed to the outside world. In doing so, and that too in such an unsafe and unsanitary environment, there is a possibility that she will get an illness caused by bacteria and germs."
 
 "Is she going to die?!" The mother burst in.
 
@@ -46,7 +46,7 @@ It was a simple farmer's cottage made of wood, stone and mud, with straw roofing
 
 Before the woman could insist harder, Jean added, "I'll be in the same inn if there is any emergency. I will be dropping by regularly to check up on Rind regardless."
 
-The wife move forward to urge Jean to reconsider, however, she was held back by her husband who then redirected her attention towards taking care of the ailing child. Jean did not wish to overstay and left the house. As she did so, she crossed paths with the elderly man who fetched her earlier.
+The wife moved forward to urge Jean to reconsider, however, she was held back by her husband who then redirected her attention towards taking care of the ailing child. Jean did not wish to overstay and left the house. As she did so, she crossed paths with the elderly man who fetched her earlier.
 
 "How is Rind?" The man inquired with a concerned voice. There was also guild marring his face.
 
@@ -56,13 +56,13 @@ The wife move forward to urge Jean to reconsider, however, she was held back by 
 
 Jean reached forward and hugged the man from his side. "It won't reach that far. I won't let it."
 
-The man eked out a kind smile before walking up to the door to the house. His hand hesitated as it hovered over the handle, before he carefully pushed down and entered.
+The man eked out a kind smile before walking up to the door to the house. His hand hesitated as it hovered over the handle before he carefully pushed down and entered.
 
 "Will she really be okay?"
 
-"My goodness! When did you get here!" Jean exclaimed while hopping to the side in suprise.
+"My goodness! When did you get here!" Jean exclaimed while hopping to the side in surprise.
 
-Kili gave her a 'are you kidding me' look and said, "I was there beside you this entire time."
+Kili gave her a 'Are you kidding me?' look and said, "I was there beside you this entire time."
 
 "You're so quiet," Jean mumbled.
 
@@ -76,7 +76,7 @@ Jean examined Kili's face for any falsehoods before harrumphing in defeat and wa
 
 "You can't lie to me," Kili shot back. "I've seen that look on your face before."
 
-Jean halted in her step, causing Kili to collide into her.
+Jean halted in her step, causing Kili to collide with her.
 
 "I won't let her die," Jean declared with utter certainty in her voice.
 
@@ -86,7 +86,7 @@ Jean halted in her step, causing Kili to collide into her.
 
 ____
 
-"She had a heavy fever last night," the mother reported with a perturbed expression. "I tried applying a cold-soaked cloth to bring it down, and succeeded. But it was touch and go. Rind was shivering fitfully."
+"She had a heavy fever last night," the mother reported with a perturbed expression. "I tried applying a cold-soaked cloth to bring it down and succeeded. But it was touch and go. Rind was shivering fitfully."
 
 "The reaction is expected," Jean assured the mother while placing her hand on the girl's forehead. "I have a few more medicines for her-"
 
@@ -98,7 +98,7 @@ The door to the house opened at that moment and the husband stepped in with a sa
 
 "There was a new merchant who came along with the usual caravan," the man responded. "He drew a large crowd. Made it tough to get close to the others."
 
-"What was it about?" The elderly man asked from a corner in the house.
+"What was it about?" The elderly man asked from a corner of the house.
 
 "Shady business, if you ask me," the man answered. "He's looking for blind kids to turn into mages."
 
@@ -106,15 +106,15 @@ The door to the house opened at that moment and the husband stepped in with a sa
 
 "That's what I'm saying - shady business. Nothing good comes with meddling with mages and sects-"
 
-The man looked at Jean and hurried said, "No offence."
+The man looked at Jean and hurriedly said, "No offence."
 
 To that, Jean shook her head dismissively and inspected the contents of the sack for its quality.
 
-"As I was saying- Nothing good comes with meddling with mages. Steb says it's probably some excuse to lure in the unfortunate blind children and run some experiments on them in secret," the man theorised. "That's how they usually do it. The sect environment is an unforgiving grind stone, how do you think some blind kids are going to survive there? They'll probably get wiped out first thing, and become a sacrifice for someone else, or something like that."
+"As I was saying- Nothing good comes with meddling with mages. Steb says it's probably some excuse to lure in the unfortunate blind children and run some experiments on them in secret," the man theorised. "That's how they usually do it. The sect environment is an unforgiving grindstone, how do you think some blind kids are going to survive there? They'll probably get wiped out first thing, and become a sacrifice for someone else, or something like that."
 
 "That's awful!" The mother opined. "Who is this merchant? We should report them to the authorities!"
 
-"We will do nothing of that sort," the elderly man interjected. "Didn't you here what your husband said? Nothing good comes with messing with mages. Just ignore them and move on."
+"We will do nothing of that sort," the elderly man interjected. "Didn't you hear what your husband said? Nothing good comes with messing with mages. Just ignore them and move on."
 
 "Yeah! And the merchant himself looks suspicious, if you ask me. It's some orange-looking kid from an upstart True World Sect?" The husband chimed in.
 
@@ -134,9 +134,9 @@ There was silence as the three mortals exchanged gazes between themselves and ea
 
 "P-Physician Rasmus. I-"
 
-Jean stood up and walked out in a brisk pace, ignoring the floundering people left behind. Her destination was the village circle, where the travelling merchants usually set their stall.
+Jean stood up and walked out at a brisk pace, ignoring the floundering people left behind. Her destination was the village circle, where the travelling merchants usually set their stalls.
 
-Just as the man said, there was a large crowd at the centre, but above the crowd she could barely see an orange face and blond head of hair bobbing up and down.
+Just as the man said, there was a large crowd at the centre, but above the crowd, she could barely see an orange face and blond head of hair bobbing up and down.
 
 "Furion!" She bellowed, drowning out the loud murmur of the crowd. The crowd parted, allowing a path to form between her and the boy in between.
 
