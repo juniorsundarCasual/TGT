@@ -2,17 +2,17 @@
 id: 4ozc68vxwczkxlk4qnyr8ue
 title: Chapter 365 - Catching Up
 desc: ''
-updated: 1692609342996
+updated: 1694609454267
 created: 1692597648012
 ---
 
 It was indeed as Jean surmised - the orange-skinned blonde lad was Furion. It was a pleasant surprise for her, to meet someone familiar from the Sect after so many months. As she was about to approach him, the boy raised a finger as a signal for her to hold on and continued his loud narration.
 
-"As I was saying. The True World Sect is looking to recruit new members on short notice. Our primary criterion is that the members must be visually impaired - preferably completely bind - and in their early teens," Furion said from his diaphragm, allowing his voice to reach the farthest reaches of the village from its centre.
+"As I was saying. The True World Sect is looking to recruit new members on short notice. Our primary criterion is that the members must be visually impaired - preferably completely blind - and in their early teens," Furion said from his diaphragm, allowing his voice to reach the farthest reaches of the village from its centre.
 
 As he finished and dismounted from atop his caravan, murmurs started to proliferate in the crowd.
 
-"Why would a Sect want blind kids?" One of the members in the crowd vocalised. "This is the first we're ever hearing of Sect preferring the disabled. Sounds highly suspicious if you ask me."
+"Why would a Sect want blind kids?" One of the members of the crowd vocalised. "This is the first we're ever hearing of Sect preferring the disabled. Sounds highly suspicious if you ask me."
 
 Furion let out an irritated huff through his nose and said, "What you have before you is an opportunity. I get the inhibitions and distrust you have towards Sect, given the nasty rumours that follow everything extraordinary that comes out of them. But the True World Sect is different-"
 
@@ -26,7 +26,7 @@ But once again, Furion was interrupted by the same animated member, "Oh?! So des
 
 "Sir, it seems there is a misunderstanding-"
 
-"Oh I understand everything perfectly!" The man shot back with righteous fury. "You Sect scum think nothing of us mortals and think you can take advantage-"
+"Oh, I understand everything perfectly!" The man shot back with righteous fury. "You Sect scum think nothing of us mortals and think you can take advantage-"
 
 At that moment, a woman rushed into the crowd and struck the man at the back of his head with a rolling pin.
 
@@ -36,7 +36,7 @@ At that moment, a woman rushed into the crowd and struck the man at the back of 
 
 She hit him once again with the pin on his back this time and quickly bowed in Furion's direction. "Please forgive this idiot for speaking out of line. He suffers from a mental illness-"
 
-Furion raised a palm and spoke to the entire crowd. "I can empathise with the distrust you all hold towards sects- mages in general. However, what I've spoken is the truth. The True World Sect is offering visually impaired teens an opportunity to pursue the arcane arts. Needless to say, it is a once in a lifetime opportunity that may not come again. Any child recruited will have benefits extending to their families as well. If you want to learn more about it, you can approach me anytime while I remain in this village."
+Furion raised a palm and spoke to the entire crowd. "I can empathise with the distrust you all hold towards sects- mages in general. However, what I've said is the truth. The True World Sect is offering visually impaired teens an opportunity to pursue the arcane arts. Needless to say, it is a once-in-a-lifetime opportunity that may not come again. Any child recruited will have benefits extending to their families as well. If you want to learn more about it, you can approach me anytime while I remain in this village."
 
 He then turned towards Jean and said, "If you require testimonials to ease your hesitance, then I ask you to approach one of the founding members of our Sect, Jean Rasmus."
 
@@ -60,13 +60,13 @@ She then swiftly strafed away and beelined towards Furion, who had conveniently 
 
 ____
 
-"Hiding, are we?" Jean growled, as she approached Furion's table at the inn. "That too, after dropping the hot potato into my hands."
+"Hiding, are we?" Jean growled as she approached Furion's table at the inn. "That too, after dropping the hot potato into my hands."
 
-"It was more convenient. It would take me an entire week to convince a crowd of that the True World Sect means no harm," Furion admitted while gesturing towards the empty eat near him. "I ordered lunch. Where's Kili?"
+"It was more convenient. It would take me an entire week to convince a crowd that the True World Sect means no harm," Furion admitted while gesturing towards the empty eat near him. "I ordered lunch. Where's Kili?"
 
 "I'm here," Kili said with a sigh, causing Furion to jolt in his seat.
 
-"We really need to tie a bell around you," Furion mumbled. "Any way, you probably have more credibility with these folk than I do. How long were you here?"
+"We really need to tie a bell around you," Furion mumbled. "Anyway, you probably have more credibility with these folk than I do. How long were you here?"
 
 "A week, give or take a few days," Jean responded.
 
