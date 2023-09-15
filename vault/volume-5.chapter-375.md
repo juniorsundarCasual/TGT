@@ -2,7 +2,7 @@
 id: yrtdwlvilgog8lqcgkvb4fu
 title: Chapter 375 - Help from Above
 desc: ''
-updated: 1694784124040
+updated: 1694790510781
 created: 1694614843669
 ---
 
@@ -81,6 +81,10 @@ Amidst Yohn's bumbling sounds, the Sect Leader let out a mirthful chuckle and pl
 As those dreaded words fell, Yohn and Markus had to suppress a groan as a loaded list landed on their laps.
 
 "Meet me in the evening tomorrow, same time. I want to personally teach this to you so that there aren't any mistakes," the Sect Leader said as he dismissed them.
+
+____
+
+[Circuit DIY](https://www.youtube.com/watch?v=izCV1WrPFds)
 
 ____
 
