@@ -2,7 +2,7 @@
 id: hxgsyr9iwdmmzg3ty5yzouw
 title: Chapter 362 - "Now I am become Death, the destroyer of worlds."
 desc: ''
-updated: 1694003155470
+updated: 1694772105619
 created: 1691653523221
 ---
 
@@ -92,7 +92,7 @@ ____
 
 "I should go talk to her-" Markus said as he tried to get up.
 
-"Let her work through this on her own," Maries stopped him by placing a forceful hand on his shoulder. "Currently, her pride and sensibility are in emotional conflict. But, Shuri is more sensible than she is prideful, so she'll come back to it eventually."
+"Let her work through this on her own," Marie stopped him by placing a forceful hand on his shoulder. "Currently, her pride and sensibility are in emotional conflict. But, Shuri is more sensible than she is prideful, so she'll come back to it eventually."
 
 "But she is still upset," Markus said while pulling his lips into a thin line, concerned. He then pushed away Marie's hand and left the room as well.
 
