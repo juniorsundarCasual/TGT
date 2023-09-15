@@ -2,7 +2,7 @@
 id: 3n83taz32sulhok4yk4wh0v
 title: Chapter 374 - On a Spectrum
 desc: ''
-updated: 1694437000287
+updated: 1694784099392
 created: 1694421690173
 ---
 
@@ -102,7 +102,7 @@ Markus bore down on Yohn with a serious stare, that caused the blind boy to swal
 
 Although Markus had warned Yohn against sharing this information with others, rumours are often hard to contain. Within the week, everyone knew of this, though no one was stupid enough to advertise it publicly.
 
-And like that, the already committed Sect members of the True World Sect turned into devout followers of the Sect Leader. 
+And like that, the already committed Sect members of the True World Sect turned into devout followers of the Sect Leader.
 
 ____
 

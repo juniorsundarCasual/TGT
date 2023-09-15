@@ -1,8 +1,8 @@
 ---
 id: yrtdwlvilgog8lqcgkvb4fu
-title: Chapter 375
+title: Chapter 375 - Help from Above
 desc: ''
-updated: 1694700128493
+updated: 1694784124040
 created: 1694614843669
 ---
 
@@ -28,4 +28,61 @@ There was a tense silence as the Sect Leader looked pensively at Yohn, causing t
 
 "I think what Yohn is trying to say, Master," he started with a shaky smile, "is that maybe if we also marry magic into what we are learning, all these impossible feats of technology may be achievable."
 
-He then leaned closer and whisper, "I apologise, but I shared the detail about your inheritance with "
+He then leaned closer and whisper, "I apologise, but I shared the detail about your inheritance with Yohn..."
+
+"Inheritance?" Sect Leader Larks repeated with a surprised expression. "What inheritance?"
+
+There was an astounded "Huh" from both Markus and Yohn at the man's display of total ignorance. For a second, they were convinced that maybe they were mistaken about the whole thing. Until, within seconds, the Sect Leader's eyes widened in realisation.
+
+"Oh, you mean THAT inheritance?" He exclaimed. He then let out a wry laugh and said, "I almost forgot about that."
+
+"So... Umm... What about it?" Sect Leader Larks probed.
+
+"Respectfully," Yohn spoke up. "I-I think that all the knowledge that the Sect Leader has disseminated in the Library is built on the premise that we are living in the True World - a world without mana. The natural progression of knowledge through inventions and discoveries should be like that in such a world. However, we live in a world where mana exists. And so, I don't think that it is necessary for us to follow the same progression when it comes to advancing our level of technology."
+
+"While I agree with what you're saying," Sect Leader Larks opined. "We are at an advantage here, because we have access to such advanced knowledge so readily. Do you think the world would be able to unearth most of the truths enshrined in the library?"
+
+As the two members shook their heads, he continued, "I don't want you people to take this knowledge for granted, that's all."
+
+He then pulled out two large parchment papers and a writing utensil, and started to scribble on them.
+
+"This is a simple radio wave generating device," he narrated while drawing the schematic. "There are primarily four sections to this divided into two parallel circuits. This button here is what you hold down to generate the radio wave. One terminal of the button is connected to this cell, while the other is connected to one end of an electromagnetic coil. The other end of the coil is connected to a pin, which is in contact with a thin spring-loaded iron plate, which has one end connecting to the other cell terminal. Note here that the tip of the iron-plate is positioned right in front of the electromagnet. When you hold down the button, the circuit completes. The current runs from the battery and into the electromagnet (turning it on), which causes the iron plate to get pulled towards it which in turn causes the circuit to break. As this happens, the plate returns to original position, and while the button is still pressed, the circuit is completed again. And thus the process repeats itself."
+
+"Isn't this just a buzzer?" Markus commented.
+
+"One of the side outputs of the buzzer, due to the rapidly changing magnetic field, is a radio wave." Sect Leader Larks explained. "It adheres to the definition of electromagnetic waves; you can confirm it."
+
+"However, while this is simpler, it does call for familiarity with a topic we haven't really touched till now," he then added. The Sect Leader placed a finger over the cell in the schematic and asked, "Do you know what this is?"
+
+"A cell. It generates electricity as a direct current through chemical reactions," Yohn narrated from memory.
+
+"Right," the Sect Leader affirmed. "That is the definition. But how does it achieve that?"
+
+"Umm... though a chemical reaction..." Yohn repeated.
+
+"What kind of chemical reaction?" The Sect Leader volleyed with a curious raise of his brows.
+
+Amidst Yohn's bumbling sounds, the Sect Leader let out a mirthful chuckle and placed the second empty parchment above the first and wrote: "RedOx reactions: Reduction and Oxidation."
+
+"Chemical reactions, in their nature, have something to do with the movement or transfer of electrons," he explained. "Because of that, we can define most chemical reactions as reduction and oxidation reactions. Oxidation is when a reactant loses an electron, while reduction is when it gains an electron. The reason why name-wise it makes no sense, is because they are defined in terms of gaining or losing of oxygen (i.e. reduction is loss of oxygen). Easiest way to remember the definition with respect to electrons is: OILRIG. Oxidation is Loss, Reduction is Gain."
+
+"A combustion reaction is a simple example of a redox reaction. Here, the fuel, let's take methane, is oxidised, and the oxidant, which is oxygen itself, is reduced," he added.
+
+"It is important for us to understand redox reactions because there is a branch of redox reactions that interact with electricity (since technically there is a flow of electron happening here). They are called electrochemical cells," the Sect Leader pointed out. "Amongst them, you have two types. The ones that generate electric current with chemical reaction, and those that generate chemical reactions with electric currents. Which do you think we are interested in?"
+
+"The former?" Markus contributed.
+
+"You're correct! Voltaic or galvanic cells are two half-cells consisting of separate oxidation and reduction reactions. When we connect them together with a bridge, it turns into a full cell, which is capable of generating a voltage," the Sect Leader responded.
+
+"The circuit that I provided you needs to be powered with direct current. That is when current flows in one direction. If you remember, we created and tested a hand-cranked generator with a magnet and coils of wire. That was actually generating alternating current, which switches direction periodically. A voltaic cell is the most accessible source of direct current, we have with our level of technology. This is what we will be using to power the circuit," the Sect Leader explained.
+
+"To that end, you guys will need to do some background reading."
+
+As those dreaded words fell, Yohn and Markus had to suppress a groan as a loaded list landed on their laps.
+
+"Meet me in the evening tomorrow, same time. I want to personally teach this to you so that there aren't any mistakes," the Sect Leader said as he dismissed them.
+
+____
+
+**Next**
+* [[volume-5.chapter-376]]
