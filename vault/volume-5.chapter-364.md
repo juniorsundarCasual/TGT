@@ -2,7 +2,7 @@
 id: mekd985unjm26lc66g0yah8
 title: Chapter 364 - Chance Encounter
 desc: ''
-updated: 1694433961751
+updated: 1695034752133
 created: 1692345498563
 ---
 
@@ -48,7 +48,7 @@ Before the woman could insist harder, Jean added, "I'll be in the same inn if th
 
 The wife moved forward to urge Jean to reconsider, however, she was held back by her husband who then redirected her attention towards taking care of the ailing child. Jean did not wish to overstay and left the house. As she did so, she crossed paths with the elderly man who fetched her earlier.
 
-"How is Rind?" The man inquired with a concerned voice. There was also guild marring his face.
+"How is Rind?" The man inquired with a concerned voice. There was also guilt marring his face.
 
 "She'll be okay. This isn't the first impalement I've treated, so I have some experience," Jean responded. "Though it is my first time with a regular human. Mages tend to have superior regenerative properties, after all. Nonetheless, she will heal just slower. It definitely helps that she's still young - kids tend to recover faster, after all."
 
