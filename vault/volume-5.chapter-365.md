@@ -2,7 +2,7 @@
 id: 4ozc68vxwczkxlk4qnyr8ue
 title: Chapter 365 - Catching Up
 desc: ''
-updated: 1694609454267
+updated: 1695221153955
 created: 1692597648012
 ---
 
@@ -164,7 +164,7 @@ Kili swallowed her mouthful of food and said with a serious expression, "Big Sis
 
 "It's okay," he said with a light chuckle. He turned towards Jean and continued, "I think I know enough."
 
-He then dabbed his lips with his kerchief and stood up from his seat.
+He then dabbed his lips with his handkerchief and stood up from his seat.
 
 "Well, I have some work to do. The food's on my tab, so have some more if you want. And Jean," he paused while looking at her and tapped her shoulder. "We have a lot of catching up to do."
 

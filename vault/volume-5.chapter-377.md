@@ -2,7 +2,7 @@
 id: 983s2cm7y8vda8e123p4ytp
 title: Chapter 377 - The Blot Thickens
 desc: ''
-updated: 1695120793569
+updated: 1695209551151
 created: 1694951102866
 ---
 
@@ -110,7 +110,7 @@ Yohn quickly yelled for Markus to turn off the emitter, and the blot suddenly di
 
 "Congratulations on being able to detect radio waves," the Sect Leader said.
 
-"Next comes the matter of analysis and understanding," he then added. "Once you bag that skill, we can properly celebrate your accomplishment."
+"Next comes the matter of analysis and understanding," he then added. "To see something and be able to understand what you are seeing are not the same. The eyes can see by default, but it is the optic nerves and the optical centres of the brain that turn what the eyes see into meaningful data. Once you bag that skill, we can properly celebrate your accomplishment."
 
 ____
 
