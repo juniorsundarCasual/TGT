@@ -1,8 +1,8 @@
 ---
 id: b7h6jl6ak5s7gx5ehsda6xy
-title: Chapter 378
+title: Chapter 378 - A Different Spectrum of Colours
 desc: ''
-updated: 1695222331500
+updated: 1695290287089
 created: 1695200509685
 ---
 
@@ -52,4 +52,51 @@ Yohn curled his palms into tight fists and spoke with an imploring tone, "I have
 
 "You have to be more specific there."
 
-"I spent the week"
+"I spent the week, and I have basically nothing to show for it," Yohn admitted. "I am struggling to turn the raw data into something processed and comprehensible. So I was hoping you could do for me what you did for Senior Brother Markus."
+
+The Sect Leader massaged his chin while in thought. As the silence extended, Yohn grew more worried, thinking that he had irked the man somehow.
+
+"If it is too much trouble-"
+
+Just as Yohn was about to stand up, the Sect Leader reached forward and grabbed his hand.
+
+"Meditate, and let yourself drift along to the sound of my voice. Focus only on me," as he said this, the man's palm rested on Yohn's head and his thumb gently massaged his forehead.
+
+Yohn let himself relax, following the Sect Leader's command, and found himself getting sucked down a narrow tunnel. He drifted for a seemingly endless amount of time before he was deposited in a room that was completely white, and pleasantly bright.
+
+As he looked around-
+
+"Wait! I-I can see again!" Yohn exclaimed.
+
+"It is only temporary," the Sect Leader's voice corrected. "It is only because I want you to see."
+
+"I was thinking about what you are struggling with. The matter of comprehending the blots, as you sense them," the Sect Leader started. "I think the issue starts with the fact the way you are sensing them is different from the way your normal senses work."
+
+"Let me explain. Most human senses that are used in localisation are directional in nature. Your eyes have a field of view and your ears have a field of hearing. Any input that is beyond this field is hard to decipher. The directional nature is important, because it helps the mind tether the input to a source and generate a mental image. The sensory organs are extremely complex, and the way they perform inferencing is equally intensive. You should have read up on them, so I won't exhaust you with the details. Why I believe you are struggling with processing is because the mana sense is omnidirectional, and your brain is finding it difficult to warp this omnidirectional information in a way that humans can understand," he hypothesised.
+
+"Consider the following. There is a man in front of you and behind you both equally far away from you. They both make the same noise. Your ears can understand when something is coming from the front and something is coming from behind. If you rely on your mana senses to hear things, they too will be able to decipher it because the data is processed through your hearing neural pathways. However, you don't have a neural pathway to decipher EM waves beyond the visible light range. So when omnidirectional data is obtained, there is nothing that can handle it," the Sect Leader expounded.
+
+"What if I use my optical neural pathways - basically using my eyes as tethers," Yohn probed.
+
+"I hope you don't take it the wrong way, but you only have eyes here. Outside... you are still..."
+
+"No, no, I know that. I mean, since I am planning to find a replacement to my lacking visual sensors, why can't I hijack my optical centres to process the EM data?" Yohn surmised.
+
+The Sect Leader contemplated on the idea before saying, "It could work. But in that case, we need to design the processing segment. I have an idea on how you can do that. As you know, each band of the EM spectrum has a purpose. Radio is used for communication. Due to its higher wavelength, radio waves tend to diffract a lot which makes it a poor candidate for vision and detection. Microwave is superior for detection as it has a much lower wavelength and works well in a line-of-sight application. You can use it to localise yourself. Infrared is primarily associated with heat radiation, so you can use it to map the surrounding temperatures. As for visible light, well, you already know its use. Since the EM spectrum has different use cases based on the band, we have to process each of them differently."
+
+"That sounds complicated..." Yohn admitted.
+
+"Which is why we will spend some time determining how you want to 'see' the processed data. Bring into a form that is decipherable by the brain and fathomable by the human mind. This is how Marie understands the waves of fate, and how Markus sees the gravitational field. The key is to design a robust conceptualisation that captures its essence to a high degree of accuracy."
+
+"Let us start with infrared," the Sect Leader flourished his hands and the world around Yohn changed from a blank white void to a teeming forest.
+
+"Everything here radiates heat, which is in the form of infrared waves. What if we assign a colour to the intensity of the wave being?"
+
+With a snap of the finger, Yohn's vision changed - not the environment but his sight altogether. Instead of seeing the standard colours, he now saw a contour of colours ranging from blue to red all around him. The small fauna that pranced and scuttled along were a distinct red shade, while the water was a deep blue, and the plants varied from green to red.
+
+"Red is hot, blue is cool," the Sect Leader explained. Yohn turned around and saw a spectral figure of the Sect Leader drenched in reds and yellows speaking to him. "So, what do you think?"
+
+____
+
+**Next**
+* [[volume-5.chapter-379]]
