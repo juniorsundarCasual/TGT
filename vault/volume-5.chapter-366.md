@@ -2,7 +2,7 @@
 id: zqhcgt70yahbwb61l2sgwi9
 title: Chapter 366 - "Scholarly" Conflict
 desc: ''
-updated: 1694772471062
+updated: 1695383535633
 created: 1692773325595
 ---
 
@@ -60,13 +60,13 @@ He then alternated his gaze between all the teens present, the message was clear
 
 """""""It won't happen again...""""""" they mumbled once again.
 
-"After listening to both sides of the argument, I can tell you with all honesty that both sides are at fault. Kevan and the three of you, it is clear that it was you who initiated the physical aspect of your disagreement. Even if someone is instigating you and pushing you against the corner, as long as they are maintaining a verbal separation you must never raise your arms against them. Because the person who raises their hands first, loses the argument, since it proves that their perspective cannot hold any water, and they need to resort to violence to make it stick."
+"After listening to both sides of the argument, I can tell you with all honesty that both sides are at fault. Kevan and the three of you, it is clear that it was you who initiated the physical aspect of your disagreement. Even if someone is instigating you and pushing you against the corner, as long as they are maintaining a verbal separation you must never raise your arms against them. Because the person who raises their hands first, loses the argument, since it proves that their perspective has no substance, and they need to resort to violence to make it stick."
 
 After seeing the four nodding in acceptance, he turned to the other three and continued, "As for you three. There is a civilised process through which we voice our disagreements and organise our criticisms. No one likes to be told that they are wrong. Doing so is the fast track to aggravating them and initiating a fight. So we need to follow a less confrontational procedure, with a lot less insults, finger-pointing, and invasion of personal space, and a lot more evidence and fact-based discussion. In your insistence to prove that you are correct, you ended up antagonising your colleagues here which is what resulted in the fight."
 
 The other three nodded in understanding as well. "Do you understand what you did wrong?"
 
-Once again, they all nodded in unison, to which Guy revealed a faint smile. 
+Once again, they all nodded in unison, to which Guy revealed a faint smile.
 
 "Good," Guy affirmed. "Since you recognise your mistakes, I want each of you to write a letter of apology. It needs to be finished within the day itself. You will then read it out loud in front of everyone tomorrow morning."
 
