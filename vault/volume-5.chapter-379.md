@@ -1,8 +1,8 @@
 ---
 id: 9qckd91fca80gq0ykqrzbez
-title: Chapter 379
+title: Chapter 379 - ICU
 desc: ''
-updated: 1695555248103
+updated: 1695578999692
 created: 1695383843810
 ---
 
@@ -64,5 +64,24 @@ It was at that moment that Yohn realised just how Senior Brother Markus was able
 
 Yohn removed the 100kHz band, and obtained the modulation signal. He then sent it through the demodulator circuit which had presented itself before him in the white void and suddenly, a noisy sound started to resonated around him.
 
-"Congratulations," the sound said, in the Sect Leader's voice but with a very gravelly texture. "You can now sense radio waves!"
+"Congratulations," the sound said, in the Sect Leader's voice but with a very gravelly and noisy texture. "You can now sense radio waves!"
 
+At that instant, Yohn's core started to undergo a drastic change. The mana in his body started to surge and circulate all over. The sudden disruption was significant enough to pull him out of the Sect Leader's magical space, but Yohn still remained in a meditative trance. His mind was restructuring all the knowledge he had recently gained. All of it was getting slotted into place like an elaborate puzzle coming together.
+
+The mana in the atmosphere started to form a whirl above him and got channelled into his core - he was undergoing both a perfected resonance and an advancement. The siphoned mana started to converge at his abdomen, to form a rapidly spinning, condensed sphere.
+
+Suddenly, Yohn opened his eyes.
+
+"I-I can see!" Yohn exclaimed in surprise. In place of his empty sockets, were two rapidly whirling balls of pure mana cycling through all the colours in the visible light spectrum.
+
+"I can see again!" Yohn repeated with increased vigour. He looked around, absorbing the visuals in the room once again. Tears of joy started to rain out of his empty sockets, though the water did not hinder the clarity of his sight one bit.
+
+As he turned around one final time, his vision landed on an interesting cylinder in front of him. At the centre of the cylinder, was a single candle. And circling the candle, was the text, "Congratulations on your Advancement, Yohn!"
+
+"Huh?" Yohn looked up, and saw the Sect Leader's beaming face.
+
+"It's in moments like these that I am grateful that I commissioned tougher fabric for the Sect's jacket," the Sect Leader expressed while gesturing at the disintegrated mess (or what remained of the clothing underneath his jacket).
+
+"Nonetheless, congratulations and celebrations are in order," he added. "But first, we need to make you decent. Can't have you naked in front of everyone, can we? Get changed and come to the recreation hall. This cake will be waiting for you there!"
+
+"I can see..." Yohn mumbled with a fulfilled smile, as he left the Sect Leader's room with an elated skip. It didn't matter that he had advanced. What mattered was that his empty sockets were of use once again.
