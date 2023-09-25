@@ -2,7 +2,7 @@
 id: 9qckd91fca80gq0ykqrzbez
 title: Chapter 379 - ICU
 desc: ''
-updated: 1695578999692
+updated: 1695633715329
 created: 1695383843810
 ---
 
@@ -85,3 +85,8 @@ As he turned around one final time, his vision landed on an interesting cylinder
 "Nonetheless, congratulations and celebrations are in order," he added. "But first, we need to make you decent. Can't have you naked in front of everyone, can we? Get changed and come to the recreation hall. This cake will be waiting for you there!"
 
 "I can see..." Yohn mumbled with a fulfilled smile, as he left the Sect Leader's room with an elated skip. It didn't matter that he had advanced. What mattered was that his empty sockets were of use once again.
+
+____
+
+**Next**
+* [[volume-5.chapter-380]]
