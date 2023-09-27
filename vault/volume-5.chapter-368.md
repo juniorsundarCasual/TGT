@@ -2,7 +2,7 @@
 id: oc5xu3c8gs9f52owjsh2rw4
 title: Chapter 368 - The Debate (Constructive Segment)
 desc: ''
-updated: 1695221044267
+updated: 1695816035292
 created: 1693165917485
 ---
 
@@ -50,7 +50,7 @@ Luce shook her head and said, "You are advocating for the formation of a monopol
 
 Casey wanted to retort to that, but she couldn't formulate a logical response. That sort of made sense.
 
-At that moment, Sect Leader Larks stepped in and nudged the debate onwards. "Next, we have Krane from the opposition side."
+At that moment, Sect Leader Larks stepped in and nudged the debate onward. "Next, we have Krane from the opposition side."
 
 Krane took Casey's space and started making his case.
 
