@@ -2,7 +2,7 @@
 id: 35tvm1iun06xvsteghglgp6
 title: Chapter 380 - Recycle
 desc: ''
-updated: 1695641324489
+updated: 1695806898537
 created: 1695579014792
 ---
 
@@ -121,3 +121,8 @@ Yohn didn't understand what was happening at first, but then a shift of his mana
 Mana exists in nature in raw form. It enters the body and gets processed by the core, making it mouldable for spell use. After mana is used for spells, it gets dissipated back into nature, but not in its raw form. The by-product mana from a spell is highly volatile. It loses its volatile property over a period of time, which is hastened when it is amongst a large quantity of raw mana. Neither raw nor volatile mana can be used for casting spells. While raw mana can be controlled through the mana domain, volatile mana can't. Generally, volatile mana is considered as waste as it is thoroughly useless.
 
 However, Revian was capturing this waste mana as it escaped from the beaker and channelling it back into his body.
+
+____
+
+**Next**
+* [[volume-5.chapter-381]]
