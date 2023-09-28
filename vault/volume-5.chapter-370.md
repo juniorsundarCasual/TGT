@@ -2,13 +2,13 @@
 id: lm5j9b10k4llxrmlcbp2lzk
 title: Chapter 370 - The Dreaded Outcome
 desc: ''
-updated: 1693740069527
+updated: 1695641586941
 created: 1693472153374
 ---
 
 After the hubbub settled, Guy took the podium and addressed the crowd. "This concludes the Rebuttal segment of the debate. Now, we move on to the deliberation segment. This is where YOU-" he gestured towards the audience and judges, "-get to decide who the winner of this debate is."
 
-With that said, the crowd dispersed for a short break, and the judges shuffled out into a different room to deliberate on whom the winner should be. Guy allotted half an hour for the judges to come to terms. As he entered the room with them, though, he was greeted with a heated debate taking place already.
+With that said, the crowd dispersed for a short break, and the judges shuffled out into a different room to deliberate on who the winner should be. Guy allotted half an hour for the judges to come to terms. As he entered the room with them, though, he was greeted with a heated debate taking place already.
 
 "Team 1 had a more structured argumentation. Especially their closing rebuttals, they captured the weaknesses of the opposing team concisely-" Markus said.
 
@@ -36,9 +36,9 @@ The others nodded contemplatively as they digested this input.
 
 "Why is that?" Guy asked while leaning against a desk.
 
-"We think that Team 2's arguments were more critical on the far-reaching consequences of Definition 1. Especially the nature of standardisation and how it is reliant on a singular body to maintain uniformity," Shuri chimed in. "Senior Sister Marie and I believe that the down-the-line implications are extremely crucial, which was well addressed by Team 2, not so much by Team 1."
+"We think that Team 2's arguments were more critical of the far-reaching consequences of Definition 1. Especially the nature of standardisation and how it is reliant on a singular body to maintain uniformity," Shuri chimed in. "Senior Sister Marie and I believe that the down-the-line implications are extremely crucial, which was well addressed by Team 2, not so much by Team 1."
 
-"On the other hand," Markus carried over. "Elder Nara and I believe that the highlighted pseudo-open-endedness in Definition 2, especially in how they used mass conservation as an analogue for comparison, is a problem factor. The debate was to learn which side has the better definition, it is evident that while Definition 1 may not be the best, it is still better than Definition 2."
+"On the other hand," Markus carried over. "Elder Nara and I believe that the underlined pseudo-open-endedness in Definition 2, especially in how they used mass conservation as an analogue for comparison, is a problem factor. The debate was to learn which side has the better definition, it is evident that while Definition 1 may not be the best, it is still better than Definition 2."
 
 "I do find it odd that Elder Nara and Marie are standing on opposite ends here," Guy commented with an intrigued snort. "Especially because Marie here brought up the point about 'far-reaching consequences'. Isn't that, like, your whole shtick?"
 
@@ -48,7 +48,7 @@ Elder Nara let out a derisive scoff and said, "It's because the girl can't see w
 
 "Says who?" Elder Nara argued back. "You? Ha! I'm big enough to admit when I'm wrong."
 
-He then turned to Guy and said, "You were right. This debate WAS more interesting that I anticipated. If there are more you need me to get involved in, I'll gladly do so."
+He then turned to Guy and said, "You were right. This debate WAS more interesting than I anticipated. If there are more you need me to get involved in, I'll gladly do so."
 
 Marie let out an astounded yelp at her Master's shamelessness.
 
@@ -60,11 +60,11 @@ Looking around, Guy only saw unwillingness in their eyes, even Elder Nara who wa
 
 ____
 
-The voting session lasted for precisely ten minutes. Each member in the audience was handed a chit of paper, and they were told to either write in Team 1 or Team 2 for whom they thought won the debate round. Guy wanted to take a moment to instruct the audience about how not to be unbiased in their votes, such as by not basing it on the team with the people they were familiar with and liked, or to not vote for the paper that spawned the definition but rather the arguments defending it. But he decided to leave it as is. The audience wasn't supposed to be the stone-hearted judge who had to evaluate each point and counterpoint down to the minutiae. Heck, even the existing judges couldn't manage to detach their emotions from their decisions.
+The voting session lasted for precisely ten minutes. Each member of the audience was handed a chit of paper, and they were told to either write in Team 1 or Team 2 for whom they thought won the debate round. Guy wanted to take a moment to instruct the audience about how not to be unbiased in their votes, such as by not basing it on the team with the people they were familiar with and liked, or by not voting for the paper that spawned the definition but rather the arguments defending it. But he decided to leave it as is. The audience wasn't supposed to be the stone-hearted judge who had to evaluate each point and counterpoint down to the minutiae. Heck, even the existing judges couldn't manage to detach their emotions from their decisions.
 
 No, the audience was a gauge. A gauge to see how interesting and dynamic the debate was. There were no criteria or basis to this, apart from the apparent aura that was exuded from the stage. The aura of the debate is like a wave, it has ebbs and flows - akin to any combat sport. If the debate is interesting and able to enrapture the audience, they will also react to this ebb and flow. And just like the deposits that are carried by the ebbing and flowing, they will eventually settle on one side or the other for one reason or another.
 
-Therefore, after letting the audience follow their guts and voting for their preferred team, Guy brought the chits in and started counting them.
+Therefore, after letting the audience follow their guts and vote for their preferred team, Guy brought the chits in and started counting them.
 
 "This is impossible!" Guy bellowed in shock. He then poured out all the counted votes and repeated the process in a more deliberate manner.
 
@@ -72,7 +72,7 @@ Therefore, after letting the audience follow their guts and voting for their pre
 
 This revelation was met with four symphonic groans. At that moment, Markus snapped his fingers and said, "You still haven't voted, Master! Your word could break the tie!"
 
-"I can't do that," Guy denied immediately. "I pronounced myself a moderator. I cannot pass judgements or else it will taint the sanctity of the position, and the whole procedure."
+"I can't do that," Guy denied immediately. "I pronounced myself a moderator. I cannot pass judgements or else it will taint the sanctity of the position and the whole procedure."
 
 "Then what do you suggest we do?" Markus followed up.
 
@@ -92,7 +92,7 @@ ____
 
 This revelation gave pause to the crowd, who were uncertain of how to react. "As proof, we have placed the voting box exactly as it is to the side. Anyone is free to verify the count."
 
-Guy paused, to let the audience stew in suspense. "But you see, I really hate calling a tie to such a heated debate. Especially since it was out first one. But I also feel that because everyone here is so conflicted about assigning victory to one side over the other, we cannot give the win to one side for ceremony's sake - that would be doing a disservice to our participants."
+Guy paused, to let the audience stew in suspense. "But you see, I really hate calling a tie to such a heated debate. Especially since it was our first one. But I also feel that because everyone here is so conflicted about assigning victory to one side over the other, we cannot give the win to one side for ceremony's sake - that would be doing a disservice to our participants."
 
 He then said, "So, we have decided to let the debaters take part in deciding the outcome. From the very beginning, the goal was to develop a conducive platform to discuss differences in opinion and form a common understanding. Therefore, we will now call each member of the teams above to take the podium and answer two questions."
 
@@ -100,7 +100,7 @@ Guy raised his index finger and enumerated, "To what extent do you agree with th
 
 Guy raised his middle finger and said, "Second, and finally, what are the points you agree and disagree with that were brought forth by your opponents? Why?"
 
-With that declared, Guy turned to the participants and said, "You have exactly five minutes to prepare your answers. And you time starts, now!"
+With that declared, Guy turned to the participants and said, "You have exactly five minutes to prepare your answers. And your time starts, now!"
 
 ____
 
