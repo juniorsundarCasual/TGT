@@ -2,7 +2,7 @@
 id: rwxpmhhz66q18gi1spydq3t
 title: Chapter 372 - To See Without Sight
 desc: ''
-updated: 1695815688736
+updated: 1695931119476
 created: 1693994611043
 ---
 
@@ -56,11 +56,11 @@ There was silence as Kevan finished his sentence. He looked towards Yohn, and he
 
 "I don't know," Kevan answered with a sigh. "What do I even know-" he then said in defeat, "Let's just go hear it straight from the horse's mouth."
 
-The duo then packed up and left for Markus' usual spot, which was the staff's preparation room. The room was a short walk away from the recreation hall, and was empty except for the single lad working away by himself. No other staff member of the Sect liked working in the staff's preparation room. For Marie, it was too enclosed and claustrophobic, for Shuri it was far too public desk separators, and for Jean, it was devoid of people. Markus felt right at home here. There wasn't any distraction, and the environment carried an aura of productivity that encouraged him to finish his work on time.
+The duo then packed up and left for Markus' usual spot, which was the staff's preparation room. The room was a short walk away from the recreation hall and was empty except for the single lad working away by himself. No other staff member of the Sect liked working in the staff's preparation room. For Marie, it was too enclosed and claustrophobic, for Shuri it was far too public desk separators, and for Jean, it was devoid of people. Markus felt right at home here. There wasn't any distraction, and the environment carried an aura of productivity that encouraged him to finish his work on time.
 
 Yohn and Kevan beelined towards Markus, drawing his attention away from the stack of papers he was correcting before him.
 
-"What's up guys?" Markus greeted.
+"What's up, guys?" Markus greeted.
 
 "We had a question regarding your cultivation," Yohn blurted out immediately.
 

@@ -2,7 +2,7 @@
 id: bywoev0d5p1dc6eyg9svls2
 title: Chapter 350 - The Research
 desc: ''
-updated: 1691567999209
+updated: 1695930686777
 created: 1689605972962
 ---
 
@@ -36,7 +36,7 @@ The boy turned his head in her general direction and revealed a warm smile, "Sen
 
 "How are things going with you?" Shuri finally spoke up after struggling for a good two minutes.
 
-"You don't have to wade through small talk if you don't want to," Yohn responded straightforwardly. "I can feel the discomfort in your voice. You came looking for me with a purpose, is it not?"
+"You don't have to wade through small talk if you don't want to," Yohn responded straightforwardly. "I can feel the discomfort in your voice. You came looking for me with a purpose, did you not?"
 
 Shuri pulled her lips into a pout and said, "You make me sound like an opportunist."
 

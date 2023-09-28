@@ -2,7 +2,7 @@
 id: lflf7ta74ejpu42gj0tuit5
 title: Chapter 367 - "Let's Get Ready to Rumble!"
 desc: ''
-updated: 1695035204271
+updated: 1695930774665
 created: 1692965715501
 ---
 
@@ -32,7 +32,7 @@ After it, though, Markus' Master stepped forth and hugged every confessor and ge
 
 "Let it be known that the Sect does not tolerate unsanctioned violence of any sort," he projected. "We follow a strict one-strike policy, wherein the first infarction is the last infarction."
 
-He let the words hand in the air for the members to digest their implications.
+He let the words hang in the air for the members to digest their implications.
 
 "The only reason why the seven haven't been expelled is because both sides - the aggressors and the victims - shook hands with the former apologising to the latter, following which they broadcasted the error of their ways to the rest of the Sect," he appended. "Do not think this to be a loophole - that simply apologising will get you out of trouble. The victim must be willing to accept the apology as well!"
 
