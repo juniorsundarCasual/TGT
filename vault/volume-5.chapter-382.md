@@ -2,7 +2,7 @@
 id: e239ewwomksptsivbmkfduv
 title: Chapter 382 - ... You'll Find Out!
 desc: ''
-updated: 1695901161528
+updated: 1696230214336
 created: 1695815054737
 ---
 
@@ -116,7 +116,7 @@ Jean sucked in a cold mouthful of air in shock, "So basically, he's crippled his
 
 "How much trouble is he going to be in?" Jean probed worriedly.
 
-"What more punishment can I mete out that won't trump the mire he's dropped himself into by his own volition?" The Sect Leader pointed out. "First, he needs to come to terms with the consequences of his actions."
+"What more punishment can I mete out that will trump the mire he's dropped himself into by his own volition?" The Sect Leader pointed out. "First, he needs to come to terms with the consequences of his actions."
 
 ____
 
