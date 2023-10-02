@@ -2,7 +2,7 @@
 id: 8wt7zdt1qo9drsv6qvlbzae
 title: Chapter 369 - The Debate (Rebuttal Segment)
 desc: ''
-updated: 1695383714872
+updated: 1696241023488
 created: 1693254062802
 ---
 
@@ -42,7 +42,9 @@ The blushing girl walked with small but hurried steps to the podium. She cleared
 
 Once Norris finished speaking, she was guided back to her place amongst her team members amidst a round of applause. Guy then looked towards Revian, the final participant. The boy shared a look with his team members, who returned an encouraging smile, and the girls pumped their fists excitedly.
 
-Revian took the podium and started the final rebuttal of the round. "While the opposing team makes a good point about the inefficient nature of heat transfer through the fire, they also rightfully emphasised the steps we took to ensure that such wastage was negated. Yet, even with the claimed inefficiency, we stand behind the application of the |Firestarter| spell because it is possible to measure the loss and solve for the systematic error - the enthalpy of the chemical reaction is known, and an extension experiment can be performed to obtain the systematic error. However, Definition 2 relies on mass conservation and while the opposing team claims that it is lossless, it is only a claim that remains unproven. No study delves into the exact nature in which mana is transmuted into mass. Mass in equals mass out is true if the reaction is chemical in nature. Is magical transmutation a chemical reaction? Or is the reaction happening at an atomic level? If I were to use a hundred gram mana crystal to create a diamond, and then another mana crystal to create a piece of coal, would the diamond and coal weigh the same? While the opposing team claims that Definition 2 is robust as it is based on the law of conservation of mass, they are conveniently overlooking this glaring hole in their experiment. This is why we believe that Definition 1 is the most apt descriptor of the Mana Unit."
+Revian took the podium and started the final rebuttal of the round. "While the opposing team makes a good point about the inefficient nature of heat transfer through the fire, they also rightfully emphasised the steps we took to ensure that such wastage was negated. Yet, even with the claimed inefficiency, we stand behind the application of the |Firestarter| spell because it is possible to measure the loss and solve for the systematic error - the enthalpy (a thermodynamic quantity that measures the energy in a system) of the chemical reaction is known, and an extension experiment can be performed to obtain the systematic error.”
+
+“However, Definition 2 relies on mass conservation and while the opposing team claims that it is lossless, it is only a claim that remains unproven. No study delves into the exact nature in which mana is transmuted into mass. Mass in equals mass out is true if the reaction is chemical in nature. Is magical transmutation a chemical reaction? Or is the reaction happening at an atomic level? If I were to use a hundred gram mana crystal to create a diamond, and then another mana crystal to create a piece of coal, would the diamond and coal weigh the same? While the opposing team claims that Definition 2 is robust as it is based on the law of conservation of mass, they are conveniently overlooking this glaring hole in their experiment. This is why we believe that Definition 1 is the most apt descriptor of the Mana Unit."
 
 Guy returned to the podium and waited as the applause died down. "The teams have now finished making their arguments. Before we move on to the deliberation round to determine the winner, each team will now have a minute to make a closing remark. Would the team leaders please stand?"
 

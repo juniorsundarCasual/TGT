@@ -2,15 +2,15 @@
 id: 41rbpsibdggcfibak794teh
 title: Chapter 373 - A New Helper
 desc: ''
-updated: 1694282677165
+updated: 1696240759909
 created: 1694100087378
 ---
 
-Marie's final words did leave Yohn and Kevan with a lot to think about. A cultivation method is a mantra of how you perceive the world around you, and settling on a cultivation method was a commitment. According to Marie, just about anything can be a cultivation method if you believe in it hard enough (which also brought into question the ludicrousness of the whole thing). But there lied the problem: if the chosen cultivation method is unknown or experimental, a mage is taking a lot of risk by adopting it. For one, there is no guarantee if the cultivation method will take them far in their journey. A limited world-view translates to a stunted cultivation method. Secondly, there is also the fact that by not being critical of one's own world-views, there is always the possibility of self-adopted limiters. As Marie pointed out, by investing heavily into the concept of sound, Yohn would have limited his abilities in higher realms where he would rely on a sensing mode that is outpaced by his opponents.
+Marie's final words did leave Yohn and Kevan with a lot to think about. A cultivation method is a mantra of how you perceive the world around you, and settling on a cultivation method was a commitment. According to Marie, just about anything can be a cultivation method if you believe in it hard enough (which also brought into question the ludicrousness of the whole thing). But there lies the problem: if the chosen cultivation method is unknown or experimental, a mage is taking a lot of risk by adopting it. For one, there is no guarantee that the cultivation method will take them far in their journey. A limited worldview translates to a stunted cultivation method. Secondly, there is also the fact that by not being critical of one's own world-views, there is always the possibility of self-adopted limiters. As Marie pointed out, by investing heavily into the concept of sound, Yohn would have limited his abilities in higher realms where he would rely on a sensing mode that is outpaced by his opponents.
 
-All things considered, Yohn realised that maybe he was tackling a problem that was way above his metaphorical weight class. Was it so simple to just formulate a new cultivation method, especially a novice (blind) mage?
+All things considered, Yohn realised that maybe he was tackling a problem that was way above his metaphorical weight class. Was it so simple to just formulate a new cultivation method, especially for a novice (blind) mage?
 
-The only person with a successful track record on this front was Senior Brother Markus. Even amongst the Sect members, his achievement was legendary. And legends were a lot like lightning strikes. It is impossible for lightning to strike the same place twice!
+The only person with a successful track record on this front was Senior Brother Markus. Even amongst the Sect members, his achievement was legendary. And legends were a lot like lightning strikes. Lightning can't strike the same place twice!
 
 "That is nonsense, and I can prove it," Senior Brother Markus said with a scoff. "Just place a lightning rod where you want the bolt to strike!"
 
@@ -30,23 +30,23 @@ There was a short, suspenseful pause.
 
 "I'd like to bring to your attention, Marie and Shuri," Markus said while pulling out an empty parchment of paper. He then wrote down the two girls' names in large letters, side by side. "Both of their cultivation isn't original. Marie-" he said while tapping on her name. "Her cultivation is derived from The Heavenly Eye, which is what Elder Nara practises." He then tapped at Shuri and said, "Shuri adapted her method from Automagy techniques taught by her family."
 
-"Both, The Heavenly Eye and the Automagy techniques of Shuri's family offer a critical insight into how the world works. It defines a mantra about one's belief's and one's reality. Marie did not connect with the orthodox Heavenly Eye, and decided to implement mathematical analysis and signal processing into it since that was something she connected with and made sense to her. Shuri did something similar with logic gates and achieved success," Markus elaborated. "With these two examples cases, what we have is Derivation. You start with something that has a proven track record and adapt it in a way to match your understanding of reality. I'm not going to say that this is easy, but it is definitely less risky."
+"Both, The Heavenly Eye and the Automagy techniques of Shuri's family offer a critical insight into how the world works. It defines a mantra about one's beliefs and one's reality. Marie did not connect with the orthodox Heavenly Eye and decided to implement mathematical analysis and signal processing into it since that was something she connected with and made sense to her. Shuri did something similar with logic gates and achieved success," Markus elaborated. "With these two examples cases, what we have is Derivation. You start with something that has a proven track record and adapt it in a way to matches your understanding of reality. I'm not going to say that this is easy, but it is definitely less risky."
 
-Markus then wrote down Jean's name in large letters below Shuri and Marie and said, "Jean's cultivation is a direct assimilation of someone else's. And by that I literally mean that she assimilated the cultivation of another individual."
+Markus then wrote down Jean's name in large letters below Shuri and Marie and said, "Jean's cultivation is a direct assimilation of someone else's. And by that, I literally mean that she assimilated the cultivation of another individual."
 
 "But that's-"
 
 "Suicide," Markus finished the sentence. "You are correct. You are forced to warp your understanding so that it aligns with the incoming cultivation. You should know that the entity she assimilated had a cultivation that ran counter to her own, which should mean assured destruction. HOWEVER, thanks to Master Larks, and a heavy sacrifice from Jean's side, the assimilation was successful, and she came out the other side much stronger. This method is not just dangerous because of the failure rates of assimilation, but it also requires that you find a mana core with a cultivation that aligns with your own. Which means you need to contest with an entity that is at least in the Core Formation realm."
 
-Markus slashed Jean's name of the document and then wrote down Tes' name above Shuri and Marie's. "Tes found resonance with Shuri's cultivation method. That is the usual pathway most mages follow, since there is a guaranteed track record of success."
+Markus slashed Jean's name on the document and then wrote down Tes' name above Shuri and Marie's. "Tes found resonance with Shuri's cultivation method. That is the usual pathway most mages follow since there is a guaranteed track record of success."
 
 Finally, he wrote his name between Jean's, and Marie and Shuri's.
 
 "I created my cultivation method through brute force. I knew what I was looking for because I'd experienced it before, quite intimately," he added with a bitter smile. "I cycled through my mana sense until I could find exactly what it was. And the moment I did, everything I learned about it until that point just started to make sense. Now this is where Master stepped in and corrected my misunderstandings so that my foundation wasn't wobbly."
 
-"Truthfully," Markus redirected. "Everything you need to know about this world is hidden in your mana sense. What hinders you, is your ability to decrypt this hidden knowledge. Do not try to decipher this hidden knowledge while only half-informed. Make sure you know at least 80% of what you are looking before scouring through your mana senses. I made the mistake of doing so without a strong base. There was so much more I could have known about gravity before searching for it in my mana sense. While Master filled in a lot of the gaps, most of my time now is spent trying to fill all the tiny and imperceptible cracks in my foundation."
+"Truthfully," Markus redirected. "Everything you need to know about this world is hidden in your mana sense. What hinders you, is your ability to decrypt this hidden knowledge. Do not try to decipher this hidden knowledge while only half-informed. Make sure you know at least 80% of what you are looking for before scouring through your mana senses. I made the mistake of doing so without a strong base. There was so much more I could have known about gravity before searching for it in my mana sense. While Master filled in a lot of the gaps, most of my time now is spent trying to fill all the tiny and imperceptible cracks in my foundation."
 
-"My best advice is to follow the scientific method. Create a research plan - formalise what you are looking for and how you intend to find it..." Markus tapped his fingers repeatedly against his desk while in thought. "In fact, its far more advisable to not go about this alone."
+"My best advice is to follow the scientific method. Create a research plan - formalise what you are looking for and how you intend to find it..." Markus tapped his fingers repeatedly against his desk while in thought. "In fact, it is far more advisable to not go about this alone."
 
 He then hit the table twice, decisively, with his open palm and rose from his seat, "Let's do it this way. I'm going to help you find your cultivation method."
 
@@ -90,7 +90,7 @@ Yohn audibly gulped as his ears picked up a litany of scribbling. Though his man
 
 A sombre silence hung in the room as the two let the conversation stew. Then, Markus let out a loud exhale, stood up and gently patted Yohn's shoulder.
 
-"Let's catch up after you've read at least a quarter of the books in that list," Markus said as he walked towards the exit. "I'm teling you, we're going to have so much fun!"
+"Let's catch up after you've read at least a quarter of the books in that list," Markus said as he walked towards the exit. "I'm telling you, we're going to have so much fun!"
 
 "Sure..." Yohn mumbled with a wry smile.
 
