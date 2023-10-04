@@ -2,7 +2,7 @@
 id: lm5j9b10k4llxrmlcbp2lzk
 title: Chapter 370 - The Dreaded Outcome
 desc: ''
-updated: 1695641586941
+updated: 1696420370373
 created: 1693472153374
 ---
 
@@ -60,7 +60,7 @@ Looking around, Guy only saw unwillingness in their eyes, even Elder Nara who wa
 
 ____
 
-The voting session lasted for precisely ten minutes. Each member of the audience was handed a chit of paper, and they were told to either write in Team 1 or Team 2 for whom they thought won the debate round. Guy wanted to take a moment to instruct the audience about how not to be unbiased in their votes, such as by not basing it on the team with the people they were familiar with and liked, or by not voting for the paper that spawned the definition but rather the arguments defending it. But he decided to leave it as is. The audience wasn't supposed to be the stone-hearted judge who had to evaluate each point and counterpoint down to the minutiae. Heck, even the existing judges couldn't manage to detach their emotions from their decisions.
+The voting session lasted for precisely ten minutes. Each member of the audience was handed a chit of paper, and they were told to either write in Team 1 or Team 2 for whom they thought won the debate round. Guy wanted to take a moment to instruct the audience about how not to be biased in their votes, such as by not basing it on the team with the people they were familiar with and liked, or by not voting for the paper that spawned the definition but rather the arguments defending it. But he decided to leave it as is. The audience wasn't supposed to be the stone-hearted judge who had to evaluate each point and counterpoint down to the minutiae. Heck, even the existing judges couldn't manage to detach their emotions from their decisions.
 
 No, the audience was a gauge. A gauge to see how interesting and dynamic the debate was. There were no criteria or basis to this, apart from the apparent aura that was exuded from the stage. The aura of the debate is like a wave, it has ebbs and flows - akin to any combat sport. If the debate is interesting and able to enrapture the audience, they will also react to this ebb and flow. And just like the deposits that are carried by the ebbing and flowing, they will eventually settle on one side or the other for one reason or another.
 

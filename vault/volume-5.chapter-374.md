@@ -2,15 +2,15 @@
 id: 3n83taz32sulhok4yk4wh0v
 title: Chapter 374 - On a Spectrum
 desc: ''
-updated: 1694784099392
+updated: 1696420716723
 created: 1694421690173
 ---
 
 Energy transfer that occurs without a medium to facilitate it (such as in a vacuum), takes place within the electromagnetic spectrum. It is generated when charged particles accelerate.
 
-Take the sun, for instance. At the core of the sun, the temperature and pressure is so high, that causes hydrogen to fuse together through the process of nuclear fusion. The subsequent formation of helium through fusion causes the release of a tremendous amount of energy, which radiates outwards. This radiation is propagated outwards through a series of interactions with charged particles (primarily protons and electrons). This interaction in turn releases high energy radiation in the form of gamma rays, which is on the electromagnetic spectrum with the highest frequency. As the radiation is absorbed and emitted while traversing through the many layers of the sun, its energy decreases. Like this, the primary makeup of the energy that leaves the sun consists of infrared, visible light, ultraviolet, and X-rays.
+Take the sun, for instance. At the core of the sun, the temperature and pressure is so high, that causes hydrogen to fuse together through the process of nuclear fusion. The subsequent formation of helium through fusion causes the release of a tremendous amount of energy, which radiates outwards. This radiation is propagated outwards through a series of interactions with charged particles (primarily protons and electrons). This interaction in turn releases high-energy radiation in the form of gamma rays, which is on the electromagnetic spectrum with the highest frequency. As the radiation is absorbed and emitted while traversing through the many layers of the sun, its energy decreases. Like this, the primary makeup of the energy that leaves the sun consists of infrared, visible light, ultraviolet, and X-rays.
 
-And because electromagnetic waves do not require a medium for transmission, they travel at the speed of light, which is three-hundred million metres in one second.
+And because electromagnetic waves do not require a medium for transmission, they travel at the speed of light, which is three hundred million metres in one second.
 
 "Electromagnetic waves are all around us," Markus explained. "They are absorbed by or reflected from objects. It is because of this that our eyes are able to see in the light."
 
@@ -40,13 +40,13 @@ Yohn hummed in thought as he pondered over Markus' words.
 
 "Well, we will have to start with analysing the visible light spectrum," Markus elaborated. "I'd like to start by revisiting a common experiment we've worked with in class."
 
-Markus placed a box on the desk. Opening it, he revealed all the apparatus required to conduct a refraction experiment. A triangular prism, a lightbox and white paper. He placed the apparatus in a way such that the white light exiting the light box hit the triangular prism and split into the rainbow spectrum.
+Markus placed a box on the desk. Opening it, he revealed all the apparatus required to conduct a refraction experiment. A triangular prism, a lightbox and white paper. He placed the apparatus in a way such that the white light exiting the lightbox hit the triangular prism and split into the rainbow spectrum.
 
-"Our first strategy, is to change the way you use your mana sense to see," Markus explained. "The mana sense works through familiarity. If you let it encompass the region of space you wish to observe, it will evaluate information in a way that is familiar to you already, which would be the way the eye works. The fact of the matter is that it is automatic - basically, the mana sense does all the work the eye does for you and shows you the image directly. HOWEVER, we don't want this because the radius of your mana sense is limited. Instead, we want to use our mana sense as a capturing device, and performing the rest of the analysis by ourselves. Does that make sense?"
+"Our first strategy is to change the way you use your mana sense to see," Markus explained. "The mana sense works through familiarity. If you let it encompass the region of space you wish to observe, it will evaluate information in a way that is familiar to you already, which would be the way the eye works. The fact of the matter is that it is automatic - basically, the mana sense does all the work the eye does for you and shows you the image directly. HOWEVER, we don't want this because the radius of your mana sense is limited. Instead, we want to use our mana sense as a capturing device and perform the rest of the analysis by ourselves. Does that make sense?"
 
 "You want me to be able to create the image by analysing the reflected visible light on my own," Yohn affirmed. "So how do I do that?"
 
-"There isn't a systematic approach to this," Markus revealed. He then took out multiple transparent film filters from the box and placed and replaced them in front of the light box. "As you can see here, once we filter out certain frequencies of visible light from the complete spectrum, the refracted output does not contain that frequency of light. We want our mana sense to see the output from the prism by analysing the input into the prism prism. To do this, you need to take your time and cycle through your mana sense until it is observable."
+"There isn't a systematic approach to this," Markus revealed. He then took out multiple transparent film filters from the box and placed and replaced them in front of the lightbox. "As you can see here, once we filter out certain frequencies of visible light from the complete spectrum, the refracted output does not contain that frequency of light. We want our mana sense to see the output from the prism by analysing the input into the prism prism. To do this, you need to take your time and cycle through your mana sense until it is observable."
 
 Yohn nodded in understanding and let his mana sense envelop the setup in its entirety.
 
@@ -58,15 +58,15 @@ Yohn massaged his forehead to assuage the minor pain before trying again. The fi
 
 The exercise continued for hours, with no success. While disappointing, this did not dissuade Yohn. He knew that this process was a time-intensive endeavour - not something that could be achieved in one day.
 
-As dinner-time had arrived, Yohn carefully packed up the apparatus and made his way to the mess hall.
+As dinner time had arrived, Yohn carefully packed up the apparatus and made his way to the mess hall.
 
 ____
 
-The next day was the same for Yohn. He'd shift filters in front of the lightbox while using his mana sense to evaluate the scene through a different process. He'd open himself up to the raw mana sense and observe the input light, and try to match it with the output, refracted and separated light.
+The next day was the same for Yohn. He'd shift filters in front of the lightbox while using his mana sense to evaluate the scene through a different process. He'd open himself up to the raw mana sense observe the input light, and try to match it with the output, refracted and separated light.
 
-The day was nearly finished when Yohn finally achieved a breakthrough. He did not know exactly what he was seeing, but he knew that it was what he was looking for. The mana sense did not show the same image as he would have if he was to use his eyes. What he saw was like a bouquet of blots.
+The day was nearly finished when Yohn finally achieved a breakthrough. He did not know exactly what he was seeing, but he knew that it was what he was looking for. The mana sense did not show the same image as he would have if he had to use his eyes. What he saw was like a bouquet of blots.
 
-From this stage, it fell upon him on how he wished to analyse and decipher this bouquet of blots. What did he want them to mean?
+From this stage, it fell upon him how he wished to analyse and decipher this bouquet of blots. What did he want them to mean?
 
 At this juncture, he decided to consult Markus.
 
@@ -74,7 +74,7 @@ At this juncture, he decided to consult Markus.
 
 "Now that you have a way to sense the visible light as an EM wave, we will now move on to the lowest end of the electromagnetic spectrum, radio waves," Markus explained.
 
-"Master Larks once explained to me just how useful radio waves can be when it comes to communication over long distances," Markus continued. "As they are EM waves, they are able to penetrate through most structures and travel over long distances unhindered. They reflect off of the ionosphere, and can follow the curvature of Gaea, making it possible to be received globally. And since they are just signals, if we can convolute messages into them, it would be possible to communicate with people all over the world at a moment's notice. We would no longer be beholden to messenger birds or complicated, and expensive communication arrays."
+"Master Larks once explained to me just how useful radio waves can be when it comes to communication over long distances," Markus continued. "As they are EM waves, they are able to penetrate through most structures and travel over long distances unhindered. They reflect off of the ionosphere and can follow the curvature of Gaea, making it possible to be received globally. And since they are just signals, if we can convolute messages into them, it would be possible to communicate with people all over the world at a moment's notice. We would no longer be beholden to messenger birds or complicated, and expensive communication arrays."
 
 "That's amazing!" Yohn evoked with awe.
 
@@ -82,7 +82,7 @@ At this juncture, he decided to consult Markus.
 
 Markus picked up a roll of parchment from his desk and unfurled it in front of Yohn. "What we have here is a spark-gap transmitter. Its purpose is to generate radio waves by means of an electric spark."
 
-"It looks complicated," Yohn said with a wry smile. "I barely understand a percent of what is shown here."
+"It looks complicated," Yohn said with a wry smile. "I barely understand a per cent of what is shown here."
 
 "That's okay," Markus reciprocated with a laugh. "I barely understand it either. Our first task in creating this device is to understand what it is, how it works, and how it is made."
 
