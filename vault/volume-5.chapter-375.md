@@ -2,19 +2,19 @@
 id: yrtdwlvilgog8lqcgkvb4fu
 title: Chapter 375 - Help from Above
 desc: ''
-updated: 1694790510781
+updated: 1696589340405
 created: 1694614843669
 ---
 
 Yohn and Markus proceeded to build the spark-gap transmitter according to the blueprint and descriptions, which wasn't an easy matter. While the concepts involved in the device made sense, it was the construction and components that posed a problem for the duo since they called for a level of industrial development that the world hadn't reached yet. In fact, they lived in a world where electricity hadn't even been developed. So, for all intents and purposes, they were working with highly advanced technology.
 
-Of course, the knowledge of electricity and its applications was known to all Sect members. But to them, electricity was closer to magic than science. Who could truly fathom the possibility of being able to light up an entire city like a bouquet of flowers, when the only sights they have been exposed to are oil lanterns? Yet this world did have magic, which made digesting the incredibility of electricity easier. And Sect Leader Larks did run a few experiments of generating current using a simple generator (by spinning a magnet between a coil of wire) to show that electricity wasn't made by magic. But ultimately, electricity was still just a scientific curiosity. To put it into effect as an essential tool for mankind's rise to power, there were still a lot of steps left.
+Of course, the knowledge of electricity and its applications was known to all Sect members. But to them, electricity was closer to magic than science. Who could truly fathom the possibility of being able to light up an entire city like a bouquet of flowers, when the only sights they have been exposed to are oil lanterns? Yet this world did have magic, which made digesting the incredibility of electricity easier. Sect Leader Larks did run a few experiments of generating current using a simple generator (by spinning a magnet between a coil of wire) to show that electricity wasn't made by magic. But ultimately, electricity was still just a scientific curiosity. To put it into effect as an essential tool for mankind's rise to power, there were still a lot of steps left.
 
-But Markus and Yohn couldn't wait for technology to catch up to that point. They needed to harness electricity now. But, without applicable intimacy with the subject, the two realised that they were nothing short of blind mice stumbling about in search of food with only a faint scent hanging in the air to guide them. Ultimately, Markus decided that, after spending three days of achieving diddly-squat, to just ask his Master for help.
+But Markus and Yohn couldn't wait for technology to catch up to that point. They needed to harness electricity now. But, without applicable intimacy with the subject, the two realised that they were nothing short of blind mice stumbling about in search of food with only a faint scent hanging in the air to guide them. Ultimately Markus decided, after spending three days achieving diddly squat, to just ask his Master for help.
 
 "Why in the world are you two trying to make this monstrosity?" Master Larks said with a humorous snort. "We're trying to generate a radio wave. This was the only thing I could find in the library that made sense to me. Everything else was too hard," Markus admitted.
 
-"If it is just a radio wave you want to generate, there are much simpler experiments," Master Larks explained. "It's good that you came to me with this. Though I have to ask, why are we jumping so far ahead in our studies? There is a reason why I have only hinted at some topics and not delved too deep into them. We just don't have the infrastructure to verify them. Some of this isn't even achievable yet."
+"If it is just a radio wave you want to generate, there are much simpler experiments," Master Larks explained. "It's good that you came to me with this. However I have to ask, why are we jumping so far ahead in our studies? There is a reason why I have only hinted at some topics and not delved too deep into them. We just don't have the infrastructure to verify them. Some of this isn't even achievable yet."
 
 At that instant, Yohn raised his hand meekly, causing the attention in the room to be drawn to him. "Sir, I disagree with that."
 
@@ -28,7 +28,7 @@ There was a tense silence as the Sect Leader looked pensively at Yohn, causing t
 
 "I think what Yohn is trying to say, Master," he started with a shaky smile, "is that maybe if we also marry magic into what we are learning, all these impossible feats of technology may be achievable."
 
-He then leaned closer and whisper, "I apologise, but I shared the detail about your inheritance with Yohn..."
+He then leaned closer and whispered, "I apologise, but I shared the details about your inheritance with Yohn..."
 
 "Inheritance?" Sect Leader Larks repeated with a surprised expression. "What inheritance?"
 
@@ -44,9 +44,9 @@ There was an astounded "Huh" from both Markus and Yohn at the man's display of t
 
 As the two members shook their heads, he continued, "I don't want you people to take this knowledge for granted, that's all."
 
-He then pulled out two large parchment papers and a writing utensil, and started to scribble on them.
+He then pulled out two large parchment papers and a writing utensil and started to scribble on them.
 
-"This is a simple radio wave generating device," he narrated while drawing the schematic. "There are primarily four sections to this divided into two parallel circuits. This button here is what you hold down to generate the radio wave. One terminal of the button is connected to this cell, while the other is connected to one end of an electromagnetic coil. The other end of the coil is connected to a pin, which is in contact with a thin spring-loaded iron plate, which has one end connecting to the other cell terminal. Note here that the tip of the iron-plate is positioned right in front of the electromagnet. When you hold down the button, the circuit completes. The current runs from the battery and into the electromagnet (turning it on), which causes the iron plate to get pulled towards it which in turn causes the circuit to break. As this happens, the plate returns to original position, and while the button is still pressed, the circuit is completed again. And thus the process repeats itself."
+"This is a simple radio wave-generating device," he narrated while drawing the schematic. "There are primarily four sections to this divided into two parallel circuits. This button here is what you hold down to generate the radio wave. One terminal of the button is connected to this cell, while the other is connected to one end of an electromagnetic coil. The other end of the coil is connected to a pin, which is in contact with a thin spring-loaded iron plate, which has one end connecting to the other cell terminal. Note here that the tip of the iron plate is positioned right in front of the electromagnet. When you hold down the button, the circuit completes. The current runs from the battery and into the electromagnet (turning it on), which causes the iron plate to get pulled towards it which in turn causes the circuit to break. As this happens, the plate returns to its original position, and while the button is still pressed, the circuit is completed again. And thus the process repeats itself."
 
 "Isn't this just a buzzer?" Markus commented.
 
@@ -62,13 +62,13 @@ He then pulled out two large parchment papers and a writing utensil, and started
 
 "What kind of chemical reaction?" The Sect Leader volleyed with a curious raise of his brows.
 
-Amidst Yohn's bumbling sounds, the Sect Leader let out a mirthful chuckle and placed the second empty parchment above the first and wrote: "RedOx reactions: Reduction and Oxidation."
+Amidst Yohn's bumbling sounds, the Sect Leader let out a mirthful chuckle placed the second empty parchment above the first and wrote: "RedOx reactions: Reduction and Oxidation."
 
-"Chemical reactions, in their nature, have something to do with the movement or transfer of electrons," he explained. "Because of that, we can define most chemical reactions as reduction and oxidation reactions. Oxidation is when a reactant loses an electron, while reduction is when it gains an electron. The reason why name-wise it makes no sense, is because they are defined in terms of gaining or losing of oxygen (i.e. reduction is loss of oxygen). Easiest way to remember the definition with respect to electrons is: OILRIG. Oxidation is Loss, Reduction is Gain."
+"Chemical reactions, in their nature, have something to do with the movement or transfer of electrons," he explained. "Because of that, we can define most chemical reactions as reduction and oxidation reactions. Oxidation is when a reactant loses an electron, while reduction is when it gains an electron. The reason why name-wise it makes no sense is because they are defined in terms of gaining or losing oxygen (i.e. reduction is loss of oxygen). The easiest way to remember the definition with respect to electrons is OILRIG. Oxidation is Loss, Reduction is Gain."
 
 "A combustion reaction is a simple example of a redox reaction. Here, the fuel, let's take methane, is oxidised, and the oxidant, which is oxygen itself, is reduced," he added.
 
-"It is important for us to understand redox reactions because there is a branch of redox reactions that interact with electricity (since technically there is a flow of electron happening here). They are called electrochemical cells," the Sect Leader pointed out. "Amongst them, you have two types. The ones that generate electric current with chemical reaction, and those that generate chemical reactions with electric currents. Which do you think we are interested in?"
+"It is important for us to understand redox reactions because there is a branch of redox reactions that interact with electricity (since technically there is a flow of electrons happening here). They are called electrochemical cells," the Sect Leader pointed out. "Amongst them, you have two types. The ones that generate electric currents with chemical reactions, and those that generate chemical reactions with electric currents. Which do you think we are interested in?"
 
 "The former?" Markus contributed.
 
