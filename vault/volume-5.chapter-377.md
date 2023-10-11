@@ -2,7 +2,7 @@
 id: 983s2cm7y8vda8e123p4ytp
 title: Chapter 377 - The Blot Thickens
 desc: ''
-updated: 1697024528770
+updated: 1697035964019
 created: 1694951102866
 ---
 
@@ -78,7 +78,7 @@ At that moment, Yohn suddenly started to feel his senses growing muffled. It was
 
 "Relax, it's me," the Sect Leader explained. "I know it's a jarring surprise. But bear with it for a second."
 
-Yohn bit through for a second, as suddenly something weird began to happen in his head. He slowly started to forget what it was to see, hear, smell, taste or touch. He could hear, but not listen. Ge could breathe, but not smell. Ge could bite, chew and swallow, but not taste. He could feel, but not touch or determine the texture of what he was feeling. His mind just archived this knowledge.
+Yohn bit through for a second, as suddenly something weird began to happen in his head. He slowly started to forget what it was to see, hear, smell, taste or touch. He could hear, but not listen. He could breathe, but not smell. He could bite, chew and swallow, but not taste. He could feel, but not touch or determine the texture of what he was feeling. His mind just archived this knowledge.
 
 "W-What's happening?" Yohn exclaimed.
 

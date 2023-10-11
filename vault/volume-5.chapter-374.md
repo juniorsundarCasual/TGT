@@ -2,7 +2,7 @@
 id: 3n83taz32sulhok4yk4wh0v
 title: Chapter 374 - On a Spectrum
 desc: ''
-updated: 1696420716723
+updated: 1697036004795
 created: 1694421690173
 ---
 
@@ -46,7 +46,7 @@ Markus placed a box on the desk. Opening it, he revealed all the apparatus requi
 
 "You want me to be able to create the image by analysing the reflected visible light on my own," Yohn affirmed. "So how do I do that?"
 
-"There isn't a systematic approach to this," Markus revealed. He then took out multiple transparent film filters from the box and placed and replaced them in front of the lightbox. "As you can see here, once we filter out certain frequencies of visible light from the complete spectrum, the refracted output does not contain that frequency of light. We want our mana sense to see the output from the prism by analysing the input into the prism prism. To do this, you need to take your time and cycle through your mana sense until it is observable."
+"There isn't a systematic approach to this," Markus revealed. He then took out multiple transparent film filters from the box and placed and replaced them in front of the lightbox. "As you can see here, once we filter out certain frequencies of visible light from the complete spectrum, the refracted output does not contain that frequency of light. We want our mana sense to see the output from the prism by analysing the input into the prism. To do this, you need to take your time and cycle through your mana sense until it is observable."
 
 Yohn nodded in understanding and let his mana sense envelop the setup in its entirety.
 
