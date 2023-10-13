@@ -2,17 +2,17 @@
 id: b7h6jl6ak5s7gx5ehsda6xy
 title: Chapter 378 - A Different Spectrum of Colours
 desc: ''
-updated: 1695290287089
+updated: 1697196522535
 created: 1695200509685
 ---
 
 Yohn spent the following week trying to make sense of the blots in his mana senses. Just as Sect Leader Larks had informed him, he was just at the stage of "seeing". To use the analogy of the eye, he was just capturing the blots as raw data, and he had to now build the backend (the optic nerves and optical centres of the brain) that would turn this raw data into something meaningful.
 
-Unfortunately, that was something easier said that done. It was in these instances that Yohn envied Senior Brother Markus' ingenuity, to be able to grasp something even more arcane like gravity - even though Senior Brother Markus ardently dispelled all praise given to him saying that he just got lucky. Senior Brother also emphasised just how much input Sect Leader Larks had in getting him to understand what he was seeing.
+Unfortunately, that was something easier said than done. It was in these instances that Yohn envied Senior Brother Markus' ingenuity, to be able to grasp something even more arcane like gravity - even though Senior Brother Markus ardently dispelled all praise given to him saying that he just got lucky. Senior Brother also emphasised just how much input Sect Leader Larks had in getting him to understand what he was seeing.
 
 After spending a week and getting nowhere, Yohn finally realised why Senior Brother Markus was so dismissive about accepting the credit. "This isn't something a teenager can do by themselves," Yohn admitted.
 
-Maybe, Sect Leader Larks had an even more crucial role to play in facilitating Senior Brother Markus' advancement. This realisation dropped on Yohn like a massive anvil, and caused him to start rethinking everything.
+Maybe, Sect Leader Larks had an even more crucial role to play in facilitating Senior Brother Markus' advancement. This realisation dropped on Yohn like a massive anvil and caused him to start rethinking everything.
 
 'If I can't recruit Sect Leader Larks' assistance, I will never be able to reach the end of my current path,' he thought to himself. It wasn't a completely defeatist perspective, as Yohn felt there was truth to it.
 
@@ -24,7 +24,7 @@ Not just anyone could hit up the Sect Leader and get them to furnish personalise
 
 So, with half-hesitating and half-determined steps - a truly paradoxical state of mind - Yohn approached the Sect Leader's office. This time, he was alone. Markus had more or less separated himself from the project after Yohn could capture EM waves from radio to visible light. Kevan had detached himself early on after fathoming the magnitude of studying he would need to do to keep up with Yohn's research work.
 
-Yohn stood in front of the Sect Leader's room and raised his hand to knock the door. Right as it was about to hit the door, the wooden portal swung open.
+Yohn stood in front of the Sect Leader's room and raised his hand to knock on the door. Right as it was about to hit the door, the wooden portal swung open.
 
 "It took you exactly ten minutes to get from the start of this corridor to my room," the Sect Leader said. "No one walks that slowly, not even someone with a visual disability."
 
@@ -38,7 +38,7 @@ Yohn let out a wry chuckle before entering the room and taking the seat gestured
 
 Yohn curled his palms into tight fists and spoke with an imploring tone, "I have a presumptuous request, Sect Leader."
 
-"Is there such a thing as a presumptuous request?" The Sect Leader retorted. "A request is just a request, isn't it? You ask for help because you are unable to do something yourself. And you approach a particular person because you believe they can assist you in the best way possible. Isn't that why you came to me?"
+"Is there such a thing as a presumptuous request?" The Sect Leader retorted. "A request is just a request, isn't it? You ask for help because you are unable to do something yourself. You approach a particular person because you believe they can assist you in the best way possible. Isn't that why you came to me?"
 
 "Yes, but..." Yohn calculated his next words and said, "There is a proper chain of command, right? I can't just disturb you with trivial troubles."
 
@@ -72,7 +72,7 @@ As he looked around-
 
 "I was thinking about what you are struggling with. The matter of comprehending the blots, as you sense them," the Sect Leader started. "I think the issue starts with the fact the way you are sensing them is different from the way your normal senses work."
 
-"Let me explain. Most human senses that are used in localisation are directional in nature. Your eyes have a field of view and your ears have a field of hearing. Any input that is beyond this field is hard to decipher. The directional nature is important, because it helps the mind tether the input to a source and generate a mental image. The sensory organs are extremely complex, and the way they perform inferencing is equally intensive. You should have read up on them, so I won't exhaust you with the details. Why I believe you are struggling with processing is because the mana sense is omnidirectional, and your brain is finding it difficult to warp this omnidirectional information in a way that humans can understand," he hypothesised.
+"Let me explain. Most human senses that are used in localisation are directional in nature. Your eyes have a field of view and your ears have a field of hearing. Any input that is beyond this field is hard to decipher. The directional nature is important because it helps the mind tether the input to a source and generate a mental image. The sensory organs are extremely complex, and the way they perform inferencing is equally intensive. You should have read up on them, so I won't exhaust you with the details. Why I believe you are struggling with processing is because the mana sense is omnidirectional, and your brain is finding it difficult to warp this omnidirectional information in a way that humans can understand," he hypothesised.
 
 "Consider the following. There is a man in front of you and behind you both equally far away from you. They both make the same noise. Your ears can understand when something is coming from the front and something is coming from behind. If you rely on your mana senses to hear things, they too will be able to decipher it because the data is processed through your hearing neural pathways. However, you don't have a neural pathway to decipher EM waves beyond the visible light range. So when omnidirectional data is obtained, there is nothing that can handle it," the Sect Leader expounded.
 
@@ -80,19 +80,19 @@ As he looked around-
 
 "I hope you don't take it the wrong way, but you only have eyes here. Outside... you are still..."
 
-"No, no, I know that. I mean, since I am planning to find a replacement to my lacking visual sensors, why can't I hijack my optical centres to process the EM data?" Yohn surmised.
+"No, no, I know that. I mean, since I am planning to find a replacement for my lacking visual sensors, why can't I hijack my optical centres to process the EM data?" Yohn surmised.
 
-The Sect Leader contemplated on the idea before saying, "It could work. But in that case, we need to design the processing segment. I have an idea on how you can do that. As you know, each band of the EM spectrum has a purpose. Radio is used for communication. Due to its higher wavelength, radio waves tend to diffract a lot which makes it a poor candidate for vision and detection. Microwave is superior for detection as it has a much lower wavelength and works well in a line-of-sight application. You can use it to localise yourself. Infrared is primarily associated with heat radiation, so you can use it to map the surrounding temperatures. As for visible light, well, you already know its use. Since the EM spectrum has different use cases based on the band, we have to process each of them differently."
+The Sect Leader contemplated on the idea before saying, "It could work. But in that case, we need to design the processing segment. I have an idea of how you can do that. As you know, each band of the EM spectrum has a purpose. Radio is used for communication. Due to its higher wavelength, radio waves tend to diffract a lot which makes it a poor candidate for vision and detection. Microwave is superior for detection as it has a much lower wavelength and works well in a line-of-sight application. You can use it to localise yourself. Infrared is primarily associated with heat radiation, so you can use it to map the surrounding temperatures. As for visible light, well, you already know its use. Since the EM spectrum has different use cases based on the band, we have to process each of them differently."
 
 "That sounds complicated..." Yohn admitted.
 
-"Which is why we will spend some time determining how you want to 'see' the processed data. Bring into a form that is decipherable by the brain and fathomable by the human mind. This is how Marie understands the waves of fate, and how Markus sees the gravitational field. The key is to design a robust conceptualisation that captures its essence to a high degree of accuracy."
+"This is why we will spend some time determining how you want to 'see' the processed data. Bring into a form that is decipherable by the brain and fathomable by the human mind. This is how Marie understands the waves of fate, and how Markus sees the gravitational field. The key is to design a robust conceptualisation that captures its essence to a high degree of accuracy."
 
 "Let us start with infrared," the Sect Leader flourished his hands and the world around Yohn changed from a blank white void to a teeming forest.
 
 "Everything here radiates heat, which is in the form of infrared waves. What if we assign a colour to the intensity of the wave being?"
 
-With a snap of the finger, Yohn's vision changed - not the environment but his sight altogether. Instead of seeing the standard colours, he now saw a contour of colours ranging from blue to red all around him. The small fauna that pranced and scuttled along were a distinct red shade, while the water was a deep blue, and the plants varied from green to red.
+With a snap of the finger, Yohn's vision changed - not the environment but his sight altogether. Instead of seeing the standard colours, he now saw a contour of colours ranging from blue to red all around him. The small fauna that pranced and scuttled along was a distinct red shade, while the water was a deep blue, and the plants varied from green to red.
 
 "Red is hot, blue is cool," the Sect Leader explained. Yohn turned around and saw a spectral figure of the Sect Leader drenched in reds and yellows speaking to him. "So, what do you think?"
 
