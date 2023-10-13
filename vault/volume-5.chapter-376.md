@@ -2,7 +2,7 @@
 id: 7mwrircid6sm10ihxorjmm4
 title: Chapter 376 - Electrolytic Chemical Reactions
 desc: ''
-updated: 1696851346462
+updated: 1697208716041
 created: 1694790580061
 ---
 
@@ -18,7 +18,7 @@ Well, calling them hangers-on would be a disservice, since they were contributin
 
 Markus shrugged in acceptance. If it was a trivial matter, there was no point in digging into it, especially since they had arrived at their destination. Upon entering the lab, they were greeted with a barren room filled with a maze of empty tables. A few near the centre were populated with equipment and apparatus, and standing next to them was the sole figure of the Sect Leader.
 
-"I did not think I would have to requisition a lot of this chemistry equipment just yet. My plan was to But you ambitious kids have proven me wrong once again!" He exclaimed with a smile. "Come, come! I have prepared the experiment for today."
+"I did not think I would have to requisition a lot of this chemistry equipment just yet. My plan was to move forward more methodically, build a proper foundation, and THEN approach this topic. But you ambitious kids have proven me wrong once again!" He exclaimed with a smile. "Come, come! I have prepared the experiment for today."
 
 The duo walked through the maze-like desk arrangement, towards the Sect Leader.
 
