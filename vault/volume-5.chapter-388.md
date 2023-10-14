@@ -1,8 +1,8 @@
 ---
 id: 8y9jbcb9l44o5r1213k5gom
-title: Chapter 388
+title: Chapter 388 - How to Remember and Recollect?
 desc: ''
-updated: 1697228154036
+updated: 1697317610463
 created: 1697195061987
 ---
 
@@ -66,3 +66,37 @@ Shuri sheepishly averted her gaze and murmured, "I wish I had a plan."
 
 ____
 
+Shuri thoroughly exhausted Jean with a battery of questions that covered the length and breadth of the girl's knowledge of the human brain. Shuri was certain that the key to understanding how to create artificial intelligence was to crack the code on how actual intelligence worked. And although Jean wasn't the forerunning authority on the subject, Shuri took full advantage of her as a resource. And to an extent, it was effective.
+
+Shuri left the staff room well into the night leaving a deflated Jean inside, though she herself was walking with a light and energetic skip in her steps. Because she had figured out the first problem she needed to tackle in her mission to develop an artificial intelligence - storage. Something is defined as intelligent when it is capable of making informed decisions. However, to be informed, it needs to remember things. To remember, it must have way to store and recollect data just like how the brain does did it.
+
+Cracking the technique to invent a robust storage solution capable of handling a large quantity of data would be the first domino in the long line. Although knowing that his was where she had to be a start simplified Shuri's work, it in no way made her life any easier. Because once again, she found herself in a position where she had to build a solution to this problem by herself, from scratch. Actually, there were storage solutions out there already in use. Mage's could imprint audio and video data into object through ritual formations. However, they were permanent in nature, that is once they were imprinted the could not be edited without re-recording the audio or visual data. Furthermore, the capacity of the ritual formation was highly limited and scaled exponentially. To record a second's worth of audio data, a ritual the size of one's palm would be sufficient. A three minute audio track would be as big as a dinner plate, but a four minute track would be as large as a small side-table. A five minute was as big as a small hut. This was also why all songs were either three minutes or less and distributed on imprinted clay plates.
+
+There was an inherent inefficiency in modern storage solutions that noone thought to address or improve, which irked Shuri to no end.
+
+"Why is it that whenever I want to do something, I find the existing technology extremely lacking?" Shuri said out loud with an annoyed growl. This was a common trouble with prodigies.
+
+Shuri's prodigal mind ran far ahead the curve. So far, in fact, that the prerequisites needed to realise most of her thoughts didn't even exist yet. This meant that Shuri was forced to build the groundwork needed to help realise her own dream, which was often exhausting and detracted from the fun of invention.
+
+"I guess, I have no other choice..." Shuri mumbled in defeat. "Now how do I do this?!"
+
+Shuri harkened back to what she learned about how the brain stored its data. "It's all about potentials."
+
+The brain encoded data through electric potentials. A single potential difference accross a neuron didn't mean anything, but many chained together in a particular way built up data. A surge of inspiration struck Shuri at that instant.
+
+"It's all about how you abstract the data!"
+
+The brain did it as a combination of potentials. In logic, information is abstracted as zeroes and ones. Any number could be represented as zeros or ones. One could even create an key to abstract letters to zeros and ones.
+
+"Zeros... and ones..." Shuri muttered as she finally reached the mess hall.
+
+"If data can be abstracted to zeros and ones, then I should be able to store it!" She exclaimed. She wanted nothing more than to just rush to her room, her abode of inspiration, and jot down the ideas bubbling in her mind.
+
+But she had already missed her lunch. If she also skipped dinner, then she would have a very angry Matron Reva knocking at her doors.
+
+"Yeah, can't have that," Shuri admitted before entering the building. It wasn't like she would forget all the ideas in her mind; she had an eidetic memory, after all.
+
+____
+
+**Next**
+* [[volume-5.chapter-389]]
