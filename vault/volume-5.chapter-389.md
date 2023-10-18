@@ -1,8 +1,8 @@
 ---
 id: fdbqbhaa11nsysinicb8cfy
-title: Chapter 389 - (Interlude) Messengers of the soon-to-be Dead
+title: Chapter 389 - (Interlude) Messengers from the soon-to-be Dead
 desc: ''
-updated: 1697620533264
+updated: 1697625588424
 created: 1697543956427
 ---
 
@@ -115,4 +115,4 @@ Rianna looked into her hunk boyfriend's puppy-dog eyes and the denial that was a
 ____
 
 **Next**
-* [[volume-5.chapter-389]]
+* [[volume-5.chapter-390]]
