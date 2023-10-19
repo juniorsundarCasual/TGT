@@ -1,8 +1,8 @@
 ---
 id: fdbqbhaa11nsysinicb8cfy
-title: Chapter 389 - (Interlude) Messengers from the soon-to-be Dead
+title: Chapter 389 - Messengers from the soon-to-be Dead
 desc: ''
-updated: 1697625588424
+updated: 1697719419643
 created: 1697543956427
 ---
 
@@ -98,7 +98,7 @@ Both Rianna and Shay-Hade froze with their eyes nearly out of their sockets in s
 
 ""NO!"" Rianna and Shay-Hade exclaimed. "I mean," Rianna picked up. "I don't know if calling it a diplomatic missin is correct. We're just running and errand-"
 
-"Whatever! Come, you've arrived just in time. Matron Reva just cooked up a huge pot of Chicanery."
+"Whatever! Come, you've arrived just in time. Matron Reva just cooked up a huge pot of Spiced Chicken Rice."
 
 "What?" Shay-Hade asked.
 
