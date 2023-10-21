@@ -2,7 +2,7 @@
 id: 94zeojxkqehvzyh9vbsqbxw
 title: Chapter 390 - Strange Atmosphere
 desc: ''
-updated: 1697719440445
+updated: 1697903792572
 created: 1697620581914
 ---
 
@@ -141,6 +141,10 @@ Shay-Hade's protests of impropriety in Rianna's brazenness as she gawked at pain
 "You're being weirdly nonchalant about all this..." Shay-Hade expressed, to which Rianna simply shrugged and returned to admiring the mural.
 
 "I've had ten years to get over it," Rianna said off-handedly. "Besides, last I heard the Maddi family got squashed by a 7-star Artist because my father offended her. I think they got their just desserts."
+
+"I'd assume that given the nature of your trauma, you'd build some sort of hatred towards art in general," Shay-Hade commented.
+
+"Art isn't the reason why I had a shitty father," Rianna stated. "Art is transcendental."
 
 At that moment, the duo caught a lively conversation occuring from the branches of a nearby tree.
 
