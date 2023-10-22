@@ -1,8 +1,8 @@
 ---
 id: 5m0nsq04g13epijaxz3dfaj
-title: Chapter 391
+title: Chapter 391 - A Favourable Favour
 desc: ''
-updated: 1697928192281
+updated: 1697975658449
 created: 1697903633287
 ---
 
@@ -82,5 +82,51 @@ Her eyes locked on to the other girl and Rianna quickly covered the distance bet
 
 As Rianna turned to leave, the girl quickly blocked their paths and challenged. "Look, I think you guys are mistaken. Maybe-"
 
-"I know what you are trying to do," Rianna interjected. "But please do not insult our intelligence."
+"I know what you are trying to do," Rianna interjected. "But please, do not insult our intelligence."
 
+"Where are you going!" The girl yelled as Rianna and Shay-Hade both left the clinic in a hurry. Rianna recollected the schematic of the Sect as described in Marie's initial tour and beelined towards the Sect Leader's office.
+
+Upon arriving, she knocked at the door and entered after confirming that there was only the man inside. Her first impression of the Sect Leader of the True WOrld Sect was, 'Unimpressive.'
+
+Apart from his chiselled and handsome appearance, he did not exude an aura of someone powerful.
+
+"Who do we have here? Ah, you must be the visitors from the Mystic Celestial Sect Marie informed me about," The man said in a magnetic baritone with a blank smile. "And I don't think I gave you permission to enter. As you can see-" he said as he spread his arms over the stacks of papers on his desk, "-I'm quite preoccupied."
+
+"We won't take long," Rianna cut in. "It is just a matter of getting your permission."
+
+The man's expression turned serious, "I believe a bit more respect is afforded to a person you wish to ask permission of."
+
+"I apologise for my partner's transgressions," Shay-Hade intercepted. "I seem to be doing that a lot nowadays. What she means is that the request is so heavily leaning in your favour that acceptance is a matter of course."
+
+"That is for me to decide, isn't it?" The Sect Leader commented while resting his chin on his arms propped on top of his desk.
+
+"It is about the girl named Kili," Rianna pointed out. "She is too young to be registered with the Sect, which means that she lives here with her guardian. We have reason to believe that she has a unique physique or bloodline that gives her an unparallelled recovery capacity. As this feature is already activated without her having to walk the path of cultivation, it puts her in a favourable position to begin practising a rather powerful cultivation method envisioned by our Mystic Celestial Sect's Leader."
+
+Rianna observed the man's expression, hoping to see some glint or excitement at her revelation. But was miffed to see none of that sort flashing accross his thoroughly unimpressed, borderline annoyed, face.
+
+She coughed and then continued, "We would like to recruit the girl and train her. We believe her future is limitless and with the proper guidance she can be the youngest Tesseract Transformation realm mage, ever."
+
+"Your offer, though forceful, is as you said quite favourable for me... in your opinion. You're asking me to hand over a child to two people I barely know with the promise of her achieving greatness," the Sect Leader challenged.
+
+"It isn't 'our word'," Rianna snapped back. "It is the reputation of the Mystic Celestial Sect that is backing our claim."
+
+"I am still not convinced," the Sect Leader denied. "AND, since it is you, the representatives from your Sect, who are approaching me, it falls on you to convince me to place Kili in your care."
+
+"I hope you realise that you are denying Kili a prosperous future," Rianna said with a faintly threatening tone. "What would she say when she learns about the opportunity she missed due to your ill-informed decision."
+
+"I don't see it that way. I see your proposition as a gamble, which I am not confident enough to take. When Kili is old enough she will realise the reason for my behaviour," the Sect Leader said adamantly. "Besides, even if I did want her to be under you the authoriy isn't mine. Her guardian is someone else altogether."
+
+"Who-" Rianna blurted out, but was interrupted as the door swung open and a familiar girl walked in with an infuriated frown on her face.
+
+"Sect Leader Larks," the girl greeted.
+
+"Good, you're here. We were just talking about you," the Sect Leader responded. He turned to Rianna and Shay-Hade and said, "Guests, please meet Kili's guardian, Jean Rasmus."
+
+"Oh, we've met," Jean growled.
+
+""Shit"" Both Rianna and Shay-Hade blurted out in unison.
+
+____
+
+**Next**
+* [[volume-5.chapter-392]]
