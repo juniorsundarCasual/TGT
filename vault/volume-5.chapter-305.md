@@ -2,7 +2,7 @@
 id: u1xli3tz1e6qnm3zpvdi8gu
 title: Chapter 305 - Losing Streak
 desc: ''
-updated: 1681730924936
+updated: 1698870384317
 created: 1679288920320
 ---
 
@@ -42,9 +42,9 @@ ____
 
 "No conditions. Just a simple game," Shuri retorted with her face scrunching up in concentration.
 
-"Alright, so I'm allowed to use everything in my arsenal?" Marie probed. The phrasing of the sentence causinge Shuri to arc her brows.
+"Alright, so I'm allowed to use everything in my arsenal?" Marie probed. The phrasing of the sentence caused Shuri to arc her brows.
 
-"What are you implying?" Shuri paused,  and lookinged up from the board.
+"What are you implying?" Shuri paused, and looked up from the board.
 
 "Well, everyone in the Foundation Establishment realm and above in this Sect specialises in something - as every Foundation Establishment mage is meant to. You should be aware of Markus' and Jean's speciality by now. My speciality is something different," Marie drawled. At that moment, she snapped her fingers and said, "How about this? If you can defeat me in anything without forcing me to suppress myself in any way, I will not only relinquish you from the assistantship position, but I will also owe you a favour 'no-questions-asked"!
 
