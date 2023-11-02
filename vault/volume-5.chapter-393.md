@@ -2,7 +2,7 @@
 id: 5ank2mmkn8zg7mh870320lj
 title: Chapter 393 - Workout Plan
 desc: ''
-updated: 1698870617738
+updated: 1698940207098
 created: 1698153023811
 ---
 
