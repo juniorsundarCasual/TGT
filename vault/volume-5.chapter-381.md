@@ -2,7 +2,7 @@
 id: zjkbocgnlfaz9jysmdei8y8
 title: Chapter 381 - If You Mess Around...
 desc: ''
-updated: 1697784149041
+updated: 1698948184797
 created: 1695641337325
 ---
 
@@ -20,7 +20,7 @@ Noticing Yohn's blank expression, Revian continued, "You can heat a coffee with 
 
 "It's not out of nothing, you're using mana," Yohn corrected.
 
-"But have you noticed the release of volatile mana differs based on the nature of the spell used?" Revian proposed. "I took some time to categorise the types of spells that are common and usable by every mage. You have the abjuration school which consists of protective spells, conjuration school which involves translocation of things from one location to another or even creating something out of nothing, there is the illusion school which works to influence the mind of others, there is the alteration school that changes the property of something into something else, and there is the evocation school that use mana to produce a desired effect. Using water to create a bubble of protection is abjuration, creating water or moving water from one source to another location is conjuration, making something think that they are drowning when they aren't is an illusion, turning water into oil is alteration, and heating water in a beaker is evocation. I have noticed that spells classified under the school of evocation always release volatile mana."
+"But have you noticed the release of volatile mana differs based on the nature of the spell used?" Revian proposed. "I took some time to categorise the types of spells that are common and usable by every mage. You have the abjuration school which consists of protective spells, conjuration school which involves translocation of things from one location to another or even creating something out of nothing, there is the illusion school which works to influence the mind of others, there is the alteration school that changes the property of something into something else, and there is the evocation school that use mana to produce a desired effect. Using water to create a bubble of protection is abjuration, creating water or moving water from one source to another location is conjuration, making someone think that they are drowning when they aren't is an illusion, turning water into oil is alteration, and heating water in a beaker is evocation. I have noticed that spells classified under the school of evocation always release volatile mana."
 
 "Did you come up with this classification by yourself?" Yohn asked in surprise.
 
