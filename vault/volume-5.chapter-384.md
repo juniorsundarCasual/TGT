@@ -2,11 +2,11 @@
 id: 0yyp2cbefkk8lkbgtxzit7s
 title: Chapter 384 - Anti-Mage
 desc: ''
-updated: 1696415091666
+updated: 1698948608784
 created: 1696240510819
 ---
 
-One Guy, Al and Revian were at the practising field, which was cleared up to accommodate them, Al turned towards the dismayed boy and said, "Pain tells you when something is wrong. It is the body's natural feedback mechanism that tells you where the problem lies. So, following the standard process of diagnosis, we need to check to see whether you are in pain. Nearly everyone that has every been crippled or had their mana core obliterated suffers through unbearable pain. Some female mages have told me that it feels like you are giving birth to a hundred babies at the same time. Of course, I am certain that these accounts may not be wholly accurate since the psychological pain of losing something so precious can exacerbate the physical pain as well."
+Once Guy, Al and Revian were at the practising field, which was cleared up to accommodate them, Al turned towards the dismayed boy and said, "Pain tells you when something is wrong. It is the body's natural feedback mechanism that tells you where the problem lies. So, following the standard process of diagnosis, we need to check to see whether you are in pain. Nearly everyone that has ever been crippled or had their mana core obliterated suffers through unbearable pain. Some female mages have told me that it feels like you are giving birth to a hundred babies at the same time. Of course, I am certain that these accounts may not be wholly accurate since the psychological pain of losing something so precious can exacerbate the physical pain as well."
 
 Al mumbled for a few minutes before shaking his head and saying, "So let us confirm whether there is pain. I will physically press your abdomen. Tell me if there is tenderness or pain."
 
@@ -26,7 +26,7 @@ Revian retrieved his wand, pointed at the target dummy far away, and formed the 
 
 "Mana exhaustion," Al concluded. "It seems that your core doesn't have enough mana to sustain even a basic spell. That is concerning. But since there isn't pain, it seems that you aren't actually crippled."
 
-"Is that a valid conclusion, though?" Guy interjected. "Is the lack of pain when the mana core is being exerted, sufficient indication to deny the possibility of him being crippled?"
+"Is that a valid conclusion, though?" Guy interjected. "Is the lack of pain when the mana core is being exerted sufficient indication to deny the possibility of him being crippled?"
 
 "Do you WANT the boy to be crippled?" Al responded sarcastically.
 
@@ -40,9 +40,9 @@ Guy bowed apologetically and retreated to a corner.
 
 "What are you doing here?" Guy asked in surprise. "You don't usually come to this part of the Sect."
 
-"I heard what happened to Revian," Grace responded. Her hand then subconsciously moved towards her abdomen and rested there. Guy's gaze followed, and a realisation struck him like hammer on anvil.
+"I heard what happened to Revian," Grace responded. Her hand then subconsciously moved towards her abdomen and rested there. Guy's gaze followed, and a realisation struck him like a hammer on an anvil.
 
-"It's extremely painful," Grace continued. "Being crippled, that is. And it isn't a fleeting pain like childbirth, not that I can attest to that. The pain of being crippled lingers. It radiates constantly. Even remaining physically still doesn't stop it. Even the slightest of stimulating thought can cause the pain to resume. It's like you're being stabbed with a hot poker again, and again, and again. And this is just the physical part. Mentally, you feel like killing yourself. You just wish that the pain would just take your life away - what more do you have to live for, anyway. Because cultivation once lost is never recoverable."
+"It's extremely painful," Grace continued. "Being crippled, that is. And it isn't a fleeting pain like childbirth, not that I can attest to that. The pain of being crippled lingers. It radiates constantly. Even remaining completely still doesn't stop it. Even the slightest of stimulating thoughts can cause the pain to resume. It's like you're being stabbed with a hot poker again, and again, and again. And this is just the physical part. Mentally, you feel like killing yourself. You just wish that the pain would just take your life away - what more do you have to live for, anyway? Because cultivation once lost is never recoverable."
 
 "I'm sorry..." Guy said with a morose tone.
 
@@ -80,7 +80,7 @@ Revian had his hands held out together with a shocked and elated expression on h
 
 "How in the world did you do that?!" Guy exclaimed as well.
 
-"I-I don't know. When Teacher Jeeves cast the spell, I suddenly felt a rush of mana entering my core, and colds tarted to course through my mana channels. I directed it to my palms and caught the |Fireball| which got absorbed as well," Revian explained.
+"I-I don't know. When Teacher Jeeves cast the spell, I suddenly felt a rush of mana entering my core, and cold started to course through my mana channels. I directed it to my palms and caught the |Fireball| which got absorbed as well," Revian explained.
 
 "How did this happen?" Guy asked Al.
 
