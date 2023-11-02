@@ -2,7 +2,7 @@
 id: qulg9oj125u2w2wi8ncnzdi
 title: Chapter 383 - (Un)Losing Hope
 desc: ''
-updated: 1696240577243
+updated: 1698254637074
 created: 1695901168055
 ---
 
@@ -24,7 +24,7 @@ At that moment, Jean arrived in the room once again. She walked over to Revian a
 
 "Oh, umm," Jean completed her note-taking and nodded while closing the door while she left.
 
-"So," Guy started. "Care to explain your rash decision to bombard you nascent core with volatile mana?"
+"So," Guy started. "Care to explain your rash decision to bombard your nascent core with volatile mana?"
 
 Revian let out a wry smile and said, "I could feel I was close to something-"
 
@@ -34,7 +34,7 @@ Revian flinched at Guy's piercing words. Guy noticed this and immediately lowere
 
 "What I've done?" Revian parroted with a confused expression.
 
-Guy solemnly rubbed his face and said, "You have crippled yourself. Check you mana core."
+Guy solemnly rubbed his face and said, "You have crippled yourself. Check your mana core."
 
 Revian's eyes widened in disbelief before he quickly moved his concentration to his mana core. The first thing he noticed was that he'd advanced, which elicited a smile, but it was quickly extinguished the moment his senses landed on his core.
 
@@ -46,13 +46,13 @@ Revian's eyes enlarged in their sockets before he collapsed against the bed, whi
 
 "But I advanced," Revian muttered in shock. "I-If I'm crippled, I shouldn't be in the Foundation Establishment realm. I advanced!"
 
-Guy immediately pulled the hyperventilating boy into a calming hug and said, "Which is what I don't understand. The fact that your cultivation hasn't deteriorated, while you mana core is damaged, is quite odd. I haven't read of or heard of anything like this before. I've written to Teacher Jeeves for help - maybe he has some experience with this. So, for the time being, I want you to remain calm and rest."
+Guy immediately pulled the hyperventilating boy into a calming hug and said, "Which is what I don't understand. The fact that your cultivation hasn't deteriorated, while your mana core is damaged, is quite odd. I haven't read or heard of anything like this before. I've written to Teacher Jeeves for help - maybe he has some experience with this. So, for the time being, I want you to remain calm and rest."
 
-After separating himself from the calm yet silently panicking boy, he added, "I know it is tough. I know that it is easy for me to just say, 'stay calm'. But there is nothing we can do at this point except to salvage the situation as well as we can. And to do that, we need to be methodical and collected. If we do something erratic while panicking, it may exacerbate the situation and put us in an even worse situation."
+After separating himself from the calm yet silently panicking boy, he added, "I know it is tough. I know that it is easy for me to just say, 'Stay calm'. But there is nothing we can do at this point except to salvage the situation as well as we can. And to do that, we need to be methodical and collected. If we do something erratic while panicking, it may exacerbate the situation and put us in an even worse situation."
 
 "And don't lose hope just yet," Guy added, though his voice lacked his usual conviction. "Look at Yohn! Everyone thought that his blindness would hold him back, but we found a solution, didn't we? There has to be something for you too! Besides, I've consulted Elder Nara and he tells me that your future isn't irrecoverable. It won't be the same as you hoped, but it isn't lost."
 
-Revian nodded half-heartedly before blankly covering himself with his blanket and receding into the mattress. While he knew of the potency of Elder Nara's predictions, the final words rung hollow in his ears. Guy's hand hovered over the blanket covered lump as he pondered on if he should say something. But he decided to let the matter rest for now. At this point, no amount of words could alleviate the emotions the boy was feeling right now.
+Revian nodded half-heartedly before blankly covering himself with his blanket and receding into the mattress. While he knew of the potency of Elder Nara's predictions, the final words rang hollow in his ears. Guy's hand hovered over the blanket-covered lump as he pondered on if he should say something. But he decided to let the matter rest for now. At this point, no amount of words could alleviate the emotions the boy was feeling right now.
 
 As Guy left the clinic, he called Jean over and said, "Keep an eye on Revian, so that he doesn't do something stupid. He's in a fragile state right now."
 
@@ -62,7 +62,7 @@ As Guy left the clinic, he called Jean over and said, "Keep an eye on Revian, so
 
 ____
 
-Al's arrived at the Sect within a day, with a loud shriek of Garrud prefacing his descent. The majestic eagle-lion hybrid nuzzled at Dora, who rushed over the moment she heard the creature's wingbeat in the sky. And while the two long-lost acquaintances remained busy refamiliarising themselves, the veteran mage walked over to Guy and shook his hand.
+Al's arrived at the Sect within a day, with a loud shriek of Garrud prefacing his descent. The majestic eagle-lion hybrid nuzzled at Dora, who rushed over the moment she heard the creature's wing beat in the sky. And while the two long-lost acquaintances remained busy refamiliarising themselves, the veteran mage walked over to Guy and shook his hand.
 
 "It's been a long time, huh?" Al commented. "And a lot has changed."
 
@@ -84,9 +84,9 @@ Guy suppressed his inquisitive itch and led Al to the room where Revian was stay
 
 Jean bit her tongue and let out a wry smile, "I forgot about it."
 
-"Off you go, then. I'll be taking over, now," Al said while lightly jostling the girl way.
+"Off you go, then. I'll be taking over, now," Al said while lightly jostling the girl's way.
 
-The duo entered the room, and were immediately doused with a dour aura. Revian was no longer in the bed, and was sitting listlessly by the desk in the room.
+The duo entered the room and were immediately doused with a dour aura. Revian was no longer in the bed and was sitting listlessly by the desk in the room.
 
 "So," Al said loudly, attracting Revian's attention. "So you're the smart Aleck who decided it was okay to attack his own mana core?"
 
@@ -106,11 +106,11 @@ Revian swallowed his hesitating words and asked, "C-Can you help me? Please?"
 
 "I don't know," Al said with a shrug. "Don't get me wrong, I do want to help. But your case is so special. If I may-"
 
-Al reached forward and awaited for the go ahead from Revian before placing his palm on the boy's abdomen. After a few minutes of silent concentration, he said, "See, your cultivation is intact, robust even. It's just your mana core than's wrecked. I don't know if there is a way to fix it, but I can tell you that since your cultivation is so well-founded, you should be able to reach the peak of Core Formation safely."
+Al reached forward and awaited the go-ahead from Revian before placing his palm on the boy's abdomen. After a few minutes of silent concentration, he said, "See, your cultivation is intact, robust even. It's just your mana core that's wrecked. I don't know if there is a way to fix it, but I can tell you that since your cultivation is so well-founded, you should be able to reach the peak of Core Formation safely."
 
 "T-That's it?" Revian blurted out.
 
-"That's it?!" Al snapped back with disbelief. "Just because Core Formation isn't the technical end of a mage's cultivation journey doesn't mean that its worth nothing. Not many people are lucky enough to even gaze at the footsteps of the realm. You should count yourself fortunate for even breaking into the Foundation Establishment realm so early in your path!"
+"That's it?!" Al snapped back with disbelief. "Just because Core Formation isn't the technical end of a mage's cultivation journey doesn't mean that it's worth nothing. Not many people are lucky enough to even gaze at the footsteps of the realm. You should count yourself fortunate for even breaking into the Foundation Establishment realm so early in your path!"
 
 Revian shrunk back at his faux pas. But then he said, "I just... It feels discouraging to have the option of going further taken away from me. I don't want to lose hope."
 

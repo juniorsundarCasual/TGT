@@ -2,7 +2,7 @@
 id: 9qckd91fca80gq0ykqrzbez
 title: Chapter 379 - ICU
 desc: ''
-updated: 1697463092862
+updated: 1698254721625
 created: 1695383843810
 ---
 
@@ -24,7 +24,7 @@ Yohn looked around and immersed himself in the world with a completely novel col
 
 "The problem with microwaves, though, is that they aren't naturally emitted by objects, like infrared. You have to depend on reflected microwaves, but there aren't that many natural sources of this EM wave either. So, you will find the ambience scarce in microwaves. If you had a way to generate them, I believe this is what the world would look like to you," the Sect Leader explained.
 
-"I think this is a sufficiently robust visualisation for microwaves, thought," Yohn affirmed. "What do I do about radio waves?"
+"I think this is a sufficiently robust visualisation for microwaves, though," Yohn affirmed. "What do I do about radio waves?"
 
 The Sect Leader pondered on the question for a while before suggesting, "Why don't you try representing radio waves as sound? The primary purpose of radio waves is to communicate, right? So then representing them as sound instead of a visualisation that you see feels more apt."
 

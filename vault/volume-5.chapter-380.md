@@ -2,7 +2,7 @@
 id: 35tvm1iun06xvsteghglgp6
 title: Chapter 380 - Recycle
 desc: ''
-updated: 1697627688032
+updated: 1698255033461
 created: 1695579014792
 ---
 
@@ -102,7 +102,7 @@ By the time Yohn finally arrived at the mana sink, Revian had prepared all the e
 
 "So, what do you need me to do?" Yohn asked while quickly scanning through the file.
 
-"I heard that you can observe the head being radiated out of objects?" Revian replied. "I'm going to be working with a lot of hot objects very soon, I need you to help make sure that I am safe. The Fire Protect-Core has already been installed here, but it only responds to flames and smoke. I also need you to help observe and clarify what happens during some thermal interactions."
+"I heard that you can observe the heat being radiated out of objects?" Revian replied. "I'm going to be working with a lot of hot objects very soon, I need you to help make sure that I am safe. The Fire Protect-Core has already been installed here, but it only responds to flames and smoke. I also need you to help observe and clarify what happens during some thermal interactions."
 
 Yohn flashed a thumbs-up before taking a seat. His eyes suddenly switched. Instead of the periodically oscillating rainbow, it became a mesmerising, slow spectral feature with shades ranging from red to blue. "I'm ready."
 
