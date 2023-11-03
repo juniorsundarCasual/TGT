@@ -1,8 +1,8 @@
 ---
 id: e5i9jytuzyzpybxyloswepd
-title: Chapter 394
+title: Chapter 394 - Being Agile
 desc: ''
-updated: 1698948078526
+updated: 1699044673944
 created: 1698940216159
 ---
 
@@ -54,4 +54,53 @@ At this point, Rianna coughed from behind and gave him a deathly glare. Shay-Had
 
 "Within the defensive category, you have more sub-categories. We have the active and the passive defender. You might notice that this is similar to how spells often get categorised. In combat arts, active defense is all about focusing on counters and snatching initiative while sactificing some protection. Passive is about protecting yourself at all cost, even sacrificing the initiative."
 
-Shay-Hade shrugged and said, "Unfortunately, you don't have any choice than to veer towards being an active defender. Your cultivation, as you've explained it, is all about snatching the initiative. If we don't supplement it with a suitable combat art, we would simply be wasting time and resources"
+Shay-Hade shrugged and said, "Unfortunately, you don't have any choice than to veer towards being an active defender. Your cultivation, as you've explained it, is all about snatching the initiative. So if we don't supplement it with a suitable combat art, we would simply be wasting time and resources."
+
+"People say the best defence is a good offence," Shay-Hade said in a mocking tone. "I respectfully disagree. The best defence ii just not getting hit."
+
+Then, in a near imperceptible blur, he disappered from place and appeared behind Revian. All the boy felt was a gust of wind and the ground quaking rapidly for a short second.
+
+"Take advantage of blind spots. Even the most observant mage with their mana sense tuned to a hundred percent can be fooled if you are evasive enough."
+
+He disappeared once again. Revian looked around frantically and found him nowhere, until suddenly, his mana sense captured movement above his head.
+
+"Utilise all three dimensions. Fighting isn't always on the ground, so get used to looking above and below you as an attack can come from anywhere," Shay-Hade instructed.
+
+"And finally-" Shay-Hade blurred and appeared in front of Revian, his fist coiled back like a snake ready to strike. Another blur followed, and Revian suddenly found his vision blocked by a fist. "-strike fast, and strike hard. Make every contact count, because the moment you attack, you become vulnerable."
+
+He then retracted his fist and said, "Let us begin!"
+
+"The most important skill you need to hone first is agility. Agility is not just about being light on your feet, but also flexible in your mind. A problem can have multiple solutions, going for the first and most obvious is recommended, but optimality can differ based on circumstance. You need to have the presence of mind to make these decisions on the fly while in combat. Rianna here is an offensive combatant through and through. She is willing to sacrifice herself and body a few hits if she can retaliate multifold. I don't do that. The more I get hit, the more initiative I lose."
+
+Shay-Hade walked on the combat arena and revealed a novel circuit to Revian. "Rianna and I sat together and deviced the following circuit to help train your physical agility. The standard process, or the way I trained, was to run on quicksand with weights tied to my feet. But I've realised that taking the drastic option isn't necessary when you can get similar results with a slightly longer time frame and methodically increasing the intensity. So, we will primarily be training our explosive power in the legs in this simple circuits."
+
+He moved to what looked like a laid down ladder drawn in chalk and said, "These are lateral plyometric jumps. This will help build explosive power, balance and coordination."
+
+Shay-Hade stood on one leg and started to hop sideways while moving over the chalk drawing. He moved in a pattern of two forward and one back. He did this until he reached the end of the drawing and did the same to return to start. He then switched legs and repeated.
+
+"This is one. You have to repeat this five times. The goal is to decrease your time. Your target should be to achieve this-"
+
+Shay-Hade blurred again and the ground started to vibrate erratically. Revian could barely keep up as he saw the man appeared at different points accross the drawing.
+
+"That's just one. You have five more drills that will train different aspects of agility, namely coordination, explosive power, balance and speed. This will be the warm-up you will be doing before we actually start combat training. Oh! And this is apart from the additional physical conditioning training exercises you will be undertaking with Rianna over there," Shay-Hade listed.
+
+Revian's eyes nearly popped out in shock, "That's... intensive..."
+
+"You started late. This is neccessary to bring you up to speed," Rianna interjected.
+
+"I have some experience fighting, from before," Revian pleaded, hoping to get some leniancy. But it was for naught as the woman grabbed his arm and squeezed it hard accross different locations.
+
+"OW!"
+
+"You may have trained before, but your body seems to have forgotten all about it," Rianna pointed out. "Listen here, boy. My mission is to prove that my method is safe and effective. So I need you to be cooperative. Tell me right now whether you are willing to invest your time and attention to the regiment we have planned out!"
+
+Revian gazed into Rianna's resolute eyes and all doubts floating in his head dissipated instantly. This was the key to his future, he could feel it. Opportunities like this were rare, he would be a fool to let it slip through his fingers.
+
+"I'm in!" Revian declared animatedly.
+
+"Good! Now begin!" Shay-Hade commanded from behind. "You have exactly thirty seconds to complete the first set. Every second over the limit will be recompensated in push-ups. Your time starts... NOW!"
+
+____
+
+**Next**
+* [[volume-5.chapter-395]]
