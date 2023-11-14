@@ -2,7 +2,7 @@
 id: cuvl7ac4mh16q9cvhd60fts
 title: Chapter 387 - In Your Head
 desc: ''
-updated: 1697024003132
+updated: 1699986918223
 created: 1697018365562
 ---
 
@@ -26,7 +26,7 @@ She then moved aside the plain white sheet covering the cadaver to reveal a clea
 
 Shuri probed further, "Are you allowed to do that?"
 
-Jean affirmed, "The Duchy's Security isn't officially permitted to engage in such transactions. So, yes, this deal is somewhat under-the-table."
+Jean affirmed, "The Duchy's Security isn't officially permitted to engage in such transactions. So, yes, this deal is somewhat under the table."
 
 Shuri expressed disbelief, "And the Sect Leader allowed you to proceed with it?"
 
@@ -44,7 +44,7 @@ Jean gave Shuri a horrified look and said, "We can't poke and prod a live human 
 
 "That is possible, but we need to fully understand the brain's structure first, hence this exploration," Jean reasoned. "After the brain, we will also dissect the spine. Thankfully, this one has an intact spinal column as the stab wound went through very cleanly."
 
-With the introductory brief out of the way, Jean's razor sharp scalpel moved over the flesh with the same grace as a painter working their brush. She safely dislodged the brain from the skull and placed it atop a clean surface. She retrieved her journal and opened up to a diagram of the brain drawn in it.
+With the introductory brief out of the way, Jean's razor-sharp scalpel moved over the flesh with the same grace as a painter working their brush. She safely dislodged the brain from the skull and placed it atop a clean surface. She retrieved her journal and opened up to a diagram of the brain drawn in it.
 
 "So... to match the parts... we have the two hemispheres of the brain, the frontal lobe, parietal lobe, occipital lobe, the prefrontal lobe, cerebellum, medulla..." she rattled off the names as she identified the corresponding part on the dissected brain. She then explained the function of each of them to Shuri. "The temporal lobe is the one responsible for most intellectual and emotional functions of the brain. The parietal lobe is for comprehension of language..."
 
@@ -56,23 +56,23 @@ Shuri was an active listener, who frequently asked questions to clarify details 
 
 "We will now take a coronal or frontal section of the brain," Jean declared before moving her scalpel and taking a thin slice cross-section of the brain.
 
-"The gyri (the upper groove) and the sulci (the dips in between) are easily distinguished. The gyri are covered with a beige substance, this should be the gray matter of the cerebral cortex. Beneath it is the white matter. The gray matter consists of cell bodies, both the neurons and glia, while white matter consists of axons. Neurons provide electrical signals across the neural network, while the glia insulate neurons by covering them and holding them in place. The axons act as connections that transmit signals across the entire neural network. The signals travel through the axons to the cerebral cortex, get processed by the neurons there, and are also sent down from the cerebral cortex. The corpus colosum is the band of white matter holding the two hemispheres together. They connect similar parts of opposite hemispheres together."
+"The gyri (the upper groove) and the sulci (the dips in between) are easily distinguished. The gyri are covered with a beige substance, this should be the grey matter of the cerebral cortex. Beneath it is the white matter. The grey matter consists of cell bodies, both the neurons and glia, while the white matter consists of axons. Neurons provide electrical signals across the neural network, while the glia insulate neurons by covering them and holding them in place. The axons act as connections that transmit signals across the entire neural network. The signals travel through the axons to the cerebral cortex, get processed by the neurons there, and are also sent down from the cerebral cortex. The corpus callosum is the band of white matter holding the two hemispheres together. They connect similar parts of opposite hemispheres together."
 
 Shuri sketched and took notes as Jean explained her observations methodically. Although much went over her head, the parts Shuri did understand started to fill in the blanks in her mind regarding a topic she was highly invested in pursuing.
 
-One of the things Shuri had resolved to do when walking down the path of cultivation was to create invention that serve in benefit of people. Automagy's purpose is to improve the lives of others, not to destroy. To that extent, Shuri was quite successful in her pursuits. She had designed and developed solutions that help the visually-impaired become mages, help people perform a lot of calculations very quickly, and she even motivated others to build devices to help people like the Fire Protect-Core that warns of and fights small scale fires. These were just among a few of the other inventions she released recently.
+One of the things Shuri had resolved to do when walking down the path of cultivation was to create inventions that serve in benefit of people. Automagy's purpose is to improve the lives of others, not to destroy them. To that extent, Shuri was quite successful in her pursuits. She had designed and developed solutions that help the visually impaired become mages, and help people perform a lot of calculations very quickly, and she even motivated others to build devices to help people like the Fire Protect-Core that warns of and fights small-scale fires. These were just among a few of the other inventions she released recently.
 
 However, Shuri realised that there was a ceiling to the type of cores she could program. At this point, she delved into her Clan's books and found the entries on golemancy - the art of programming artificial entities to perform tasks. Golemancy was special because it introduced the concept of inter-core communication. A golem is a complex invention, far too complex to be controlled with a single core no matter how large the core may be. Therefore, the process of building golems involves programming multiple cores and connecting them together. The more complex the task undertaken by a golem, the more cores you will need to make it. Apart from that, you also have to design the golem to fit its task.
 
-In her free time, Shuri built a simple golem, which was a three degree-of-freedom (three revolute joints) arm that could move around and wave. She had to program the arm's kinematics into one core and another core that would request forward or inverse kinematic calculations and move the arm accordingly. She applied logic gates to make it work, and found its performance to be far more efficient compared to the same program offered in the Clan's texts. For one, the functional nature of the logic program made it easy to call the same segment of code multiple times which wasn't the case with the orthodox strategy which was quite restrictive.
+In her free time, Shuri built a simple golem, which was a three-degree-of-freedom (three revolute joints) arm that could move around and wave. She had to program the arm's kinematics into one core and another core that would request forward or inverse kinematic calculations and move the arm accordingly. She applied logic gates to make it work and found its performance to be far more efficient compared to the same program offered in the Clan's texts. For one, the functional nature of the logic program made it easy to call the same segment of code multiple times which wasn't the case with the orthodox strategy which was quite restrictive.
 
 Shuri learned that the mana core could be programmed to do a lot of intuitive and creative things. But as you enter the more advanced parts of golemancy, the amount of control inputs required by the controlling human balloons significantly. If we ultimately want to reduce the human's competency in controlling the golem (so that regular people can also use it) or maybe remove the human element altogether (in case the golem has to work in locations that are dangerous) then the programming needs to be smarter. It needs to have the ability to make decisions that are intelligent and reactive to environmental cues.
 
 This thought stumped Shuri. How do you program intelligence? Can a mana core be intelligent? What even IS intelligence?
 
-The library held an answer, and it said that artificial intelligence is built through neural networks. Not the same neural networks that existed inside any sentient creature, but something based on the same principles. The books talked about this artificial neural networks in great detail, more than half of which Shuri could not grasp no matter how hard she tried. She read and re-read sentences in hopes of getting the information to click, but all attempts led to failure.
+The library held an answer, and it said that artificial intelligence is built through neural networks. Not the same neural networks that existed inside any sentient creature, but something based on the same principles. The books talked about these artificial neural networks in great detail, more than half of which Shuri could not grasp no matter how hard she tried. She read and re-read sentences in hopes of getting the information to click, but all attempts led to failure.
 
-At that juncture, Shuri realised that maybe the cause of her not understanding lay in the fact that she knew very little about real neural networks in the first place. Now, as much as she wanted to knock a fellow Sect member by their heads and cutting it open, she recognised the impracticality and consequences of that action. Instead, she approached a member who could help her out without any backlash - Jean.
+At that juncture, Shuri realised that maybe the cause of her not understanding lay in the fact that she knew very little about real neural networks in the first place. Now, as much as she wanted to knock a fellow Sect member by the head and cut it open, she recognised the impracticality and consequences of that action. Instead, she approached a member who could help her out without any backlash - Jean.
 
 "So how does the brain learn?" Shuri asked as Jean arranged the dissected parts and labelled them.
 
