@@ -2,7 +2,7 @@
 id: 21yaf11mfd302xp1gltcoj1
 title: Chapter 395 - Asking Questions and Admitting Faults
 desc: ''
-updated: 1699424312027
+updated: 1699986515277
 created: 1699420754247
 ---
 
@@ -123,4 +123,4 @@ The girl then descended into a quick barrage of mumbling that threw Rianna for a
 ____
 
 **Next**
-* [[volume-5.chapter-395]]
+* [[volume-5.chapter-396]]

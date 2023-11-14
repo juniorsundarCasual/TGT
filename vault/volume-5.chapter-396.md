@@ -1,8 +1,8 @@
 ---
 id: ilauvvn2mmx88mxx02i4cub
-title: Chapter 396
+title: Chapter 396 - Routine Becomes Reality
 desc: ''
-updated: 1699979993807
+updated: 1699986660064
 created: 1699939227795
 ---
 
@@ -103,4 +103,69 @@ Shay-Hade shook his head solemnly and said, "Do you wish to know so badly that y
 
 "I don't need a seer to tell me the consequences of my actions. I believe I am capable enough to deduce them on my own. I hope you are equally as wise," Shay-Hade pointed out and walked away. "Now if you will excuse me, I have a combat class to teach."
 
-Rianna let out a 
+Rianna let out a mirthful snort as she saw her companion prance away with an upbeat skip in his step. Although the man expressed distaste at his growing number of students, it was clear that he was enjoying every moment of it.
+
+"Kili!" Rianna called out. "Over here!"
+
+"Is something wrong? Was my form incorrect?" Kili rattled worriedly.
+
+"No, no," Rianna interjected. "What have I told you is the most important thing to build strength?"
+
+"Rest and nutrition," Kili answered promptly.
+
+"That's right! By feeding our body with the right nutrients, and letting it rest to rebuild itself, we grow stronger," Rianna expounded. "Recently, our workout has been ramping up quite significantly. I think it is time to implement the first cooldown phase."
+
+"What's that?"
+
+"We are going to take a rest for three whole weeks. No intense workouts, just proper rest," Rianna declared.
+
+"B-But that's going to kill all of my gains!" Kili yelled in shock.
+
+"Your body has grown accustomed to its new state," Rianna corrected. "You will notice that the moment you return to your regular routine, any lost gains will recover very quickly. But you will also notice that the dip in your strength will be negligible, trust me."
+
+Kili's expression remained uncertain for a microsecond before it returned to normal. She did trust Rianna, she had no reason to distrust her, after all. Everything Rianna had told her had come true, so maybe she was right this time as well.
+
+"Will we still be holding combat lessons?" Kili probed.
+
+"Yes, but only evasive maneouvres. No body conditioning," Rianna emphasised.
+
+____
+
+"What are you doing?" Shay-Hade snapped as he noticed a peculiar scene at the usual training spot. A group of five Sect Members were grouping up to take down Markus, who was standing alone at the centre.
+
+"Sparring," Markus answered.
+
+"A single Foundation Establishment realm mage against a battery of cannon fodder isn't really a fair match up," Shay-Hade scoffed. "You should fight someone your own size."
+
+"Revian is busy teaching others, Shuri isn't interested in sparring and neither is Marie. Yohn is still growing accustomed to his new senses. I had little choice."
+
+"You have me, don't you?" Shay-Hade rebutted as he proceeded to take off his coat, revealing an array of crisp lines emphasising every muscle of his tall ebony frame. "I'll limit my strength, so go crazy."
+
+Markus nodded with a resolute expression and rushed his instructor.
+
+A fist flew towards Shay-Hade's head, which was dodged with an effortless tilt. Markus transitioned the punch into an elbow uppercut of his other arm, which was side-stepped. Markus chained it into a spin and elbow roundhouse with his first arm, which was also dodged.
+
+"You're telegraphing your attacks! Even my grandmother can see these coming from yesterday."
+
+Markus ignored the egging comments and continued his onslought of punches, kicks, elbow jabs and knee strikes, which were all dodged or blocked by SHay-Hade. The fight continued for a minute, unchanging. Until suddenly, Shay-Hade's brows dipped in confusion.
+
+A move to dodge, which was successful, was delayed by a fraction of a second. It happened again, and again. And with each passing second the raction grew larger, until a punch landed on Shay-Hade's ribs.
+
+"If you're planning to use magic, you should have told me," Shay-Hade said with a savage growl.
+
+He let out a booming battlecry, before the ground he was standing on shattered violently and he disappeared... only to reappear again a centimetre away from Markus' face with a meteorite fist hurtling towards his ribs.
+
+Markus braced for impact, but it did not occur as the man's fist stopped a fraction of a millimetre away from making contact.
+
+Markus swallowed a mouthful of saliva and said, "I was trying to integrate my magic into my fighting style."
+
+"Learn how to walk first, boy!" Shay-Hade responded. "Now back in line and take me through the fifteenth Form again. Your execution was sloppy, abysmal, absolute garbage!"
+
+"YES SIR!" Markus yelled and rushed back. He then let out a long breath to focus himself and started to move through the routine slowly, pausing at each segment of the Form.
+
+"Practise with your entire attention focused on your actions. The only thing you should have in your mind is your body. Eveything MUST be under control. No mistake! No hesitation!" Shay-Hade vocalised enthusiastically. He then snapped to the group of members gawking at him and said, "What are you idiots looking at? You want me to move your arms for you or something- Get the hell moving! Form three, NOW!"
+
+____
+
+**Next**
+* [[volume-5.chapter-397]]
