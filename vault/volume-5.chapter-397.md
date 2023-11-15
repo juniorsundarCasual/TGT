@@ -2,7 +2,7 @@
 id: yp6r9eh5w6u8o7nanjew4j9
 title: Chapter 397
 desc: ''
-updated: 1700076480241
+updated: 1700076727392
 created: 1700072769943
 ---
 
@@ -18,7 +18,9 @@ Shuri could have stopped there, but she decided to dig deeper. Shuri was patient
 
 Through sheer coincidence, Shuri stumbled upon a book about Ritual Formations in the Library. It was just lying in the middle of the desk there, and she decided to place it back in its shelf. On the way there, she perused through its contents, as she hadn't read this one before. Due to her eidetic memory, even a brief read could engrave the contents into her brain. And it did. By the time she reached the shelf, she had finished it cover to cover, but she did not place the book in its place just yet as another idea struck her.
 
-She quickly rushed back to the desk and pulled out a large roll of parchment and her writing utensil. Then, her hand flourished over the blank page, filling it up with intricate diagrams as the convoluted thoughts in her mind started to imprint themselves on it. Ritual formations, mana gems, and mana cores are all similar in the way they work but have different application cases. They can all be used to cast a spell, but the 
+She quickly rushed back to the desk and pulled out a large roll of parchment and her writing utensil. Then, her hand flourished over the blank page, filling it up with intricate diagrams as the convoluted thoughts in her mind started to imprint themselves on it. Ritual formations, mana gems, and mana cores are all similar in the way they work but have different application cases. They can all be used to cast a spell, however a ritual formation is used to cast it over a region of space, a mana gem is used to cast it through an object it is embedded inside, and a mana core is used to cast it with an additional layer of logic in place. But since their basic idea is similar, Shuri realised that it could be possible to merge the three systems together.
+
+It was like a fever dream, as an indecipherable (expect maybe by Shuri herself) mess filled up the blank canvas. It was a large ritual formation to constantly supply a stream of mana to power the system, with mana gems to handle the data storage, and mana cores to handle the logic such as with reading and writing data. It was an ambitious design, given the sheer number of 
 
 ____
 
