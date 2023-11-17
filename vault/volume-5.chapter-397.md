@@ -1,8 +1,8 @@
 ---
 id: yp6r9eh5w6u8o7nanjew4j9
-title: Chapter 397
+title: Chapter 397 - Write Once, Read Anytime, Delete Never
 desc: ''
-updated: 1700162463353
+updated: 1700247351308
 created: 1700072769943
 ---
 
@@ -26,7 +26,7 @@ It was like a fever dream, as an indecipherable (expect maybe by Shuri herself) 
 
 ____
 
-"Congratulations, it's a boy!"
+"Congratulations, it's a healthy Prince-!"
 
 "Y-Yor!".
 
@@ -96,7 +96,7 @@ Today, instead of going towards her clearing, she walked over to the clinic. Som
 
 "I'd have to run some tests to get to the bottom of this," Jean explained.
 
-"I don't have time for that," Shuri rejected before standing to leave. "Thank you fr squeezing me in your busy schedule," he said while leaving the clinic.
+"I don't have time for that," Shuri rejected before standing to leave. "Thank you for squeezing me into your busy schedule," she said while leaving the clinic.
 
 "I still think it is wise to identify the cause of the pain lest it become worse," Jean warned, but Shuri was already beyond listening range.
 
@@ -110,9 +110,19 @@ Blood. Blood everywhere.
 
 ____
 
-It was time, Shuri could feel it in her guts. Four weeks had passed since her visit to the clinic. And while she was nearly finished with her project, her pain walked the inverse path and had ballooned to a point where her every morning left her partially immobiised for half an hour until it passed.
+It was time, Shuri could feel it in her guts. Eight weeks had passed since her visit to the clinic. And while she was nearly finished with her project, her pain walked the inverse path and had ballooned to a point where her every morning left her partially immobiised for half an hour until it passed.
 
+Shuri left her room later than usual, as the time to recover from the inhuman pain had ballooned significantly as well. She completed her daily routine and arrived at her clearing, which looked much different from how it had started out. An elaborate ritual was splattered accross the ground, with orichalcum plates with row of small mana gems embedded on them placed strategically at different locations. At certain nexuses, one could see programmed mana cores, pulsing periodically performing a hitherto unknown task. The scale of the project was massive, spanning an area of twenty-five square metres. Needless to say it was an expensive endeavour, one which had to be completed in a painstakingly slow yet methodical process. Material shortages were the norm, and denied requisition requests were frequent. But Shuri endured, and her masterpiece was finally taking shape.
 
+However, today, there was an unexpected guest awaiting Shuri at the location.
+
+"Senior Sister Jean! W-What brings you here today?" Shuri greeted, though with a faint quiver in her lips. Her Senior Sister was the defacto boogeyman of the Sect. Everyone was afraid of her, second only to Matron Reva. Admittedly, Senior Sister Jean was a good human, a gem of a person, a gentle soul. But Physician Jean was a demon. She was unforgiving, and meted out punishment for health violations without prejudice. Even the Sect Leader wasn't safe, the man had to apologise publicly for affecting the health of the entire Sect after they had one too many parties with cake involved.
+
+There was an easy way to differentiate between Senior Sister and Physician Jean, and that was by virtue of her attire. Physician Jean always wore luminescent green latex gloves. And the person standing before her was wearing them.
+
+"Did you think I would forget?" Physician Jean said with a steely voice. "I heard from a little bird that your pain has grown more severe. I awaited you at the clinic for a while now, yet you never came. It seems that someone has lost their sense of self-preservation and need to be taught it all over again."
+
+"W-Wait-" was all Shuri could say before Physician Jean disappeared from her place and appeared before her. "Now, sit! Let me inspect you."
 
 ____
 
