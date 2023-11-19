@@ -2,7 +2,7 @@
 id: yp6r9eh5w6u8o7nanjew4j9
 title: Chapter 397 - Write Once, Read Anytime, Delete Never
 desc: ''
-updated: 1700247351308
+updated: 1700418324757
 created: 1700072769943
 ---
 
@@ -26,7 +26,7 @@ It was like a fever dream, as an indecipherable (expect maybe by Shuri herself) 
 
 ____
 
-"Congratulations, it's a healthy Prince-!"
+"Congratulations, ..., it's a healthy Prince-!"
 
 "Y-Yor!".
 

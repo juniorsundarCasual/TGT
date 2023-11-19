@@ -1,8 +1,8 @@
 ---
 id: hwxbq66zgvy1ybgceq1nmt4
-title: Chapter 398
+title: Chapter 398 - First Cries
 desc: ''
-updated: 1700340487271
+updated: 1700418509421
 created: 1700247449167
 ---
 
@@ -78,3 +78,29 @@ And that was when darkness took hold, and all the pain just disappeared.
 
 ____
 
+Pained grunts resonated within the ornate room.
+
+"You must push harder, Your Highness, the child's head is visible," the midwife coaxed while sporting a calm smile. Her hands moved with familiarity, highlighting the many years of experience she had in this field.
+
+But her familiarity and calmness did not mean that she was taking the process easy. Childbirth was never simple, and it was rarely safe. No matter how many you take part in, no two instances of childbirth are identical. The midwife had the experience of birthing twenty-nine babies successfully, with no loss, which was an admirable feat considering the women she was catering to were the coven of slender-hipped and fragile consorts and concubines.
+
+She cursed her luck, actually. Her entire apprenticeship and earlier training occurred in a secluded village a few kilometres West of the Capital. There, she had the privilege of assisting the births for women with actual "birthing hips". Her success rate was phenomenal! It just so happened that one day, a dangerously pregnant Imperial Consort passed by the village and entered labour. The midwife's master ran away the moment whisper of a royal birth started to permeate out of the heavily guarded caravan. She should have done the same, but she was naive back then. She got roped into the birthing against her better judgement, and luckily succeeded in getting the child out in one piece.
+
+That was her first mistake. The Imperial Consort dragged the midwife all the way to the capital. One thing led to another, and she was now the Royal Midwife - one of the most dangerous occupations in the world, with a turnover rate of zero because a mistake most definitely ended with certain death.
+
+Actually, she learned one key fact during her third birthing in the Palace, which would have taken a catastrophic turn if she hadn't made a difficult choice. The life of the baby mattered more than the life of the mother. There was an overabundance of breeding mares in the Palace, so a loss of one wouldn't matter in the grand scheme of things as long as the Emperor's bloodline was propagated without a problem. So, you could sacrifice the mother as long as the child made it out safely. Of course, there were exceptions, such as if the consort was in the Emperor's favour. But if the child was a male, and the midwife could convincingly spin a yarn that concluded that there was no other way, then there was a certain wiggle room.
+
+This fact was also why the midwife could afford to be so calm at this juncture. If the childbirth started to deviate, a swift cut and extraction was a simple solution. Of course, she would have to put on a convincing play so that the Eunuch, the only other person in the room apart from the pregnant mother (and the eyes and ears of the Emperor himself), couldn't cast doubt at her decision. Thankfully, that wouldn't be necessary.
+
+"It's crowning, Your Highness, just another push!" She encouraged.
+
+A tense half an hour later, the first cries of a baby entering the world greeted the room and everyone present within.
+
+"Congratulations, Your Highness, it's a healthy Prince!" The midwife congratulated. Birthing males was always a cause for celebration, primarily because it was always followed by a generous bonus directly into her bank account.
+
+Why was her gaze suddenly falling? Where did all this blood come from? More questions started to crowd her mind within seconds. Questions whose answers wouldn't matter because, her head wasn't attached to her neck any more.
+
+____
+
+**Next**
+* [[volume-5.chapter-398]]
