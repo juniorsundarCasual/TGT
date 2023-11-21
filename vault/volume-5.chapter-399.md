@@ -2,7 +2,7 @@
 id: h1gr3sptcuk4hzu7ntu31vb
 title: Chapter 399
 desc: ''
-updated: 1700510154418
+updated: 1700594390425
 created: 1700418746689
 ---
 
@@ -50,4 +50,10 @@ Each woman who entered the Inner Courtyard was tattooed with a ritual that forba
 
 "Disappointing," the Emperor evoked before turning and leaving just as quickly as he came.
 
-And thus, Shuri entered the world with a purpose. He was supposed to be the instrument of his mother's revenge against his father. To achieve said purpose, he had to live as a she to avoid becoming a valuable target.
+And thus, Shuri entered the world with a purpose. He was supposed to be the instrument of his mother's revenge against his father. To achieve said purpose, he had to live as a she to avoid becoming a valuable target. Shuri had to live a duplicitous life from birth. The duplicity ran so deep that for someone who never forgets it became their new reality - it became Shuri's reality. Internally, she started to identify as how she appeared externally - a girl.
+
+This spawned a conflict inside Shuri. She was a boy through birth - biologically. However, she did not feel comfort in knowing that fact. At night, when she didn't have to wear the pendant that turned her into a female, she still kept it on. She tried it once, but it felt sickening and induced so much anxiety that she couldn't sleep at all.
+
+She was a girl, not a boy. But her body was that of a boy's. Her appearance was all just an illusion.
+
+All of Shuri's sisters, the Princesses, would wear men's clothing and sneak out of the Palace for a fun city trip. But Shuri could never do that. Just the thought of wearing male clothes evoked a heavy sense of discomfort.
