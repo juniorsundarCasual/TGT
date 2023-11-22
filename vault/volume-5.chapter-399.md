@@ -2,7 +2,7 @@
 id: h1gr3sptcuk4hzu7ntu31vb
 title: Chapter 399 - What are You?
 desc: ''
-updated: 1700676311600
+updated: 1700676328559
 created: 1700418746689
 ---
 
@@ -121,4 +121,4 @@ It was at that moment that Shuri realised, she didn't even believe herself!
 ____
 
 **Next**
-* [[volume-5.chapter-398]]
+* [[volume-5.chapter-400]]
