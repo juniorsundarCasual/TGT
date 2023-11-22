@@ -1,8 +1,8 @@
 ---
 id: h1gr3sptcuk4hzu7ntu31vb
-title: Chapter 399
+title: Chapter 399 - What are You?
 desc: ''
-updated: 1700594390425
+updated: 1700676311600
 created: 1700418746689
 ---
 
@@ -56,4 +56,69 @@ This spawned a conflict inside Shuri. She was a boy through birth - biologically
 
 She was a girl, not a boy. But her body was that of a boy's. Her appearance was all just an illusion.
 
-All of Shuri's sisters, the Princesses, would wear men's clothing and sneak out of the Palace for a fun city trip. But Shuri could never do that. Just the thought of wearing male clothes evoked a heavy sense of discomfort.
+All of Shuri's sisters, the Princesses, would wear men's clothing and sneak out of the Palace for a fun city trip. But Shuri could never do that. Just the thought of wearing male clothes evoked a heavy sense of discomfort. In fact, even though Shuri appeared as a girl externally, she could feel male form oozing out from within.
+
+"Why does the enchanted pendant only hide him until he hits the Core Formation realm?" Shuri once heard her mother ask Eunuch Bang.
+
+"It's obvious, Mistress. Once the Young Princess-"
+
+"PRINCE!" Her mother shrieked. "It is just us here, you don't have to hide his identity before me."
+
+"P-Prince," Eunuch Bang corrected. "Once he hits the Core Formation realm, he will no longer need to hide himself. He will be strong enough to contest against most opponents."
+
+"How can you be sure?" Her mother pushed maniacally. "We have to be sure. Shuri cannot die! The plan hinges on it."
+
+"Do not worry, Mistress. I will make sure that she- HE is safe for as long as I am alive," Eunuch Bang assuaged. And he stuck true to his words too.
+
+____
+
+The moment Shuri gained consciousness, an odd sensation assaulted her. She didn't "feel" normal. Heck, she never felt "normal". But at this instant, there was something odd, something wrong.
+
+"What-" the sound that left her lips wasn't hers. It was deeper.
+
+"N-No!" She looked down and noticed that she was in a different gown. And there was a distinct bulge by her crotch that usually didn't exist there. "No!"
+
+While muttering anxiously, Shuri hobbled out of her bed and worked her way towards the only mirror in the room. "No... No..."
+
+As she looked into the mirror and gazed at her reflection, her heart dropped. It was the same face she saw in the still yet swirling vortex of mana. Although she still had the same fiery-red hair and the azure-blue eyes from before she put on her disguise and died her hair, the rest of her face was shaped differently. For all intents and purposes, the form wasn't that of a girl.
+
+"NO!" She yelled in a frenzy. She stumbled back and collapsed onto the chair near the bed. She picked up the wooden cup by the table on the bed-side and tossed it angrily towards the mirror, causing it to shatter into many pieces.
+
+Her hazy mind turned clearer as she remembered something. Her hand floundered around her neck, searching for her pendant. When she didn't find it, she immediately dove into the bed and overturned the pillow and mattress. It wasn't there either. She dipped down and started to look under the bed frame.
+
+"W-Where is it? WHERE IS IT!"
+
+"Are you looking for this?" A voice called out from behind her. Shuri's head jerked back suddenly, and her eyes landed on the extended hand that held the pendant she was looking for. Except, the blood-red gem was no longer intact, as a massive crack had formed causing it to split into two pieces.
+
+"W-What did you do?" Shuri expressed in shock. Her shaking hand reached forward and picked the two pieces out of the extended palm. She then tried to piece the two shards together, holding faint hope that somehow they would just become one.
+
+"It broke when you nearly advanced," the person said. Shuri looked up, following the voice, and was shocked to see the Sect Leader looking down at her with a worried frown.
+
+"Nearly?" Shuri repeated, catching the awkwardly placed word in the explanation.
+
+"You were about to advance into the Core Formation realm. But then you didn't," the Sect Leader repeated.
+
+"B-But why?" Shuri begged. "Why didn't I advance?"
+
+Her mind started to put everything together. If she had advanced into the Core Formation realm, she could finally rid herself of this dastardly body and take on the form that she truly desired. After all, that was the primary draw towards advancing.
+
+"To advance and undergo apotheosis, you need to have a certain idea of who you are. An understanding of the sense of self," the Sect Leader explained. "Your will needs to be certain about it, otherwise your body cannot take on that form. I guess your sense of self wasn't strong enough."
+
+"I don't understand!" Shuri exclaimed with a blatantly confused expression.
+
+"You are a child of the Emperor, and a Prince to top it off," the Sect Leader expressed. "Yet you lived a life where you had to keep both those important facts under lock and key. I guess the lies were so deeply embedded you even believed them well enough to be true. But for someone who fails to forget even the most trivial details, their resurfacing was only an eventuality."
+
+Shuri remained forlorn, unable to digest the facts as they were made evident.
+
+"If you yourself are conflicted about who you really are, how can you expect the world to help you become what you are supposed to be?" The Sect Leader concluded. "I guess you believe that you are a girl. But your body doesn't agree with your psychology. So no matter how hard you try to convince yourself that you are a girl, the back of your mind keeps calling you a liar. You need to be certain, so certain that no matter what anyone says or does it won't share you psychologically. If you believe you are a girl, then noone should be able to concince you otherwise, even yourself."
+
+"So, what are you?" The Sect Leader asked vigorously.
+
+But the response didn't hit with the same intensity, "I'm... a girl."
+
+It was at that moment that Shuri realised, she didn't even believe herself!
+
+____
+
+**Next**
+* [[volume-5.chapter-398]]
