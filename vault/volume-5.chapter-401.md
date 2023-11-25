@@ -2,7 +2,7 @@
 id: uwrio68hcmz572rk46qlg4i
 title: Chapter 401 - Crumbling Reality
 desc: ''
-updated: 1700906708782
+updated: 1700906765096
 created: 1700808268060
 ---
 
@@ -110,7 +110,7 @@ Shuri snorted good-naturedly and placed the place on her lap and started to scoo
 
 "That's very..."
 
-"Low effort? Yeah, I know," Shuri said with a chuckle. "My mother wasn't the brightest firefly of the swarm. I struggle to make sense of how I became so intelligent. I suspect my father's DNA did most of the heavy lifting, but don't tell my mother that unless you want to be on the receiving end of the most childish fit an adult can throw."
+"Low effort? Yeah, I know," Shuri said with a chuckle. "My mother wasn't the brightest firefly of the swarm. I struggle to make sense of how I became so intelligent. I suspect my father's DNA did most of the heavy lifting, but don't tell my mother that unless you want to be on the receiving end of the most childish fit an adult can throw - actually you'll have to explain what DNA is to her first."
 
 "But I don't really blame her, you know," Shuri continued. "That's a lie, I blame her a lot. But nowadays I've had the opportunity to think a lot about my past. And I've realised that she's only done the best she could with the cards she's been dealt, just like I have. Her whole life was taken from her and in the span of a day, she was turned from the carefree Young Mistress of a rather powerful clan to a caged-bird whose only purpose in life was to birth offspring for a man, like a brood mare. Compared to that, how easy has my life been?"
 
