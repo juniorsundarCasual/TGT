@@ -1,8 +1,8 @@
 ---
 id: atbmajglkfq5x8us70djeog
-title: Chapter 403
+title: Chapter 403 - End of the World
 desc: ''
-updated: 1701287096029
+updated: 1701371085194
 created: 1701198671229
 ---
 
@@ -92,41 +92,51 @@ Guy nodded, but Wei Zao simple said, "Wasn't it just a gift of a second life?"
 
 "That's easy for you to say. I've literally been pulled into what feels like a plot way above my paygrade and I don't even understand a nineth of what is being said," Wei Zao complained.
 
-[I believe a visual display will be of assistance here,] Tron stated before the void gained dimensionality and stars started to dot the scene.
+[I believe a visual display will be of assistance here,] Tron stated before the void gained dimensionality and stars started to dot the scene. The surroundings turned into the vast emptiness of space, serene yet suffocating.
 
+All of a sudden, the scene started to warp and the dotted stars started to blur as though they were entering lightspeed.
 
+[The inhabitants of my previous world made it quite far in terms of understanding the rules I set in building it,] Trons voice echoed all around them. [The races had all set for the stars, and were able to travel between planets nigh-instantaneously through warp travel.]
 
-OC calls everyone to attention and raises the point that he was aware of their existence in his world.
+Guy found himself hurled out of lightspeed and deposited before a chaotic scene.
 
-He then tells of the end his previous world faced displaying a glimpse of the years the preceded the complete annihalation.
+Into the distance, he saw a supermassive black hole tearing through the fabric of reality. And from within that tear, extended thick tentacles of green, red, pink and purple. The green tentacles were slimy, the red with thorny, the pink were veiny, and the purple were luminescent. These tentacles extended far and wide, embedding themselves deep into the planets all around the black hole. On these impaled planets walked nonsensical creatures of green, red, pink and purple.
 
-- space faring world with lots of mechs and lucrehulk-class battleships with posthumans, aliens and whatnot
-- invading force is warp entity similar to how it is in W40k
+His attention was zoomed outwards, and Guy realised that this was not the only occurence as there was a similar scene occuring in every other galaxy in this universe. What also caught his attention was the large wars and battles were constantly being faught in these contested planets. The world was literally in the verge of destruction.
 
-Guy points out the simliarity to that IP, OC says that probabilistically, every dream a person has ever had exists out there in the infinite tapestry of worlds.
+[My world was invaded through these natural tears in spacetime that are commonplace in every world,] Tron explained. [Black holes, as they are called, are necessary puzzle pieces in every stable world. But they are also a source of vulnerability. The invader used this vulnerability and planted a seed in them. Every vibrant soul that died in vicinity of these tears was sucked into them instead of being routed through me. When enough souls accumulated in the tears, it then formed sentient amalgam entities. Over time, four entities became most prominent and managed to extend their influence outside the tear in spacetime through the same way you managed to enter my new world, possession. They enticed native creatures of my world to lower their guard and took control. Little by little they invaded society and wreaked havoc. The worst part is that any entity killed by a spawn or possession from the tear in spacetime gets routed back into the tear and to the invader.]
 
-OC talks about how the invader is a parasite. He is known to have destroyed over ten worlds, which is a lot.
+"What about this world?" Guy asked.
 
-All OC knows is that the nature of the attack is never similar in theme, but the process is common. To slowly pull the entities originally in the source world into the parasite world and having them die there so that their souls gets pulled out of circulation. This way the source world will become exhausted of world energy.
+[I have taken precautions. The spacetime tears of this world are more... reinforced. In fact, most supermassive tears are inhabited by a creature of the void of my own design,] Tron explained.
 
-He then says that his world will soon succumb even though he is trying his best to stop the invasion. The other wisps say that once that happens their world will follow.
+"That's guided creation, right? I thought world creators were all about nudging development in a positive direction, and not about taking full control of it?" Guy probed.
 
-Wei Zao bursts out saying that they will beat them.
+[It took a lot of effort from my side to make it happen. But I deemed it necessary. I don't want a repeat of my previous world, of course,] Tron answered matter-of-factly.
 
-OC says that it is impossible. He is fighting against a world not another entity, and that hubris will be his downfall.
+"This creature of the void," Wei Zao cut in. "What do they look like?"
 
-He then says that he is willing to entertain the experiment going on. Since although the world is doomed to death, a fraction of a fraction of a probability exists that the world can be saved with their intervention. He says they can go on doing all they want knowing what exists at the finish line.
+[They look like madness,] Tron answered curtly.
 
-He then warns them that the invasion can occur at any time, tomorrow or even centuries later, as time is not a state of existence for World Creators.
+"What does madness look like?" Wei Zao continued.
 
-Wei Zao proposes an alliance with Guy, saying that he is aware of Guy's presence at the True World Sect.
+[Madness looks like madness,] Tron reiterated.
 
-Guy responds likewise saying that he knows of Teacher Jo Way, and that they used to be acquaintances at the Radiant Academy, causing Wei Zao to sputter in shock.
+"It feels like you don't understand the question-"
 
-Guy takes a moment to ponder and then recognises that an alliance would be suitable.
+{Just shut up and listen!} Moni reprimanded.
 
-The duo are then ejected back into their bodies.
+[What you are observing is the world getting sucked dry of all vibrance,] Tron stated, and the scene started to fast-forward. Planets were getting dessicated while the tentacles extended further outwards, growing to a point of engulfing galaxies in their whole. Creatures kept dying and more and more nonsense entities of green, red, pink and purple started to populate the world.
 
-Guy looks up and sees a world tear hitting the woods.
+[At this point, the entire world is the parasite's,] Tron stated. [Since they don't have a world of their own to sustain them, they will bleed this world for all that it is worth and then move on. And because my second world is searchable by tracking down my signature, it is only an eventuality for my new world to be on the parasite's crosshairs].
 
-Grace exclaims that the kids are there.
+[In fact, there is nothing that can stop the invader form finding and attacked my world. I can build protections and countermeasures, but seeing how effectively he dismantled my first struggle, it is clear that the attacked is far more experienced and stronger than I. This world is going to succumb too-]
+
+(And if it does, mine and Moni's world will too. We borrowed a lot from Tron here when building our world. Because of that, the IS a route that will lead right to our worlds.)
+
+{When that happens,} Moni interjected. {That is when everyone will be screwed royally.}"
+
+____
+
+**Next**
+* [[volume-6.chapter-404]]
