@@ -2,7 +2,7 @@
 id: atbmajglkfq5x8us70djeog
 title: Chapter 403 - End of the World
 desc: ''
-updated: 1701420800695
+updated: 1701460409664
 created: 1701198671229
 ---
 
@@ -110,7 +110,7 @@ His attention was zoomed outwards, and Guy realised that this was not the only o
 
 [I have taken precautions. The spacetime tears of this world are more... reinforced. In fact, most supermassive tears are inhabited by a creature of the void of my own design,] Tron explained.
 
-"That's guided creation, right? I thought world creators were all about nudging development in a positive direction, and not about taking full control of it?" Guy probed.
+"That's guided creation, right? I thought world builders were all about nudging development in a positive direction, and not about taking full control of it?" Guy probed.
 
 [It took a lot of effort from my side to make it happen. But I deemed it necessary. I don't want a repeat of my previous world, of course,] Tron answered matter-of-factly.
 
