@@ -2,7 +2,7 @@
 id: atbmajglkfq5x8us70djeog
 title: Chapter 403 - End of the World
 desc: ''
-updated: 1701371085194
+updated: 1701420800695
 created: 1701198671229
 ---
 
@@ -114,7 +114,7 @@ His attention was zoomed outwards, and Guy realised that this was not the only o
 
 [It took a lot of effort from my side to make it happen. But I deemed it necessary. I don't want a repeat of my previous world, of course,] Tron answered matter-of-factly.
 
-"This creature of the void," Wei Zao cut in. "What do they look like?"
+"These creatures of the void," Wei Zao cut in. "What do they look like?"
 
 [They look like madness,] Tron answered curtly.
 
@@ -126,15 +126,15 @@ His attention was zoomed outwards, and Guy realised that this was not the only o
 
 {Just shut up and listen!} Moni reprimanded.
 
-[What you are observing is the world getting sucked dry of all vibrance,] Tron stated, and the scene started to fast-forward. Planets were getting dessicated while the tentacles extended further outwards, growing to a point of engulfing galaxies in their whole. Creatures kept dying and more and more nonsense entities of green, red, pink and purple started to populate the world.
+[What you are observing in this visual is the world getting sucked dry of all vibrance,] Tron stated, and the scene started to fast-forward. Planets were getting dessicated while the tentacles extended further outwards, growing to a point of engulfing galaxies in their whole. Creatures kept dying and more and more nonsense entities of green, red, pink and purple started to populate the world.
 
 [At this point, the entire world is the parasite's,] Tron stated. [Since they don't have a world of their own to sustain them, they will bleed this world for all that it is worth and then move on. And because my second world is searchable by tracking down my signature, it is only an eventuality for my new world to be on the parasite's crosshairs].
 
-[In fact, there is nothing that can stop the invader form finding and attacked my world. I can build protections and countermeasures, but seeing how effectively he dismantled my first struggle, it is clear that the attacked is far more experienced and stronger than I. This world is going to succumb too-]
+[In fact, there is nothing that can stop the invader from finding and attacked my world. I can build protections and countermeasures, but seeing how effectively he dismantled my first struggle, it is clear that the attacker is far more experienced and stronger than I. This world is going to succumb too-]
 
-(And if it does, mine and Moni's world will too. We borrowed a lot from Tron here when building our world. Because of that, the IS a route that will lead right to our worlds.)
+(And when it does, mine and Moni's world will soon follow. We borrowed a lot from Tron when building our worlds. Because of that, there is a route that exists that leads right to our worlds.)
 
-{When that happens,} Moni interjected. {That is when everyone will be screwed royally.}"
+{And we aren't so experienced so as to put up a fight against the attacker like Tron. If the parasite hits us, we will give up immediately,} Moni interjected. {The fate of this world and your original worlds hangs in the balance.}
 
 ____
 

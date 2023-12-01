@@ -2,17 +2,17 @@
 id: 5m0nsq04g13epijaxz3dfaj
 title: Chapter 391 - A Favourable Favour
 desc: ''
-updated: 1697975658449
+updated: 1701421266497
 created: 1697903633287
 ---
 
-Rianna carried the unconcious girl to the infirmary hastily. She was followed by her partner, who was displaying a concerned sulk in place of his usual stoicism. They were also chased by the other girl, who they had outpaced a few seconds ago. Rianna's gaze landed on the little girl's swollen right arm. A quick |Inspect| with her mana sense confirmed that the bones between her wrist and elbow, the ulna and the radius, had snapped thoroughly. As immediate first-aid, Rianna had attached a splint in place to reduce the movement in the affected area. Luckily, the girl lost consciousness upon falling to the ground. She most definitely suffered a concussion, but the unconsciousness would mask the pain the girl should be experiencing right now.
+Rianna carried the unconscious girl to the infirmary hastily. She was followed by her partner, who was displaying a concerned sulk in place of his usual stoicism. They were also chased by the other girl, whom they had outpaced a few seconds ago. Rianna's gaze landed on the little girl's swollen right arm. A quick |Inspect| with her mana sense confirmed that the bones between her wrist and elbow, the ulna and the radius, had snapped thoroughly. As immediate first-aid, Rianna had attached a splint in place to reduce the movement in the affected area. Luckily, the girl lost consciousness upon falling to the ground. She most definitely suffered a concussion, but the unconsciousness would mask the pain the girl should be experiencing right now.
 
 Marie had given Rianna and Shay-Hade an initial tour of the Sect, which was why the duo knew the location of the infirmary. Rianna only hoped that whichever physician worked there had the knowledge to treat such fractures.
 
 "Help!" Rianna exclaimed as she burst through the door. "There's an emergency!"
 
-As she pushed into the infirmary, the first thing Rianna observed was that it was unlike the one back at the Mystic Celestial Sect. First off, it was extremely clean and very quiet. Of course, once can't expect extreme cleanliness and tranquility in a Sect that specialises in fighting.
+As she pushed into the infirmary, the first thing Rianna observed was that it was unlike the one back at the Mystic Celestial Sect. First off, it was extremely clean and very quiet. Of course, one can't expect extreme cleanliness and tranquillity in a Sect that specialises in fighting.
 
 "Please," a girl called out lazily. "No ruckus in the clinic, it will disturb the patients."
 
@@ -22,7 +22,7 @@ Shay-Hade looked around confusedly and said, "There's no one else here."
 
 "But there aren't," Shay-Hade insisted.
 
-"Would you eat where you shit?" The girl asked offhandedly while inspecting Kili, who was now laying on the bed.
+"Would you eat where you shit?" The girl asked offhandedly while inspecting Kili, who was now lying on the bed.
 
 "What? No!"
 
@@ -30,9 +30,9 @@ Shay-Hade looked around confusedly and said, "There's no one else here."
 
 "Still... It's- It's not the place to eat," Shay-Hade murmured.
 
-"Even if the library is empty, you maintain silence. It is a matter of principle. You respect the ambience for the purpose the location is built for. The clinic is meant to help those unwell to recuperate. Even if it is empty, we need to respect the sanctity of the establishment," the girl lectured.
+"You see, even if the library is empty you maintain silence. It is a matter of principle. You respect the ambience for the purpose the location is built for. The clinic is meant to help those unwell to recuperate. Even if it is empty, we need to respect the sanctity of the establishment," the girl lectured.
 
-"It's a pretty bad one," Rianna cut in, gesturing at Kili's arm, which was now being removed form the splint. "How do you intend to treat it?"
+"It's a pretty bad one," Rianna cut in, gesturing at Kili's arm, which was now being removed from the splint. "How do you intend to treat it?"
 
 The girl looked up and examined Rianna and Shay-Hade critically.
 
@@ -56,7 +56,7 @@ Rianna ignored the girl's urging and plopped down on a chair.
 
 "I-"
 
-Just then, the trio all heard faint, childing mumbling originating from the bed behind them. Looking over, they saw Killi squirming and regaining consciousness.
+Just then, the trio all heard faint, childish mumbling originating from the bed behind them. Looking over, they saw Killi squirming and regaining consciousness.
 
 "Uhm..." Kili groaned. "Where- Oh! I'm at the clinic... Hey, Big Sis!" Kili greeted as she sat up on her bed. She then enthusiastically waved with her right hand. "Where's Dora?"
 
@@ -70,13 +70,13 @@ The other girl quickly got between Kili and them and said forcefully, "Please le
 
 Rianna's eyes darted around erratically as her mind started to process the information, "It has to be her body, then. Her physique or bloodline... But she's just a child with barely a trace of cultivation inside her, so it must have activated prematurely..."
 
-She then walked over to Kili and started to inspect the bone, "Completely fixed. And the recovery is seamless; its almost like there was no fracture to begin with!"
+She then walked over to Kili and started to inspect the bone, "Completely fixed. And the recovery is seamless; it's almost like there was no fracture to begin with!"
 
 Her eyes locked on to the other girl and Rianna quickly covered the distance between them. With her face barely a centimetre away, she interrogated, "The child, is it her bloodline or physique?"
 
-"I'm afraid I don't know what you're talking about," the girl stuttered while avoiding eye-contact.
+"I'm afraid I don't know what you're talking about," the girl stuttered while avoiding eye contact.
 
-"It's probably something big," Shay-Hade said. "You can't get it out of her."
+"It's probably something big," Shay-Hade said to Rianna. "You can't get it out of her."
 
 "You're right," Rianna affirmed.
 
@@ -86,7 +86,7 @@ As Rianna turned to leave, the girl quickly blocked their paths and challenged. 
 
 "Where are you going!" The girl yelled as Rianna and Shay-Hade both left the clinic in a hurry. Rianna recollected the schematic of the Sect as described in Marie's initial tour and beelined towards the Sect Leader's office.
 
-Upon arriving, she knocked at the door and entered after confirming that there was only the man inside. Her first impression of the Sect Leader of the True WOrld Sect was, 'Unimpressive.'
+Upon arriving, she knocked at the door and entered after confirming that there was only the man inside. Her first impression of the Sect Leader of the True World Sect was, 'Unimpressive.'
 
 Apart from his chiselled and handsome appearance, he did not exude an aura of someone powerful.
 
@@ -100,9 +100,9 @@ The man's expression turned serious, "I believe a bit more respect is afforded t
 
 "That is for me to decide, isn't it?" The Sect Leader commented while resting his chin on his arms propped on top of his desk.
 
-"It is about the girl named Kili," Rianna pointed out. "She is too young to be registered with the Sect, which means that she lives here with her guardian. We have reason to believe that she has a unique physique or bloodline that gives her an unparallelled recovery capacity. As this feature is already activated without her having to walk the path of cultivation, it puts her in a favourable position to begin practising a rather powerful cultivation method envisioned by our Mystic Celestial Sect's Leader."
+"It is about the girl named Kili," Rianna pointed out. "She is too young to be registered with the Sect, which means that she lives here with her guardian. We have reason to believe that she has a unique physique or bloodline that gives her an unparalleled recovery capacity. As this feature is already activated without her having to walk the path of cultivation, it puts her in a favourable position to begin practising a rather powerful cultivation method envisioned by our Mystic Celestial Sect's Leader."
 
-Rianna observed the man's expression, hoping to see some glint or excitement at her revelation. But was miffed to see none of that sort flashing accross his thoroughly unimpressed, borderline annoyed, face.
+Rianna observed the man's expression, hoping to see some glint or excitement at her revelation. But was miffed to see none of that sort flashing across his thoroughly unimpressed, borderline annoyed, face.
 
 She coughed and then continued, "We would like to recruit the girl and train her. We believe her future is limitless and with the proper guidance she can be the youngest Tesseract Transformation realm mage, ever."
 
@@ -114,7 +114,7 @@ She coughed and then continued, "We would like to recruit the girl and train her
 
 "I hope you realise that you are denying Kili a prosperous future," Rianna said with a faintly threatening tone. "What would she say when she learns about the opportunity she missed due to your ill-informed decision."
 
-"I don't see it that way. I see your proposition as a gamble, which I am not confident enough to take. When Kili is old enough she will realise the reason for my behaviour," the Sect Leader said adamantly. "Besides, even if I did want her to be under you the authoriy isn't mine. Her guardian is someone else altogether."
+"I don't see it that way. I see your proposition as a gamble, which I am not confident enough to take. When Kili is old enough she will realise the reason for my behaviour," the Sect Leader said adamantly. "Besides, even if I did want her to be under you the authority isn't mine. Her guardian is someone else altogether."
 
 "Who-" Rianna blurted out, but was interrupted as the door swung open and a familiar girl walked in with an infuriated frown on her face.
 
