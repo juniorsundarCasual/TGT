@@ -2,9 +2,19 @@
 id: q08v7xlng9pz9mogijd6251
 title: Chapter 404
 desc: ''
-updated: 1701370487239
+updated: 1701423274941
 created: 1701370481164
 ---
+
+Guy digested this startling revelation slowly. Although he knew that the underlying purpose for his transmigration was to help elevate this world and eventually give it a fighting chance against an enigmatic invader, he did not realise the magnitude of the entity he was supposed to put up a fight against. These were creatures capable of decimating universes in their entirety. What was one man like him supposed to do to combat that?
+
+It appeared as though Wei Zao was holding the same thought and said, "How am I supposed to defeat this... THING?!"
+
+[You cannot,] Tron declared. [The probabilities are completely against you. I have run over 1,000,000,000,000 simulations and in 999,999,999,999 of them you lose.]
+
+"So there is 1?" Guy intercepted.
+
+[Nothing is truly impossible. That is one of the laws of every stable world. To account for the random chance of something outside standard happening we have to leave that singular instance untouched. It is purely a ceremonial victory. I cannot tell you the exact steps you need to take in order to achieve that victory,] Tron responded.
 
 
 
