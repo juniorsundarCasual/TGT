@@ -1,8 +1,8 @@
 ---
 id: q08v7xlng9pz9mogijd6251
-title: Chapter 404
+title: Chapter 404 - Two Worlds Collide (From the Inside)
 desc: ''
-updated: 1701460811675
+updated: 1701520064506
 created: 1701370481164
 ---
 
@@ -38,34 +38,97 @@ Wei Zao suddenly squatted and started to breath heavily, his eyes bursting out o
 
 "Wait, what?! Are you going to kill me?"
 
-{You were already dead,} Moni corrected. {Think of it like moving memory out of storage and into a buffer. I'm now just applying everything in the buffer.}
+{You were already dead,} Moni corrected. {Think of it like moving memory out of storage and into a buffer. I'm now just emptying everything in the buffer.}
 
-"Regardless of how you sugar-coat it, the 
+"T-This is not fair!"
 
-Guy points out the simliarity to that IP, OC says that probabilistically, every dream a person has ever had exists out there in the infinite tapestry of worlds.
+"No, it is," Guy cut Wei Zao off. "Neither you nor I are anyone special. Unless you literally cured world poverty in your past life, neither one of us is special enough to warrant a second chance. We got lucky. And the luck was on borrowed time."
 
-OC talks about how the invader is a parasite. He is known to have destroyed over ten worlds, which is a lot.
+(Would you like to leave? Call it quits?)
 
-All OC knows is that the nature of the attack is never similar in theme, but the process is common. To slowly pull the entities originally in the source world into the parasite world and having them die there so that their souls gets pulled out of circulation. This way the source world will become exhausted of world energy.
+"No," Guy declared with an assertive expression. "There are a lot of people in this world that I have left to live for. Even if its just waiting it out till the end of days. I can't just abandon them."
 
-He then says that his world will soon succumb even though he is trying his best to stop the invasion. The other wisps say that once that happens their world will follow.
+[Do what you wish. This world is doomed anyways,] Tron explained.
 
-Wei Zao bursts out saying that they will beat them.
+"Can I now reveal my past and the potential dangers accross the horizon to others?" Guy probed.
 
-OC says that it is impossible. He is fighting against a world not another entity, and that hubris will be his downfall.
+[As I said,] Tron repeated. [Do as you wish. I have prepared everything I can from my side.]
 
-He then says that he is willing to entertain the experiment going on. Since although the world is doomed to death, a fraction of a fraction of a probability exists that the world can be saved with their intervention. He says they can go on doing all they want knowing what exists at the finish line.
+And with that, the large wisp disappeared.
 
-He then warns them that the invasion can occur at any time, tomorrow or even centuries later, as time is not a state of existence for World Builders.
+"It seems that your friend is dabbling with nihilism," Guy mumbled to Mast.
 
-Wei Zao proposes an alliance with Guy, saying that he is aware of Guy's presence at the True World Sect.
+(All world builders are nihilists in the end. We don't live so we have nothing to live FOR,) Mast responded. (Tron has accepted his imminent demise. I strongly urge you two to do the same.)
 
-Guy responds likewise saying that he knows of Teacher Jo Way, and that they used to be acquaintances at the Radiant Academy, causing Wei Zao to sputter in shock.
+"I didn't think you would have such a negative point of view while still trying to help out?" Guy countered. "Didn't you bring us here hoping to make some difference?"
 
-Guy takes a moment to ponder and then recognises that an alliance would be suitable.
+(Hope... Sure, I guess you can say that. I was hopeful, but I am also realistic.)
 
-The duo are then ejected back into their bodies.
+"So what else have you been hiding from me, huh?!" Wei Zao bellowed interrogatively to the pink wisp. "How come he gets such an interactive sys- whatever you are?"
 
-Guy looks up and sees a world tear hitting the woods.
+{I wasn't really interested in this experiment. It was Mast's idea,} Moni admitted. {He was the one who did the analysis and research before picking Guy over there. You, on the other hand, were just a random pick from my side. You don't matter to me, at all.}
 
-Grace exclaims that the kids are there.
+Those words did a number of Wei Zao as he collapsed into the ground. It was painful to know that what you thought was special was just a fluke. Existential dread and panic attacks both inflicted him at the same time.
+
+Guy ignored the broken man for a minute and addressed Mast and Moni, "I'd like to help. I'd like to do everything in my power to protect the world. But I will need your help and some contribution."
+
+(We cannot power you up without destabilising the world. You have to make do with all the resources available naturally and what has been assigned to you.)
+
+"I figured that much. But I need information," Guy responded. "Everything there is to know about the attacker and how the previous world fared. A granular log of everything, that's what I need."
+
+{That will be a lot of information,} Moni cautioned. {I don't think you can handle that influx.}
+
+"Make it in book form. Mast can add it to the Church of the True World. I will sort through it in my own time," Guy explained.
+
+The two wisps pulse for a while before Mast said, (I will get it done. In the meantime, I will leave the two of you to discuss it out. You will be ejected from this place in exactly five minutes.) And then, the wisps disappeared, leaving Guy and Wei Zao alone in the void.
+
+"I... I know that its alot-" Guy started, but was interrupted by Wei Zao who spoke up with a blank tone.
+
+"We've met before. Guy Larks. I remember. We were teaching apprentices together," Wei Zao explained. "When did you come to this world?"
+
+"Around the same time as you," Guy answered.
+
+"Did you know that I..." Wei Zao mumbled the final word, but the question was obvious.
+
+"I did," Guy said.
+
+"And you didn't think it necessary to tell me?" Wei Zao said with a hurt expression. "You didn't think it was important to let me know that I wasn't alone here?"
+
+Guy looked at the man without a ripple on his face. He had no answer to that question.
+
+"You could have at least told me that it was all an illusion," Wei Zao groaned. "That all of it was just temporary."
+
+"I thought you knew..." Guy answered apologetically. "I wasn't aware that you were being kept in the dark like this."
+
+"Yeah... Well... I wasn't as lucky as I thought I was," Wei Zao said before standing up. "I thought that maybe this new opportunity would let me reinvent myself, give me the chance to become someone different - better, in my own perspective. Its clear that it did not. Beneath all that bravado, I am still the very same cowardly man who blamed his environment for his own failings."
+
+"You see, I used to be a librarian before I died," Wei Zao admitted. "But I barely remember a single book I read that was from the library. I constantly drowned myself in trash novels online written by other jaded individuals like I - I was content living in an echo chamber. And after coming here, I did the same. I indulged myself in the garbage that was going on around me, and my so-called system just helped aggravate that behaviour. People don't change."
+
+He then pointed at Guy and said, "But you, you are different. This revelation didn't break you down. You still believe that there is a fighting chance. And I know for a fact that you brought over a lot of knowledge from your past life to this world. Verum Trading Company, the True World Sect... I've been following your steps closely, though I failed to locate you."
+
+"I'll be honest. I didn't reveal myself to you because I was afraid of what you would do," Guy revealed. "You were placed here with a much stronger starting hand. I could not risk my life by fraternising with you. I did not want to get swept away in the waves that you were making."
+
+"That's understandable. Nowadays, I think a lot about how I used to behave - about some of my impulsive actions," Wei Zao said with a chuckle. "You know, you can only complain about the world being unfair for so long, before you realise that maybe you are the problem all along. I've had to fight off SO. MANY. ENEMIES. It became exhausting. I defeat one, and three others sprout from the debris through some faint or nonsensical connection. I thought I was different from those idiotic characters from the trash novel I used to talk shit about in my past life. But evidently... I am not."
+
+He then looked straight into Guy's eyes and said, "Guy Larks. I need your help. I like this new life of mine. I don't want it to end. I am useless against it, I can admit that much. I, personally, give up. But you haven't, and I admire that. So, I am deciding to place all my chips on you."
+
+"What-"
+
+"From this point on, till the invasion either destroys all of us or disappears altogether, I am yours to command and use in any way you deem fit," Wei Zao declared.
+
+"You're placing a lot of trust in me," Guy said with a bitter smile. "We've only just me."
+
+"I know. But what other option do I have?" Wei Zao said with an unburdened laugh. And suddenly, he disappeared. It seemed as though the time had elapsed.
+
+Guy felt himself getting sucked though a chute again, and he finally found himself back in his body. He barely had enough time to collect himself before a voice nudged him out.
+
+"What is that?!" Grace yelled from his side as she pointed towards the sky. A tear had formed, revealing the same void Guy had just left. And like a lightning strike, it descended onto the earth somewhere in the forest nearby.
+
+"T-The children!" Grace mumbled in shock. "G-GUY! Dora, Kano and Kili! T-They-"
+
+Guy didn't need another word of explanation, as his feet burst forward through pure instinct.
+
+____
+
+**Next**
+* [[volume-6.chapter-405]]
