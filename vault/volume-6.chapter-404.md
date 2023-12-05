@@ -2,7 +2,7 @@
 id: q08v7xlng9pz9mogijd6251
 title: Chapter 404 - Two Worlds Collide (From the Inside)
 desc: ''
-updated: 1701520064506
+updated: 1701600421217
 created: 1701370481164
 ---
 
@@ -12,7 +12,7 @@ It appeared as though Wei Zao was holding the same thought and said, "How am I s
 
 [You cannot,] Tron declared. [The probabilities are completely against you. I have run over 1,000,000,000,000 simulations and in 999,999,999,999 of them you lose.]
 
-"So there is 1?" Guy intercepted.
+"So there is one?" Guy intercepted.
 
 [Nothing is truly impossible. That is one of the laws of every stable world. To account for the random chance of something outside standard happening we have to leave that singular instance untouched. It is purely a ceremonial victory. I cannot tell you the exact steps you need to take in order to achieve that victory,] Tron responded.
 

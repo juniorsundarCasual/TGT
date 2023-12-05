@@ -2,7 +2,7 @@
 id: atbmajglkfq5x8us70djeog
 title: Chapter 403 - End of the World
 desc: ''
-updated: 1701460409664
+updated: 1701600266026
 created: 1701198671229
 ---
 
@@ -100,9 +100,19 @@ All of a sudden, the scene started to warp and the dotted stars started to blur 
 
 Guy found himself hurled out of lightspeed and deposited before a chaotic scene.
 
-Into the distance, he saw a supermassive black hole tearing through the fabric of reality. And from within that tear, extended thick tentacles of green, red, pink and purple. The green tentacles were slimy, the red with thorny, the pink were veiny, and the purple were luminescent. These tentacles extended far and wide, embedding themselves deep into the planets all around the black hole. On these impaled planets walked nonsensical creatures of green, red, pink and purple.
+As Guy gazed into the vast cosmic expanse, a sense of impending doom gripped him with a vice-like intensity. The supermassive black hole, an ominous gateway to cosmic chaos, loomed threateningly, its gravitational pull distorting the very fabric of reality. The danger emanating from this celestial aberration was beyond comprehension.
 
-His attention was zoomed outwards, and Guy realised that this was not the only occurence as there was a similar scene occuring in every other galaxy in this universe. What also caught his attention was the large wars and battles were constantly being faught in these contested planets. The world was literally in the verge of destruction.
+From the heart of this cosmic maelstrom emerged tentacles, grotesque appendages that defied the laws of reality. These were no ordinary tentacles; they were a kaleidoscope of menace. Slimy green tendrils slithered with an unsettling viscosity, leaving a trail of corrosive residue in their wake. Their touch could dissolve matter into an unrecognizable, gelatinous mass, a testament to the insidious threat they posed.
+
+Contrastingly, the red tentacles were adorned with thorns sharp enough to pierce the toughest cosmic armor. Each thorn dripped with a toxic venom, injecting a lethal concoction that brought immediate agony to anything it touched. The very sight of these crimson spikes hinted at the relentless, predatory nature of the cosmic horror unfolding before Guy's eyes.
+
+Veiny and pulsating, the pink tentacles seemed almost organic, as if they were the arteries of some monstrous cosmic entity. They constricted planets with an unholy grip, draining the life force from their cores. The very essence of these celestial bodies was being siphoned away, leaving behind desolate landscapes and barren wastelands where vibrant ecosystems once thrived.
+
+In stark contrast, the luminescent purple tentacles glowed with an eerie radiance, casting an otherworldly glow on the scenes of destruction. Their incandescent beauty belied their true nature – conduits of devastating energy that could unleash cosmic forces capable of obliterating entire galaxies. The luminescence served as a haunting reminder that even amidst the celestial horror, there was a twisted allure that mesmerized onlookers while sealing their fate.
+
+As Guy's awareness expanded, he realized the magnitude of the cosmic crisis. Across every galaxy, a symphony of destruction played out, echoing the relentless battles fought on the besieged planets. It was a universe on the brink, teetering on the edge of annihilation as cosmic forces clashed in a desperate struggle for survival. The heavens themselves bore witness to a cosmic battlefield, a theater of war where the forces of entropy clashed with the remnants of cosmic order.
+
+The world, or rather the entire cosmos, stood at the precipice of obliteration, and Guy was left to grapple with the enormity of the threat that now encompassed all of existence. The fabric of reality was unraveling, and the impending doom seemed inevitable, casting a shadow that stretched across the cosmic tapestry.
 
 [My world was invaded through these natural tears in spacetime that are commonplace in every world,] Tron explained. [Black holes, as they are called, are necessary puzzle pieces in every stable world. But they are also a source of vulnerability. The invader used this vulnerability and planted a seed in them. Every vibrant soul that died in vicinity of these tears was sucked into them instead of being routed through me. When enough souls accumulated in the tears, it then formed sentient amalgam entities. Over time, four entities became most prominent and managed to extend their influence outside the tear in spacetime through the same way you managed to enter my new world, possession. They enticed native creatures of my world to lower their guard and took control. Little by little they invaded society and wreaked havoc. The worst part is that any entity killed by a spawn or possession from the tear in spacetime gets routed back into the tear and to the invader.]
 
@@ -126,7 +136,19 @@ His attention was zoomed outwards, and Guy realised that this was not the only o
 
 {Just shut up and listen!} Moni reprimanded.
 
-[What you are observing in this visual is the world getting sucked dry of all vibrance,] Tron stated, and the scene started to fast-forward. Planets were getting dessicated while the tentacles extended further outwards, growing to a point of engulfing galaxies in their whole. Creatures kept dying and more and more nonsense entities of green, red, pink and purple started to populate the world.
+[What you are observing in this visual is the world getting sucked dry of all vibrance,] Tron stated, and the scene started to fast-forward. The desolation that played out was a nightmarish symphony of entropy, a relentless march towards the annihilation of vibrancy and life itself.
+
+The world, once vibrant and teeming with vitality, was now a desolate wasteland. The fast-forwarded scenes depicted planets being ruthlessly drained of their life force, a cosmic vampirism that left nothing but arid landscapes and barren expanses. The very essence of existence was being mercilessly sucked dry, leaving behind a haunting tableau of cosmic decay.
+
+The tentacles, once mere extensions of the cosmic horror, now grew with insatiable hunger. They reached outwards, extending their suffocating grip across the celestial canvas, their tendrils growing thicker and more pervasive. What started as a localized threat had metamorphosed into a cosmic plague, engulfing entire galaxies in an ever-expanding abyss of despair.
+
+As the planets were dessicated, the once-thriving ecosystems collapsed into nothingness. Creatures, unable to withstand the relentless drain on their life force, succumbed to the inexorable pull of the tentacles. The scenes were a harrowing testament to the unyielding cruelty of the cosmic forces at play.
+
+The influx of nonsensical entities continued unabated. Green, red, pink, and purple beings of pure chaos proliferated, their very existence defying logic and reason. The absurdity of their forms mirrored the chaos that had gripped the cosmos. These entities, devoid of purpose or meaning, populated the desolate realms, further exacerbating the surreal nightmare that unfolded.
+
+As the fast-forwarded narrative progressed, the once-lively galaxies became mere shadows of their former selves. The cosmic tapestry, once painted with the hues of vibrant nebulae and swirling stardust, was now tainted by the encroaching darkness of the insatiable tentacles. The visual tableau was a manifestation of cosmic entropy, a relentless march towards the void where all meaning and vibrancy ceased to exist.
+
+Tron's declaration hung heavily in the air, resonating with the gravity of the unfolding cosmic tragedy. The world, once a bastion of life and vibrance, was now a desiccated husk, consumed by an unfathomable force that cared not for the beauty it obliterated. The relentless progression of the scene echoed the inevitability of cosmic decay, a dire fate from which there seemed to be no escape.
 
 [At this point, the entire world is the parasite's,] Tron stated. [Since they don't have a world of their own to sustain them, they will bleed this world for all that it is worth and then move on. And because my second world is searchable by tracking down my signature, it is only an eventuality for my new world to be on the parasite's crosshairs].
 
