@@ -1,8 +1,8 @@
 ---
 id: 8uct65roo2vtc1hcog5dbtr
-title: Chapter 405
+title: Chapter 405 - Manufacturing Fate
 desc: ''
-updated: 1701803430839
+updated: 1701890033710
 created: 1701597170976
 ---
 
@@ -90,10 +90,27 @@ Most of the Sect Members present heaved loudly and violently upon witnessing the
 
 "What are these creatures?" Elder Nara probed further.
 
-"Very soon, this world will be attacked in a way similar to the one I showed you just now. Another world will collapse upon this one, bring something akin to the madness you just witnessed earlier. It has already started, you see!" Guy expressed animatedly. His actions and behaviour started to grow wilder and evocative. "The end of the world is nigh!" He exclaimed. "And we need to be prepared!"
+"Very soon, this world will be attacked in a way similar to the one I showed you just now. Another world will collapse upon this one, bringing with it something akin to the madness you just witnessed earlier. It has already started, you see!" Guy expressed animatedly. His actions and behaviour started to grow wilder and evocative. "The end of the world is nigh!" He exclaimed. "And we need to be prepared!"
 
 "Guy-" Grace interjected. "What does this have to do with Dora and Kano?"
 
 "Huh?" Guy blurted out. The growing fanaticism in his eyes dissipated and he looked around blankly. "Umm..." he hummed.
 
-""
+"Guy..." Grace repeated more sternly.
+
+"That's it!" Marie cut in with a tone of finality. She walked over to the hollow tree and placed both her hands on it. She closed her eyes and concentrated hard on her following words.
+
+|Dora and Kano Reva, the twins, are my siblings but not by blood.|
+
+The world turned silent as Marie's words reverberated everywhere. "M-Marie!" Elder Nara yelled while walking over with a brisk pace.
+
+|The twins are lost, maybe separated, maybe together. They are away from me, far or close by. But no matter where they are, they will remain safe and unharmed until they meet me again-|
+
+Elder Nara immediately shut Marie's mouth and looked at her with morbid fear evident in his eyes.
+
+"Girl! Just what have you done?!" He exclaimed with a defeated gasp.
+
+____
+
+**Next**
+* [[volume-6.chapter-406]]
