@@ -2,7 +2,7 @@
 id: 5ank2mmkn8zg7mh870320lj
 title: Chapter 393 - Workout Plan
 desc: ''
-updated: 1701928355603
+updated: 1701930335598
 created: 1698153023811
 ---
 
@@ -68,7 +68,7 @@ Jean let out a mischievous chuckle and said, "The magic word is 'Please'!"
 
 There was silence as Rianna and Shay-Hade exchanged embarrassed gazes. Jean let out a tired sigh and said, "There's a lot to cover. Come, there's an empty classroom because I anticipated this."
 
-What followed was an intensive eight-hour-long crash course into everything about the human body, at the end of which both Rianna and Shay-Hade exited the room with smoke (almost literally) escaping from their years. Guy sneaked away midway through the lecture as Jean's oration grew more animated and elaborate. He'd sat through one class on biology in his lifetime, he didn't want to sit through another one after his transmigration.
+What followed was an intensive eight-hour-long crash course into everything about the human body, at the end of which both Rianna and Shay-Hade exited the room with smoke (almost literally) escaping from their ears. Guy sneaked away midway through the lecture as Jean's oration grew more animated and elaborate. He'd sat through one class on biology in his lifetime, he didn't want to sit through another one after his transmigration.
 
 "What in the world was that?!" Shay-Hade mumbled.
 
