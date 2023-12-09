@@ -2,7 +2,7 @@
 id: 8uct65roo2vtc1hcog5dbtr
 title: Chapter 405 - Manufacturing Fate
 desc: ''
-updated: 1701890033710
+updated: 1702136722527
 created: 1701597170976
 ---
 
@@ -100,11 +100,11 @@ Most of the Sect Members present heaved loudly and violently upon witnessing the
 
 "That's it!" Marie cut in with a tone of finality. She walked over to the hollow tree and placed both her hands on it. She closed her eyes and concentrated hard on her following words.
 
-|Dora and Kano Reva, the twins, are my siblings but not by blood.|
+|Dora and Kano Reva, the twins.|
 
 The world turned silent as Marie's words reverberated everywhere. "M-Marie!" Elder Nara yelled while walking over with a brisk pace.
 
-|The twins are lost, maybe separated, maybe together. They are away from me, far or close by. But no matter where they are, they will remain safe and unharmed until they meet me again-|
+|The twins are lost, maybe separated, maybe together. They are away from me, far or close by. But no matter where they are, they will remain safe and unharmed until they return to-|
 
 Elder Nara immediately shut Marie's mouth and looked at her with morbid fear evident in his eyes.
 
