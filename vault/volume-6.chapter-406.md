@@ -2,7 +2,7 @@
 id: 1at0g9mfcnfrzcdxsa0j4id
 title: Chapter 406 - Actions and Consequences
 desc: ''
-updated: 1702149560106
+updated: 1702408404610
 created: 1702135637621
 ---
 
@@ -58,7 +58,53 @@ Krish suddenly plummeted to the ground and started to breath heavily.
 
 "What did you expect would happen?" Krish said. Suddenly, a lone tear rolled down his right cheek, "Wow... Its been over a millenium since I last cried... its a weird sensation, I will admit... Oooo, ok its hurting now..."
 
-Krish groaned loudly and tried to massage his chest, but he saw that his right hand had turned into dust and disintegrated completely.
+Krish groaned loudly and tried to massage his chest, but he saw that his right hand had turned into dust and disintegrated completely. He could feel the rest of his body following very quickly from the inside.
+
+It is believed that when one faces their own impending demise, their perception of time becomes warped. They start to relive every significant moment from their past in vivid detail. For a man who has lived for over two millenia, it should have been an awfully long slideshow. But much to Krish's surprise (and slight chagrin). It was just three scenes.
+
+____
+
+"You and I are fated-" said the old man with a proud smirk to the chiselled teen with the domineering thighs and long locks of dark-brown hair.
+
+"Look here, old man," the boy responded. "I am only into women. Try that pick-up line elsewhere."
+
+The boy received a swift strike to the back of his head. He turned his head to admonish the attacker, but was surprised to find that it was his eldest sister.
+
+"Shut your trap for one moment and just listen, you little pipsqueak!" She screeched. "You have no idea who you're talking to!"
+
+"This creepy old man?" the teen asked derisively while massaging his head.
+
+"Have some respect!" His sister repeated while slapping the back of his head once again. "This right here is a Tesseract Transformation realm expert! He could turn us into dust with a snap of his fingers. And he's actually willing to take YOU on as a Disciple, so watch your mouth."
+
+"Yeah, right!" The teen said with a sarcastic snort. But he was immediately stumped by the absolute seriousness with which his sister and the man looked back at him. "You're joking."
+
+"I'd kill you if I didn't have another choice," the old man spoke up with a sinister smile on his face. His long and thin silver mustache danced dangerously atop his even thinner lips as he let out a icy chuckle.
+
+"Okay..." The teen vocalised while taking two steps back in caution. Midway through his second step, his sister reached forward and grabbed the back of his head.
+
+"Just accept, you idiot!" She then forced the boy to bow and spoke on his behalf, "Krish Nara accepts Mage Tycho as his Master!"
+
+"Formalities matter in these processes," Mage Tycho said before turning and walking away. "Follow me, and do keep up. We have very little time to lose."
+
+"Sis?! What the heck did you just do?" Krish exclaimed after extricating himself from his sister's grasp.
+
+"Don't be an idiot, Krish," he sister responded with a forlorn smile, completely unlike her usual uptight frown. "Do you want to spend your entire life in this totally random and rural village?"
+
+"Damn straight! OW! Stop hitting me!"
+
+"The world is bigger than you think. Not all of us get the opportunity to see it in our lifetime," his elder sister explained. "Don't lose this shot, Krish. See the world, become a big deal, and make us all proud."
+
+"As if!" Krish snapped back. "I'm not going to remember any of you guys once I become famous."
+
+After saying that, Krish made a hasty retreat just as a wooden slipper zoomed past his face.
+
+____
+
+'Becoming a practitioner of the Heavenly Eye was never an option for me, it was the only way.'
+
+''
+
+____
 
 "I would... have loved... to see... you... grow up... to be... a... revolutionary... weilder... of the... Heavenly Eye... For... the short... moment... you've been... my Disciple... you've... made me... so... proud..." Krish said with great difficulty. Starting from his toes, his body started to disintegrate and turn into dust.
 
