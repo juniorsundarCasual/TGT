@@ -2,7 +2,7 @@
 id: 1at0g9mfcnfrzcdxsa0j4id
 title: Chapter 406 - Actions and Consequences
 desc: ''
-updated: 1702408404610
+updated: 1702749139406
 created: 1702135637621
 ---
 
@@ -96,15 +96,37 @@ The boy received a swift strike to the back of his head. He turned his head to a
 
 "As if!" Krish snapped back. "I'm not going to remember any of you guys once I become famous."
 
-After saying that, Krish made a hasty retreat just as a wooden slipper zoomed past his face.
+After saying that, Krish made a hasty retreat just as a wooden shoe zoomed past his face.
 
 ____
 
-'Becoming a practitioner of the Heavenly Eye was never an option for me, it was the only way.'
+'Becoming a practitioner of the Heavenly Eye was never an option for me, it was the only path. It is ironic that the pathway to truly untether oneself from the strings of fate is one that is inescapable.'
 
-''
+'Often times, I wonder if I really wanted to become a practitioner of the Heavenly Eye... With great power comes a lot of forbidden knowledge. Knowledge that I regret learning. Living an ignorant life was so much better.'
 
 ____
+
+"Foolish boy!" Krish's Master yelled while slapping him in the face. Even though Krish had reached the Core Formation realm, and such strikes shouldn't have hurt him anymore, he still felt the pain. "How many times did I tell you that we shouldn't interfere in the matters of mortals. The tethers that bind you to this world are fleeting and inconsequential."
+
+"But they are my family-" Krish protested.
+
+"WERE!" His Master yelled while giving Krish another slap. "The moment you become a weilder of the Heavenly Eye, you transcend humanity and become superior. Your family is just a fleeting string in the complex tapestry that is fate."
+
+"I never understood why you never divine my family's future when we first started. You KNEW! From the very start, you KNEW what gruesome future awaited them and you did NOTHING!" Krish accused with bloodshot eyes.
+
+"So what?" His Master responded nonchalantly. "Beast hordes have killed humans for generations. It is normal."
+
+"What use is being able to control fate if we can't use it when it is needed the most?" Krish asked in defeat.
+
+"You can use your power when it is truly necessary. Your parents will die, and so will your sisters. It is an eventuality. What you have done is simply delayed that inevitability. You can't stop the tides of time from taking their lives. So what will you do when they grow old?" His Master snapped angrily. He then pointed at Krish's leg, which was once thick with muscle but now shrivelled like a dried log, and asked, "Do you think it was worth the sacrifice?"
+
+____
+
+'It was worth it. Even with such awesome power, I always felt powerless - useless. My Master always emphasised that we had to wait for "the right time" - the most opportune moment. But I slowly realised that it was always a myth. There is never "the right time". There is always a better time, but the wait for that is neverending.'
+
+____
+
+The slideshow through his life ended as swiftly as it came, and his vision was fully filled with his most cherished memory - his Disciple. A fulfilled smile stretched his face and filled it with a long lost youth.
 
 "I would... have loved... to see... you... grow up... to be... a... revolutionary... weilder... of the... Heavenly Eye... For... the short... moment... you've been... my Disciple... you've... made me... so... proud..." Krish said with great difficulty. Starting from his toes, his body started to disintegrate and turn into dust.
 
@@ -129,54 +151,6 @@ Marie stood up, picked up the cloth bag Krish always carried with him and slumpe
 "Mage Maddi, please be respectful!" Grace snapped. "Marie has just lost her Master."
 
 Rianna coughed as Shay-Hade also jabbed her hard with his elbows. He gave her a stern glare before apologising to Grace. The other Sect Members continued to investigate the sudden disappearance of the two children, while a single member split off from the group and followed Marie.
-
-____
-
-Marie stepped into the small hut nestled in the heart of Twilight Village, a place once teeming with the vibrant presence of her Master. Time had not been kind to this humble abode; ever since the Sect relocated to the mountain, this hut had been left to the mercy of neglect and dust. The memories, however, lingered stubbornly, as vivid as the day they were made.
-
-The air inside was stale, thick with dust motes dancing in the slivers of light piercing through the cracks. Marie made her way to her Master's old mattress, an island in a sea of forgotten times. She sat down, the familiar yet now foreign fabric beneath her offering little comfort. Her elbows found their way to her knees, and she buried her face in her hands, a dam holding back an ocean of sorrow.
-
-A muffled wail broke from her, her palms barely containing the torrent of grief. The tears came unbidden, each one a testament to her loss. Her siblings, though safe, were far from her, and her Master, her mentor, her guide, had paid the ultimate price for their protection.
-
-"Why?!" she cried out, her voice cracking under the weight of her anguish. "Why, why, why... WHY?!"
-
-In the midst of her despair, Marie felt a presence beside her, quiet yet unmistakable. Before she could lift her head, a gentle hand wrapped around her, drawing her close. She felt her head being guided onto a comforting shoulder, a familiar, reassuring touch amidst the chaos of her emotions.
-
-"It's okay," Shuri's voice was a soft whisper, a soothing balm to Marie's frayed nerves. "Let it all out."
-
-Marie's defenses crumbled at the kindness in Shuri's embrace. She allowed herself to be vulnerable, to grieve without restraint. Her cries filled the hut, each sob a release of the pain she had been carrying. Shuri held her, a steadfast presence in the storm of Marie's sorrow, offering silent support and understanding.
-
-As Marie's fit diminished, Shuri asked, "Would you liked to talk about what happened?"
-
-"He's gone," Marie answered with a cracked voice. "He'd disappeared. And it's all my fault."
-
-"Why?" Shuri responded. "Why do you think it is your fault?"
-
-"Because..." Marie tried to come up with a response, an explanation of any kind, but her mind just didn't function. There were no thoughts left in her head anymore.
-
-"I want to be alone for a little bit. Can you leave me here?" Marie asked.
-
-"I don't think I can do that," Shuri responded. "When I was going through something like this, you didn't let me wallow in my own thoughts all alone. Even if you don't want to talk to me, let me be there with you. You can ignore me, I'll just sit over there in that corner silently."
-
-"Please-"
-
-"Don't argue over this," Shuri interjected while sucking in a sharp breath of air in protest. "You carry on as you were. Cry if you must, yell or swear if that helps. But don't collapse on me. I know that you are stronger than that. Do you think Elder Nara would wish to see you in this state?"
-
-"Don't!" Marie snapped angrily.
-
-Shuri raised her hand apologetically, "I guess its too soon. Well, I meant no offence."
-
-Shuri pulled over a seat for herself, the same one Marie's Master loved to sit cross-legged on, and sat over at the corner as she had promised. Marie looked at the girl pointedly, before shaking her head and leaving the hut.
-
-Marie chose to take a long walk, but was irked to notice that Shuri was still following her. Marie, in turn, activated her movement technique and built a hefty distance between herself and Shuri. But a few minutes later, she found the girl following her while breathing heavily. Since Shuri could no longer rely on her core to sustain herself, she was closer to a regular human. And so, exhaustion was something that couldn't be avoided.
-
-"Why are you following me?!" Marie voiced her annoyance.
-
-"I... told you. I can't... leave you... alone... when you... need me the most," Shuri said while wheezing. "Can... you slow down... please?!"
-
-Marie clicked her tongue before sitting down by a nearby tree and resting her back against the trunk. "Take five!" She commanded Shuri, to which the girl smiled gratefully and plopped down on her back. Marie revealed a faint smile before it faded and turned into one filled with melancholy. She looked towards the clear blue skies and let herself dwell on a singular thought.
-
-Her Master was gone... forever... and it was all her fault...
 
 ____
 
