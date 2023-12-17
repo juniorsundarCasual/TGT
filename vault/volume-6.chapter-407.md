@@ -2,7 +2,7 @@
 id: q04871khcpm1lf70nkl7my6
 title: Chapter 407 - Reeling
 desc: ''
-updated: 1702749190110
+updated: 1702816097028
 created: 1702749148155
 ---
 
@@ -54,4 +54,18 @@ Her Master was gone... forever... and it was all her fault...
 
 ____
 
-Wei Zao was suddenly thrust back into his body with the same apathy with which he was first displaced from it.
+Wei Zao was suddenly thrust back into his body with the same apathy with which he was first displaced from it. A faint shudder rushed through his spine as the realisation of what was to come settled in.
+
+"Come out this instance, you scoundrel!" An angry voice bellowed from outside.
+
+"Who the-"
+
+"Teacher Way!" A worried voice called out to him as Gaige rushed into the room. "T-They're here!"
+
+"Who?" Wei Zao asked in confusion. He was still recovering from the disorientation of being removed and stuffed back inside his body.
+
+"The Gierg Clan head..." Gaige said with a bitter look on his face.
+
+"Um... Who?" Wei Zao repeated. As he said this, he saw Gaige's expression become increasingly contorted with anger.
+
+"Jenna's clan!" Gaige said while grinding his teeth. His look was distant but warped with rage. It was clear that the boy had some sort of grudge
