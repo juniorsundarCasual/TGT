@@ -2,7 +2,7 @@
 id: vnld507atalig0027ym5mv2
 title: Chapter 392 - Outside Help
 desc: ''
-updated: 1701547665264
+updated: 1702879957116
 created: 1697975675254
 ---
 
@@ -126,7 +126,7 @@ He intercepted Rianna just as she opened her mouth to plead her case again and s
 
 As Rianna pondered on those questions, he raised a finger and declared, "I hear your offer to train Kili but raise you this in return: I am willing to give you a platform to research the cultivation method you hold so dear. Break it down into pieces and really get to know it. Maybe you will realise where you failed?"
 
-"Look," Guy added while Rianna was struggling to reach a conclusion. "I agree with you Sect Leader in one fact. Cultivation doesn't have to be selective. A method shouldn't have to be suitable for a select group of people. The nature of the cultivation method you've described assures that everyone can practise it. But I also believe that it should be accessible. Just like how only the rich and powerful shouldn't have access to the best cultivation methods, the strong-willed and tenacious shouldn't be the only victors in the race to follow a cultivation method."
+"Look," Guy added while Rianna was struggling to reach a conclusion. "I agree with your Sect Leader in one fact. Cultivation doesn't have to be selective. A method shouldn't have to be suitable for a select group of people. The nature of the cultivation method you've described assures that everyone can practise it. But I also believe that it should be accessible. Just like how only the rich and powerful shouldn't have access to the best cultivation methods, the strong-willed and tenacious shouldn't be the only victors in the race to follow a cultivation method."
 
 "If a cultivation method is accessible, it makes it less special," Shay-Hade pointed out.
 

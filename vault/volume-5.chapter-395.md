@@ -2,27 +2,27 @@
 id: 21yaf11mfd302xp1gltcoj1
 title: Chapter 395 - Asking Questions and Admitting Faults
 desc: ''
-updated: 1699986515277
+updated: 1702880314787
 created: 1699420754247
 ---
 
-Shay-Hade wasn't optimistic about his chances in successfully training Revian into a proficient combatant. This idea was borne of a bias - that almost everyone in the Sect was a scholar. Shay-Hade had an innate disdain for the scholarly types. Partly because his culture emphasised the importance of physical and martial strength over all else, mainly since it originated in a desert region endemic to one of the most successful predators in the world, the Dunewyrms.
+Shay-Hade wasn't optimistic about his chances of successfully training Revian into a proficient combatant. This idea was borne of a bias - that almost everyone in the Sect was a scholar. Shay-Hade had an innate disdain for the scholarly types. Partly because his culture emphasised the importance of physical and martial strength over all else, mainly since it originated in a desert region endemic to one of the most successful predators in the world, the Dunewyrms.
 
-The Dunewyrm is a variant of the Sand Wyrm, a draconic creature originally from the Fel Realm. However, years of evolution and selection has changed the creature significantly from what it used to be. It first lost its eyes, then it evolved its teeth into an array of crystalline needle-like (though their thickness resemble swords) teeth. The Dunewyrm lives underneath the desert sand, tunneling through it like a fish in water. It navigates using sound, and is attracted to rhythmic movement on the desert surface.
+The Dunewyrm is a variant of the Sand Wyrm, a draconic creature originally from the Fel Realm. However, years of evolution and selection have changed the creature significantly from what it used to be. It first lost its eyes, then it evolved its teeth into an array of crystalline needle-like (though their thickness resembles swords) teeth. The Dunewyrm lives underneath the desert sand, tunnelling through it like a fish in water. It navigates using sound and is attracted to rhythmic movement on the desert surface.
 
-It is a harsh environment to live in, where people have to fight against both the beast that lay underneath the surface and the adversarial environmental conditions. The only reason people still thrived in the region was due to the excrement of the Dunewyrms that gets deposited on the sand dunes as the creature surfaces. The Hashish - as it is called coloquially. It is a powerful hallucinogen, a pinch of which can completely immobilise a mage even in the Core Condensation realm. After a refinement steps followed by multiple dilutions, the drug is processed and sold. Due to the scarcity of the resource, intesiveness of the processing stages, and risk during the collection process, it holds a high market price.
+It is a harsh environment to live in, where people have to fight against both the beast that lies underneath the surface and the adversarial environmental conditions. The only reason people still thrived in the region was due to the excrement of the Dunewyrms that gets deposited on the sand dunes as the creature surfaces. The Hashish - as it is called colloquially. It is a powerful hallucinogen, a pinch of which can completely immobilise a mage even in the Core Condensation realm. After a series of refinement steps followed by multiple dilutions, the drug is processed and sold. Due to the scarcity of this resource, the intensiveness of the processing stages, and the risk during the collection process, it holds a high market price.
 
-Shay-Hade was taught form a young age that if you aren't strong, you aren't useful. And if you aren't useful, you are wasting valuable water, another scarce resource in the desert. To that end, he worked tirelessly to build his usefulness. In his youth, he had a neighbour whose child was the same age as he was. The two were close friends, but separated eventually as the grew older and adopted different personalities. Shay-Hade never questioned things. He did was he was told, and trusted that there was reason to every instruction given. His friend, however, questioned everything. It wasn't that the boy distrusted instructions, he just wished to know more about them.
+Shay-Hade was taught from a young age that if you aren't strong, you aren't useful. And if you aren't useful, you are wasting valuable water, another scarce resource in the desert. To that end, he worked tirelessly to build his usefulness. In his youth, he had a neighbour whose child was the same age as he was. The two were close friends but separated eventually as they grew older and adopted different personalities. Shay-Hade never questioned things. He did was he was told, and trusted that there was reason for every instruction given. His friend, however, questioned everything. It wasn't that the boy distrusted instructions, he just wished to know more about them.
 
 He wanted to know just why people moved with such irregular steps on the sand; it was so that the Dunewyrms below wouldn't get attracted to the even rhythm. But what constituted an even rhythm? His friend tested that out as well, though he wasn't so lucky to make it out alive from it.
 
 So lesson learned, asking questions gets you killed.
 
-And yet this was what was encouraged in the True World Sect. Revian had a lot of questions... A LOT. Shay-Hade did not know the answer to two-thirds of what he was asked. I was embarrassing to admit, but also frustrating. It also made him question whether he was even suitable to train the boy in combat.
+And yet this was what was encouraged in the True World Sect. Revian had a lot of questions... A LOT. Shay-Hade did not know the answer to two-thirds of what he was asked. It was embarrassing to admit, but also frustrating. It also made him question whether he was even suitable to train the boy in combat.
 
 In fact, Shay-Hade ended training early the previous day because Revian asked an important question about the need to learn floor grappling moves.
 
-"Eighty percent of fights end on the ground," Shay-Hade had parrotted the same words his mentor had. "Which is why you need to learn floor grappling and submission moves."
+"Eighty per cent of fights end on the ground," Shay-Hade had parrotted the same words his mentor had. "Which is why you need to learn floor grappling and submission moves."
 
 "How, though?" Revian inquired. "If I fall on the ground, and cannot move, then I've lost and there is no recovery since my opponent can just bombard me from far away. If the opponent is on the ground, I can do the same. Why do I have to approach, grapple and submit them?"
 
@@ -54,11 +54,11 @@ The sun had dipped and risen again, yet an answer was still lacking. In his dist
 
 "I never gave you permission to teach others!" Shay-Hade highlighted.
 
-"But you didn't say anything about this being a secret or forbidden art," Revian reasoned. "You are also teaching me in a public place. Doesn't that mean that its transferable knowledge?"
+"But you didn't say anything about this being a secret or forbidden art," Revian reasoned. "You are also teaching me in a public place. Doesn't that mean that it's transferable knowledge?"
 
 "That..." made sense. Once again, Shay-Hade did not have a response. It was the norm for a trainee to not transfer the teachings from their trainer to another individual. He assumed that it was some sort of unwritten rule. Who knew that this Sect did not subscribe to that rule book? But a moment of contemplation brought an important point to the foreground. "Do you even know enough to teach others?"
 
-The irony of that quesiton wasn't missed on Shay-Hade, because it was a question he was asking himself quite often nowadays.
+The irony of that question wasn't missed on Shay-Hade, because it was a question he was asking himself quite often nowadays.
 
 Revian lowered his head apologetically and admitted, "I... I don't..."
 
@@ -66,9 +66,9 @@ Revian lowered his head apologetically and admitted, "I... I don't..."
 
 "I'm sorry," Revian said immediately, causing Shay-Hade to fumble on his next series of reprimands. It was surprising, the boy's face was quite thick to be able to admit fault so quickly, and that too so publicly. "I'm sorry everyone!" The boy yelled out into the crowd. "As Instructor Shay-Hade said, I am doing a disservice to everyone present. I don't want to hurt anybody, especially after what I've gone through. So from today onwards, these group sessions are over."
 
-"Aww man!" A boy called out from the crowd. "I was really looking forward to the combat lessons."
+"Aww, man!" A boy called out from the crowd. "I was really looking forward to the combat lessons."
 
-Hearing a bunch of dismayed groans and sad faces caused something to shift inside Shay-Hade. Instinctively, his lips started to move on their own, "If its combat you want to learn, you can just join Revian when I'm teaching him."
+Hearing a bunch of dismayed groans and sad faces caused something to shift inside Shay-Hade. Instinctively, his lips started to move on their own, "If it's combat you want to learn, you can just join Revian when I'm teaching him."
 
 "Really?" The girl named Casey asked.
 
@@ -80,23 +80,23 @@ A loud cough caught his attention from behind. He turned his head and noticed tw
 
 This was his second chance to say 'No', but the words just refused to escape from his mouth.
 
-And thus, Shay-Hade, who was recalcitrant towards the entire teaching assignment altogether, ended up teaching nearly the entire Sect how to fight.
+Thus, Shay-Hade, who was recalcitrant towards the entire teaching assignment altogether, ended up teaching nearly the entire Sect how to fight.
 
 ____
 
-"I assumed that I would have to test myself fora few more months, years even, to finally get your approval," Rianna said to Jean who had arrived at the training ground with Kili in tow.
+"I assumed that I would have to test myself for a few more months, years even, to finally get your approval," Rianna said to Jean who had arrived at the training ground with Kili in tow.
 
 "I am not yet convinced," Jean affirmed. "But time is of the essence, so I am willing to put my apprehension aside for the time being. This doesn't mean I won't be keeping a close eye on the goings on here."
 
 "Time is of the essence?" Rianna questioned.
 
-"I did some reading about the Universal Panacea Physique," Jean expressed. She then turned to Kili and said, "Why don't you take a look at all the equipment there. You will be using them soon, so get to know them a little."
+"I did some reading about the Universal Panacea Physique," Jean expressed. She then turned to Kili and said, "Why don't you take a look at all the equipment there? You will be using them soon, so get to know them a little."
 
-The child nodded and skipping away, leaving the teen and adult alone.
+The child nodded and skipped away, leaving the teen and adult alone.
 
-"It is best to get started before she hits puberty, which is much earlier for her as she is a girl," Jean highlighted. "You see Kili is in a unique position as he physique activated before she started cultivation. Usually, mages begin cultivating after puberty as their mind is able to reason better and question things more deeply. A child just believes what they are told most of the time. A Universal Panacea Physique that activates after puberty has a tougher time because the mind cannot accept a lot of input as reality without question. But for a child, that isn't a problem. You see, Kili believes a lot of things unflinchingly, which makes her more adaptive and able to completely take advantage of her physique."
+"It is best to get started before she hits puberty, which is much earlier for her as she is a girl," Jean highlighted. "You see Kili is in a unique position as her physique activated before she started cultivation. Usually, mages begin cultivating after puberty as their mind is able to reason better and question things more deeply. A child just believes what they are told most of the time. A Universal Panacea Physique that activates after puberty has a tougher time because the mind cannot accept a lot of input as reality without question. But for a child, that isn't a problem. You see, Kili believes a lot of things unflinchingly, which makes her more adaptive and able to completely take advantage of her physique."
 
-Jean looked at Kili with a tender gaze and said, "You may find training her to be much easier now, with results becoming evident more quickly, than if we were to start much later."
+Jean looked at Kili with a tender gaze and said, "You may find training her to be much easier now, with results becoming evident more quickly than if we were to start much later."
 
 "Which is what I've been trying to tell you," Rianna said after a loud clap.
 
@@ -118,7 +118,7 @@ She then crouched to reach the child's height and continued, "I am going to teac
 
 The girl then descended into a quick barrage of mumbling that threw Rianna for a loop.
 
-"Good luck," Jean said as she approached Rianna from her side. "I know its dark, but I will admit that it was a lot easier when she was brooding. You can't even get a word in nowadays..."
+"Good luck," Jean said as she approached Rianna from her side. "I know it's a grim admission, but it was a lot easier when she was brooding. You can't even get a word in nowadays..."
 
 ____
 
