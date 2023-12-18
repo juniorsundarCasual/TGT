@@ -2,7 +2,7 @@
 id: q04871khcpm1lf70nkl7my6
 title: Chapter 407 - Reeling
 desc: ''
-updated: 1702816097028
+updated: 1702879592586
 created: 1702749148155
 ---
 
@@ -64,8 +64,73 @@ Wei Zao was suddenly thrust back into his body with the same apathy with which h
 
 "Who?" Wei Zao asked in confusion. He was still recovering from the disorientation of being removed and stuffed back inside his body.
 
-"The Gierg Clan head..." Gaige said with a bitter look on his face.
+"The Gierg Clan Leader..." Gaige said with a bitter look on his face.
 
 "Um... Who?" Wei Zao repeated. As he said this, he saw Gaige's expression become increasingly contorted with anger.
 
-"Jenna's clan!" Gaige said while grinding his teeth. His look was distant but warped with rage. It was clear that the boy had some sort of grudge
+"Jenna's clan!" Gaige said while grinding his teeth. His look was distant but warped with rage. It was clear that the boy had some sort of grudge with them. 'But what was it...?'
+
+It was embarrassing, really. The issue wasn't that he had forgotten about the grudge, it was that there were just too many going on at once that it was all just melding into one.
+
+"Was this the one with the broken engagement or the kid who screwed you over during the most recent Teacher's Expo?" Wei Zao asked while massaging his forehead.
+
+"The engagement..." Gaige responded angrily.
+
+"How do you want to handle this, then?" Wei Zao asked back without much thought. "I don't want this to stretch out for any longer than it already has. The whole damn clan has been a pain in my backside for the last year. This is going to keep on going until either I die or the whole clan does. And let's be honest here, it probably won't stop there. Because there is always a hidden expert somewhere who has ties with the clan who will take offence and bear down on me..."
+
+Gaige's expression warped with confusion as Wei Zao rattled on and on without pause.
+
+"As I was asking," Wei Zao said finally, "How do you want to handle this?"
+
+"I... don't know..." Gaige answered with honesty and utter bewilderment. This wasn't how his Teacher usually behaved - there was always a sense of certainty and decisiveness in his actions which had suddenly fizzled away.
+
+"Well, I think we've already avenged the loss of face you were subjected to from having your engagement broken when we humiliated your ex-fiance," Wei Zao expressed. "Do we need to go any further?"
+
+"I... don't think so," Gaige said after a moment of contemplation. "I mean, this whole fight with the Gierg Clan has the possibility of drawing my clan into the mess as well. I don't think my father will appreciate the political trouble that could cause given the tumultuous state the Empire is in right now."
+
+"Exactly, the way I hear it, the Emperor's on a maddened warpath ever since that terrorist attack that has allegedly... emasculated him..." Wei Zao said while swivelling in head around. He'd heard of gruesome deaths being granted to people who propagate the salacious rumour of the Emperor losing his manhood. Even though the Bori Clan's Capital Household had protections against observers and spies, one just couldn't be careful enough these days.
+
+"So... what do we do?" This time it was Gaige who proposed the question.
+
+"To be honest, we have bigger fish to fry than upholding our reputation. The world is literally about to end very soon."
+
+"What-" Gaige started, but at that moment, the same voice that threatened and called out Wei Zao yelped with shock, "WHAT THE FUCK IS THAT?!"
+
+Gaige and Wei Zao exchanged a look before darting towards the window. They carefully followed the Gierg Clan Leader's upward gaze and noticed a massive black crack splitting the skies.
+
+"Teacher Way..." Gaige mumbled in a daze. "W-What's happening?"
+
+"As I was saying," Wei Zao repeated with a steely tone. "The world is about to end. These troubled about saving face and reputation are trivial matters. What you're seeing out there, that's just the start. I've witnessed what happens next and its not pretty. Very soon, another world will collide with this one, bringing with it terrors and monstrosities beyond your wildest imagination."
+
+Gaige swallowed an audible gulp of dry air, as all the saliva disappeared from his mouth. "I don't understand."
+
+"I'd love to explain the details, but I'd rather not waste time here. We have to go," Wei Zao declared before moving away from the window and walking up to his enchanted leather back hanging by the door.
+
+"Where are we going?" Gaige blurted out while leaping up to his Teacher.
+
+"You see, Gaige," Wei Zao started. "I'm not originally from this world. I know, hard to believe. But just suspend your scepticism for a minute and just consider the possibility. I come from another world where reality is a lot different from this one. There isn't magic, at least not to the degree that you have going on here. In turn, technology has advanced so far that you would very easily confuse it for magic."
+
+"What are you saying-"
+
+"But you see, there is in fact another individual whose been brought in from another world, just like me," Wei Zao interrupted. "Us two, we are the only ones who know what is going to happen eventually."
+
+Gaige looked at Wei Zao as though he was looking at a mad man. Wei Zao let out a tired sigh and held the teen by his shoulder.
+
+"I really don't have time to waste here. If you believe me, come along. Otherwise, I will have to go by myself. Don't worry though-" Wei Zao reached into his bag and pulled out a handful of books, "I've already compiled everything you will need to eventually reach Tesseract Transformation realm. I was going to give it to you incrementally. But if this is as far as you are willing to follow me, no hard feelings."
+
+With that said, Wei Zao placed the books in Gaige's hands and turned to leave. But almost instantly, the teen called out, "Teacher, wait!"
+
+The boy bounded forward and stood beside Wei Zao, "I am not an ungrateful wretch. You've done so much for me, even if you asked me to jump into a pit filled with Manticores, I would do it without question!"
+
+Wei Zao ruffled the boy's head and said, "What you're about to do is far closer to that than you might think. So, thank you for believing in me!"
+
+"Anyways," the man said as he let out an embarrassed cough, "Is there a backdoor or secret tunnel we can sneak out of?"
+
+Gaige let out a light chuckle and said, "Follow me."
+
+"Good lad!"
+
+____
+
+**Next**
+* [[volume-6.chapter-407]]
