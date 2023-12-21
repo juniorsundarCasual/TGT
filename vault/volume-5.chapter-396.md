@@ -2,7 +2,7 @@
 id: ilauvvn2mmx88mxx02i4cub
 title: Chapter 396 - Routine Becomes Reality
 desc: ''
-updated: 1700247439120
+updated: 1703139158672
 created: 1699939227795
 ---
 
@@ -26,7 +26,7 @@ Rianna coughed loudly and affirmed with a wavering voice, "Yeah! Good job. You'v
 
 "So, what's next?" Kili prompted.
 
-"What did I tell you? Thirty seconds of rest between each set to let the muscle recover and your motor neurons to prepare themselves for the upcoming load," Rianna orated.
+"What did I tell you? Thirty seconds of rest between each set to let the muscle recover and your motor neurons prepare themselves for the upcoming load," Rianna orated.
 
 "But I'm perfectly fine and ready for the next set-" Kili started, but was immediately silenced with a low growl.
 
@@ -42,13 +42,13 @@ ____
 
 "Rules and regularity," Jean declared as she rapped the blackboard behind her which had the two words written in all capital and bold typeface.
 
-"The hell is that supposed to mean?" Rianna snapped back. She was sitting on a seat that was way too small for her size. "And why are we in this tiny classroom?"
+"What the hell is that supposed to mean?" Rianna snapped back. She was sitting on a seat that was way too small for her size. "And why are we in this tiny classroom?"
 
 "This was the only one available on short notice! The kindergarteners from the village finish early," Jean answered. "Now focus!"
 
 "There's literally only two words to focus on!" Rianna argued. "Get on with it."
 
-"Actions have consequences," Jean started. "That is a known fact. But how do you know that action A has consequence A? What if it was consequence B from an action B that occured some time back?"
+"Actions have consequences," Jean started. "That is a known fact. But how do you know that action A has consequence A? What if it was consequence B from an action B that occurred some time back?"
 
 Rianna raised a hand and said, "You lost me."
 
@@ -60,10 +60,9 @@ Jean took a long breath in to calm down the bubbling anger and let it all out in
 
 "Yeah, or else you'd get cramps," Rianna responded.
 
-"I bet you did it anyways, right?" Jean asked rhetorically. "You ended up getting cramps and realised that, 'Hey, maybe rules are there for a reason?'"
+"I bet you did it anyway, right?" Jean asked rhetorically. "You ended up getting cramps and realised that, 'Hey, maybe rules are there for a reason?'"
 
-
-"The point is that rules exist for a reason. If the reason is based on sound logic with measurable results, then following it becomes a habit. Inculcating a habit transitions into a point of regularity. How many times have you heard the phrase, 'Its been like this for a long time...'?" Jean emphasised. "When a rule becomes a point of regularity, it is followed without question. But to do that, you have to get over the primary hump of verification. Fortunately, for kids, all it takes is a single, undeniable, instance of verification compared to teens and adults who are far more observant and capable of detecting deviations."
+"The point is that rules exist for a reason. If the reason is based on sound logic with measurable results, then following it becomes a habit. Inculcating a habit transitions into a point of regularity. How many times have you heard the phrase, 'It's been like this for a long time...'?" Jean emphasised. "When a rule becomes a point of regularity, it is followed without question. But to do that, you have to get over the primary hump of verification. Fortunately, for kids, all it takes is a single, undeniable, instance of verification compared to teens and adults who are far more observant and capable of detecting deviations."
 
 "So what you're saying is that I need to define the workout plan as a rule. I allow it to show its results, and then once they become visible, Kili will automatically adopt the rules as points of regularity," Rianna summarised.
 
@@ -77,23 +76,23 @@ Jean took a long breath in to calm down the bubbling anger and let it all out in
 
 "I do it because it is necessary," Jean responded. "Her physique paints her as a target - a very desirable one at that. I am willing to go to any extent to protect her. I myself am incapable of causing harm - all the more reason for her to become stronger. You should know better than anyone just how horrible this world can be."
 
-"In that, I am in agreement with you," Rianna answered with a hum.
+"In that, I agree with you," Rianna answered with a hum.
 
 ____
 
 "Very duplicitous of you," Shay-Hade commented.
 
-"I am not lying to Kili," Rianna challenged. "You yourself witness just how explosively her body has evolved over the last month. The first month was used to convince the girl that her body is growing and developing. Once she realised that, then her physique slowly took over, resulting in this. What's so wrong with that?"
+"I am not lying to Kili," Rianna challenged. "You yourself witnessed just how explosively her body has evolved over the last month. The first month was used to convince the girl that her body was growing and developing. Once she realised that, then her physique slowly took over, resulting in this. What's so wrong with that?"
 
-"Nothing good comes quickly and easily," Shay-Hade said, as though he were narrating a phrase from memory. "My father once found a Salah'ddin in the desert in one of his hunts. For your information, the Salah'ddin is known to be the meadow of the desert because of how useful it is. The large herbivore is capable of travelling long distances without water or sustenance, just like a camel. It can tunnel into the desert sand, making it able to travel very quickly. Even the males produce milk, which is nutritious and long lasting. It lives for a very long time as a magical beast, but upon its demise, its meat is densely packed with nutrients. The Salah'ddin is a solitary creature, and extremely territorial. Yet this one just conveniently followed my father the moment it laid eyes on him."
+"Nothing good comes quickly and easily," Shay-Hade said, as though he were narrating a phrase from memory. "My father once found a Salah'ddin in the desert in one of his hunts. For your information, the Salah'ddin is known to be the meadow of the desert because of how useful it is. The large herbivore is capable of travelling long distances without water or sustenance, just like a camel. It can tunnel into the desert sand, making it able to travel very quickly. Even the males produce milk, which is nutritious and long-lasting. It lives for a very long time as a magical beast, but upon its demise, its meat is densely packed with nutrients. The Salah'ddin is a solitary creature, and extremely territorial. Yet this one just conveniently followed my father the moment it laid eyes on him."
 
-Shay-Hade paused and then said, "So, my father killed it. His hunting group cursed him for his actions, but the moment the creature took its last breath, it dissipated into dense black smoke and viscous liquid. It was Mimick!"
+Shay-Hade paused and then said, "So, my father killed it. His hunting group cursed him for his actions, but the moment the creature took its last breath, it dissipated into dense black smoke and viscous liquid. It was a Mimick! He had saved the hunting party and quite possibly the entire village from a gruesome end."
 
-"My father always says, 'nothing good comes quickly and easily'," Shay-Hade reiterated. "There are consequences to power gained too quickly."
+"My father always says, 'Nothing good comes quickly and easily'," Shay-Hade reiterated. "There are consequences to power gained too quickly."
 
-"But Kili is literally working for it, how is this a freebie?" Rianna reasoned.
+"But Kili is working for it, how is this a freebie?" Rianna reasoned.
 
-"Even the most gifted of mages cannot celebrate the level of success the girl has displayed in this short time frame," Shay-Hade reminded. "It may all be going well now, but what of in the immediate or distant future?"
+"Even the most gifted of mages cannot celebrate the level of success the girl has displayed in this short time frame," Shay-Hade reminded. "It may all be going well now, but what about in the immediate or distant future?"
 
 "What could possibly go wrong?"
 
@@ -127,7 +126,7 @@ Kili's expression remained uncertain for a microsecond before it returned to nor
 
 "Will we still be holding combat lessons?" Kili probed.
 
-"Yes, but only evasive maneouvres. No body conditioning," Rianna emphasised.
+"Yes, but only evasive manoeuvres. Nobody conditioning," Rianna emphasised.
 
 ____
 
@@ -135,21 +134,21 @@ ____
 
 "Sparring," Markus answered.
 
-"A single Foundation Establishment realm mage against a battery of cannon fodder isn't really a fair match up," Shay-Hade scoffed. "You should fight someone your own size."
+"A single Foundation Establishment realm mage against a battery of cannon fodder isn't really a fair match-up," Shay-Hade scoffed. "You should fight someone your own size."
 
 "Revian is busy teaching others, Shuri isn't interested in sparring and neither is Marie. Yohn is still growing accustomed to his new senses. I had little choice."
 
 "You have me, don't you?" Shay-Hade rebutted as he proceeded to take off his coat, revealing an array of crisp lines emphasising every muscle of his tall ebony frame. "I'll limit my strength, so go crazy."
 
-Markus nodded with a resolute expression and rushed his instructor.
+Markus nodded with a resolute expression and rushed to his instructor.
 
 A fist flew towards Shay-Hade's head, which was dodged with an effortless tilt. Markus transitioned the punch into an elbow uppercut of his other arm, which was side-stepped. Markus chained it into a spin and elbow roundhouse with his first arm, which was also dodged.
 
 "You're telegraphing your attacks! Even my grandmother can see these coming from yesterday."
 
-Markus ignored the egging comments and continued his onslought of punches, kicks, elbow jabs and knee strikes, which were all dodged or blocked by SHay-Hade. The fight continued for a minute, unchanging. Until suddenly, Shay-Hade's brows dipped in confusion.
+Markus ignored the egging comments and continued his onslaught of punches, kicks, elbow jabs and knee strikes, which were all dodged or blocked by SHay-Hade. The fight continued for a minute, unchanging. Suddenly, Shay-Hade's brows dipped in confusion.
 
-A move to dodge, which was successful, was delayed by a fraction of a second. It happened again, and again. And with each passing second the raction grew larger, until a punch landed on Shay-Hade's ribs.
+A move to dodge, which was successful, was delayed by a fraction of a second. It happened again, and again. And with each passing second, the fraction grew larger, until a punch landed on Shay-Hade's ribs.
 
 "If you're planning to use magic, you should have told me," Shay-Hade said with a savage growl.
 
@@ -163,7 +162,7 @@ Markus swallowed a mouthful of saliva and said, "I was trying to integrate my ma
 
 "YES SIR!" Markus yelled and rushed back. He then let out a long breath to focus himself and started to move through the routine slowly, pausing at each segment of the Form.
 
-"Practise with your entire attention focused on your actions. The only thing you should have in your mind is your body. Eveything MUST be under control. No mistake! No hesitation!" Shay-Hade vocalised enthusiastically. He then snapped to the group of members gawking at him and said, "What are you idiots looking at? You want me to move your arms for you or something- Get the hell moving! Form three, NOW!"
+"Practise with your entire attention focused on your actions. The only thing you should have in your mind is your body. Everything MUST be under control. No mistake! No hesitation!" Shay-Hade vocalised enthusiastically. He then snapped at the group of members gawking at him and said, "What are you idiots looking at? You want me to move your arms for you or something- Get the hell moving! Form three, NOW!"
 
 ____
 
