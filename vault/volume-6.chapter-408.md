@@ -1,8 +1,8 @@
 ---
 id: r2ja4inmls8duhuwxyp5nqa
-title: Chapter 408
+title: Chapter 408 - Premature Burial
 desc: ''
-updated: 1703056683218
+updated: 1703138597483
 created: 1703050914826
 ---
 
@@ -64,4 +64,31 @@ At that moment loud, ear-shattering, screech of a hundred eagles layered on top 
 
 The man quickly shoved Kano aside and pulled out a simple looking shield that was nearly his height - from where this thing came out Kano did not know. The rock outcropping shattered and rows of dangerous dagger-like teeth surged forward. The man was swallowed... almost. He had secured precarious footing inside the beast's maws, with the shield stopping the jaws from collapsing.
 
-"Why don't we handle this situation like civilised folk, huh?" The man said while the beast raised its head and start
+"Why don't we handle this situation like civilised folk, huh?" The man said while the beast raised its head and shook it vigorously while trying to close its mouth and swallow the little man whole.
+
+At this point, Kano could finally see the creature that he identified as a dragon in its entirety. It was a massive snake-like entity with a girth that was six times that of Kano's and a length that was ten to fifteen times his own. It was coated in jagged, dirty brown and black scales. On its face it had teeth the size of small daggers, small blood-red eyes that were perpetually stuck in a deathly glare, and had a set of nostrils that regularly and looked like a complicated filtration system. The creature did not have wings, but it had in total three pairs of limbs placed in equal intervals over its body length. A quick search from his memory revealed the nature of this entity.
+
+"It's a Salamander!" Kano mumbled. He was totally enraptured by the scene before him. The small man and the long Salamander were in a fatal brawl. The man had tethered hooks with chains all over the creature's body, with the other end of the chains being fastened into the ground. The creature's mindless thrashing had caused the tethers to cross and was slowly restricting its movement. Kano noticed that a burning red hue was climbing up the Salamander's length moving up to its mouth.
+
+"FUCK!" The man yelled before letting go of the shield and ejecting himself out of the creature's mouth. Just as he did that, a gushing torrent of liquid fire spewed out, melting the shield almost immediately.
+
+"Say it, don't spray it!" The man yelled before pulling out another hook and chain (out of nowhere) and launching it towards the projectile vomiting creature. The hook struck from under the creature's open jaws, its momentum pushing its lower jaw upwards and closing it. The hook piered through the roof of its mouth and jutted out from the top. A muffled roar escaped from its forcefully closed mouth before it started to shake its head vigorously. But the little man held steadfast (contrary to his diminuitive size) and restricted the creature's thrashing.
+
+He sprinted away from the creature before looping the chains around a thick rock outcropping. He then pulled it hard. The Salamander was pulled forward by its jaws, but was also restricted in place by the other chains and hooks all over its body.
+
+The man gritted his teeth and pulled hard. Kano could hear the Salamandar groaning in pain as it was pulled from all ends precariously.
+
+With a loud rip the hook that closed the creature's mouth sliced through, splitting its face in two. A fountain of blood gushed out of the creature's mouth as it started to thrash around maniacally.
+
+Within seconds, the intensity of its throes weakened, and the creature collapsed to the ground with a loud thud - it had died.
+
+"That was too close for comfort!" The little man said while patting the dirt and grime off his armour. He was wearing some sort of heavy metal armour crafted with great care and attention to detail. There were beautiful runic markings snaking all around the armour that pulsed with a warm light as if it was breathing. "Would've been a pretty basic quest had it not been for you, though," he added while looking at Kano. "So thanks for that!"
+
+"Now then, who or what are ya?" The man asked as he approached Kano. "Ya look far too soft and squeaky for a Dwarf whelp."
+
+"I'm... I'm..." Was all Kano could say before his visioned turned dark and he collapsed.
+
+____
+
+**Next**
+* [[volume-6.chapter-409]]
