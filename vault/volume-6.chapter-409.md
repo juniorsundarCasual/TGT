@@ -2,7 +2,7 @@
 id: ry1cptrvpy007aif8ui47qn
 title: Chapter 409
 desc: ''
-updated: 1704140741316
+updated: 1704178608766
 created: 1703849868424
 ---
 
@@ -32,4 +32,22 @@ But amidst this serenity, a new voice barged in like a bull in a china shop.
 
 "Fancy?"
 
-Dora rushed towards
+Dora rushed towards the insect as she arose from the mound of dirt she had landed on. With a flap of her wings, she lifted off the ground and hovered around Dora, while her antennae started to skitter all over the little girl to ensure that nothing was off.
+
+"Where are we?" Dora asked, ignoring the anxious and concerned insect altogether.
+
+"I do not know," Fancy answered. "But it does not 'feel' like home."
+
+That was putting it lightly. Because the ambience felt denser and heavier. It wasn't just the increasingly humid air that nearly suffocated her with every breath, but the fact that the trees were at least five times taller than the tallest tree she had ever seen in her entire life. She had no idea how the sunlight even made it past the dense canopy of green up above and illuminated the ground.
+
+Suddenly, a silence fell in the area, with the only sound disturbing the eerie pause being the faint rustling of the leaves. The 'music' had just stopped. After straining her hearing further, Dora managed to hear faint chatter in the background, but it was far too low in volume to make sense of. But she also noticed that it was moving away.
+
+"I think we scared the animals away," Dora commented. But then, as she turned to face Fancy, she noticed her companion remaining stiff with the hairs that decorated her body standing in an unusually upright angle - a clear sign of fear!
+
+"We must hide!" Fancy warned before quickly grabbing Dora with her appendages and flying upwards. They found footing in a high enough branch that sufficiently secluded them and waited.
+
+"Wha-"
+
+BOOM!
+
+The tree they were on shook 
