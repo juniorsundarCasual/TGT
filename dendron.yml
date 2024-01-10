@@ -89,13 +89,7 @@ publishing:
     enableKatex: true
     copyAssets: true
     siteHierarchies:
-        - home
-        - miscellaneous
-        - volume-1
-        - volume-2
-        - volume-3
-        - volume-4
-        - volume-5
+        - root
     writeStubs: false
     siteRootDir: docs
     seo:
