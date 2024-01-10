@@ -1,8 +1,8 @@
 ---
 id: hsfwh1drgon77m1i871e0g7
-title: Introduction
+title: The Good Teacher
 desc: ''
-updated: 1678606165279
+updated: 1704919298677
 created: 1649916401463
 ---
 
