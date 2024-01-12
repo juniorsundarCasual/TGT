@@ -66,7 +66,7 @@ Elder Nara contemplated on that question. After a few seconds the Sect Leader fo
 
 "What are you trying to say?" Elder Nara said while letting out a frustrated breath.
 
-"That one's identity is tethered to one's perception of reality, just like their cultivaiton. Shuri's reality dictates that her sexual identity is female, even though she is biologically a male. It isn't just a whimsical thought, like a phase that will pass eventually. It is her fact. We should respect that," the Sect Leader stated seriously.
+"That one's identity is tethered to one's perception of reality, just like their cultivation. Shuri's reality dictates that her sexual identity is female, even though she is biologically a male. It isn't just a whimsical thought, like a phase that will pass eventually. It is her fact. We should respect that," the Sect Leader stated seriously.
 
 "I don't get it... So the boy is a girl and I should refer to him as one?" Elder Nara said with a scoff.
 
@@ -88,7 +88,7 @@ Marie looked down guiltily. "So what do we do?"
 
 "There's nothing wrong in being a girl. But the fact of the matter is that Shuri isn't! Why is this so hard to understand?" Elder Nara grumbled in exhaustion. "He is just confused after living such a clandestine life for so long since his birth."
 
-"That's not fair," Marie responded with a mildly hurt expression on her face. "Just because someone doesn't confirm to what is normal, doesn't mean that they are confused."
+"That's not fair," Marie responded with a mildly hurt expression on her face. "Just because someone doesn't conform to what is normal, doesn't mean that they are confused."
 
 "What IS normal anyway?" Sect Leader Larks said while chiming in. "If by normal, you are referring to what is average, then sure, we can say that what Shuri is experiencing is not normal. It doesn't make it wrong, right? Is the fact that she finds herself relating more with the female sex causing harm to anyone else?"
 
@@ -122,7 +122,7 @@ As he said this he turned to face Jean who bumbled around in confusion, "Why are
 
 "I'm not even sure if pursuing this topic will be possible for me. You know the oath I have taken to "first do no harm". What certainty is there that whatever I will put Shuri through won't harm her?" Jean challenged.
 
-"Its all amount managing the hormone levels, and organ transplantation," Sect Leader Larks summarised roughly.
+"Its all about managing the hormone levels, and organ transplantation," Sect Leader Larks summarised roughly.
 
 "You want me to mess with the hormonal balance of a person?" Jean blurted out in a burst of anger. "You're asking someone who has lived a majority of her life never experiencing the dopamine high of eating chocolate, to mess with someone else's hormone levels?!"
 
