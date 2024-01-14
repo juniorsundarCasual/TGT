@@ -2,7 +2,7 @@
 id: qw47w660bubc9csjzu1kw31
 title: Chapter 411 - Better Yesterday, Today, or Tomorrow
 desc: ''
-updated: 1705001683188
+updated: 1705250452833
 created: 1704993371079
 ---
 
@@ -56,17 +56,17 @@ Rianna let out a long exhale and lay down on her back.
 
 "Nonetheless, that meant a lot to me," Rianna expressed. "Even if I was probably picked at random. But his dedication in training me moved me. Through introspection, I realised that it made me feel the parental affection that I sorely lacked in my younger years."
 
-"Needless to say, I really respect the Sect Leader," Rianna admitted. "And he would always say that in cultivation and in life, the goal is to keep moving forward. When you stop one day and look back, you shouldn't be able to recognise the person you one were. But what direction is forward?"
+"Needless to say, I really respect the Sect Leader," Rianna admitted. "And he would always say that in cultivation and in life, the goal is to keep moving forward. When you stop one day and look back, you shouldn't be able to recognise the person you once were. But what direction is forward?"
 
 Shay-Hade leaned in as Rianna paused to let the Sect Leader's words settle.
 
-"He said that which direction points forward can only be decided by you and you alone. If you don't know which direction it is, then a good way to test things is by asking yourself what makes you happy? If doing something an being a certain way makes you happy, then try doing that. Live that way for a while and see if an any point, when you look back, you feel better than you did before."
+"He said that the direction forward can only be decided by you and you alone. If you don't know which direction it is, then a good way to test things is by asking yourself what makes you happy? If doing something and being a certain way makes you happy, then try doing that. Live that way for a while and see if at any point, when you look back, you feel better than you did before."
 
 Shay-Hade scratched his forehead and spoke up cautiously, "But I feel like that doesn't provide a robust indicator of whether I am better now than when I was before!"
 
 Shay-Hade knew that questioning Rianna's idol so openly was a surefire way of losing a limb. But surprisingly, what he received was a hearty laugh.
 
-"That's the thing! What matters is the feeling you have at the present moment. Do you feel better now than you did before? If so, then good, you are moving forward. But if in the future you see that you don't feel better and happier than you did in the past, it only means that somewhere along the way, the path forward had changed direction and you just didn't realise it. All you have to do is trace your steps back and alter the way you live," Rianna expounded. "It is never too late to change. Well, a person can't REALLY change, but they can grow. And surprisingly, even deterioration is considered growth, just in a downwards direction."
+"That's the thing! What matters is the feeling you have at the present moment. Do you feel better now than you did before? If so, then good, you are moving forward. But if in the future you realise that you don't feel better and happier than you did in the past, it only means that somewhere along the way, the path forward had changed direction and you just didn't realise it. All you have to do is trace your steps back and alter the way you live," Rianna expounded. "It is never too late to change. Well, a person can't REALLY change, but they can grow. And surprisingly, even deterioration is considered growth, just in a downwards direction."
 
 "So what you're saying is that I am better now than I was before?" Shay-Hade probed.
 
