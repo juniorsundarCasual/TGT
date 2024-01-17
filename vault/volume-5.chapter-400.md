@@ -1,8 +1,8 @@
 ---
 id: 9s1t5atn6dpj7xcy0oo3jxg
-title: Chapter 400 - (Mis)Understood
+title: Chapter 400 - Ms. Understood
 desc: ''
-updated: 1700808248358
+updated: 1705471413334
 created: 1700676333990
 ---
 
@@ -22,7 +22,7 @@ A sombre gathering formed in a meeting room inside the Sect's clinic building. A
 
 "W-Well I foresaw that it would work itself out-"
 
-"Work itself out in what way?!" The Sect Leader cut in again. "Tell me everything you know, and leave out no detail. I don't want anymore surprises, got it?"
+"Work itself out in what way?!" The Sect Leader cut in again. "Tell me everything you know, and leave out no detail. I don't want any more surprises, got it?"
 
 Marie swallowed a dry gulp of air and started speaking with a slow and steady voice, "She was supposed to die, but I orchestrated the event so that Markus would end up saving her and would rope her into the Sect."
 
@@ -36,7 +36,7 @@ Marie swallowed a dry gulp of air and started speaking with a slow and steady vo
 
 The Sect Leader looked past Marie and gazed at her Master, who was also wearing a thoughtful frown. "Could you explain to your Disciple what Shuri is experiencing right now?"
 
-Elder Nara hummed affirmatively before saying, "The transition from Foundation Establishment to the Core Formation realm is first initiated by a sudden increase in density of the mana core. To achieve this, the world shoves a large quantity of mana into the core. It is supposed to be a painful process - extremely so - however, the process of apotheosis circumvents this pain as the physical form is held in a non-solid (immaterial) state while it is being reinvented and rebuilt. By the time apotheosis finishes, the mana core reaches its critical density, then completing the transition between realms. However, since Shuri couldn't initiate apotheosis, the mana core's condensaton was preempted prematurely, meaning that if ever he uses mana from his core he will experience immeasurable pain."
+Elder Nara hummed affirmatively before saying, "The transition from Foundation Establishment to the Core Formation realm is first initiated by a sudden increase in the density of the mana core. To achieve this, the world shoves a large quantity of mana into the core. It is supposed to be a painful process - extremely so - however, the process of apotheosis circumvents this pain as the physical form is held in a non-solid (immaterial) state while it is being reinvented and rebuilt. By the time apotheosis finishes, the mana core reaches its critical density, thus completing the transition between realms. However, since Shuri couldn't initiate apotheosis, the mana core's condensation was preempted prematurely, meaning that if ever he uses mana from his core he will experience immeasurable pain."
 
 "She," Sect Leader Larks corrected.
 
@@ -52,7 +52,7 @@ Elder Nara hummed affirmatively before saying, "The transition from Foundation E
 
 There was silence in the room, with only the dull sound of the Sect Leader tapping his fingers together echoing periodically.
 
-"If she succeeded in her apotheosis, and solidifed her biological sex as a female, would she be a girl?" Sect Leader Larks asked.
+"If she succeeded in her apotheosis, and solidified her biological sex as a female, would she be a girl?" Sect Leader Larks asked.
 
 "Well, yes."
 
@@ -62,11 +62,11 @@ There was silence in the room, with only the dull sound of the Sect Leader tappi
 
 "But dragons can take on human form after apotheosis. So can a lot of other magical creatures. How is that possible?"
 
-Elder Nara contemplated on that question. After a few seconds the Sect Leader followed up by saying, "So a transition between species is acceptable, but not between sexes within the same species?"
+Elder Nara contemplated on that question. After a few seconds, the Sect Leader followed up by saying, "So a transition between species is acceptable, but not between sexes within the same species?"
 
 "What are you trying to say?" Elder Nara said while letting out a frustrated breath.
 
-"That one's identity is tethered to one's perception of reality, just like their cultivation. Shuri's reality dictates that her sexual identity is female, even though she is biologically a male. It isn't just a whimsical thought, like a phase that will pass eventually. It is her fact. We should respect that," the Sect Leader stated seriously.
+"That one's identity is tethered to one's perception of reality, just like their cultivation. Shuri's reality dictates that her sexual identity is female, even though she is biologically male. It isn't just a whimsical thought, like a phase that will pass eventually. It is her fact. We should respect that," the Sect Leader stated seriously.
 
 "I don't get it... So the boy is a girl and I should refer to him as one?" Elder Nara said with a scoff.
 
@@ -98,7 +98,7 @@ Marie looked down guiltily. "So what do we do?"
 
 "Because a special physique or bloodline benefits the holder, what Shuri is experiencing is only harming him," Elder Nara refuted.
 
-"Having the special physique or bloodline puts people in greater risks. Furthermore, certain physiques or bloodlines force limitations on people in return for benefits. What of that then?" Marie argued.
+"Having a special physique or bloodline puts people at greater risk. Furthermore, certain physiques or bloodlines force limitations on people in return for benefits. What of that then?" Marie argued.
 
 "Why are you arguing with me here when I'm trying to help you out?" Elder Nara responded weakly.
 
@@ -108,7 +108,7 @@ Marie looked down guiltily. "So what do we do?"
 
 "So it isn't a line that you draw that separates what you think is socially acceptable and what isn't, it is actually a circle - a circle around anyone who strongly believes that they were born the wrong sex and wish to change their assigned sex," Marie concluded. "What Shuri is feeling isn't a mental illness. She is perfectly sane and able to make sane decisions just like you and I. The only difference is that her mind doesn't agree with her body. Is that so wrong?"
 
-Elder Nara gazed deeply into Marie's eyes that oozed with pain and empathy. Although he didn't understand the situation, he realised that his support meant a lot to his Disciple.
+Elder Nara gazed deeply into Marie's eyes which oozed with pain and empathy. Although he didn't understand the situation, he realised that his support meant a lot to his Disciple.
 
 "Well, this is out of my wheelhouse then. I've made clear what Shuri is going through and what needs to be done to get... her... out of it. But since the pathway I've suggested isn't feasible, we need to come up with an alternative."
 
@@ -118,11 +118,11 @@ Elder Nara didn't miss the hopeful smile that flashed past his Disciple's face a
 
 As he said this he turned to face Jean who bumbled around in confusion, "Why are you looking at me? I don't know anything about this."
 
-"Well you are our foremost expert in anything medical. I can only rely on you to come up with an idea for this," Sect Leader Larks admitted with a bitter smile.
+"Well, you are our foremost expert in anything medical. I can only rely on you to come up with an idea for this," Sect Leader Larks admitted with a bitter smile.
 
 "I'm not even sure if pursuing this topic will be possible for me. You know the oath I have taken to "first do no harm". What certainty is there that whatever I will put Shuri through won't harm her?" Jean challenged.
 
-"Its all about managing the hormone levels, and organ transplantation," Sect Leader Larks summarised roughly.
+"It's all about managing the hormone levels, and organ transplantation," Sect Leader Larks summarised roughly.
 
 "You want me to mess with the hormonal balance of a person?" Jean blurted out in a burst of anger. "You're asking someone who has lived a majority of her life never experiencing the dopamine high of eating chocolate, to mess with someone else's hormone levels?!"
 
@@ -132,7 +132,7 @@ As he said this he turned to face Jean who bumbled around in confusion, "Why are
 
 "You've been silent through all of this, what do you have to say, Senior Brother Markus?" Jean nudged the stoic boy beside her.
 
-Markus shook his head and let out a long exhale through his nose. "Now that I know the whole story about her past, it kind of gives you perspective on the way she behaves. She always came accross as distrustful and paranoid to me. But she didn't have the ambition that usually came along with those traits. She was risk averse and selfish, choosing to put herself above others. Even in Chess, she would go for heavily sacrificial plays that put her in a better position on the long run."
+Markus shook his head and let out a long exhale through his nose. "Now that I know the whole story about her past, it kind of gives you perspective on the way she behaves. She always came across as distrustful and paranoid to me. But she didn't have the ambition that usually came along with those traits. She was risk-averse and selfish, choosing to put herself above others. Even in Chess, she would go for heavily sacrificial plays that put her in a better position in the long run."
 
 A sombre silence prevailed in the room as Markus explained his thoughts.
 

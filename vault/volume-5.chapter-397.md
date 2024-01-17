@@ -2,7 +2,7 @@
 id: yp6r9eh5w6u8o7nanjew4j9
 title: Chapter 397 - Write Once, Read Anytime, Delete Never
 desc: ''
-updated: 1704296687610
+updated: 1705471193772
 created: 1700072769943
 ---
 
@@ -12,7 +12,7 @@ It all started out as a faint idea - the concept of combining digital signals to
 
 First, she limited her search to topics familiar to her, which was mostly Automagy. Programming mana cores was in her wheelhouse, but she could not imagine a program that could be used as a dense data storage device with read-write capabilities. She harkened to the idea of the modular spellcasting device - the Magi-Core - she built for Yohn. The data contained had to be hard-coded into the core. Furthermore, the modular spells built by reorienting the device would reset once the spell was cast. There was no inherent way to build in information storage in Automagy as once the core was deactivated, it would reset. Even golems, considered to be the pinnacle of Automagic application, perform a set or preprogrammed series of tasks repeatedly - even the most advanced ones have a limited range of tasks they can accomplish.
 
-Therefore, she took a step back and explored all adjacent topics, of which Enchanting appeared to be the closest. Enchanting offered an avenue. Jean knew that mages could engrave messages, audio or video, inside mana gems. They could edit the messages as well, which meant that reading and writing were possible. Furthermore, it was possible to ensure that even if the mana gem isn't constantly powered with mana, it wouldn't lose the data within.
+Therefore, she took a step back and explored all adjacent topics, of which Enchanting appeared to be the closest. Enchanting offered an avenue. Shuri knew that mages could engrave messages, audio or video, inside mana gems. They could edit the messages as well, which meant that reading and writing were possible. Furthermore, it was possible to ensure that even if the mana gem isn't constantly powered with mana, it wouldn't lose the data within.
 
 Shuri could have stopped there, but she decided to dig deeper. Shuri was patient. It was one of her most endearing traits. It was also the reason why she survived for so long in the Palace. Although the Sect had corroded a large portion of her patience, it was still engraved into her bones. In total, she had spent five days brainstorming for solutions. She figured wasting another day wouldn't make much difference in the grand scheme of things.
 
@@ -44,7 +44,7 @@ Shuri scrubbed away what remained of her bad dream and walked out of her room. S
 
 Her mind dwelled on the nightmare, and it persisted all through her daily routine. It continued until she finally reached the birth site of her magnum opus. For the ambitious project she was going to undertake, she needed space, a lot of it. Space wasn't so hard to find in the True World Sect, but commissioning it for use was a tedious process. Any deforestation had to be approved and vetted by the administrative department first, and they moved very slowly and deliberately. Getting the area in front cleared took her a week when she could have done so personally in mere minutes.
 
-Without wasting another minute, she started to map out the area and placed landmarks to act as placeholders for where the mana cores would be placed and where the enchanted mana gem arrays would be placed. Finally, she took calk and traced out the ritual formation underneath it all.
+Without wasting another minute, she started to map out the area and placed landmarks to act as placeholders for where the mana cores would be placed and where the enchanted mana gem arrays would be placed. Finally, she took chalk and traced out the ritual formation underneath it all.
 
 ____
 
