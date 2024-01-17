@@ -2,23 +2,23 @@
 id: or7be4c82az17mbo3qj2ju4
 title: Chapter 412 - Finding Someone Your Own Size
 desc: ''
-updated: 1705433531920
+updated: 1705471112988
 created: 1705250476701
 ---
 
-Kano woke up to the sound of heated discussion taking place. His consciousness remained murky, but it was enough to realise that he could not move at all - he was tied down. Worst yet, he couldn't release a sound either - someone had gagged him! Even his sight wasn't free of obstruction as a dark cloth had blinded him.
+Kano woke up to the sound of heated discussion taking place. His consciousness remained murky, but it was enough to realise that he could not move at all - he was tied down. Kano's heart pounded in his ears, a mix of fear and confusion swirling in his mind as he strained against the coarse ropes binding him. Sweat trickled down his forehead, stinging his eyes under a thick blindfold. Thankfully his nose was free, though the air was thick with the scent of damp stone and the faint, lingering odor of fire and brimstone.
 
 As the seconds passed, the sounds grew clearer, which was a relief because he was starting to feel even more claustrophobic than when he was buried in that small rock prison. The voices spoke the common tongue, but with a much rougher accent that pushed out from the throat.
 
 "It's a human, I tell you!" A gravelly male voice, similar to the one he heard before passing out, declared from beside Kano.
 
-"Nonsense! No human has walked these lands since the Age of Isolation!" Another said from up front, from a higher elevation. This voice seemed deeper and more aged.
+"Nonsense! No human has walked these lands since the Age of Isolation!" Another said from up front, from a higher elevation. This voice cracked like dry leather, each word heavy with the weight of years and a stubbornness born from a lifetime of unwavering beliefs.
 
 "Then what in the name of Drebin's Hairy Ballsack would you call this thing?" The voice by his side snapped.
 
 "Mind your tone, whelp!" A third voice spoke up with a dangerous hiss.
 
-"Maybe its just a variant? A mutate?" A feminine voice spoke. Unlike the others, it sounded a lot smoother.
+"Maybe its just a variant? A mutate?" A feminine voice spoke. Unlike the others, it sounded smooth and melodious, cutting through the coarse tones of the others, suggested a presence of calm rationality amidst the heated debate.
 
 "Haven't seen one so smooth in my entire life!" The voice by his side argued.
 
@@ -30,9 +30,9 @@ As the seconds passed, the sounds grew clearer, which was a relief because he wa
 
 "ENOUGH!" A sixth voice boomed, carrying with it an air of finality and immense will. "Our guest has awoken. Remove the blinders."
 
-Kano braced for a burst of blinding light. But was surprised to find out that the room he was in was dimly lit. He let his blurry vision grew clearer and the first thing that caught her gaze weren't the group of hair small people seated in some type of tribunal, but the intricate interior designs. Everything seemed to be made of some kind of volcanic rock, but elaborate designs and dynamic scenes were etched, sculpted or cut into the walls decorating the entire room like some sort of grand, historic building. He just couldn't keep his eyes off of them. But his attention was immediately called up by a sharp snap of fingers - the bulky, brown-haired short man at the centre of the five person tribunal at the highest seat in the room.
+Kano braced for a burst of blinding light. But was surprised to find out that the room he was in was dimly lit. He let his blurry vision grew clearer and the first thing that caught her gaze weren't the group of hair small people up front but the intricate interior designs. The room, dimly lit by flickering torches, cast long shadows over its interior. The walls, hewn from dark volcanic rock, were alive with intricate carvings depicting battles and myths of old, each etching telling a story of valor and ancient lore. He just couldn't keep his eyes off of them. At the room's heart stood a semi-circular dais, its surface rough and worn, holding the tribunal - each member seated behind a stone desk, their chairs resembling ancient thrones, carved with runes and symbols of power. But his attention was immediately called up by a sharp snap of fingers - the bulky, brown-haired short man at the centre of the five person tribunal at the highest seat in the room.
 
-One thing Kano noticed was that all five individuals up front sported extremely long hair. The males, Kano assumed based on their overflowing facial hair, knotted their grand beards and mustaches elaborately. They sported so much facial hair that Kano could only see a stout nose and a pair of eyes on their entire face. The sole female in the crew was completely different. She had voluminous hair, similar to her male counterparts but to a greater extent, but he face was far smoother and child-like compared to the almost aged-looking males - in fact she looked closer to a young teen than an adult. Though Kano could feel that the woman was a lot older than she looked.
+The atmosphere was charged with a mix of suspicion and curiosity, an invisible tension that hung in the air like a thick fog, each member of the tribunal eyeing Kano with a blend of intrigue and caution. One thing Kano noticed was that all five individuals up front sported extremely long hair. The males, Kano assumed based on their overflowing facial hair, knotted their grand beards and mustaches elaborately. They sported so much facial hair that Kano could only see a stout nose and a pair of eyes on their entire face. The sole female in the crew was completely different. She had voluminous hair, similar to her male counterparts but to a greater extent, but he face was far smoother and child-like compared to the almost aged-looking males - in fact she looked closer to a young teen than an adult. Though Kano could feel that the woman was a lot older than she looked.
 
 "Do you understand the words coming out of my mouth?" The large (relatively speaking) male at the centre of the tribunal spoke.
 
@@ -62,7 +62,7 @@ One thing Kano noticed was that all five individuals up front sported extremely 
 
 "Yes," the man answered.
 
-And then there was silence. The dwarves looked at the human, expecting him to spontaneoulsy combust or something like that, while Kano looked back with awe. These were the same race of hardened warriors he'd read of in the novels. Although the women didn't look as the books said, the men were the split image - matching the description to the letter.
+And then there was silence. The dwarves looked at the human, expecting him to spontaneously combust or something like that, while Kano looked back with awe. These were the same race of hardened warriors he'd read of in the novels. Although the women didn't look as the books said, the men were the split image - matching the description to the letter.
 
 "So..." The man at the far right said with a neutral tone. "What now?"
 
@@ -142,7 +142,7 @@ A few minutes passed as Kano cries started to teeter off.
 
 "Where did you hear that name?" She asked while grabbing Kano by his collars.
 
-Kano raised a wobbling finger and pointed at her seat, "It was written in front of your seat!"
+Kano raised a wobbling finger and pointed at her seat, "It was written on your seat!"
 
 "Damn it, Raidon!" She yelled at the central dwarf. "I've asked a million times to change that stupid thing. Its been a century since I separated from that bastard, yet that name is still etched into every official document that comes my way! When will you-"
 
