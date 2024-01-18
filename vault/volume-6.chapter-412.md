@@ -2,7 +2,7 @@
 id: or7be4c82az17mbo3qj2ju4
 title: Chapter 412 - Finding Someone Your Own Size
 desc: ''
-updated: 1705471112988
+updated: 1705593166516
 created: 1705250476701
 ---
 
@@ -168,7 +168,7 @@ The dwarves exchanged surprised looks before the woman opened her mouth. But it 
 
 "Maybe not on the outside, but it seems dwarven blood runs through your veins," the woman corrected. "How else can you explain your ability to read Dwarven Script?"
 
-"What?"
+"What-?" Kano started, but he was instantly silenced as the brute of a central dwarf made a move from his position. 
 
 "Boy," the central dwarf called out as he stood up from his seat. "Only Dwarves can read Dwarven Script."
 
