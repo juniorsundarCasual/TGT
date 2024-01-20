@@ -2,7 +2,7 @@
 id: r2ja4inmls8duhuwxyp5nqa
 title: Chapter 408 - Premature Burial
 desc: ''
-updated: 1703138597483
+updated: 1705746833570
 created: 1703050914826
 ---
 
@@ -84,7 +84,7 @@ Within seconds, the intensity of its throes weakened, and the creature collapsed
 
 "That was too close for comfort!" The little man said while patting the dirt and grime off his armour. He was wearing some sort of heavy metal armour crafted with great care and attention to detail. There were beautiful runic markings snaking all around the armour that pulsed with a warm light as if it was breathing. "Would've been a pretty basic quest had it not been for you, though," he added while looking at Kano. "So thanks for that!"
 
-"Now then, who or what are ya?" The man asked as he approached Kano. "Ya look far too soft and squeaky for a Dwarf whelp."
+"Now then, who or what are you?" The man asked as he approached Kano. "You look far too soft and squeaky for a Dwarf whelp."
 
 "I'm... I'm..." Was all Kano could say before his visioned turned dark and he collapsed.
 
