@@ -2,7 +2,7 @@
 id: umd6rncdq0od2sz1i04l5b8
 title: Chapter 402 - Missing Children, Reward if Found
 desc: ''
-updated: 1706030434269
+updated: 1706032444550
 created: 1701106256704
 ---
 
@@ -11,7 +11,7 @@ created: 1701106256704
 "Yeah, I think we have to reduce the frequency of our weekly game sessions," Kano pointed out. "Not a lot of people tend to show up at the start of the week."
 
 "Eh, you know what they say, if you work hard, you've got to play just as hard," Dora cut in while jabbing Kano with her elbow.
-
+d
 "So what's the game today?" Kili asked while excitedly rubbing her palms together. "Cops and Robbers? Freeze-Tag? Hide-and-Seek?"
 
 ""Hide-and-Seek,"" Kano and Dora said in unison. Kili gave the twins a weird look, to which Dora clarified with a wry smile, "Ever since you started working out with Miss Maddi, you've gotten crazy fast. If you're "It" there's no way any of us stand a chance, so..."
