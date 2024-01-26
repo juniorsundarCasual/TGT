@@ -44,4 +44,41 @@ As Kano narrated, something magical happened before him. The moment Dodi's chise
 
 Kano looked at Kam with a distressed and embarrassed expression.
 
+"Boy, you..." Kam said with a faint choke in his voice.
 
+"We never told Matron Reva this, but sometimes Dora - my sister - and I would go to the river bank and eat some clay. It was horrible, but it filled our stomach for a while. Our stomachs would be upset for many days after, but for the moment, the hunger pains would disappear and that was enough."
+
+Kano paused, looking far away like he was seeing something only he could. "Once, me and Dora were by the river, and a man with a wagon stopped to let his horses drink. He didn't watch his stuff much. We were really, really hungry. And on his cart, there were these flour cakes. They weren't big, but to us, they were like a huge treat."
+
+He took a deep breath, his face showing he didn't like remembering this. "Those flour cakes felt like the clay we ate before as the loamy balls fell into our hands. But they were different. The clay was just... cold and bland. It just made our bellies stop growling for a bit. But the flour cakes, they were warm and delightful. The cakes broke apart in our hands, just like the clay did. But the clay made our hands all dry and icky, and the flour cakes, they left our hands feeling warm and fragrant. They coated our tongues the same way clay did, but the aftertaste wasn't unpleasant - it was sweet. It wasn't just about not being hungry; it was like actually enjoying eating."
+
+Kano's voice got shaky. "I knew we were doing something bad by taking them, but we were just so hungry. When you're that hungry, you don't think about right or wrong the same way. Afterwards though, the guilt returned and boy was it painful - even more painful than hunger, it turns out. The cakes that were in our stomachs caused a stomach-ache worse than clay! I hated myself for giving in to that instinct. But I also didn't regret it. It was a very confusing state - to be guilty about something, yet realising that you would do it all over again if given a second chance."
+
+Kano paused to let the emotion bubbling from inside dissipate. There were a lot of memories from his past that he wished to never relive, though that wasn't to say that his childhood was bad. There were many uplifting times that sufficiently quelled the pain from all the bad memories - more so during the recent years after Mister Larks arrived at their orphanage. Suddenly, Kano heard a faint whimper coming from up front. He looked up and noticed Dodi crying with tears streaming down her face, snot tumbling out her nose, and the ethereal projection quivering unstably.
+
+The projection disappeared altogether as Dodi collapsed onto her desk with a loud bellow.
+
+"D-Dodi?" Kam said while approaching his bawling cousin.
+
+Dodi suddenly snapped out of her explosive display of emotion and quickly dabbed her face with a kerchief from her coat pocket.
+
+"How did you do that?" She asked after cleaning her nose. "Its been two decades since I empathised so strongly."
+
+"W-What do you mean?" Kano asked.
+
+"Kid, I've had to empathise with people who've suffered worse than you yet I never broke down like this. I empathised for a child who'd been paralised completely and lost his parents all in one day because of a mine explosion (don't ask the details). I didn't cry then. But this... What did you do?" Dodi's expression was half-intrigued and half-fearful which was another confusing mix of emotion.
+
+"I don't know," Kano said while scratching his head.
+
+Dodi hummed in thought before getting up from her seat and walking over to her neighbour.
+
+"Hey Gruul!" She yelled out to the man next to her. "I need you to build the identification for this one. I need to recalibrate myself."
+
+The man looked much older than Kam, and had a long yet well-tamed beard and mustache, as well as a flowing lock of dark brown hair. His expression was at a neutral, unbothered state and his gaze was blank. He grunted before waving at Kano to approach him. This man observed Kano for a full minute before letting out a tired sigh and said, "Continue."
+
+"O-Okay..." Kano muttered before starting all over.
+
+____
+
+**Next**
+* [[volume-6.chapter-416]]
