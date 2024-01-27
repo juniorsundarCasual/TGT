@@ -12,7 +12,7 @@ To confirm his suspicion, a voice that had been missing from his life for a whil
 
 (Guy,) Mast greeted, but Guy could not respond. The pain was far too much. (Let me help you with that.)
 
-And suddenly, like switchin off alight, the pain just stopped. In fact, Guy couldn't feel anything anymore. He was no longer inside his body either. He felt himself getting shoved down a very narrow tube, with a heavy suction on the other end pulling him somewhere.
+And suddenly, like switching off a light, the pain just stopped. In fact, Guy couldn't feel anything anymore. He was no longer inside his body either. He felt himself getting shoved down a very narrow tube, with a heavy suction on the other end pulling him somewhere.
 
 A few moments later, Guy was deposited in his favourite void - the place between worlds where he arrived between his transmigration and death. Now, though, he existed in this place as an ethereal copy of his current form, while Mast appeared as a basketball-sized, purple wisp floating by his side.
 
@@ -22,7 +22,7 @@ A few moments later, Guy was deposited in his favourite void - the place between
 
 "I hope that wasn't a joke," Guy snapped back.
 
-(We don't do that,) Mast waved of blankly.
+(We don't do that,) Mast waved off blankly.
 
 Guy averted his attention from the purple wisp and was surprised to notice a much larger, metallic blue wisp some distance away undulating erratically.
 
@@ -52,7 +52,7 @@ Guy's brows furrowed as he digested that information. "I'm... sorry..."
 
 "You don't mean-"
 
-"What in the world was that?!" A long forgotten voice yelled as another ethereal form materialised in the void. It was a man whose appearance could be the visual definition of the word handsome. His chiselled face, toned yet lean body, voluminously flowing hair... Guy literally could fill multiple paragraphs describing the man's top-class looks.
+"What in the world was that?!" A long-forgotten voice yelled as another ethereal form materialised in the void. It was a man whose appearance could be the visual definition of the word handsome. His chiselled face, toned yet lean body, voluminously flowing hair... Guy literally could fill multiple paragraphs describing the man's top-class looks.
 
 {Stop whining!} A pink wisp by the man's side hollered. Unlike Mast's usually detached tone, this one carried a clear tinge of annoyance.
 
@@ -72,31 +72,31 @@ Guy's brows furrowed as he digested that information. "I'm... sorry..."
 
 [It was brought to my attention recently that my two associates here had smuggled in a soul from each of their worlds. Have they informed you of the reason for their actions?]
 
-Guy nodded, but Wei Zao simple said, "Wasn't it just a gift of a second life?"
+Guy nodded, but Wei Zao simply said, "Wasn't it just a gift of a second life?"
 
 {I didn't explain to him,} the pink wisp spoke up. {This one's extremely annoying to talk to.}
 
 [On the contrary,] the blue wisp addressed Wei Zao directly. [They had another motive in bringing you two here. Though I don't compute the efficacy of that decision since two foreign souls are inconsequential in the grand tapestry of causality.]
 
-"WAIT!" Wei Zao interrupted. "Y-You're the other guy! I knew there had to be another one. The Printing Press, the influx of modern inventions flooding the market. It was you, wasn't it?!"
+"WAIT!" Wei Zao interrupted. "Y-You're the other guy! I knew there had to be another one. The Printing Press, and the influx of modern inventions flooding the market. It was you, wasn't it?!"
 
 "I don't know what you're talking about," Guy answered evasively.
 
 "Don't give me that bullshit! You-"
 
-[I am a world builder,] the blue wisp continued, silencing Wei Zao in the process. [We are beings who literally build the worlds that souls inhabit and maintain them. The world you live in right now was built by me. The one's you came from are built by Mast and Moni respectively. While these two only manage one world each, I happen to manage two. However, my first world has been parasitised and wholly consumed by another world builder of the parasitic order.]
+[I am a world builder,] the blue wisp continued, silencing Wei Zao in the process. [We are beings who literally build the worlds that souls inhabit and maintain them. The world you live in right now was built by me. The ones you came from are built by Mast and Moni respectively. While these two only manage one world each, I happen to manage two. However, my first world has been parasitised and wholly consumed by another world builder of the parasitic order.]
 
 "What is all this?" Wei Zao blurted out. "Sys- I guess your name is Moni. What the heck is going on?"
 
 {Just shut up for once and listen!} Moni chided.
 
-"That's easy for you to say. I've literally been pulled into what feels like a plot way above my paygrade and I don't even understand a nineth of what is being said," Wei Zao complained.
+"That's easy for you to say. I've literally been pulled into what feels like a plot way above my paygrade and I don't even understand a ninth of what is being said," Wei Zao complained.
 
 [I believe a visual display will be of assistance here,] Tron stated before the void gained dimensionality and stars started to dot the scene. The surroundings turned into the vast emptiness of space, serene yet suffocating.
 
 All of a sudden, the scene started to warp and the dotted stars started to blur as though they were entering lightspeed.
 
-[The inhabitants of my previous world made it quite far in terms of understanding the rules I set in building it,] Trons voice echoed all around them. [The races had all set for the stars, and were able to travel between planets nigh-instantaneously through warp travel.]
+[The inhabitants of my previous world made it quite far in terms of understanding the rules I set in building it,] Tron's voice echoed all around them. [The races had all set for the stars, and were able to travel between planets nigh-instantaneously through warp travel.]
 
 Guy found himself hurled out of lightspeed and deposited before a chaotic scene.
 
@@ -104,17 +104,17 @@ As Guy gazed into the vast cosmic expanse, a sense of impending doom gripped him
 
 From the heart of this cosmic maelstrom emerged tentacles, grotesque appendages that defied the laws of reality. These were no ordinary tentacles; they were a kaleidoscope of menace. Slimy green tendrils slithered with an unsettling viscosity, leaving a trail of corrosive residue in their wake. Their touch could dissolve matter into an unrecognizable, gelatinous mass, a testament to the insidious threat they posed.
 
-Contrastingly, the red tentacles were adorned with thorns sharp enough to pierce the toughest cosmic armor. Each thorn dripped with a toxic venom, injecting a lethal concoction that brought immediate agony to anything it touched. The very sight of these crimson spikes hinted at the relentless, predatory nature of the cosmic horror unfolding before Guy's eyes.
+Contrastingly, the red tentacles were adorned with thorns sharp enough to pierce the toughest cosmic armour. Each thorn dripped with a toxic venom, injecting a lethal concoction that brought immediate agony to anything it touched. The very sight of these crimson spikes hinted at the relentless, predatory nature of the cosmic horror unfolding before Guy's eyes.
 
-Veiny and pulsating, the pink tentacles seemed almost organic, as if they were the arteries of some monstrous cosmic entity. They constricted planets with an unholy grip, draining the life force from their cores. The very essence of these celestial bodies was being siphoned away, leaving behind desolate landscapes and barren wastelands where vibrant ecosystems once thrived.
+Veiny and pulsating, the pink tentacles seemed almost organic as if they were the arteries of some monstrous cosmic entity. They constricted planets with an unholy grip, draining the life force from their cores. The very essence of these celestial bodies was being siphoned away, leaving behind desolate landscapes and barren wastelands where vibrant ecosystems once thrived.
 
 In stark contrast, the luminescent purple tentacles glowed with an eerie radiance, casting an otherworldly glow on the scenes of destruction. Their incandescent beauty belied their true nature – conduits of devastating energy that could unleash cosmic forces capable of obliterating entire galaxies. The luminescence served as a haunting reminder that even amidst the celestial horror, there was a twisted allure that mesmerized onlookers while sealing their fate.
 
-As Guy's awareness expanded, he realized the magnitude of the cosmic crisis. Across every galaxy, a symphony of destruction played out, echoing the relentless battles fought on the besieged planets. It was a universe on the brink, teetering on the edge of annihilation as cosmic forces clashed in a desperate struggle for survival. The heavens themselves bore witness to a cosmic battlefield, a theater of war where the forces of entropy clashed with the remnants of cosmic order.
+As Guy's awareness expanded, he realized the magnitude of the cosmic crisis. Across every galaxy, a symphony of destruction played out, echoing the relentless battles fought on the besieged planets. It was a universe on the brink, teetering on the edge of annihilation as cosmic forces clashed in a desperate struggle for survival. The heavens themselves bore witness to a cosmic battlefield, a theatre of war where the forces of entropy clashed with the remnants of cosmic order.
 
-The world, or rather the entire cosmos, stood at the precipice of obliteration, and Guy was left to grapple with the enormity of the threat that now encompassed all of existence. The fabric of reality was unraveling, and the impending doom seemed inevitable, casting a shadow that stretched across the cosmic tapestry.
+The world, or rather the entire cosmos, stood at the precipice of obliteration, and Guy was left to grapple with the enormity of the threat that now encompassed all of existence. The fabric of reality was unravelling, and the impending doom seemed inevitable, casting a shadow that stretched across the cosmic tapestry.
 
-[My world was invaded through these natural tears in spacetime that are commonplace in every world,] Tron explained. [Black holes, as they are called, are necessary puzzle pieces in every stable world. But they are also a source of vulnerability. The invader used this vulnerability and planted a seed in them. Every vibrant soul that died in vicinity of these tears was sucked into them instead of being routed through me. When enough souls accumulated in the tears, it then formed sentient amalgam entities. Over time, four entities became most prominent and managed to extend their influence outside the tear in spacetime through the same way you managed to enter my new world, possession. They enticed native creatures of my world to lower their guard and took control. Little by little they invaded society and wreaked havoc. The worst part is that any entity killed by a spawn or possession from the tear in spacetime gets routed back into the tear and to the invader.]
+[My world was invaded through these natural tears in spacetime that are commonplace in every world,] Tron explained. [Black holes, as they are called, are necessary puzzle pieces in every stable world. But they are also a source of vulnerability. The invaders used this vulnerability and planted a seed in them. Every vibrant soul that died in the vicinity of these tears was sucked into them instead of being routed through me. When enough souls accumulated in the tears, they then formed sentient amalgam entities. Over time, four entities became most prominent and managed to extend their influence outside the tear in spacetime through the same way you managed to enter my new world, possession. They enticed native creatures of my world to lower their guard and take control. Little by little they invaded society and wreaked havoc. The worst part is that any entity killed by a spawn or possession from the tear in spacetime gets routed back into the tear and to the invader.]
 
 "What about this world?" Guy asked.
 
@@ -132,7 +132,7 @@ The world, or rather the entire cosmos, stood at the precipice of obliteration, 
 
 [Madness looks like madness,] Tron reiterated.
 
-"It feels like you don't understand the question-"
+"It feels like you aren't understanding the question-"
 
 {Just shut up and listen!} Moni reprimanded.
 
@@ -140,9 +140,9 @@ The world, or rather the entire cosmos, stood at the precipice of obliteration, 
 
 The world, once vibrant and teeming with vitality, was now a desolate wasteland. The fast-forwarded scenes depicted planets being ruthlessly drained of their life force, a cosmic vampirism that left nothing but arid landscapes and barren expanses. The very essence of existence was being mercilessly sucked dry, leaving behind a haunting tableau of cosmic decay.
 
-The tentacles, once mere extensions of the cosmic horror, now grew with insatiable hunger. They reached outwards, extending their suffocating grip across the celestial canvas, their tendrils growing thicker and more pervasive. What started as a localized threat had metamorphosed into a cosmic plague, engulfing entire galaxies in an ever-expanding abyss of despair.
+The tentacles, once mere extensions of the cosmic horror, now grew with an insatiable hunger. They reached outwards, extending their suffocating grip across the celestial canvas, their tendrils growing thicker and more pervasive. What started as a localized threat had metamorphosed into a cosmic plague, engulfing entire galaxies in an ever-expanding abyss of despair.
 
-As the planets were dessicated, the once-thriving ecosystems collapsed into nothingness. Creatures, unable to withstand the relentless drain on their life force, succumbed to the inexorable pull of the tentacles. The scenes were a harrowing testament to the unyielding cruelty of the cosmic forces at play.
+As the planets were desiccated, the once-thriving ecosystems collapsed into nothingness. Creatures, unable to withstand the relentless drain on their life force, succumbed to the inexorable pull of the tentacles. The scenes were a harrowing testament to the unyielding cruelty of the cosmic forces at play.
 
 The influx of nonsensical entities continued unabated. Green, red, pink, and purple beings of pure chaos proliferated, their very existence defying logic and reason. The absurdity of their forms mirrored the chaos that had gripped the cosmos. These entities, devoid of purpose or meaning, populated the desolate realms, further exacerbating the surreal nightmare that unfolded.
 
@@ -152,11 +152,11 @@ Tron's declaration hung heavily in the air, resonating with the gravity of the u
 
 [At this point, the entire world is the parasite's,] Tron stated. [Since they don't have a world of their own to sustain them, they will bleed this world for all that it is worth and then move on. And because my second world is searchable by tracking down my signature, it is only an eventuality for my new world to be on the parasite's crosshairs].
 
-[In fact, there is nothing that can stop the invader from finding and attacked my world. I can build protections and countermeasures, but seeing how effectively he dismantled my first struggle, it is clear that the attacker is far more experienced and stronger than I. This world is going to succumb too-]
+[In fact, there is nothing that can stop the invader from finding and attacking my world. I can build protections and countermeasures, but seeing how effectively he dismantled my first struggle, it is clear that the attacker is far more experienced and stronger than I am. This world is going to succumb too-]
 
 (And when it does, mine and Moni's world will soon follow. We borrowed a lot from Tron when building our worlds. Because of that, there is a route that exists that leads right to our worlds.)
 
-{And we aren't so experienced so as to put up a fight against the attacker like Tron. If the parasite hits us, we will give up immediately,} Moni interjected. {The fate of this world and your original worlds hangs in the balance.}
+{And we aren't so experienced so as to put up a fight against the attacker, like Tron. If the parasite hits us, we will give up immediately,} Moni interjected. {The fate of this world and your original worlds hangs in the balance.}
 
 ____
 

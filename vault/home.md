@@ -26,7 +26,8 @@ In this new world, Guy rediscovered his life's true calling! Ride along on Guy's
 * [[volume-2]] [COMPLETED][LOCKED]
 * [[volume-3]] [COMPLETED][LOCKED]
 * [[volume-4]] [COMPLETED][LOCKED]
-* [[volume-5]] [ONGOING][LOCKED]
+* [[volume-5]] [COMPLETED][LOCKED]
+* [[volume-6]] [ONGOING][LOCKED]
 
 **Discord**:
 https://discord.gg/PKbqtembQJ
